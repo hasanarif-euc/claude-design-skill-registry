@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-11T05:53:21.433785Z",
-  "archive_skill_md_count_raw": 312234,
-  "archive_metadata_count_raw": 312232,
-  "indexed_skill_count_scan_shape": 269494,
-  "registry_skill_count_dedup": 269062,
+  "updated_at": "2026-10-11T09:09:08.272423Z",
+  "archive_skill_md_count_raw": 312235,
+  "archive_metadata_count_raw": 312233,
+  "indexed_skill_count_scan_shape": 269495,
+  "registry_skill_count_dedup": 269063,
   "total_plugins": 4,
   "categories": 40,
   "category_counts": [
@@ -151,7 +151,7 @@
     {
       "name": "personal-development",
       "code": "personal-development",
-      "count": 697
+      "count": 698
     },
     {
       "name": "planning",
@@ -209,7 +209,7 @@
       "count": 1868
     }
   ],
-  "unique_repo_count": 13974,
+  "unique_repo_count": 13975,
   "official_skill_count": 0,
   "top_repositories": [
     {
@@ -254,7 +254,7 @@
     }
   ],
   "featured_count": 100,
-  "independent_skill_count": 172350,
+  "independent_skill_count": 172351,
   "static_skill_page_count": 5800,
   "asset_state_counts": {
     "verified": 2
@@ -265,15 +265,15 @@
   "index_size_bytes": 324,
   "index_size_gzip_bytes": 212,
   "search_shard_count": 11,
-  "search_largest_shard_bytes": 8388605,
-  "search_largest_shard_gzip_bytes": 1975182,
+  "search_largest_shard_bytes": 8388583,
+  "search_largest_shard_gzip_bytes": 1975104,
   "category_shard_count": 58,
   "category_largest_part_bytes": 8388746,
   "category_largest_part_gzip_bytes": 2017952,
-  "lite_index_count": 269494,
+  "lite_index_count": 269495,
   "lite_index_included_count": 5000,
   "lite_index_size_bytes": 4269584,
-  "lite_index_gzip_size_bytes": 779233,
+  "lite_index_gzip_size_bytes": 779235,
   "quality_index_size_bytes": 364,
   "quality_index_gzip_size_bytes": 238,
   "quality_shard_count": 10,
@@ -283,16 +283,16 @@
   "security_index_gzip_size_bytes": 238,
   "security_shard_count": 32,
   "security_largest_shard_bytes": 8388640,
-  "security_largest_shard_gzip_bytes": 1456758,
+  "security_largest_shard_gzip_bytes": 1456759,
   "ranking_index_size_bytes": 364,
   "ranking_index_gzip_size_bytes": 238,
   "ranking_shard_count": 8,
-  "ranking_largest_shard_bytes": 8388709,
-  "ranking_largest_shard_gzip_bytes": 1751210,
+  "ranking_largest_shard_bytes": 8388694,
+  "ranking_largest_shard_gzip_bytes": 1751152,
   "largest_generated_file_bytes": 8709142,
   "security_scan": {
-    "total": 312232,
-    "passed": 312232,
+    "total": 312233,
+    "passed": 312233,
     "failed": 0
   }
 }
