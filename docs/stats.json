@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-10T05:58:28.913948Z",
-  "archive_skill_md_count_raw": 312232,
-  "archive_metadata_count_raw": 312230,
-  "indexed_skill_count_scan_shape": 269492,
-  "registry_skill_count_dedup": 269060,
+  "updated_at": "2026-10-11T05:53:21.433785Z",
+  "archive_skill_md_count_raw": 312234,
+  "archive_metadata_count_raw": 312232,
+  "indexed_skill_count_scan_shape": 269494,
+  "registry_skill_count_dedup": 269062,
   "total_plugins": 4,
   "categories": 40,
   "category_counts": [
@@ -76,7 +76,7 @@
     {
       "name": "development",
       "code": "dev",
-      "count": 46850
+      "count": 46851
     },
     {
       "name": "devops",
@@ -166,7 +166,7 @@
     {
       "name": "product",
       "code": "prd",
-      "count": 4435
+      "count": 4436
     },
     {
       "name": "productivity",
@@ -230,7 +230,7 @@
     },
     {
       "repo": "sickn33/agentic-awesome-skills",
-      "count": 903
+      "count": 904
     },
     {
       "repo": "Klotzkette/claude-fuer-deutsches-recht",
@@ -254,7 +254,7 @@
     }
   ],
   "featured_count": 100,
-  "independent_skill_count": 172348,
+  "independent_skill_count": 172350,
   "static_skill_page_count": 5800,
   "asset_state_counts": {
     "verified": 2
@@ -263,36 +263,36 @@
     "live": 2
   },
   "index_size_bytes": 324,
-  "index_size_gzip_bytes": 213,
+  "index_size_gzip_bytes": 212,
   "search_shard_count": 11,
-  "search_largest_shard_bytes": 8388686,
-  "search_largest_shard_gzip_bytes": 1975179,
+  "search_largest_shard_bytes": 8388605,
+  "search_largest_shard_gzip_bytes": 1975182,
   "category_shard_count": 58,
   "category_largest_part_bytes": 8388746,
-  "category_largest_part_gzip_bytes": 2017954,
-  "lite_index_count": 269492,
+  "category_largest_part_gzip_bytes": 2017952,
+  "lite_index_count": 269494,
   "lite_index_included_count": 5000,
   "lite_index_size_bytes": 4269584,
-  "lite_index_gzip_size_bytes": 779234,
+  "lite_index_gzip_size_bytes": 779233,
   "quality_index_size_bytes": 364,
   "quality_index_gzip_size_bytes": 238,
   "quality_shard_count": 10,
-  "quality_largest_shard_bytes": 8388649,
+  "quality_largest_shard_bytes": 8388711,
   "quality_largest_shard_gzip_bytes": 1528029,
   "security_index_size_bytes": 368,
   "security_index_gzip_size_bytes": 238,
   "security_shard_count": 32,
   "security_largest_shard_bytes": 8388640,
-  "security_largest_shard_gzip_bytes": 1456759,
+  "security_largest_shard_gzip_bytes": 1456758,
   "ranking_index_size_bytes": 364,
   "ranking_index_gzip_size_bytes": 238,
   "ranking_shard_count": 8,
-  "ranking_largest_shard_bytes": 8388686,
-  "ranking_largest_shard_gzip_bytes": 1751204,
+  "ranking_largest_shard_bytes": 8388709,
+  "ranking_largest_shard_gzip_bytes": 1751210,
   "largest_generated_file_bytes": 8709142,
   "security_scan": {
-    "total": 312230,
-    "passed": 312230,
+    "total": 312232,
+    "passed": 312232,
     "failed": 0
   }
 }
