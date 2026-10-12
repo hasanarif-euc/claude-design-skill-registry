@@ -137,6 +137,35 @@
       ],
       "source_url": "https://github.com/nowork-studio/NotFair",
       "license": "MIT"
+    },
+    {
+      "name": "archcore",
+      "description": "Spec-driven development and Git-versioned project context with init, plan, document and review. Requires the complete Archcore plugin and CLI (local stdio MCP); no account, API key or paid service. Setup writes host MCP/hooks and CLAUDE.md/AGENTS.md. Installer/CLI updates send installation telemetry to edge.archcore.ai; opt out with DO_NOT_TRACK=1 or ARCHCORE_TELEMETRY_OPTOUT=1.",
+      "repo": "archcore-ai/archcore",
+      "category": "development",
+      "tags": ["spec-driven-development", "context-engineering", "documentation", "architecture", "claude-code", "codex", "mcp", "git"],
+      "install": "curl -fsSL https://archcore.ai/install.sh | bash",
+      "homepage": "https://archcore.ai",
+      "author": "ivklgn",
+      "skills": [
+        "init",
+        "plan",
+        "document",
+        "review"
+      ],
+      "commands": [
+        "/archcore:init",
+        "/archcore:plan",
+        "/archcore:document",
+        "/archcore:review"
+      ],
+      "hooks": [
+        "session-start",
+        "pre-tool-use",
+        "post-tool-use"
+      ],
+      "source_url": "https://github.com/archcore-ai/archcore/tree/29a0515b5784418bcf31697ae9f1d0b415219616/plugins/archcore",
+      "license": "Apache-2.0"
     }
   ]
 }
