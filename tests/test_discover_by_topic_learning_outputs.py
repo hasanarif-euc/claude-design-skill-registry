@@ -784,8 +784,8 @@ def test_incomplete_repo_search_reads_complete_default_branch_tree(monkeypatch, 
     ]
 
 
-@pytest.mark.parametrize("failure", ["truncated", "missing_flag", "missing_tree", "metadata_404", "tree_404", "tree_409", "tree_500", "tree_timeout"])
-def test_incomplete_repo_search_tree_failure_cannot_complete_inventory(monkeypatch, failure):
+@pytest.mark.parametrize("failure", ["truncated", "missing_flag", "missing_tree", "metadata_401", "metadata_403", "metadata_422", "metadata_500", "metadata_timeout", "metadata_no_response", "tree_404", "tree_409", "tree_500", "tree_timeout"])
+def test_incomplete_repo_search_tree_failure_cannot_complete_inventory(tmp_path, monkeypatch, failure):
     import json
 
     module = load_module()
@@ -810,8 +810,12 @@ def test_incomplete_repo_search_tree_failure_cannot_complete_inventory(monkeypat
             elif failure == "missing_tree":
                 payload.pop("tree")
         else:
-            if failure == "metadata_404":
-                response.status_code = 404
+            if failure == "metadata_timeout":
+                raise module.requests.Timeout("metadata unavailable")
+            if failure == "metadata_no_response":
+                raise module.requests.HTTPError("metadata request failed without response")
+            if failure.startswith("metadata_"):
+                response.status_code = int(failure.rsplit("_", 1)[1])
             payload = {"default_branch": "main"}
         response._content = json.dumps(payload).encode()
         return response
@@ -821,12 +825,22 @@ def test_incomplete_repo_search_tree_failure_cannot_complete_inventory(monkeypat
         error, match = RuntimeError, "truncated tree"
     elif failure in {"missing_flag", "missing_tree"}:
         error, match = KeyError, "truncated" if failure == "missing_flag" else "tree"
-    elif failure == "tree_timeout":
-        error, match = module.requests.Timeout, "tree unavailable"
+    elif failure in {"tree_timeout", "metadata_timeout"}:
+        error, match = module.requests.Timeout, "unavailable"
     else:
         error, match = module.requests.HTTPError, None
+    paths = batch_paths(tmp_path)
+    paths["time_budget_seconds"] = 0
+    original_progress = json.dumps({
+        "started_at": "2026-10-12T00:00:00Z", "repos": ["acme/demo"],
+        "next_repo": 0, "completed_at": None,
+    })
+    paths["progress_path"].write_text(original_progress)
     with pytest.raises(error, match=match):
-        discovery.get_skill_files_from_repo("acme/demo")
+        discovery.run(**paths)
+    assert paths["progress_path"].read_text() == original_progress
+    assert not discovery.repo_candidates["acme/demo"].get("unavailable")
+    assert not paths["output_json"].exists()
 
 
 @pytest.mark.parametrize("outcome", ["success", "403", "500", "timeout", "security_rejection"])
@@ -970,3 +984,46 @@ def test_raw_201_returns_false_without_json_parsing(tmp_path, monkeypatch, check
     assert discovery.download_skill("acme/demo", "SKILL.md", tmp_path, branch="main") is False
     assert discovery.session.calls == 1
     assert not list(tmp_path.rglob("SKILL.md"))
+
+
+def test_incomplete_search_with_unavailable_metadata_records_skip_and_continues(
+    tmp_path, monkeypatch, caplog
+):
+    module = load_module()
+    repos = ["acme/missing", "acme/remaining"]
+    fake_inventory(monkeypatch, module, repos)
+    paths = batch_paths(tmp_path)
+    paths["time_budget_seconds"] = 0
+    calls = []
+    discovery = module.GitHubTopicDiscovery(request_delay=0)
+
+    def get(url, **kwargs):
+        calls.append((url, kwargs.get("params")))
+        response = module.requests.Response()
+        response.status_code = 200
+        if url.endswith("/search/code"):
+            missing = kwargs["params"]["q"].endswith("repo:acme/missing")
+            payload = {"incomplete_results": missing, "items": []}
+        elif url == f"{module.GITHUB_API}/repos/acme/missing":
+            response.status_code = 404
+            payload = {"message": "Not Found"}
+        else:
+            pytest.fail(f"Unexpected request: {url}")
+        response._content = module.json.dumps(payload).encode()
+        return response
+
+    monkeypatch.setattr(discovery.session, "get", get)
+    monkeypatch.setattr(module.time, "sleep", lambda _: pytest.fail("404 must not retry"))
+    assert discovery.run(**paths) == []
+    assert len(calls) == 3
+    candidates = [module.json.loads(line) for line in paths["candidates_output"].read_text().splitlines()]
+    assert candidates[0]["repo"] == "acme/missing"
+    assert candidates[0]["unavailable"] is True
+    assert candidates[0]["downloaded_skills"] == 0
+    assert not candidates[1].get("unavailable")
+    assert "acme/missing" in caplog.text and "HTTP 404" in caplog.text
+    progress = module.json.loads(paths["progress_path"].read_text())
+    assert progress["repos"] == repos
+    assert progress["next_repo"] == 2
+    assert progress["completed_at"]
+    assert module.json.loads(paths["output_json"].read_text())["scanned_repos"] == 2

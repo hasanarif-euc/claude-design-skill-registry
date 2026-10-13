@@ -380,7 +380,17 @@ class GitHubTopicDiscovery:
             result = self._request(url, params)
         except IncompleteDiscoveryResults:
             # An incomplete per-repo index can still have a complete authoritative tree.
-            metadata = self._request(f"{GITHUB_API}/repos/{repo}")
+            try:
+                metadata = self._request(f"{GITHUB_API}/repos/{repo}")
+            except requests.HTTPError as exc:
+                # Stale search results can outlive repository availability. Only the
+                # repository endpoint's 404 proves this fallback cannot scan the repo;
+                # tree failures below must still fail closed, not become empty results.
+                if exc.response is None or exc.response.status_code != 404:
+                    raise
+                logger.warning("Repository is unavailable during discovery fallback: %s (HTTP 404)", repo)
+                self._ensure_repo_candidate(repo)["unavailable"] = True
+                return []
             default_branch = metadata["default_branch"]
             branch = quote(default_branch, safe="")
             tree = self._request(

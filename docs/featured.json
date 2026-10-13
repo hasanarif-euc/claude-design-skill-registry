@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-12T12:16:07.453500Z",
+  "updated_at": "2026-10-13T11:19:45.972487Z",
   "count": 100,
   "skills": [
     {
@@ -2018,7 +2018,7 @@
         "Claude Code"
       ],
       "canonical_id": "vmk1-umyiqqkyffjtyk4g502i_pbaq_iqpnr8ubfvk4",
-      "copies": 81,
+      "copies": 82,
       "is_canonical": false,
       "u": "skills/internal-comms-75ef6b7c1d3a/"
     },
@@ -2048,7 +2048,7 @@
       "trust_score": 100,
       "compatible_agents": [],
       "canonical_id": "ybfrqs_bmztc3vqlxpkvwahjbx258wa2xrm47cv1qmo",
-      "copies": 98,
+      "copies": 100,
       "is_canonical": false,
       "u": "skills/mcp-builder-db8848c33848/"
     },
@@ -2112,7 +2112,7 @@
         "Claude Code"
       ],
       "canonical_id": "huuak3fbqyt9msozodphu44oa-ntwewiw0kh-znt4ge",
-      "copies": 43,
+      "copies": 44,
       "is_canonical": false,
       "u": "skills/web-artifacts-builder-36ce2134fea0/"
     },
@@ -2142,7 +2142,7 @@
       "trust_score": 100,
       "compatible_agents": [],
       "canonical_id": "tbg-jiygramwkry1ostzwjuecxrduzjxio13-fps1xs",
-      "copies": 104,
+      "copies": 106,
       "is_canonical": false,
       "u": "skills/webapp-testing-d77a2080404e/"
     },
