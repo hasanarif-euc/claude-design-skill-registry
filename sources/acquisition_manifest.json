@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-10-11T08:12:46.460362Z",
-  "total_count": 1685,
+  "updated_at": "2026-10-14T05:32:39.592984Z",
+  "total_count": 1686,
   "entries": {
     "Xquik-dev/x-twitter-scraper": {
       "repo": "Xquik-dev/x-twitter-scraper",
@@ -10111,8 +10111,14 @@
       "repo": "jensonChow/familiar-tarot-mcp",
       "branch": "main",
       "relative_path": "skills/familiar-tarot/SKILL.md",
-      "commit_sha": "eba7d2d0cae93861615c2db2b009225e67953d21",
       "updated_at": "2026-10-11T08:12:33.778766Z"
+    },
+    "elfovo/agent-chain-doctor:skills/run-ledger": {
+      "repo": "elfovo/agent-chain-doctor",
+      "branch": "main",
+      "relative_path": "skills/run-ledger/SKILL.md",
+      "commit_sha": "56873239a8705d6e2b474efc6a83c2ab7cadf6b3",
+      "updated_at": "2026-10-14T05:32:30.130873Z"
     }
   }
 }

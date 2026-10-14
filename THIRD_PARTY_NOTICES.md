@@ -1,16 +1,16 @@
 # THIRD_PARTY_NOTICES
 
-_Generated at: 2026-10-13T11:29:22Z_
+_Generated at: 2026-10-14T09:25:58Z_
 
 This repository's code and pipeline are MIT-licensed, but each third-party skill keeps its original license.
 Do not assume a skill is MIT unless its metadata explicitly marks it as compatible.
 
 ## Summary
 
-- Metadata entries scanned: **317864**
-- Notice rows generated: **286927**
-- Compatible entries: **48569**
-- Restricted entries: **238358**
+- Metadata entries scanned: **320836**
+- Notice rows generated: **289899**
+- Compatible entries: **48570**
+- Restricted entries: **241329**
 
 ## Entries
 
