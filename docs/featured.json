@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-14T09:16:08.045598Z",
+  "updated_at": "2026-10-15T08:43:45.208067Z",
   "count": 100,
   "skills": [
     {
@@ -552,7 +552,7 @@
         "Codex CLI"
       ],
       "canonical_id": "57ceqyyguhctukilt98y_8jugd8ou1kzhj6sodbnzue",
-      "copies": 50,
+      "copies": 51,
       "is_canonical": false,
       "u": "skills/skill-creator-efe5cd29f4b3/"
     },
@@ -2018,7 +2018,7 @@
         "Claude Code"
       ],
       "canonical_id": "vmk1-umyiqqkyffjtyk4g502i_pbaq_iqpnr8ubfvk4",
-      "copies": 82,
+      "copies": 83,
       "is_canonical": false,
       "u": "skills/internal-comms-75ef6b7c1d3a/"
     },
@@ -2048,7 +2048,7 @@
       "trust_score": 100,
       "compatible_agents": [],
       "canonical_id": "ybfrqs_bmztc3vqlxpkvwahjbx258wa2xrm47cv1qmo",
-      "copies": 100,
+      "copies": 103,
       "is_canonical": false,
       "u": "skills/mcp-builder-db8848c33848/"
     },
@@ -2142,7 +2142,7 @@
       "trust_score": 100,
       "compatible_agents": [],
       "canonical_id": "tbg-jiygramwkry1ostzwjuecxrduzjxio13-fps1xs",
-      "copies": 106,
+      "copies": 107,
       "is_canonical": false,
       "u": "skills/webapp-testing-d77a2080404e/"
     },
