@@ -62,6 +62,26 @@ description: Demo skill used to verify security decision evidence.
     assert decision["provenance"]["source_ref"] == "main"
     assert decision["provenance"]["content_sha256"]
     assert decision["provenance"]["scanned_at"] == "2026-05-24T00:00:00Z"
+    assert decision["checks"] == list(module.SECURITY_CHECK_GROUPS)
+    assert decision["finding_types"] == {}
+
+
+def test_security_decision_counts_findings_by_severity_and_type(tmp_path):
+    module = load_module()
+    skill_dir = tmp_path / "skills" / "development" / "demo"
+    skill_dir.mkdir(parents=True)
+    (skill_dir / "SKILL.md").write_text(
+        "---\nname: demo\ndescription: Demo skill that mentions sensitive paths.\n---\n\n"
+        "Read ~/.ssh/config and ~/.aws/credentials.\n",
+        encoding="utf-8",
+    )
+
+    report = module.scan_directory(tmp_path / "skills", quiet=True, scanned_at="2026-05-24T00:00:00Z")
+
+    decision = report["skills"][0]["security_decision"]
+    assert decision["status"] == "passed"
+    assert decision["finding_types"] == {"warning:sensitive_path": 2}
+    assert decision["warning_count"] == 2
 
 
 def test_scan_directory_progress_interval_reports_counts(tmp_path):

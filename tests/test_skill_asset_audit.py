@@ -592,6 +592,38 @@ class FakeLivenessClient:
 
 
 class TestAssetLiveness:
+    @pytest.mark.parametrize(("license_name", "license_path", "source_path", "status"), [
+        ("GPL-3.0", "LICENSE", "LICENSE", "live"),
+        ("GPL-3.0-only", "skills/alpha/LICENSE", "skills/alpha/LICENSE", "live"),
+        ("GPL-3.0", None, "LICENSE", "partial"),
+        ("GPL-3.0", "LICENSE", "skills/alpha/LICENSE", "partial"),
+        ("MIT", "LICENSE", "skills/alpha/LICENSE", "partial"),
+    ])
+    def test_gpl_repository_license_liveness(self, tmp_path, license_name, license_path, source_path, status):
+        skills = tmp_path / "skills"
+        metadata_path = make_verified_asset(skills, "alpha", bundled_files=["LICENSE", "scripts/run.py"])
+        metadata = json.loads(metadata_path.read_text())
+        metadata["license"] = license_name
+        metadata["license_source_paths"] = {"LICENSE": source_path}
+        metadata_path.write_text(json.dumps(metadata))
+        targets, errors = liveness.load_targets(skills)
+        assert not errors
+        paths = {"skills/alpha/SKILL.md", "skills/alpha/scripts/run.py"}
+        if license_path:
+            paths.add(license_path)
+        [row] = liveness.verify_targets(targets, FakeLivenessClient(paths), "now")
+        assert row["status"] == status
+
+    def test_gpl_license_without_source_provenance_is_not_verified(self, tmp_path):
+        skills = tmp_path / "skills"
+        metadata_path = make_verified_asset(skills, "alpha", bundled_files=["LICENSE"])
+        metadata = json.loads(metadata_path.read_text())
+        metadata["license"] = "GPL-3.0"
+        metadata_path.write_text(json.dumps(metadata))
+        targets, errors = liveness.load_targets(skills)
+        assert not targets
+        assert "license_source_paths" in str(errors)
+
     def test_public_legacy_verifier_functions_remain_supported(self, monkeypatch):
         target = {"repo": "acme/tools", "dir": "skills/demo", "name": "demo"}
         monkeypatch.setattr(

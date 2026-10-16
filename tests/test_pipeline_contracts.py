@@ -475,13 +475,18 @@ def test_publish_static_pages_preserves_data_checkout(tmp_path, mirror_skills):
         archive = main / "skills"
         shutil.copytree(data, archive)
     (main / "scripts").mkdir(parents=True)
-    shutil.copy2(ROOT / "scripts/build_static_skill_pages.py", main / "scripts")
+    for script in ("build_static_skill_pages.py", "security_rules.py"):
+        shutil.copy2(ROOT / "scripts" / script, main / "scripts")
     docs = main / "docs"
     docs.mkdir()
     (docs / "page-catalog.json").write_text(json.dumps({"skills": [{
         "id": "demo", "name": "demo", "repo": "owner/repo", "category": "development",
         "description": "A useful skill with a substantive description for publishing.",
         "security_status": "passed", "install_status": "known_good", "quality_score": 80,
+        "security_scan": {
+            "scanner_version": "1.1.6", "ruleset_sha256": "a" * 64, "scanned_at": "2026-10-15T00:00:00Z",
+            "content_sha256": "b" * 64, "checks": ["frontmatter"], "finding_types": {},
+        },
     }]}), encoding="utf-8")
     sync_script = read_repo_file("scripts/sync_main_repo.sh")
     rebuild_block = sync_script[sync_script.index('if [[ "$rebuild" -eq 1 ]]') :]

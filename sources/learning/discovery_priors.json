@@ -1,7 +1,7 @@
 {
   "version": 1,
   "runs": 178,
-  "updated_at": "2026-10-15T05:14:00.578039Z",
+  "updated_at": "2026-10-16T16:13:42.685126Z",
   "repo_priors": {
     "shanraisshan/claude-code-best-practice": {
       "seen_runs": 170,
@@ -53472,17 +53472,17 @@
     },
     "clawdbot/clawdbot:skills/clawdhub/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.840754Z",
-      "cooldown_until": "2026-10-16T05:26:30.840754Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:20.374767Z",
+      "cooldown_until": "2026-10-23T16:13:20.374767Z",
       "repo": "clawdbot/clawdbot",
       "path": "skills/clawdhub/SKILL.md"
     },
     "clawdbot/clawdbot:skills/local-places/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.942727Z",
-      "cooldown_until": "2026-10-16T05:26:30.942727Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:20.395144Z",
+      "cooldown_until": "2026-10-23T16:13:20.395144Z",
       "repo": "clawdbot/clawdbot",
       "path": "skills/local-places/SKILL.md"
     },
@@ -53496,9 +53496,9 @@
     },
     "notedit/happy-coding-agent:skills/skill-creation-guide/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.771903Z",
-      "cooldown_until": "2026-10-16T05:26:30.771903Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:20.376660Z",
+      "cooldown_until": "2026-10-23T16:13:20.376660Z",
       "repo": "notedit/happy-coding-agent",
       "path": "skills/skill-creation-guide/SKILL.md"
     },
@@ -53592,9 +53592,9 @@
     },
     "danielmiessler/Personal_AI_Infrastructure:Packs/pai-council-skill/src/skills/Council/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.476275Z",
-      "cooldown_until": "2026-10-16T05:26:30.476275Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:20.306909Z",
+      "cooldown_until": "2026-10-23T16:13:20.306909Z",
       "repo": "danielmiessler/Personal_AI_Infrastructure",
       "path": "Packs/pai-council-skill/src/skills/Council/SKILL.md"
     },
@@ -53880,9 +53880,9 @@
     },
     "clawdbot/clawdbot:skills/food-order/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.840916Z",
-      "cooldown_until": "2026-10-16T05:26:30.840916Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:20.396431Z",
+      "cooldown_until": "2026-10-23T16:13:20.396431Z",
       "repo": "clawdbot/clawdbot",
       "path": "skills/food-order/SKILL.md"
     },
@@ -54576,17 +54576,17 @@
     },
     "gupsammy/Claude-setup:skills/apple-reminders/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.082158Z",
-      "cooldown_until": "2026-10-16T05:26:30.082158Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:19.498981Z",
+      "cooldown_until": "2026-10-23T16:13:19.498981Z",
       "repo": "gupsammy/Claude-setup",
       "path": "skills/apple-reminders/SKILL.md"
     },
     "gupsammy/Claude-setup:skills/apple-notes/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.031804Z",
-      "cooldown_until": "2026-10-16T05:26:30.031804Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:19.503433Z",
+      "cooldown_until": "2026-10-23T16:13:19.503433Z",
       "repo": "gupsammy/Claude-setup",
       "path": "skills/apple-notes/SKILL.md"
     },
@@ -54600,17 +54600,17 @@
     },
     "namesreallyblank/Clorch:skills/agentica-infrastructure/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.037617Z",
-      "cooldown_until": "2026-10-16T05:26:30.037617Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:19.495317Z",
+      "cooldown_until": "2026-10-23T16:13:19.495317Z",
       "repo": "namesreallyblank/Clorch",
       "path": "skills/agentica-infrastructure/SKILL.md"
     },
     "namesreallyblank/Clorch:skills/v3/math-router/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.126255Z",
-      "cooldown_until": "2026-10-16T05:26:30.126255Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:19.412014Z",
+      "cooldown_until": "2026-10-23T16:13:19.412014Z",
       "repo": "namesreallyblank/Clorch",
       "path": "skills/v3/math-router/SKILL.md"
     },
@@ -54624,9 +54624,9 @@
     },
     "namesreallyblank/Clorch:skills/v3/math/category-theory/limits-colimits/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:29.928666Z",
-      "cooldown_until": "2026-10-16T05:26:29.928666Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:19.407845Z",
+      "cooldown_until": "2026-10-23T16:13:19.407845Z",
       "repo": "namesreallyblank/Clorch",
       "path": "skills/v3/math/category-theory/limits-colimits/SKILL.md"
     },
@@ -54656,25 +54656,25 @@
     },
     "MiguelAguiarDEV/baymax:skills/coding-standards/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:29.995428Z",
-      "cooldown_until": "2026-10-16T05:26:29.995428Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:19.461746Z",
+      "cooldown_until": "2026-10-23T16:13:19.461746Z",
       "repo": "MiguelAguiarDEV/baymax",
       "path": "skills/coding-standards/SKILL.md"
     },
     "namesreallyblank/Clorch:skills/v3/math/linear-algebra/eigenvalues/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:29.975299Z",
-      "cooldown_until": "2026-10-16T05:26:29.975299Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:19.406103Z",
+      "cooldown_until": "2026-10-23T16:13:19.406103Z",
       "repo": "namesreallyblank/Clorch",
       "path": "skills/v3/math/linear-algebra/eigenvalues/SKILL.md"
     },
     "MiguelAguiarDEV/baymax:skills/frontend-patterns/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:29.980801Z",
-      "cooldown_until": "2026-10-16T05:26:29.980801Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:19.432753Z",
+      "cooldown_until": "2026-10-23T16:13:19.432753Z",
       "repo": "MiguelAguiarDEV/baymax",
       "path": "skills/frontend-patterns/SKILL.md"
     },
@@ -54720,25 +54720,25 @@
     },
     "MiguelAguiarDEV/baymax:skills/backend-patterns/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:29.973066Z",
-      "cooldown_until": "2026-10-16T05:26:29.973066Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:19.435132Z",
+      "cooldown_until": "2026-10-23T16:13:19.435132Z",
       "repo": "MiguelAguiarDEV/baymax",
       "path": "skills/backend-patterns/SKILL.md"
     },
     "MiguelAguiarDEV/baymax:skills/clickhouse-io/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:29.907608Z",
-      "cooldown_until": "2026-10-16T05:26:29.907608Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:19.500276Z",
+      "cooldown_until": "2026-10-23T16:13:19.500276Z",
       "repo": "MiguelAguiarDEV/baymax",
       "path": "skills/clickhouse-io/SKILL.md"
     },
     "dceoy/gh-actions-for-devops:.claude/skills/local-qa/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.485274Z",
-      "cooldown_until": "2026-10-16T05:26:30.485274Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:19.856746Z",
+      "cooldown_until": "2026-10-23T16:13:19.856746Z",
       "repo": "dceoy/gh-actions-for-devops",
       "path": ".claude/skills/local-qa/SKILL.md"
     },
@@ -54776,9 +54776,9 @@
     },
     "BellaBe/lean-os:.claude/skills/reasoning-dialectical/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.923275Z",
-      "cooldown_until": "2026-10-16T05:26:30.923275Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:20.376389Z",
+      "cooldown_until": "2026-10-23T16:13:20.376389Z",
       "repo": "BellaBe/lean-os",
       "path": ".claude/skills/reasoning-dialectical/SKILL.md"
     },
@@ -54792,9 +54792,9 @@
     },
     "clawdbot/nix-steipete-tools:tools/oracle/skills/oracle/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.838843Z",
-      "cooldown_until": "2026-10-16T05:26:30.838843Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:20.338852Z",
+      "cooldown_until": "2026-10-23T16:13:20.338852Z",
       "repo": "clawdbot/nix-steipete-tools",
       "path": "tools/oracle/skills/oracle/SKILL.md"
     },
@@ -54808,17 +54808,17 @@
     },
     "WalkerVVV/firstmile-deals-pipeline:.claude/skills/prioritization_skill.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.037248Z",
-      "cooldown_until": "2026-10-16T05:26:30.037248Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:19.496091Z",
+      "cooldown_until": "2026-10-23T16:13:19.496091Z",
       "repo": "WalkerVVV/firstmile-deals-pipeline",
       "path": ".claude/skills/prioritization_skill.md"
     },
     "DreamLab-AI/UE5-3DGS:.claude/skills/quality-metrics/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.048059Z",
-      "cooldown_until": "2026-10-16T05:26:30.048059Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:19.556801Z",
+      "cooldown_until": "2026-10-23T16:13:19.556801Z",
       "repo": "DreamLab-AI/UE5-3DGS",
       "path": ".claude/skills/quality-metrics/SKILL.md"
     },
@@ -54848,9 +54848,9 @@
     },
     "prefrontalsys/claude-code-skill-factory:generated-skills/codex-cli-bridge/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.004970Z",
-      "cooldown_until": "2026-10-16T05:26:30.004970Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:19.501927Z",
+      "cooldown_until": "2026-10-23T16:13:19.501927Z",
       "repo": "prefrontalsys/claude-code-skill-factory",
       "path": "generated-skills/codex-cli-bridge/SKILL.md"
     },
@@ -54888,145 +54888,145 @@
     },
     "DarkoKuzmanovic/Specky:.claude/skills/design-principles/skill.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.638586Z",
-      "cooldown_until": "2026-10-16T05:26:32.638586Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.820746Z",
+      "cooldown_until": "2026-10-23T16:13:23.820746Z",
       "repo": "DarkoKuzmanovic/Specky",
       "path": ".claude/skills/design-principles/skill.md"
     },
     "SiTaggart/claude-devbench:plugins/devbench/skills/agent-native-architecture/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.274114Z",
-      "cooldown_until": "2026-10-16T05:26:30.274114Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:19.709279Z",
+      "cooldown_until": "2026-10-23T16:13:19.709279Z",
       "repo": "SiTaggart/claude-devbench",
       "path": "plugins/devbench/skills/agent-native-architecture/SKILL.md"
     },
     "ishuru/ishuru:skills/local-places/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.332021Z",
-      "cooldown_until": "2026-10-16T05:26:32.332021Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.673808Z",
+      "cooldown_until": "2026-10-23T16:13:23.673808Z",
       "repo": "ishuru/ishuru",
       "path": "skills/local-places/SKILL.md"
     },
     "ishuru/ishuru:skills/slack/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.326352Z",
-      "cooldown_until": "2026-10-16T05:26:32.326352Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:20.506057Z",
+      "cooldown_until": "2026-10-23T16:13:20.506057Z",
       "repo": "ishuru/ishuru",
       "path": "skills/slack/SKILL.md"
     },
     "ishuru/ishuru:skills/openai-whisper-api/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.487144Z",
-      "cooldown_until": "2026-10-16T05:26:32.487144Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.752267Z",
+      "cooldown_until": "2026-10-23T16:13:23.752267Z",
       "repo": "ishuru/ishuru",
       "path": "skills/openai-whisper-api/SKILL.md"
     },
     "ishuru/ishuru:skills/gifgrep/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.331231Z",
-      "cooldown_until": "2026-10-16T05:26:32.331231Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.675658Z",
+      "cooldown_until": "2026-10-23T16:13:23.675658Z",
       "repo": "ishuru/ishuru",
       "path": "skills/gifgrep/SKILL.md"
     },
     "ishuru/ishuru:skills/blogwatcher/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.332420Z",
-      "cooldown_until": "2026-10-16T05:26:32.332420Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.667961Z",
+      "cooldown_until": "2026-10-23T16:13:23.667961Z",
       "repo": "ishuru/ishuru",
       "path": "skills/blogwatcher/SKILL.md"
     },
     "ishuru/ishuru:skills/trello/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.326887Z",
-      "cooldown_until": "2026-10-16T05:26:32.326887Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:20.508384Z",
+      "cooldown_until": "2026-10-23T16:13:20.508384Z",
       "repo": "ishuru/ishuru",
       "path": "skills/trello/SKILL.md"
     },
     "goodnight000/KittyCourt:.codex/skills/auth-implementation-patterns/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.638495Z",
-      "cooldown_until": "2026-10-16T05:26:32.638495Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.951895Z",
+      "cooldown_until": "2026-10-23T16:13:23.951895Z",
       "repo": "goodnight000/KittyCourt",
       "path": ".codex/skills/auth-implementation-patterns/SKILL.md"
     },
     "goodnight000/KittyCourt:.codex/skills/rag-implementation/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.629051Z",
-      "cooldown_until": "2026-10-16T05:26:32.629051Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.907957Z",
+      "cooldown_until": "2026-10-23T16:13:23.907957Z",
       "repo": "goodnight000/KittyCourt",
       "path": ".codex/skills/rag-implementation/SKILL.md"
     },
     "Ermianr/fobos:skills/skill-creator/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.324632Z",
-      "cooldown_until": "2026-10-16T05:26:32.324632Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.664739Z",
+      "cooldown_until": "2026-10-23T16:13:23.664739Z",
       "repo": "Ermianr/fobos",
       "path": "skills/skill-creator/SKILL.md"
     },
     "shami-ah/OpenEvent-AI:.codex/skills/oe-docs-updates/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.658000Z",
-      "cooldown_until": "2026-10-16T05:26:32.658000Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.053121Z",
+      "cooldown_until": "2026-10-23T16:13:24.053121Z",
       "repo": "shami-ah/OpenEvent-AI",
       "path": ".codex/skills/oe-docs-updates/SKILL.md"
     },
     "shami-ah/OpenEvent-AI:.codex/skills/oe-lsp-pyright-refactor/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.652775Z",
-      "cooldown_until": "2026-10-16T05:26:32.652775Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.896817Z",
+      "cooldown_until": "2026-10-23T16:13:23.896817Z",
       "repo": "shami-ah/OpenEvent-AI",
       "path": ".codex/skills/oe-lsp-pyright-refactor/SKILL.md"
     },
     "shami-ah/OpenEvent-AI:.codex/skills/oe-project-orientation/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.656006Z",
-      "cooldown_until": "2026-10-16T05:26:32.656006Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.046615Z",
+      "cooldown_until": "2026-10-23T16:13:24.046615Z",
       "repo": "shami-ah/OpenEvent-AI",
       "path": ".codex/skills/oe-project-orientation/SKILL.md"
     },
     "astrosteveo/hookify:skills/writing-rules/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.482553Z",
-      "cooldown_until": "2026-10-16T05:26:32.482553Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.754824Z",
+      "cooldown_until": "2026-10-23T16:13:23.754824Z",
       "repo": "astrosteveo/hookify",
       "path": "skills/writing-rules/SKILL.md"
     },
     "byteworthy/Upstream:.agents/skills/code-documentation-analyzer/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.313500Z",
-      "cooldown_until": "2026-10-16T05:26:30.313500Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:19.725686Z",
+      "cooldown_until": "2026-10-23T16:13:19.725686Z",
       "repo": "byteworthy/Upstream",
       "path": ".agents/skills/code-documentation-analyzer/SKILL.md"
     },
     "byteworthy/Upstream:.agents/skills/soc2-compliance-checker/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.840569Z",
-      "cooldown_until": "2026-10-16T05:26:30.840569Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:20.493377Z",
+      "cooldown_until": "2026-10-23T16:13:20.493377Z",
       "repo": "byteworthy/Upstream",
       "path": ".agents/skills/soc2-compliance-checker/SKILL.md"
     },
     "byteworthy/Upstream:.agents/skills/deploying-monitoring-stacks/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.305880Z",
-      "cooldown_until": "2026-10-16T05:26:30.305880Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:19.756138Z",
+      "cooldown_until": "2026-10-23T16:13:19.756138Z",
       "repo": "byteworthy/Upstream",
       "path": ".agents/skills/deploying-monitoring-stacks/SKILL.md"
     },
@@ -55040,121 +55040,121 @@
     },
     "th3w1zard1/reverse-engineering-assistant:ReVa/skills/binary-triage/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.305237Z",
-      "cooldown_until": "2026-10-16T05:26:30.305237Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:19.734398Z",
+      "cooldown_until": "2026-10-23T16:13:19.734398Z",
       "repo": "th3w1zard1/reverse-engineering-assistant",
       "path": "ReVa/skills/binary-triage/SKILL.md"
     },
     "ishuru/ishuru:skills/apple-notes/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.332643Z",
-      "cooldown_until": "2026-10-16T05:26:32.332643Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.674974Z",
+      "cooldown_until": "2026-10-23T16:13:23.674974Z",
       "repo": "ishuru/ishuru",
       "path": "skills/apple-notes/SKILL.md"
     },
     "ishuru/ishuru:skills/things-mac/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.327355Z",
-      "cooldown_until": "2026-10-16T05:26:32.327355Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.738353Z",
+      "cooldown_until": "2026-10-23T16:13:23.738353Z",
       "repo": "ishuru/ishuru",
       "path": "skills/things-mac/SKILL.md"
     },
     "ishuru/ishuru:skills/oracle/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.326270Z",
-      "cooldown_until": "2026-10-16T05:26:32.326270Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.667784Z",
+      "cooldown_until": "2026-10-23T16:13:23.667784Z",
       "repo": "ishuru/ishuru",
       "path": "skills/oracle/SKILL.md"
     },
     "ishuru/ishuru:skills/openai-whisper/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.482396Z",
-      "cooldown_until": "2026-10-16T05:26:32.482396Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.738552Z",
+      "cooldown_until": "2026-10-23T16:13:23.738552Z",
       "repo": "ishuru/ishuru",
       "path": "skills/openai-whisper/SKILL.md"
     },
     "ishuru/ishuru:skills/songsee/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.327567Z",
-      "cooldown_until": "2026-10-16T05:26:32.327567Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.751241Z",
+      "cooldown_until": "2026-10-23T16:13:23.751241Z",
       "repo": "ishuru/ishuru",
       "path": "skills/songsee/SKILL.md"
     },
     "ishuru/ishuru:skills/sonoscli/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.331140Z",
-      "cooldown_until": "2026-10-16T05:26:32.331140Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.674821Z",
+      "cooldown_until": "2026-10-23T16:13:23.674821Z",
       "repo": "ishuru/ishuru",
       "path": "skills/sonoscli/SKILL.md"
     },
     "pauljbernard/content:.archive/old-content-directory-2025-11-06/content/.claude/skills/learning-study-skills/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.860099Z",
-      "cooldown_until": "2026-10-16T05:26:30.860099Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:20.493558Z",
+      "cooldown_until": "2026-10-23T16:13:20.493558Z",
       "repo": "pauljbernard/content",
       "path": ".archive/old-content-directory-2025-11-06/content/.claude/skills/learning-study-skills/SKILL.md"
     },
     "TatTran22/claude-code-1:skills/clickhouse-io/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.267719Z",
-      "cooldown_until": "2026-10-16T05:26:32.267719Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:20.507687Z",
+      "cooldown_until": "2026-10-23T16:13:20.507687Z",
       "repo": "TatTran22/claude-code-1",
       "path": "skills/clickhouse-io/SKILL.md"
     },
     "TatTran22/claude-code-1:skills/coding-standards/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.325060Z",
-      "cooldown_until": "2026-10-16T05:26:32.325060Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:20.506592Z",
+      "cooldown_until": "2026-10-23T16:13:20.506592Z",
       "repo": "TatTran22/claude-code-1",
       "path": "skills/coding-standards/SKILL.md"
     },
     "TatTran22/claude-code-1:skills/eval-harness/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.267932Z",
-      "cooldown_until": "2026-10-16T05:26:32.267932Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:20.507502Z",
+      "cooldown_until": "2026-10-23T16:13:20.507502Z",
       "repo": "TatTran22/claude-code-1",
       "path": "skills/eval-harness/SKILL.md"
     },
     "TatTran22/claude-code-1:skills/strategic-compact/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.324949Z",
-      "cooldown_until": "2026-10-16T05:26:32.324949Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.262899Z",
+      "cooldown_until": "2026-10-23T16:13:23.262899Z",
       "repo": "TatTran22/claude-code-1",
       "path": "skills/strategic-compact/SKILL.md"
     },
     "TatTran22/claude-code-1:skills/backend-patterns/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.268013Z",
-      "cooldown_until": "2026-10-16T05:26:32.268013Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:20.506761Z",
+      "cooldown_until": "2026-10-23T16:13:20.506761Z",
       "repo": "TatTran22/claude-code-1",
       "path": "skills/backend-patterns/SKILL.md"
     },
     "TatTran22/claude-code-1:skills/security-review/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.326805Z",
-      "cooldown_until": "2026-10-16T05:26:32.326805Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.070822Z",
+      "cooldown_until": "2026-10-23T16:13:23.070822Z",
       "repo": "TatTran22/claude-code-1",
       "path": "skills/security-review/SKILL.md"
     },
     "byteworthy/Upstream:.agents/skills/langchain-core-workflow-a/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.923020Z",
-      "cooldown_until": "2026-10-16T05:26:30.923020Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:20.293034Z",
+      "cooldown_until": "2026-10-23T16:13:20.293034Z",
       "repo": "byteworthy/Upstream",
       "path": ".agents/skills/langchain-core-workflow-a/SKILL.md"
     },
@@ -55168,33 +55168,33 @@
     },
     "Day-in-the-Country-LLC/digido-digital-assistant:skills/slack/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.331307Z",
-      "cooldown_until": "2026-10-16T05:26:32.331307Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.154830Z",
+      "cooldown_until": "2026-10-23T16:13:23.154830Z",
       "repo": "Day-in-the-Country-LLC/digido-digital-assistant",
       "path": "skills/slack/SKILL.md"
     },
     "Day-in-the-Country-LLC/digido-digital-assistant:skills/skill-creator/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.479305Z",
-      "cooldown_until": "2026-10-16T05:26:32.479305Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.751671Z",
+      "cooldown_until": "2026-10-23T16:13:23.751671Z",
       "repo": "Day-in-the-Country-LLC/digido-digital-assistant",
       "path": "skills/skill-creator/SKILL.md"
     },
     "hongluu92/book-tts:.claude/skills/mobile-design/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.488240Z",
-      "cooldown_until": "2026-10-16T05:26:32.488240Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.767029Z",
+      "cooldown_until": "2026-10-23T16:13:23.767029Z",
       "repo": "hongluu92/book-tts",
       "path": ".claude/skills/mobile-design/SKILL.md"
     },
     "chrissargent48/weekly_report:.claude/skills/external-skills/skills/nextjs-best-practices/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.638810Z",
-      "cooldown_until": "2026-10-16T05:26:32.638810Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.841817Z",
+      "cooldown_until": "2026-10-23T16:13:23.841817Z",
       "repo": "chrissargent48/weekly_report",
       "path": ".claude/skills/external-skills/skills/nextjs-best-practices/SKILL.md"
     },
@@ -55208,97 +55208,97 @@
     },
     "goodnight000/KittyCourt:.codex/skills/debugging-strategies/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.626760Z",
-      "cooldown_until": "2026-10-16T05:26:32.626760Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.899846Z",
+      "cooldown_until": "2026-10-23T16:13:23.899846Z",
       "repo": "goodnight000/KittyCourt",
       "path": ".codex/skills/debugging-strategies/SKILL.md"
     },
     "hongluu92/book-tts:.claude/skills/nextjs-best-practices/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.646559Z",
-      "cooldown_until": "2026-10-16T05:26:32.646559Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.840740Z",
+      "cooldown_until": "2026-10-23T16:13:23.840740Z",
       "repo": "hongluu92/book-tts",
       "path": ".claude/skills/nextjs-best-practices/SKILL.md"
     },
     "pathvanasoftware/IOSStorageCleaner:.claude/skills/trailofbits-entry-point-analyzer/skills/entry-point-analyzer/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.639939Z",
-      "cooldown_until": "2026-10-16T05:26:32.639939Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.767220Z",
+      "cooldown_until": "2026-10-23T16:13:23.767220Z",
       "repo": "pathvanasoftware/IOSStorageCleaner",
       "path": ".claude/skills/trailofbits-entry-point-analyzer/skills/entry-point-analyzer/SKILL.md"
     },
     "pathvanasoftware/IOSStorageCleaner:.claude/skills/superpowers-meta/sharing-skills/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.839178Z",
-      "cooldown_until": "2026-10-16T05:26:30.839178Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:20.363523Z",
+      "cooldown_until": "2026-10-23T16:13:20.363523Z",
       "repo": "pathvanasoftware/IOSStorageCleaner",
       "path": ".claude/skills/superpowers-meta/sharing-skills/SKILL.md"
     },
     "pathvanasoftware/IOSStorageCleaner:.claude/skills/scientific-biopython/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.658237Z",
-      "cooldown_until": "2026-10-16T05:26:32.658237Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.767534Z",
+      "cooldown_until": "2026-10-23T16:13:23.767534Z",
       "repo": "pathvanasoftware/IOSStorageCleaner",
       "path": ".claude/skills/scientific-biopython/SKILL.md"
     },
     "pathvanasoftware/IOSStorageCleaner:.claude/skills/scientific-pytdc/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.530096Z",
-      "cooldown_until": "2026-10-16T05:26:32.530096Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.841145Z",
+      "cooldown_until": "2026-10-23T16:13:23.841145Z",
       "repo": "pathvanasoftware/IOSStorageCleaner",
       "path": ".claude/skills/scientific-pytdc/SKILL.md"
     },
     "georgiai1/solarpro-next:.codex/skills/frontend-design/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.622826Z",
-      "cooldown_until": "2026-10-16T05:26:32.622826Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.841995Z",
+      "cooldown_until": "2026-10-23T16:13:23.841995Z",
       "repo": "georgiai1/solarpro-next",
       "path": ".codex/skills/frontend-design/SKILL.md"
     },
     "TatTran22/claude-code-1:skills/tdd-workflow/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.267845Z",
-      "cooldown_until": "2026-10-16T05:26:32.267845Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:20.494030Z",
+      "cooldown_until": "2026-10-23T16:13:20.494030Z",
       "repo": "TatTran22/claude-code-1",
       "path": "skills/tdd-workflow/SKILL.md"
     },
     "TatTran22/claude-code-1:skills/frontend-patterns/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.307873Z",
-      "cooldown_until": "2026-10-16T05:26:32.307873Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.280858Z",
+      "cooldown_until": "2026-10-23T16:13:23.280858Z",
       "repo": "TatTran22/claude-code-1",
       "path": "skills/frontend-patterns/SKILL.md"
     },
     "TatTran22/claude-code-1:skills/continuous-learning/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.290912Z",
-      "cooldown_until": "2026-10-16T05:26:32.290912Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.664285Z",
+      "cooldown_until": "2026-10-23T16:13:23.664285Z",
       "repo": "TatTran22/claude-code-1",
       "path": "skills/continuous-learning/SKILL.md"
     },
     "Ying-Kai-Liao/line-ai-customer-service:.claude/skills/project-guidelines-example/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.485302Z",
-      "cooldown_until": "2026-10-16T05:26:32.485302Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.756860Z",
+      "cooldown_until": "2026-10-23T16:13:23.756860Z",
       "repo": "Ying-Kai-Liao/line-ai-customer-service",
       "path": ".claude/skills/project-guidelines-example/SKILL.md"
     },
     "Light-Brands/lawless-ai-v1:plugins/core/skills/brainstorming/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.475666Z",
-      "cooldown_until": "2026-10-16T05:26:30.475666Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:20.293511Z",
+      "cooldown_until": "2026-10-23T16:13:20.293511Z",
       "repo": "Light-Brands/lawless-ai-v1",
       "path": "plugins/core/skills/brainstorming/SKILL.md"
     },
@@ -55312,9 +55312,9 @@
     },
     "chrissargent48/weekly_report:.claude/skills/external-skills/skills/mobile-design/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.514575Z",
-      "cooldown_until": "2026-10-16T05:26:32.514575Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.846837Z",
+      "cooldown_until": "2026-10-23T16:13:23.846837Z",
       "repo": "chrissargent48/weekly_report",
       "path": ".claude/skills/external-skills/skills/mobile-design/SKILL.md"
     },
@@ -55328,73 +55328,73 @@
     },
     "KLproduction/shim-dev:.codex/skills/motion/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.638394Z",
-      "cooldown_until": "2026-10-16T05:26:32.638394Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.047639Z",
+      "cooldown_until": "2026-10-23T16:13:24.047639Z",
       "repo": "KLproduction/shim-dev",
       "path": ".codex/skills/motion/SKILL.md"
     },
     "nm7-jp/morpheus-operator:.claude/commands/create-skill.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.488152Z",
-      "cooldown_until": "2026-10-16T05:26:32.488152Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.755515Z",
+      "cooldown_until": "2026-10-23T16:13:23.755515Z",
       "repo": "nm7-jp/morpheus-operator",
       "path": ".claude/commands/create-skill.md"
     },
     "tylermiranda/Questly:.codex/skills/deep-research/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.629305Z",
-      "cooldown_until": "2026-10-16T05:26:32.629305Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.049944Z",
+      "cooldown_until": "2026-10-23T16:13:24.049944Z",
       "repo": "tylermiranda/Questly",
       "path": ".codex/skills/deep-research/SKILL.md"
     },
     "tylermiranda/Questly:.claude/skills/coding-standards/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.502532Z",
-      "cooldown_until": "2026-10-16T05:26:32.502532Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.767682Z",
+      "cooldown_until": "2026-10-23T16:13:23.767682Z",
       "repo": "tylermiranda/Questly",
       "path": ".claude/skills/coding-standards/SKILL.md"
     },
     "tylermiranda/Questly:.codex/skills/ai-agents-architect/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.677487Z",
-      "cooldown_until": "2026-10-16T05:26:32.677487Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.926025Z",
+      "cooldown_until": "2026-10-23T16:13:23.926025Z",
       "repo": "tylermiranda/Questly",
       "path": ".codex/skills/ai-agents-architect/SKILL.md"
     },
     "tylermiranda/Questly:.codex/skills/git-pushing/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.684182Z",
-      "cooldown_until": "2026-10-16T05:26:32.684182Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.047365Z",
+      "cooldown_until": "2026-10-23T16:13:24.047365Z",
       "repo": "tylermiranda/Questly",
       "path": ".codex/skills/git-pushing/SKILL.md"
     },
     "tylermiranda/Questly:.codex/skills/coding-standards/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.619518Z",
-      "cooldown_until": "2026-10-16T05:26:32.619518Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.908786Z",
+      "cooldown_until": "2026-10-23T16:13:23.908786Z",
       "repo": "tylermiranda/Questly",
       "path": ".codex/skills/coding-standards/SKILL.md"
     },
     "seenuraj2007/stockalert:.codex/skills/ui-ux-pro-max/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.654081Z",
-      "cooldown_until": "2026-10-16T05:26:32.654081Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.926213Z",
+      "cooldown_until": "2026-10-23T16:13:23.926213Z",
       "repo": "seenuraj2007/stockalert",
       "path": ".codex/skills/ui-ux-pro-max/SKILL.md"
     },
     "pathvanasoftware/IOSStorageCleaner:.claude/skills/scientific-document-skills/pdf/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.501979Z",
-      "cooldown_until": "2026-10-16T05:26:32.501979Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.767389Z",
+      "cooldown_until": "2026-10-23T16:13:23.767389Z",
       "repo": "pathvanasoftware/IOSStorageCleaner",
       "path": ".claude/skills/scientific-document-skills/pdf/SKILL.md"
     },
@@ -55408,9 +55408,9 @@
     },
     "tylermiranda/Questly:.codex/skills/app-builder/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.664380Z",
-      "cooldown_until": "2026-10-16T05:26:32.664380Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.047206Z",
+      "cooldown_until": "2026-10-23T16:13:24.047206Z",
       "repo": "tylermiranda/Questly",
       "path": ".codex/skills/app-builder/SKILL.md"
     },
@@ -55424,9 +55424,9 @@
     },
     "Light-Brands/base-ai:plugins/core/skills/brainstorming/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.455940Z",
-      "cooldown_until": "2026-10-16T05:26:30.455940Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:20.153696Z",
+      "cooldown_until": "2026-10-23T16:13:20.153696Z",
       "repo": "Light-Brands/base-ai",
       "path": "plugins/core/skills/brainstorming/SKILL.md"
     },
@@ -55440,17 +55440,17 @@
     },
     "goodnight000/KittyCourt:.codex/skills/senior-prompt-engineer/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.646798Z",
-      "cooldown_until": "2026-10-16T05:26:32.646798Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.048865Z",
+      "cooldown_until": "2026-10-23T16:13:24.048865Z",
       "repo": "goodnight000/KittyCourt",
       "path": ".codex/skills/senior-prompt-engineer/SKILL.md"
     },
     "ryu-qqq/AuthHub:.claude/skills/testing-expert/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.638667Z",
-      "cooldown_until": "2026-10-16T05:26:32.638667Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.755663Z",
+      "cooldown_until": "2026-10-23T16:13:23.755663Z",
       "repo": "ryu-qqq/AuthHub",
       "path": ".claude/skills/testing-expert/SKILL.md"
     },
@@ -55464,9 +55464,9 @@
     },
     "zzy1127/PostTrainAgent:skills/pdf/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.919090Z",
-      "cooldown_until": "2026-10-16T05:26:30.919090Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:20.493866Z",
+      "cooldown_until": "2026-10-23T16:13:20.493866Z",
       "repo": "zzy1127/PostTrainAgent",
       "path": "skills/pdf/SKILL.md"
     },
@@ -55480,9 +55480,9 @@
     },
     "The-Skyy-Rose-Collection-LLC/DevSkyy:.claude/skills/project-guidelines-example/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.859896Z",
-      "cooldown_until": "2026-10-16T05:26:30.859896Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:20.395512Z",
+      "cooldown_until": "2026-10-23T16:13:20.395512Z",
       "repo": "The-Skyy-Rose-Collection-LLC/DevSkyy",
       "path": ".claude/skills/project-guidelines-example/SKILL.md"
     },
@@ -55496,41 +55496,41 @@
     },
     "weholt/script-cast:.github/skills/agent-ops-docker-review/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.284885Z",
-      "cooldown_until": "2026-10-16T05:26:30.284885Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:19.700366Z",
+      "cooldown_until": "2026-10-23T16:13:19.700366Z",
       "repo": "weholt/script-cast",
       "path": ".github/skills/agent-ops-docker-review/SKILL.md"
     },
     "park-kyungchan/palantir:.claude/plugins/cache/claude-plugins-official/hookify/96276205880a/skills/writing-rules/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.480785Z",
-      "cooldown_until": "2026-10-16T05:26:32.480785Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.754995Z",
+      "cooldown_until": "2026-10-23T16:13:23.754995Z",
       "repo": "park-kyungchan/palantir",
       "path": ".claude/plugins/cache/claude-plugins-official/hookify/96276205880a/skills/writing-rules/SKILL.md"
     },
     "p3ob7o/Totoro:core/integrations/granola/SETUP_SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.272459Z",
-      "cooldown_until": "2026-10-16T05:26:30.272459Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:19.679995Z",
+      "cooldown_until": "2026-10-23T16:13:19.679995Z",
       "repo": "p3ob7o/Totoro",
       "path": "core/integrations/granola/SETUP_SKILL.md"
     },
     "SuzumiyaAoba/selene-core:.codex/skills/moonbit/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.672322Z",
-      "cooldown_until": "2026-10-16T05:26:32.672322Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.047505Z",
+      "cooldown_until": "2026-10-23T16:13:24.047505Z",
       "repo": "SuzumiyaAoba/selene-core",
       "path": ".codex/skills/moonbit/SKILL.md"
     },
     "Moty/ralph_test_1:skills/prd/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.327099Z",
-      "cooldown_until": "2026-10-16T05:26:32.327099Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.673632Z",
+      "cooldown_until": "2026-10-23T16:13:23.673632Z",
       "repo": "Moty/ralph_test_1",
       "path": "skills/prd/SKILL.md"
     },
@@ -55560,9 +55560,9 @@
     },
     "Light-Brands/lawless-ai:plugins/core/skills/brainstorming/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.423084Z",
-      "cooldown_until": "2026-10-16T05:26:30.423084Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:19.833546Z",
+      "cooldown_until": "2026-10-23T16:13:19.833546Z",
       "repo": "Light-Brands/lawless-ai",
       "path": "plugins/core/skills/brainstorming/SKILL.md"
     },
@@ -55576,17 +55576,17 @@
     },
     "penne-0505/docs_driven_dev_template:.codex/skills/gh-fix-ci/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:33.137962Z",
-      "cooldown_until": "2026-10-16T05:26:33.137962Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.256044Z",
+      "cooldown_until": "2026-10-23T16:13:24.256044Z",
       "repo": "penne-0505/docs_driven_dev_template",
       "path": ".codex/skills/gh-fix-ci/SKILL.md"
     },
     "zellycloud/zyflow:.claude/skills/moai-lang-typescript/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:30.860000Z",
-      "cooldown_until": "2026-10-16T05:26:30.860000Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:20.396927Z",
+      "cooldown_until": "2026-10-23T16:13:20.396927Z",
       "repo": "zellycloud/zyflow",
       "path": ".claude/skills/moai-lang-typescript/SKILL.md"
     },
@@ -55600,25 +55600,25 @@
     },
     "ACSKamloops/shs-engine:.codex/skills/project-operator/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.638741Z",
-      "cooldown_until": "2026-10-16T05:26:32.638741Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.840919Z",
+      "cooldown_until": "2026-10-23T16:13:23.840919Z",
       "repo": "ACSKamloops/shs-engine",
       "path": ".codex/skills/project-operator/SKILL.md"
     },
     "IKcoding-jp/Roast-Plus:.codex/skills/claude-skill-creator/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:33.208349Z",
-      "cooldown_until": "2026-10-16T05:26:33.208349Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.451245Z",
+      "cooldown_until": "2026-10-23T16:13:24.451245Z",
       "repo": "IKcoding-jp/Roast-Plus",
       "path": ".codex/skills/claude-skill-creator/SKILL.md"
     },
     "goodnight000/KittyCourt:.codex/skills/webapp-testing/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.640988Z",
-      "cooldown_until": "2026-10-16T05:26:32.640988Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.052799Z",
+      "cooldown_until": "2026-10-23T16:13:24.052799Z",
       "repo": "goodnight000/KittyCourt",
       "path": ".codex/skills/webapp-testing/SKILL.md"
     },
@@ -55632,25 +55632,25 @@
     },
     "josesepulvedapino/psicologia-chillan:.claude/skills/seo-review/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.485596Z",
-      "cooldown_until": "2026-10-16T05:26:32.485596Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.821496Z",
+      "cooldown_until": "2026-10-23T16:13:23.821496Z",
       "repo": "josesepulvedapino/psicologia-chillan",
       "path": ".claude/skills/seo-review/SKILL.md"
     },
     "goodnight000/KittyCourt:.codex/skills/Agent-Skills-for-Context-Engineering-main/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.640898Z",
-      "cooldown_until": "2026-10-16T05:26:32.640898Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.210383Z",
+      "cooldown_until": "2026-10-23T16:13:24.210383Z",
       "repo": "goodnight000/KittyCourt",
       "path": ".codex/skills/Agent-Skills-for-Context-Engineering-main/SKILL.md"
     },
     "nodays-off/Hogans-Alley:skills/tools-utilities/ffmpeg/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.485199Z",
-      "cooldown_until": "2026-10-16T05:26:32.485199Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.755357Z",
+      "cooldown_until": "2026-10-23T16:13:23.755357Z",
       "repo": "nodays-off/Hogans-Alley",
       "path": "skills/tools-utilities/ffmpeg/SKILL.md"
     },
@@ -55680,81 +55680,81 @@
     },
     "maxlogvn/AiCMR:.claude/skills/update-docs/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.501720Z",
-      "cooldown_until": "2026-10-16T05:26:32.501720Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:23.755159Z",
+      "cooldown_until": "2026-10-23T16:13:23.755159Z",
       "repo": "maxlogvn/AiCMR",
       "path": ".claude/skills/update-docs/SKILL.md"
     },
     "Pluckypan/ai-agent-router:.codex/skills/ui-ux-pro-max/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.737513Z",
-      "cooldown_until": "2026-10-16T05:26:32.737513Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.048024Z",
+      "cooldown_until": "2026-10-23T16:13:24.048024Z",
       "repo": "Pluckypan/ai-agent-router",
       "path": ".codex/skills/ui-ux-pro-max/SKILL.md"
     },
     "ishuru/ishuru:skills/peekaboo/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:33.008430Z",
-      "cooldown_until": "2026-10-16T05:26:33.008430Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.258046Z",
+      "cooldown_until": "2026-10-23T16:13:24.258046Z",
       "repo": "ishuru/ishuru",
       "path": "skills/peekaboo/SKILL.md"
     },
     "TatTran22/claude-code-1:skills/project-guidelines-example/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.822545Z",
-      "cooldown_until": "2026-10-16T05:26:32.822545Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.241886Z",
+      "cooldown_until": "2026-10-23T16:13:24.241886Z",
       "repo": "TatTran22/claude-code-1",
       "path": "skills/project-guidelines-example/SKILL.md"
     },
     "byteworthy/Upstream:.agents/skills/clerk-observability/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:33.006224Z",
-      "cooldown_until": "2026-10-16T05:26:33.006224Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.354631Z",
+      "cooldown_until": "2026-10-23T16:13:24.354631Z",
       "repo": "byteworthy/Upstream",
       "path": ".agents/skills/clerk-observability/SKILL.md"
     },
     "tylermiranda/Questly:.codex/skills/backend-dev-guidelines/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.728840Z",
-      "cooldown_until": "2026-10-16T05:26:32.728840Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.066325Z",
+      "cooldown_until": "2026-10-23T16:13:24.066325Z",
       "repo": "tylermiranda/Questly",
       "path": ".codex/skills/backend-dev-guidelines/SKILL.md"
     },
     "pathvanasoftware/IOSStorageCleaner:.claude/skills/loki-mode/agent-skills/checkpoint-mode/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:33.009790Z",
-      "cooldown_until": "2026-10-16T05:26:33.009790Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.406057Z",
+      "cooldown_until": "2026-10-23T16:13:24.406057Z",
       "repo": "pathvanasoftware/IOSStorageCleaner",
       "path": ".claude/skills/loki-mode/agent-skills/checkpoint-mode/SKILL.md"
     },
     "pathvanasoftware/IOSStorageCleaner:.claude/skills/scientific-scientific-slides/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:33.007470Z",
-      "cooldown_until": "2026-10-16T05:26:33.007470Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.245891Z",
+      "cooldown_until": "2026-10-23T16:13:24.245891Z",
       "repo": "pathvanasoftware/IOSStorageCleaner",
       "path": ".claude/skills/scientific-scientific-slides/SKILL.md"
     },
     "shami-ah/OpenEvent-AI:.codex/skills/oe-backend-startup-triage/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.642271Z",
-      "cooldown_until": "2026-10-16T05:26:32.642271Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.047020Z",
+      "cooldown_until": "2026-10-23T16:13:24.047020Z",
       "repo": "shami-ah/OpenEvent-AI",
       "path": ".codex/skills/oe-backend-startup-triage/SKILL.md"
     },
     "pathvanasoftware/IOSStorageCleaner:.claude/skills/scientific-denario/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:33.083498Z",
-      "cooldown_until": "2026-10-16T05:26:33.083498Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.255771Z",
+      "cooldown_until": "2026-10-23T16:13:24.255771Z",
       "repo": "pathvanasoftware/IOSStorageCleaner",
       "path": ".claude/skills/scientific-denario/SKILL.md"
     },
@@ -55768,137 +55768,137 @@
     },
     "shami-ah/OpenEvent-AI:.codex/skills/oe-mcp-bootstrap/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.683236Z",
-      "cooldown_until": "2026-10-16T05:26:32.683236Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.052631Z",
+      "cooldown_until": "2026-10-23T16:13:24.052631Z",
       "repo": "shami-ah/OpenEvent-AI",
       "path": ".codex/skills/oe-mcp-bootstrap/SKILL.md"
     },
     "shami-ah/OpenEvent-AI:.codex/skills/oe-e2e-site-visit/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.644468Z",
-      "cooldown_until": "2026-10-16T05:26:32.644468Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.049255Z",
+      "cooldown_until": "2026-10-23T16:13:24.049255Z",
       "repo": "shami-ah/OpenEvent-AI",
       "path": ".codex/skills/oe-e2e-site-visit/SKILL.md"
     },
     "ThalesMMS/vLLM-config:.codex/skills/.system/skill-creator/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.750420Z",
-      "cooldown_until": "2026-10-16T05:26:32.750420Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.057264Z",
+      "cooldown_until": "2026-10-23T16:13:24.057264Z",
       "repo": "ThalesMMS/vLLM-config",
       "path": ".codex/skills/.system/skill-creator/SKILL.md"
     },
     "seenuraj2007/stockalert:.opencode/skills/ui-ux-pro-max/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.780805Z",
-      "cooldown_until": "2026-10-16T05:26:32.780805Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.241736Z",
+      "cooldown_until": "2026-10-23T16:13:24.241736Z",
       "repo": "seenuraj2007/stockalert",
       "path": ".opencode/skills/ui-ux-pro-max/SKILL.md"
     },
     "XcluEzy7/ag4one:.opencode/context/openagents-repo/guides/adding-skill.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.780196Z",
-      "cooldown_until": "2026-10-16T05:26:32.780196Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.214455Z",
+      "cooldown_until": "2026-10-23T16:13:24.214455Z",
       "repo": "XcluEzy7/ag4one",
       "path": ".opencode/context/openagents-repo/guides/adding-skill.md"
     },
     "carterdea/carterdea.com:.codex/skills/vercel-react-best-practices/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.677154Z",
-      "cooldown_until": "2026-10-16T05:26:32.677154Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.048471Z",
+      "cooldown_until": "2026-10-23T16:13:24.048471Z",
       "repo": "carterdea/carterdea.com",
       "path": ".codex/skills/vercel-react-best-practices/SKILL.md"
     },
     "isonao/banso:.codex/skills/.system/skill-creator/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.814090Z",
-      "cooldown_until": "2026-10-16T05:26:32.814090Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.251424Z",
+      "cooldown_until": "2026-10-23T16:13:24.251424Z",
       "repo": "isonao/banso",
       "path": ".codex/skills/.system/skill-creator/SKILL.md"
     },
     "zadorian/SEARCH_ENGINEER:classes/narrative/edith/templates.bak-20260117133624/sections/universal/PEP_STATUS.skill.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:33.005924Z",
-      "cooldown_until": "2026-10-16T05:26:33.005924Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.242029Z",
+      "cooldown_until": "2026-10-23T16:13:24.242029Z",
       "repo": "zadorian/SEARCH_ENGINEER",
       "path": "classes/narrative/edith/templates.bak-20260117133624/sections/universal/PEP_STATUS.skill.md"
     },
     "zadorian/SEARCH_ENGINEER:classes/narrative/edith/templates.bak-20260117133624/jurisdictions/SEYCHELLES.skill.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:33.007835Z",
-      "cooldown_until": "2026-10-16T05:26:33.007835Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.398145Z",
+      "cooldown_until": "2026-10-23T16:13:24.398145Z",
       "repo": "zadorian/SEARCH_ENGINEER",
       "path": "classes/narrative/edith/templates.bak-20260117133624/jurisdictions/SEYCHELLES.skill.md"
     },
     "zadorian/SEARCH_ENGINEER:classes/narrative/edith/templates/jurisdictions/SEYCHELLES.skill.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:33.008194Z",
-      "cooldown_until": "2026-10-16T05:26:33.008194Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.396995Z",
+      "cooldown_until": "2026-10-23T16:13:24.396995Z",
       "repo": "zadorian/SEARCH_ENGINEER",
       "path": "classes/narrative/edith/templates/jurisdictions/SEYCHELLES.skill.md"
     },
     "zadorian/SEARCH_ENGINEER:classes/narrative/edith/templates/jurisdictions/SERBIA.skill.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.796056Z",
-      "cooldown_until": "2026-10-16T05:26:32.796056Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.242657Z",
+      "cooldown_until": "2026-10-23T16:13:24.242657Z",
       "repo": "zadorian/SEARCH_ENGINEER",
       "path": "classes/narrative/edith/templates/jurisdictions/SERBIA.skill.md"
     },
     "zadorian/SEARCH_ENGINEER:classes/narrative/edith/templates.bak-20260117133624/jurisdictions/USA.skill.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:33.006319Z",
-      "cooldown_until": "2026-10-16T05:26:33.006319Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.250975Z",
+      "cooldown_until": "2026-10-23T16:13:24.250975Z",
       "repo": "zadorian/SEARCH_ENGINEER",
       "path": "classes/narrative/edith/templates.bak-20260117133624/jurisdictions/USA.skill.md"
     },
     "zadorian/SEARCH_ENGINEER:classes/narrative/edith/templates/jurisdictions/SOUTH_KOREA.skill.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.838463Z",
-      "cooldown_until": "2026-10-16T05:26:32.838463Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.067297Z",
+      "cooldown_until": "2026-10-23T16:13:24.067297Z",
       "repo": "zadorian/SEARCH_ENGINEER",
       "path": "classes/narrative/edith/templates/jurisdictions/SOUTH_KOREA.skill.md"
     },
     "ksato8710/Quizappforexam:.codex/skills/frontend-design/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.682500Z",
-      "cooldown_until": "2026-10-16T05:26:32.682500Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.043973Z",
+      "cooldown_until": "2026-10-23T16:13:24.043973Z",
       "repo": "ksato8710/Quizappforexam",
       "path": ".codex/skills/frontend-design/SKILL.md"
     },
     "zadorian/SEARCH_ENGINEER:classes/narrative/edith/templates/sections/person/PROPERTY_ASSETS.skill.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.864327Z",
-      "cooldown_until": "2026-10-16T05:26:32.864327Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.238076Z",
+      "cooldown_until": "2026-10-23T16:13:24.238076Z",
       "repo": "zadorian/SEARCH_ENGINEER",
       "path": "classes/narrative/edith/templates/sections/person/PROPERTY_ASSETS.skill.md"
     },
     "zadorian/SEARCH_ENGINEER:classes/narrative/edith/templates/jurisdictions/USA.skill.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:33.006398Z",
-      "cooldown_until": "2026-10-16T05:26:33.006398Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.238285Z",
+      "cooldown_until": "2026-10-23T16:13:24.238285Z",
       "repo": "zadorian/SEARCH_ENGINEER",
       "path": "classes/narrative/edith/templates/jurisdictions/USA.skill.md"
     },
     "zadorian/SEARCH_ENGINEER:classes/narrative/edith/templates.bak-20260117133624/jurisdictions/MOROCCO.skill.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.881132Z",
-      "cooldown_until": "2026-10-16T05:26:32.881132Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.241564Z",
+      "cooldown_until": "2026-10-23T16:13:24.241564Z",
       "repo": "zadorian/SEARCH_ENGINEER",
       "path": "classes/narrative/edith/templates.bak-20260117133624/jurisdictions/MOROCCO.skill.md"
     },
@@ -55912,65 +55912,65 @@
     },
     "oleksandrmelnychenko/ecliptix-protected-protocol:.agents/skills/frontend-testing/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.784279Z",
-      "cooldown_until": "2026-10-16T05:26:32.784279Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.214788Z",
+      "cooldown_until": "2026-10-23T16:13:24.214788Z",
       "repo": "oleksandrmelnychenko/ecliptix-protected-protocol",
       "path": ".agents/skills/frontend-testing/SKILL.md"
     },
     "ricable/ruvector-edge:claude-flow-v3/.claude/skills/worker-benchmarks/skill.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:33.006864Z",
-      "cooldown_until": "2026-10-16T05:26:33.006864Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.245134Z",
+      "cooldown_until": "2026-10-23T16:13:24.245134Z",
       "repo": "ricable/ruvector-edge",
       "path": "claude-flow-v3/.claude/skills/worker-benchmarks/skill.md"
     },
     "sunxxuns/flashinfer:.claude/skills/benchmark-kernel/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.781744Z",
-      "cooldown_until": "2026-10-16T05:26:32.781744Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.214938Z",
+      "cooldown_until": "2026-10-23T16:13:24.214938Z",
       "repo": "sunxxuns/flashinfer",
       "path": ".claude/skills/benchmark-kernel/SKILL.md"
     },
     "sunxxuns/flashinfer:.claude/skills/add-cuda-kernel/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.807609Z",
-      "cooldown_until": "2026-10-16T05:26:32.807609Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.239726Z",
+      "cooldown_until": "2026-10-23T16:13:24.239726Z",
       "repo": "sunxxuns/flashinfer",
       "path": ".claude/skills/add-cuda-kernel/SKILL.md"
     },
     "sunxxuns/flashinfer:.claude/skills/debug-cuda-crash/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.777643Z",
-      "cooldown_until": "2026-10-16T05:26:32.777643Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.213249Z",
+      "cooldown_until": "2026-10-23T16:13:24.213249Z",
       "repo": "sunxxuns/flashinfer",
       "path": ".claude/skills/debug-cuda-crash/SKILL.md"
     },
     "ricable/ruvector-edge:claude-flow-v3/.claude/skills/worker-integration/skill.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.790202Z",
-      "cooldown_until": "2026-10-16T05:26:32.790202Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.214632Z",
+      "cooldown_until": "2026-10-23T16:13:24.214632Z",
       "repo": "ricable/ruvector-edge",
       "path": "claude-flow-v3/.claude/skills/worker-integration/skill.md"
     },
     "ricable/ruvector-edge:claude-flow-v3/v3/@claude-flow/cli/.claude/skills/worker-benchmarks/skill.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:33.008111Z",
-      "cooldown_until": "2026-10-16T05:26:33.008111Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.245362Z",
+      "cooldown_until": "2026-10-23T16:13:24.245362Z",
       "repo": "ricable/ruvector-edge",
       "path": "claude-flow-v3/v3/@claude-flow/cli/.claude/skills/worker-benchmarks/skill.md"
     },
     "rozwer/cross2B-Pro:.codex/skills/langgraph-patterns-expert/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.670519Z",
-      "cooldown_until": "2026-10-16T05:26:32.670519Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.057032Z",
+      "cooldown_until": "2026-10-23T16:13:24.057032Z",
       "repo": "rozwer/cross2B-Pro",
       "path": ".codex/skills/langgraph-patterns-expert/SKILL.md"
     },
@@ -55984,33 +55984,33 @@
     },
     "lyq-lin/YCode.CLI:YCode.CLI/skills/mcp-builder/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:33.477677Z",
-      "cooldown_until": "2026-10-16T05:26:33.477677Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.745392Z",
+      "cooldown_until": "2026-10-23T16:13:24.745392Z",
       "repo": "lyq-lin/YCode.CLI",
       "path": "YCode.CLI/skills/mcp-builder/SKILL.md"
     },
     "GlacierEQ/mastermind:super-agent-orchestrator/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:33.009515Z",
-      "cooldown_until": "2026-10-16T05:26:33.009515Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.405344Z",
+      "cooldown_until": "2026-10-23T16:13:24.405344Z",
       "repo": "GlacierEQ/mastermind",
       "path": "super-agent-orchestrator/SKILL.md"
     },
     "GlacierEQ/mastermind:skills/skills/super-agent-orchestrator/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:33.006474Z",
-      "cooldown_until": "2026-10-16T05:26:33.006474Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.258250Z",
+      "cooldown_until": "2026-10-23T16:13:24.258250Z",
       "repo": "GlacierEQ/mastermind",
       "path": "skills/skills/super-agent-orchestrator/SKILL.md"
     },
     "lyq-lin/YCode.CLI:YCode.CLI/skills/agent-builder/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:33.561638Z",
-      "cooldown_until": "2026-10-16T05:26:33.561638Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:27.718321Z",
+      "cooldown_until": "2026-10-23T16:13:27.718321Z",
       "repo": "lyq-lin/YCode.CLI",
       "path": "YCode.CLI/skills/agent-builder/SKILL.md"
     },
@@ -56056,9 +56056,9 @@
     },
     "carlos-ASG/tu-voz-en-ruta:skills/skill-creator/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:33.119598Z",
-      "cooldown_until": "2026-10-16T05:26:33.119598Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.443501Z",
+      "cooldown_until": "2026-10-23T16:13:24.443501Z",
       "repo": "carlos-ASG/tu-voz-en-ruta",
       "path": "skills/skill-creator/SKILL.md"
     },
@@ -56072,17 +56072,17 @@
     },
     "lywa1998/self-host-claude-marketplace:plugins/rust-skills/skills/core-dynamic-skills/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.803065Z",
-      "cooldown_until": "2026-10-16T05:26:32.803065Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.242474Z",
+      "cooldown_until": "2026-10-23T16:13:24.242474Z",
       "repo": "lywa1998/self-host-claude-marketplace",
       "path": "plugins/rust-skills/skills/core-dynamic-skills/SKILL.md"
     },
     "Wonderplanet/glow-brain:.claude/skills/plugin-marketplace-creator/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:32.877304Z",
-      "cooldown_until": "2026-10-16T05:26:32.877304Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.252353Z",
+      "cooldown_until": "2026-10-23T16:13:24.252353Z",
       "repo": "Wonderplanet/glow-brain",
       "path": ".claude/skills/plugin-marketplace-creator/SKILL.md"
     },
@@ -56096,9 +56096,9 @@
     },
     "codetalcott/fixiplug:.claude/skills/sqlite-agent-context/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:33.156046Z",
-      "cooldown_until": "2026-10-16T05:26:33.156046Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:24.431253Z",
+      "cooldown_until": "2026-10-23T16:13:24.431253Z",
       "repo": "codetalcott/fixiplug",
       "path": ".claude/skills/sqlite-agent-context/SKILL.md"
     },
@@ -56328,9 +56328,9 @@
     },
     "reggiechan74/claude-plugins:plugins/claude-code-metaskill/skills/agent-skills/SKILL.md": {
       "reason": "not_found",
-      "count": 26,
-      "last_seen_at": "2026-10-09T05:26:33.488559Z",
-      "cooldown_until": "2026-10-16T05:26:33.488559Z",
+      "count": 27,
+      "last_seen_at": "2026-10-16T16:13:27.543367Z",
+      "cooldown_until": "2026-10-23T16:13:27.543367Z",
       "repo": "reggiechan74/claude-plugins",
       "path": "plugins/claude-code-metaskill/skills/agent-skills/SKILL.md"
     },
@@ -56854,171 +56854,51 @@
       "repo": "benchflow-ai/skillsbench",
       "path": ".claude/skills/harbor/SKILL.md"
     },
-    "OutlineDriven/odin-claude-plugin:name:odin-claude-plugin": {
-      "reason": "not_found",
-      "count": 10,
-      "last_seen_at": "2026-09-09T03:58:10.996380Z",
-      "cooldown_until": "2026-09-16T03:58:10.996380Z",
-      "repo": "OutlineDriven/odin-claude-plugin",
-      "path": ""
-    },
     "JSONbored/claudepro-directory:name:claudepro-directory": {
       "reason": "not_found",
-      "count": 14,
-      "last_seen_at": "2026-10-08T05:25:57.931324Z",
-      "cooldown_until": "2026-10-15T05:25:57.931324Z",
+      "count": 15,
+      "last_seen_at": "2026-10-16T16:13:31.282633Z",
+      "cooldown_until": "2026-10-23T16:13:31.282633Z",
       "repo": "JSONbored/claudepro-directory",
-      "path": ""
-    },
-    "OutlineDriven/outline-driven-development:name:outline-driven-development": {
-      "reason": "not_found",
-      "count": 10,
-      "last_seen_at": "2026-09-09T03:58:11.217465Z",
-      "cooldown_until": "2026-09-16T03:58:11.217465Z",
-      "repo": "OutlineDriven/outline-driven-development",
-      "path": ""
-    },
-    "obra/superpowers:name:superpowers": {
-      "reason": "not_found",
-      "count": 10,
-      "last_seen_at": "2026-09-09T03:58:10.999329Z",
-      "cooldown_until": "2026-09-16T03:58:10.999329Z",
-      "repo": "obra/superpowers",
       "path": ""
     },
     "maxritter/claude-codepro:name:claude-codepro": {
       "reason": "not_found",
-      "count": 14,
-      "last_seen_at": "2026-10-08T05:25:57.720484Z",
-      "cooldown_until": "2026-10-15T05:25:57.720484Z",
+      "count": 15,
+      "last_seen_at": "2026-10-16T16:13:27.536508Z",
+      "cooldown_until": "2026-10-23T16:13:27.536508Z",
       "repo": "maxritter/claude-codepro",
-      "path": ""
-    },
-    "jthack/ffuf_claude_skill:name:ffuf-web-fuzzing": {
-      "reason": "not_found",
-      "count": 10,
-      "last_seen_at": "2026-09-09T03:58:11.137991Z",
-      "cooldown_until": "2026-09-16T03:58:11.137991Z",
-      "repo": "jthack/ffuf_claude_skill",
-      "path": ""
-    },
-    "timescale/pg-aiguide:name:pg-aiguide": {
-      "reason": "not_found",
-      "count": 10,
-      "last_seen_at": "2026-09-09T03:58:11.074121Z",
-      "cooldown_until": "2026-09-16T03:58:11.074121Z",
-      "repo": "timescale/pg-aiguide",
       "path": ""
     },
     "parcadei/Continuous-Claude:name:continuous-claude": {
       "reason": "not_found",
-      "count": 14,
-      "last_seen_at": "2026-10-08T05:25:58.078818Z",
-      "cooldown_until": "2026-10-15T05:25:58.078818Z",
+      "count": 15,
+      "last_seen_at": "2026-10-16T16:13:30.495078Z",
+      "cooldown_until": "2026-10-23T16:13:30.495078Z",
       "repo": "parcadei/Continuous-Claude",
-      "path": ""
-    },
-    "thedotmack/claude-mem:name:claude-mem": {
-      "reason": "not_found",
-      "count": 10,
-      "last_seen_at": "2026-09-09T03:58:10.913388Z",
-      "cooldown_until": "2026-09-16T03:58:10.913388Z",
-      "repo": "thedotmack/claude-mem",
-      "path": ""
-    },
-    "travisvn/awesome-claude-skills:name:awesome-claude-skills": {
-      "reason": "not_found",
-      "count": 10,
-      "last_seen_at": "2026-09-09T03:58:11.055964Z",
-      "cooldown_until": "2026-09-16T03:58:11.055964Z",
-      "repo": "travisvn/awesome-claude-skills",
-      "path": ""
-    },
-    "giuseppe-trisciuoglio/developer-kit:name:developer-kit-java": {
-      "reason": "not_found",
-      "count": 10,
-      "last_seen_at": "2026-09-09T03:58:10.951181Z",
-      "cooldown_until": "2026-09-16T03:58:10.951181Z",
-      "repo": "giuseppe-trisciuoglio/developer-kit",
-      "path": ""
-    },
-    "alex-feel/claude-code-toolbox:name:claude-code-toolbox": {
-      "reason": "not_found",
-      "count": 10,
-      "last_seen_at": "2026-09-09T03:58:11.138234Z",
-      "cooldown_until": "2026-09-16T03:58:11.138234Z",
-      "repo": "alex-feel/claude-code-toolbox",
-      "path": ""
-    },
-    "alex-feel/claude-code-artifacts-public:name:claude-code-artifacts": {
-      "reason": "not_found",
-      "count": 10,
-      "last_seen_at": "2026-09-09T03:58:11.046211Z",
-      "cooldown_until": "2026-09-16T03:58:11.046211Z",
-      "repo": "alex-feel/claude-code-artifacts-public",
-      "path": ""
-    },
-    "conorluddy/ios-simulator-skill:name:ios-simulator-skill": {
-      "reason": "not_found",
-      "count": 10,
-      "last_seen_at": "2026-09-09T03:58:11.028116Z",
-      "cooldown_until": "2026-09-16T03:58:11.028116Z",
-      "repo": "conorluddy/ios-simulator-skill",
-      "path": ""
-    },
-    "wshobson/agents:name:agents-orchestration": {
-      "reason": "not_found",
-      "count": 10,
-      "last_seen_at": "2026-09-09T03:58:10.988346Z",
-      "cooldown_until": "2026-09-16T03:58:10.988346Z",
-      "repo": "wshobson/agents",
       "path": ""
     },
     "zechenzhangAGI/AI-research-SKILLs:name:ai-research-skills": {
       "reason": "not_found",
-      "count": 14,
-      "last_seen_at": "2026-10-08T05:25:57.782905Z",
-      "cooldown_until": "2026-10-15T05:25:57.782905Z",
+      "count": 15,
+      "last_seen_at": "2026-10-16T16:13:27.549735Z",
+      "cooldown_until": "2026-10-23T16:13:27.549735Z",
       "repo": "zechenzhangAGI/AI-research-SKILLs",
-      "path": ""
-    },
-    "AsiaOstrich/universal-dev-skills:name:universal-dev-skills": {
-      "reason": "not_found",
-      "count": 10,
-      "last_seen_at": "2026-09-09T03:58:11.219761Z",
-      "cooldown_until": "2026-09-16T03:58:11.219761Z",
-      "repo": "AsiaOstrich/universal-dev-skills",
       "path": ""
     },
     "K-Dense-AI/claude-scientific-skills:name:claude-scientific-skills": {
       "reason": "not_found",
-      "count": 14,
-      "last_seen_at": "2026-10-08T05:25:57.925630Z",
-      "cooldown_until": "2026-10-15T05:25:57.925630Z",
+      "count": 15,
+      "last_seen_at": "2026-10-16T16:13:27.549470Z",
+      "cooldown_until": "2026-10-23T16:13:27.549470Z",
       "repo": "K-Dense-AI/claude-scientific-skills",
-      "path": ""
-    },
-    "ThibautMelen/claude-insane-guide:name:claude-insane-guide": {
-      "reason": "not_found",
-      "count": 10,
-      "last_seen_at": "2026-09-09T03:58:11.187833Z",
-      "cooldown_until": "2026-09-16T03:58:11.187833Z",
-      "repo": "ThibautMelen/claude-insane-guide",
-      "path": ""
-    },
-    "instavm/coderunner:name:coderunner-sandbox": {
-      "reason": "not_found",
-      "count": 10,
-      "last_seen_at": "2026-09-09T03:58:11.199156Z",
-      "cooldown_until": "2026-09-16T03:58:11.199156Z",
-      "repo": "instavm/coderunner",
       "path": ""
     },
     "alec-c4/claude-skills-rails-dev:name:rails-dev-skills": {
       "reason": "not_found",
-      "count": 14,
-      "last_seen_at": "2026-10-08T05:25:58.910371Z",
-      "cooldown_until": "2026-10-15T05:25:58.910371Z",
+      "count": 15,
+      "last_seen_at": "2026-10-16T16:13:31.291229Z",
+      "cooldown_until": "2026-10-23T16:13:31.291229Z",
       "repo": "alec-c4/claude-skills-rails-dev",
       "path": ""
     },

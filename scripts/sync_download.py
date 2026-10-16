@@ -19,6 +19,7 @@ sys.path.insert(0, str(SCRIPT_DIR))
 
 from security_blocklist import blocked_metadata_source, load_security_blocklist
 from sync_download_support import (
+    GPL_SOURCE_LICENSES,
     asset_redistribution_approved,
     build_archived_skill_metadata,
     classify_download_result,
@@ -64,6 +65,7 @@ from sync_pipeline_support import (
 from utils import (
     build_skill_key,
     ensure_unique_dir,
+    normalize_license,
     normalize_name,
 )
 
@@ -327,6 +329,8 @@ async def download_skills(
         repo: str,
         branch: str,
         resolved_skill_path: str,
+        *,
+        include_license: bool = False,
     ) -> tuple[list[dict], bool]:
         return await collect_contents_bundled_file_entries(
             session,
@@ -334,6 +338,7 @@ async def download_skills(
             branch,
             resolved_skill_path,
             listing_fetcher=fetch_contents_listing,
+            include_license=include_license,
         )
 
     async def try_download(session: aiohttp.ClientSession, skill: dict) -> bool | None:
@@ -342,6 +347,7 @@ async def download_skills(
         repo = normalize_download_repo(skill.get("repo", ""))
         path = normalize_repo_path(skill.get("path", ""), repo)
         category = sanitize_category(skill.get("category", "other"))
+        require_license = normalize_license(skill.get("license", "")) in GPL_SOURCE_LICENSES
         candidate_key = skill_key(skill)
 
         if not repo:
@@ -440,6 +446,7 @@ async def download_skills(
                                     relative_path,
                                     timeout=request_timeout,
                                     tree_cache=tree_cache,
+                                    include_license=require_license,
                                 )
                                 if pin_commit_sha
                                 else None
@@ -469,8 +476,10 @@ async def download_skills(
                                     source_text = raw_content.decode("utf-8-sig")
                                 else:
                                     source_text = await resp.text()
-                                content = normalize_skill_frontmatter_description(
-                                    source_text, skill
+                                content = (
+                                    source_text
+                                    if require_license
+                                    else normalize_skill_frontmatter_description(source_text, skill)
                                 )
                                 if (
                                     content
@@ -498,8 +507,10 @@ async def download_skills(
                                         requires_complete_bundled_archive(source_text)
                                         or requires_complete_bundled_archive(content)
                                     )
-                                    require_complete_archive = content_requires_complete_archive or (
-                                        exact_paths_only and pin_commit_sha
+                                    require_complete_archive = (
+                                        require_license
+                                        or content_requires_complete_archive
+                                        or (exact_paths_only and pin_commit_sha)
                                     )
                                     redistribution_approved = asset_redistribution_approved(skill)
                                     if require_complete_archive and not redistribution_approved:
@@ -540,15 +551,17 @@ async def download_skills(
                                             tree_cache=tree_cache,
                                             contents_collector=collect_bundled_file_entries,
                                             pinned_tree_result=pinned_tree_result,
+                                            require_license=require_license,
                                         )
                                         if redistribution_approved
-                                        else ([], [], "", {})
+                                        else ([], [], "", {}, {})
                                     )
                                     (
                                         bundled_files,
                                         bundled_failures,
                                         bundled_failure_reason,
                                         bundled_file_blobs,
+                                        license_source_paths,
                                     ) = bundle_result
                                     if bundled_failures:
                                         failure_reason = (
@@ -582,6 +595,7 @@ async def download_skills(
                                                 dir_name=skill_dir.name,
                                                 bundled_files=bundled_files,
                                                 bundled_file_blobs=bundled_file_blobs,
+                                                license_source_paths=license_source_paths,
                                                 commit_sha=download_ref if pin_commit_sha else "",
                                                 assets_verified_at=(
                                                     to_utc_iso(utc_now()) if pin_commit_sha else ""

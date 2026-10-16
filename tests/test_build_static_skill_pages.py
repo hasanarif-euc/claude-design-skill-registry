@@ -13,6 +13,7 @@ if str(SCRIPTS_DIR) not in sys.path:
 from build_static_skill_pages import (  # noqa: E402
     PUBLIC_SITE,
     _source_url,
+    attach_security_scans,
     build_static_skill_pages,
     group_skill_copies,
     select_featured_skills,
@@ -36,6 +37,14 @@ def skill(name: str, **overrides):
         "quality_score": 75,
         "security_status": "passed",
         "install_status": "known_good",
+        "security_scan": {
+            "scanner_version": "1.1.6",
+            "ruleset_sha256": "a" * 64,
+            "scanned_at": "2026-10-15T03:00:00Z",
+            "content_sha256": "b" * 64,
+            "checks": ["frontmatter", "dangerous_patterns", "credentials"],
+            "finding_types": {},
+        },
     }
     record.update(overrides)
     return record
@@ -229,7 +238,8 @@ def test_page_attribution_related_guides_and_archive_entrypoints(tmp_path):
     assert "Trust score" in detail
     assert "Copies with matching content" in detail
     assert "removal-request.yml" in detail
-    assert "sk install" in detail
+    assert "npx skills add" in detail
+    assert "sk install" not in detail
     assert 'class="related"' in detail
     assert (docs / "skills" / "index.html").is_file()
     assert PUBLIC_SITE in (archive / "development" / "README.md").read_text()
@@ -276,9 +286,9 @@ def test_install_command_quotes_source_arguments(tmp_path):
     detail = (tmp_path / "skills" / skill_page_slug(record) / "index.html").read_text()
     command = html.unescape(re.search(r"<code>(.*?)</code>", detail).group(1))
     args = shlex.split(command)
-    assert args[:2] == ["sk", "install"]
-    assert len(args) == 3
-    assert args[2] == "https://github.com/acme/skills/tree/feat%2Fspace%20%24%28id%29/skills/a%20space%3B%20touch%20/tmp/unsafe"
+    assert args[:3] == ["npx", "skills", "add"]
+    assert len(args) == 4
+    assert args[3] == "acme/skills/skills/a space; touch /tmp/unsafe#feat%2Fspace%20%24%28id%29"
     assert "--branch" not in command
 
 
@@ -292,3 +302,98 @@ def test_unknown_license_is_explained_and_copy_paths_are_distinct(tmp_path):
     assert "Not declared in registry metadata" in detail
     assert "acme/repo/skills/copies" in detail
     assert "acme/repo/.claude/skills/copies" in detail
+
+
+def test_guide_explains_registry_scan_checks_and_findings(tmp_path):
+    scan = dict(skill("x")["security_scan"], finding_types={"warning:sensitive_path": 2, "warning:schema_validation": 1})
+    record = skill("scanned", security_scan=scan)
+
+    build_static_skill_pages([record], tmp_path)
+    detail = (tmp_path / "skills" / skill_page_slug(record) / "index.html").read_text(encoding="utf-8")
+
+    assert "<h2>What the registry checked</h2>" in detail
+    assert "Scanned 2026-10-15 by registry scanner 1.1.6" in detail
+    assert f"ruleset <code>{'a' * 12}</code>" in detail
+    assert "<li>Frontmatter and schema</li><li>Dangerous code patterns</li><li>Hardcoded credentials</li>" in detail
+    assert "3 warnings: schema validation (1), sensitive path (2)." in detail
+
+
+def test_guide_reports_clean_scan_without_inventing_findings(tmp_path):
+    record = skill("clean")
+
+    build_static_skill_pages([record], tmp_path)
+    detail = (tmp_path / "skills" / skill_page_slug(record) / "index.html").read_text(encoding="utf-8")
+
+    assert "<strong>Findings:</strong> Nothing was flagged." in detail
+
+
+@pytest.mark.parametrize("scan", [None, {"scanner_version": "1.1.6"}, dict(skill("x")["security_scan"], checks=["made_up"])])
+def test_guide_fails_without_valid_scan_evidence(tmp_path, scan):
+    record = skill("missing-scan", security_scan=scan)
+
+    with pytest.raises(ValueError, match="security"):
+        build_static_skill_pages([record], tmp_path)
+
+
+def test_attach_security_scans_copies_decision_summary_only():
+    decision = {
+        "id": "decision",
+        "scanner": {"name": "scanner", "version": "1.1.6", "ruleset_sha256": "r" * 64},
+        "provenance": {"scanned_at": "2026-10-15T03:00:00Z", "content_sha256": "c" * 64, "source_url": "x"},
+        "checks": ["frontmatter"],
+        "finding_types": {"warning:prompt_injection": 1},
+    }
+    records = attach_security_scans([{"id": "one"}, {"id": "two"}], {"one": {"security_decision": decision}, "two": {}})
+
+    assert records[0]["security_scan"] == {
+        "scanner_version": "1.1.6",
+        "ruleset_sha256": "r" * 64,
+        "scanned_at": "2026-10-15T03:00:00Z",
+        "content_sha256": "c" * 64,
+        "checks": ["frontmatter"],
+        "finding_types": {"warning:prompt_injection": 1},
+    }
+    assert "security_scan" not in records[1]
+
+
+def test_install_lists_runtime_targets_and_author_badge(tmp_path):
+    import html
+    import shlex
+
+    from build_static_skill_pages import BADGE_URL, RUNTIME_TARGETS
+
+    record = skill("portable")
+    build_static_skill_pages([record], tmp_path)
+    slug = skill_page_slug(record)
+    detail = (tmp_path / "skills" / slug / "index.html").read_text()
+    blocks = [html.unescape(block) for block in re.findall(r"<code>(.*?)</code>", detail, re.S)]
+    source = "acme/skills/skills/portable#main"
+    commands = [shlex.split(line) for line in blocks[1].splitlines() if not line.startswith("#")]
+    assert commands == [["npx", "skills", "add", source, "-g", "-a", agent] for _, agent, _ in RUNTIME_TARGETS]
+    for label, _, path in RUNTIME_TARGETS:
+        assert f"# {label} → {path}" in blocks[1]
+    assert f"[![Listed on Claude Skills Registry]({BADGE_URL})]({PUBLIC_SITE})" in blocks
+    assert (ROOT / "docs" / "assets" / "listed-badge.svg").is_file()
+
+
+def test_unrepresentable_cli_path_uses_manual_install(tmp_path):
+    record = skill("hash-path", path="skills/C# helper")
+    build_static_skill_pages([record], tmp_path)
+    detail = (tmp_path / "skills" / skill_page_slug(record) / "index.html").read_text()
+    assert "npx skills add" not in detail
+    assert "copy the folder containing SKILL.md" in detail
+    assert "/skills/C%23%20helper/SKILL.md" in detail
+
+
+def test_badge_target_survives_content_and_selection_changes(tmp_path):
+    import html
+    from build_static_skill_pages import BADGE_URL
+    record = skill("badge", content_fingerprint="before")
+    badge = f"[![Listed on Claude Skills Registry]({BADGE_URL})]({PUBLIC_SITE})"
+    for fingerprint in ("before", "after"):
+        record["page_identity"] = fingerprint
+        build_static_skill_pages([record], tmp_path)
+        page = tmp_path / "skills" / skill_page_slug(record) / "index.html"
+        assert badge in html.unescape(page.read_text())
+    build_static_skill_pages([], tmp_path)
+    assert badge.endswith(f"]({PUBLIC_SITE})")

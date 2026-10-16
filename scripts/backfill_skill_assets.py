@@ -32,12 +32,16 @@ from audit_skill_assets import (
     canonical_source_identity_from_metadata,
 )
 from sync_download import download_skills
-from sync_download_support import bundled_file_blobs_match, exact_source_branch
+from sync_download_support import (
+    asset_redistribution_approved,
+    bundled_file_blobs_match,
+    exact_source_branch,
+)
 from sync_pipeline_support import (
     has_case_conflicting_paths,
     is_safe_portable_relative_path,
 )
-from utils import classify_license, normalize_license
+from utils import normalize_license
 
 
 def _assert_no_symlink_components(root: Path, destination: Path) -> None:
@@ -229,7 +233,7 @@ def load_backfill_targets(targets_path: Path, archive_root: Path) -> list[dict]:
             )
         license_name = normalize_license(metadata.get("license", ""))
         distribution = str(metadata.get("distribution") or "").strip()
-        if classify_license(license_name) != "compatible" or distribution != "compatible":
+        if not asset_redistribution_approved(metadata):
             raise ValueError(
                 f"archive metadata does not approve asset redistribution: {metadata_path}"
             )

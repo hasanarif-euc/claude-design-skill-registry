@@ -342,7 +342,7 @@ class TestCurrentStateInventory:
                 "github_branch": "main",
                 "name": "restricted",
                 "category": "dev",
-                "license": "GPL-3.0",
+                "license": "NOASSERTION",
                 "distribution": "restricted",
             },
         )
@@ -681,12 +681,30 @@ def make_backfill_target(
 
 
 class TestBackfillTargets:
+    def test_gpl_sources_can_pass_audit_and_load_backfill_target(self, tmp_path):
+        root = tmp_path / "archive"
+        skill, _ = make_backfill_target(root)
+        metadata_path = skill / "metadata.json"
+        metadata = json.loads(metadata_path.read_text())
+        metadata.update({"license": "GPL-3.0", "distribution": "restricted"})
+        metadata_path.write_text(json.dumps(metadata))
+        [target] = audit_skill_assets.build_backfill_targets(str(root), min_stars=0)
+        targets_path = tmp_path / "targets.jsonl"
+        targets_path.write_text(json.dumps(target) + "\n")
+        [loaded] = backfill_skill_assets.load_backfill_targets(targets_path, root)
+        assert loaded["skill"]["license"] == "GPL-3.0"
+        assert loaded["skill"]["distribution"] == "restricted"
+
     @pytest.mark.parametrize(
         ("metadata", "approved"),
         [
             ({"license": "MIT", "distribution": "compatible"}, True),
             ({"license": "MIT", "distribution": "restricted"}, False),
             ({"license": "GPL-3.0", "distribution": "compatible"}, False),
+            ({"license": "GPL-3.0", "distribution": "restricted"}, True),
+            ({"license": "GPL-3.0-only", "distribution": "restricted"}, True),
+            ({"license": "GPL-3.0-or-later", "distribution": "restricted"}, True),
+            ({"license": "NOASSERTION", "distribution": "restricted"}, False),
             ({}, False),
         ],
     )
@@ -772,7 +790,7 @@ class TestBackfillTargets:
             )
         )
 
-        assert result == ([], [], "", {})
+        assert result == ([], [], "", {}, {})
 
     def test_unpinned_bundle_rejects_response_larger_than_advertised_size(self, tmp_path):
         """Fail closed when body exceeds listing size; leave no on-disk artifact."""
@@ -920,7 +938,7 @@ class TestBackfillTargets:
 
     @pytest.mark.parametrize(
         ("license_name", "distribution"),
-        [("NOASSERTION", "restricted"), ("GPL-3.0", "restricted"), ("Vendor EULA", "compatible")],
+        [("NOASSERTION", "restricted"), ("GPL-3.0", "compatible"), ("Vendor EULA", "compatible")],
     )
     def test_rejects_unapproved_asset_redistribution(self, tmp_path, license_name, distribution):
         archive_root = tmp_path / "archive"

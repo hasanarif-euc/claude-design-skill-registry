@@ -7,6 +7,7 @@ Implements automated security checks for skill registry
 import hashlib
 import json
 import sys
+from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, List, TextIO, Tuple
@@ -24,6 +25,7 @@ from security_rules import (
     DANGEROUS_PATTERNS,
     INJECTION_PATTERNS,
     OBFUSCATION_EXEC_PATTERNS,
+    SECURITY_CHECK_GROUPS,
     SENSITIVE_PATHS,
 )
 from security_scope import discover_scan_targets, resolve_scan_file_list
@@ -68,6 +70,7 @@ def security_ruleset_hash() -> str:
             "bundled_scan_root_files": BUNDLED_SCAN_ROOT_FILES,
             "bundled_scan_extensions": sorted(BUNDLED_SCAN_EXTENSIONS),
             "bundled_binary_extensions": sorted(BUNDLED_BINARY_EXTENSIONS),
+            "check_groups": list(SECURITY_CHECK_GROUPS),
         }
     )
 
@@ -257,6 +260,14 @@ class SecurityScanner:
             "issue_count": len(issues),
             "error_count": error_count,
             "warning_count": warning_count,
+            "checks": list(SECURITY_CHECK_GROUPS),
+            "finding_types": dict(
+                sorted(
+                    Counter(
+                        f"{issue.get('severity')}:{issue.get('type')}" for issue in issues
+                    ).items()
+                )
+            ),
         }
 
     def _extract_frontmatter(self, content: str) -> dict:

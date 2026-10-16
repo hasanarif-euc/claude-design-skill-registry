@@ -34,11 +34,12 @@ from skill_asset_audit import (
     classify_skill_text,
     verdict_from_counts,
 )
+from sync_download_support import asset_redistribution_approved
 from sync_pipeline_support import (
     has_case_conflicting_paths,
     is_valid_git_source_ref,
 )
-from utils import build_skill_key, classify_license, normalize_license
+from utils import build_skill_key, normalize_license
 
 REPO_PATTERN = re.compile(r"^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$")
 
@@ -382,7 +383,7 @@ def _scan_inventory(root: str, min_stars: int) -> tuple[dict, list[dict]]:
         distribution = str(metadata.get("distribution") or "").strip()
         distribution_error = (
             "asset_redistribution_not_approved"
-            if classify_license(license_name) != "compatible" or distribution != "compatible"
+            if not asset_redistribution_approved(metadata)
             else ""
         )
         if (

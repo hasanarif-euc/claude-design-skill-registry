@@ -2662,7 +2662,7 @@ def test_required_bundle_rejects_unapproved_redistribution_before_listing(tmp_pa
                         "repo": "acme/demo",
                         "path": "SKILL.md",
                         "category": "development",
-                        "license": "GPL-3.0",
+                        "license": "NOASSERTION",
                         "distribution": "restricted",
                     }
                 ]
@@ -2712,7 +2712,7 @@ def test_optional_unapproved_bundle_is_not_redistributed(tmp_path, monkeypatch):
                         "repo": "acme/demo",
                         "path": "SKILL.md",
                         "category": "development",
-                        "license": "GPL-3.0",
+                        "license": "NOASSERTION",
                         "distribution": "restricted",
                     }
                 ]
@@ -2766,6 +2766,97 @@ def test_select_shard_skills_is_deterministic():
     first = module.select_shard_skills(skills, shard_count=3, shard_index=1)
     second = module.select_shard_skills(skills, shard_count=3, shard_index=1)
     assert first == second
+
+
+@pytest.mark.parametrize("pinned", [False, True])
+@pytest.mark.parametrize("license_case", [
+    "root", "local", "missing", "empty", "unavailable", "symlink", "empty_response", "omitted_source",
+])
+def test_gpl_archive_keeps_reference_and_license_or_fails_closed(tmp_path, monkeypatch, pinned, license_case):
+    module = load_module()
+    repo = "acme/gpl-skill"
+    source_dir = ".claude/skills/demo"
+    source_path = f"{source_dir}/SKILL.md"
+    reference_path = f"{source_dir}/references/guide.md"
+    license_path = f"{source_dir}/LICENSE.md" if license_case == "local" else "LICENSE"
+    sha = "a" * 40
+    ref = sha if pinned else "main"
+    skill_body = (
+        b"---\nname: demo\ndescription: " + b"GPL source description. " * 30
+        + b"\n---\n# Demo\nRead references/guide.md.\n"
+    )
+    reference_body = b"# Guide\nKeep the original source and its attribution.\n"
+    license_body = b"" if license_case == "empty" else b"GNU GENERAL PUBLIC LICENSE\nVersion 3, 29 June 2007\n"
+    files = {source_path: skill_body, reference_path: reference_body}
+    if license_case != "missing":
+        files[license_path] = license_body
+    if license_case == "local":
+        files["LICENSE"] = b"Different repository-level terms; do not override the skill license.\n"
+    if license_case == "omitted_source":
+        files[f"{source_dir}/lib/helper.py"] = b"print('Required GPL source')\n"
+    tree = [git_blob_entry(path, body) for path, body in files.items()]
+    if license_case == "symlink":
+        next(entry for entry in tree if entry["path"] == license_path)["mode"] = "120000"
+    routes = exact_repo_routes(repo, "main", sha, tree) if pinned else {}
+    raw_base = f"https://raw.githubusercontent.com/{repo}/{ref}"
+    for path, body in files.items():
+        routes[f"{raw_base}/{path}"] = FakeResponse(200, body=body, text=body.decode())
+    if license_case == "unavailable":
+        routes[f"{raw_base}/{license_path}"] = FakeResponse(404)
+    if license_case == "empty_response":
+        routes[f"{raw_base}/{license_path}"] = FakeResponse(200, body=b"")
+    if not pinned:
+        for directory in ("", source_dir, f"{source_dir}/references"):
+            contents = [
+                {"type": "symlink" if license_case == "symlink" and path == license_path else "file",
+                 "path": path, "size": len(body), "download_url": f"{raw_base}/{path}"}
+                for path, body in files.items()
+                if path.rpartition("/")[0] == directory
+            ]
+            if directory == source_dir:
+                contents.append({"type": "dir", "path": f"{source_dir}/references"})
+                if license_case == "omitted_source":
+                    contents.append({"type": "dir", "path": f"{source_dir}/lib"})
+            suffix = f"/{directory}" if directory else ""
+            routes[f"https://api.github.com/repos/{repo}/contents{suffix}?ref=main"] = FakeResponse(200, json_payload=contents)
+    install_fake_aiohttp(monkeypatch, routes)
+    registry_path = tmp_path / "registry.json"
+    registry_path.write_text(json.dumps({"skills": [{
+        "name": "demo", "repo": repo, "path": source_path, "category": "development",
+        "description": "Short catalog summary must not replace upstream GPL source text.",
+        "github_branch": "main", "license": "GPL-3.0", "distribution": "restricted",
+        "permission_note": "Separate source work, redistributed under upstream GPL-3.0 terms.",
+    }]}))
+    output_dir = tmp_path / "skills"
+    stats = asyncio.run(module.download_skills(
+        registry_path, output_dir, manifest_path=None, cleanup_ci_untracked=False,
+        exact_paths_only=pinned, pin_commit_sha=pinned,
+    ))
+    if license_case not in {"root", "local"}:
+        assert stats["downloaded"] == 0
+        assert stats["failed"] == 1
+        assert not list(output_dir.rglob("SKILL.md"))
+        assert not list(output_dir.rglob("metadata.json"))
+        return
+    assert stats["downloaded"] == 1
+    assert stats["failed"] == 0
+    archive = next(output_dir.glob("development/*"))
+    assert (archive / "SKILL.md").read_bytes() == skill_body
+    assert (archive / "references/guide.md").read_bytes() == reference_body
+    license_filename = license_path.rsplit("/", 1)[-1]
+    assert (archive / license_filename).read_bytes() == license_body
+    if license_case == "local":
+        assert not (archive / "LICENSE").exists()
+    metadata = json.loads((archive / "metadata.json").read_text())
+    assert metadata["license"] == "GPL-3.0"
+    assert metadata["distribution"] == "restricted"
+    assert metadata["bundled_files"] == [license_filename, "references/guide.md"]
+    assert metadata["license_source_paths"] == {license_filename: license_path}
+    if pinned:
+        assert metadata["github_commit_sha"] == sha
+        assert metadata["bundled_file_blobs"] == {
+            license_filename: git_blob_sha(license_body), "references/guide.md": git_blob_sha(reference_body),
+        }
 
 
 def test_select_shard_skills_partition_has_no_overlap():

@@ -35,6 +35,10 @@ logger = logging.getLogger(__name__)
 GITHUB_API = "https://api.github.com"
 GITHUB_RAW = "https://raw.githubusercontent.com"
 
+# Fail closed before a pathological tree consumes unbounded requests or work.
+MAX_TREE_REQUESTS = 1000
+MAX_TREE_ENTRIES = 1_000_000
+
 # Topics to search for
 SKILL_TOPICS = [
     "claude-code-skills",
@@ -363,6 +367,55 @@ class GitHubTopicDiscovery:
         logger.info(f"Total discovered: {len(self.discovered_repos)} repositories")
         return list(self.discovered_repos)
 
+    def _walk_tree_skill_paths(self, repo, root_sha):
+        """Enumerate a truncated snapshot by immutable, nonrecursive tree SHAs."""
+        pending = [("", root_sha, frozenset())]
+        cache = {}
+        paths = []
+        expanded_entries = 0
+
+        def incomplete(reason):
+            return RuntimeError(f"{reason} for {repo}; cannot complete repository discovery")
+
+        while pending:
+            self._check_budget()
+            prefix, sha, ancestors = pending.pop()
+            if sha in ancestors:
+                raise incomplete("GitHub tree ancestry cycle")
+            if sha not in cache:
+                if len(cache) >= MAX_TREE_REQUESTS:
+                    raise incomplete("GitHub tree request limit exceeded")
+                # Omit recursive entirely: even recursive=0 enables recursion.
+                tree = self._request(f"{GITHUB_API}/repos/{repo}/git/trees/{quote(sha, safe='')}")
+                if (not isinstance(tree, dict) or tree.get("sha") != sha
+                        or tree.get("truncated") is not False
+                        or not isinstance(tree.get("tree"), list)):
+                    raise incomplete("GitHub returned an incomplete or malformed subtree")
+                cache[sha] = tree["tree"]
+            entries = cache[sha]
+            # A SHA can be mounted at multiple paths. Reuse the response, but count
+            # and expand each occurrence so neither files nor work are hidden.
+            expanded_entries += len(entries)
+            if expanded_entries > MAX_TREE_ENTRIES:
+                raise incomplete("GitHub tree expanded entry limit exceeded")
+            child_ancestors = ancestors | {sha}
+            for entry in entries:
+                self._check_budget()
+                if (not isinstance(entry, dict)
+                        or not isinstance(entry.get("path"), str)
+                        or not entry["path"] or "/" in entry["path"]
+                        or entry.get("type") not in {"blob", "tree", "commit"}):
+                    raise incomplete("GitHub returned a malformed subtree entry")
+                path = prefix + entry["path"]
+                if entry["type"] == "tree":
+                    child_sha = entry.get("sha")
+                    if not isinstance(child_sha, str) or not child_sha:
+                        raise incomplete("GitHub returned a subtree without a SHA")
+                    pending.append((path + "/", child_sha, child_ancestors))
+                elif entry["type"] == "blob" and self._is_skill_md_path(path):
+                    paths.append(path)
+        return sorted(paths)
+
     def get_skill_files_from_repo(self, repo):
         """Find all SKILL.md files in a repository"""
         if is_registry_repo(repo):
@@ -396,17 +449,24 @@ class GitHubTopicDiscovery:
             tree = self._request(
                 f"{GITHUB_API}/repos/{repo}/git/trees/{branch}", {"recursive": "1"}
             )
-            if tree["truncated"] is not False:
+            if tree["truncated"] is True:
+                root_sha = tree.get("sha")
+                if not isinstance(root_sha, str) or not root_sha:
+                    raise RuntimeError(f"GitHub returned a truncated tree without a root SHA for {repo}; cannot complete repository discovery") from None
+                paths = self._walk_tree_skill_paths(repo, root_sha)
+            elif tree["truncated"] is not False:
                 raise RuntimeError(f"GitHub returned a truncated tree for {repo}; cannot complete repository discovery") from None
+            else:
+                paths = [entry["path"] for entry in tree["tree"]
+                         if entry["type"] == "blob" and self._is_skill_md_path(entry["path"])]
             return [
                 {
                     "repo": repo,
-                    "path": entry["path"],
-                    "html_url": f"https://github.com/{repo}/blob/{branch}/{quote(entry['path'])}",
+                    "path": path,
+                    "html_url": f"https://github.com/{repo}/blob/{branch}/{quote(path)}",
                     "branch": default_branch,
                 }
-                for entry in tree["tree"]
-                if entry["type"] == "blob" and self._is_skill_md_path(entry["path"])
+                for path in paths
             ]
         except requests.HTTPError as exc:
             # A repository can disappear or become private between batches.

@@ -784,6 +784,173 @@ def test_incomplete_repo_search_reads_complete_default_branch_tree(monkeypatch, 
     ]
 
 
+def truncated_tree_discovery(monkeypatch, trees, *, branch="feature/skills"):
+    """Provide only API fixtures; unexpected requests fail the test."""
+    module = load_module()
+    discovery = module.GitHubTopicDiscovery(request_delay=0)
+    discovery.checkpointed = True
+    calls = []
+
+    def request(url, params=None):
+        calls.append((url, params))
+        if url.endswith("/search/code"):
+            raise module.IncompleteDiscoveryResults("incomplete index")
+        if url == f"{module.GITHUB_API}/repos/acme/demo":
+            return {"default_branch": branch}
+        if params == {"recursive": "1"}:
+            assert url.endswith("/" + module.quote(branch, safe=""))
+            # This partial hit must never leak into the complete inventory.
+            return {"sha": "root", "truncated": True,
+                    "tree": [{"type": "blob", "path": "partial/SKILL.md"}]}
+        assert params is None, "Even recursive=0 or false enables GitHub recursion"
+        sha = url.rsplit("/", 1)[-1]
+        payload = trees[sha]
+        if isinstance(payload, Exception):
+            raise payload
+        return payload
+
+    monkeypatch.setattr(discovery, "_request", request)
+    return module, discovery, calls
+
+
+def tree_payload(sha, *entries):
+    return {"sha": sha, "truncated": False, "tree": list(entries)}
+
+
+def test_truncated_recursive_tree_walk_preserves_repeated_subtree_paths(monkeypatch):
+    trees = {
+        "root": tree_payload("root",
+            {"type": "blob", "path": "SKILL.md"},
+            {"type": "tree", "path": "first", "sha": "shared"},
+            {"type": "tree", "path": "second copy", "sha": "shared"},
+            {"type": "commit", "path": "submodule", "sha": "external"}),
+        "shared": tree_payload("shared",
+            {"type": "tree", "path": "nested", "sha": "leaf"},
+            {"type": "blob", "path": "SKILL.md.bak"},
+            {"type": "blob", "path": "README.md"}),
+        "leaf": tree_payload("leaf", {"type": "blob", "path": "skill.md"}),
+    }
+    module, discovery, calls = truncated_tree_discovery(monkeypatch, trees)
+    paths = ["SKILL.md", "first/nested/skill.md", "second copy/nested/skill.md"]
+    assert discovery.get_skill_files_from_repo("acme/demo") == [
+        {"repo": "acme/demo", "path": path, "branch": "feature/skills",
+         "html_url": f"https://github.com/acme/demo/blob/feature%2Fskills/{module.quote(path)}"}
+        for path in paths
+    ]
+    tree_calls = [(url.rsplit("/", 1)[-1], params) for url, params in calls[3:]]
+    assert sorted(tree_calls) == [("leaf", None), ("root", None), ("shared", None)]
+
+
+def test_truncated_recursive_tree_can_prove_empty_inventory(monkeypatch):
+    _, discovery, _ = truncated_tree_discovery(monkeypatch, {"root": tree_payload("root")})
+    assert discovery.get_skill_files_from_repo("acme/demo") == []
+
+
+@pytest.mark.parametrize("payload", [
+    None, {}, {"sha": "root", "truncated": False},
+    {"sha": "root", "tree": []},
+    {"sha": "root", "truncated": True, "tree": []},
+    {"sha": "root", "truncated": 0, "tree": []},
+    {"sha": "other", "truncated": False, "tree": []},
+    {"sha": "root", "truncated": False, "tree": {}},
+    tree_payload("root", None),
+    tree_payload("root", {"type": "tree", "path": "missing-sha"}),
+    tree_payload("root", {"type": "blob", "path": ""}),
+    tree_payload("root", {"type": "blob", "path": "nested/SKILL.md"}),
+    tree_payload("root", {"type": "unknown", "path": "SKILL.md"}),
+])
+def test_truncated_tree_walk_rejects_incomplete_or_malformed_response(monkeypatch, payload):
+    _, discovery, _ = truncated_tree_discovery(monkeypatch, {"root": payload})
+    with pytest.raises(RuntimeError, match="cannot complete repository discovery"):
+        discovery.get_skill_files_from_repo("acme/demo")
+
+
+def test_truncated_tree_walk_rejects_ancestry_cycles(monkeypatch):
+    trees = {
+        "root": tree_payload("root", {"type": "tree", "path": "child", "sha": "child"}),
+        "child": tree_payload("child", {"type": "tree", "path": "loop", "sha": "root"}),
+    }
+    _, discovery, calls = truncated_tree_discovery(monkeypatch, trees)
+    with pytest.raises(RuntimeError, match="cycle"):
+        discovery.get_skill_files_from_repo("acme/demo")
+    assert len(calls) == 5
+
+
+@pytest.mark.parametrize("cap, limit, succeeds", [
+    ("MAX_TREE_REQUESTS", 1, False), ("MAX_TREE_REQUESTS", 2, True),
+    ("MAX_TREE_ENTRIES", 3, False), ("MAX_TREE_ENTRIES", 4, True),
+])
+def test_truncated_tree_walk_enforces_fetch_and_expansion_limits(monkeypatch, cap, limit, succeeds):
+    trees = {
+        "root": tree_payload("root",
+            {"type": "tree", "path": "first", "sha": "shared"},
+            {"type": "tree", "path": "second", "sha": "shared"}),
+        "shared": tree_payload("shared", {"type": "blob", "path": "SKILL.md"}),
+    }
+    module, discovery, calls = truncated_tree_discovery(monkeypatch, trees)
+    monkeypatch.setattr(module, cap, limit)
+    if succeeds:
+        assert [skill["path"] for skill in discovery.get_skill_files_from_repo("acme/demo")] == [
+            "first/SKILL.md", "second/SKILL.md"]
+    else:
+        with pytest.raises(RuntimeError, match="limit"):
+            discovery.get_skill_files_from_repo("acme/demo")
+    assert len(calls[3:]) <= (limit if cap == "MAX_TREE_REQUESTS" else 2)
+
+
+@pytest.mark.parametrize("failure", ["http", "timeout", "truncated", "budget"])
+def test_later_subtree_failure_keeps_checkpoint_and_discards_early_skill(tmp_path, monkeypatch, failure):
+    trees = {
+        "root": tree_payload("root", {"type": "blob", "path": "SKILL.md"},
+                             {"type": "tree", "path": "later", "sha": "later"}),
+    }
+    module, discovery, _ = truncated_tree_discovery(monkeypatch, trees)
+    response = module.requests.Response()
+    response.status_code = 404
+    error = module.requests.HTTPError("subtree unavailable", response=response)
+    if failure == "timeout":
+        error = module.requests.Timeout("subtree timed out")
+    elif failure == "budget":
+        error = module.DiscoveryBudgetExpired()
+    trees["later"] = ({"sha": "later", "truncated": True, "tree": []}
+                      if failure == "truncated" else error)
+    monkeypatch.setattr(discovery, "download_skill",
+                        lambda *args, **kwargs: pytest.fail("incomplete inventory must not download"))
+    paths = batch_paths(tmp_path)
+    paths["time_budget_seconds"] = 0
+    original = '{"repos": ["acme/demo"], "next_repo": 0, "completed_at": null}'
+    paths["progress_path"].write_text(original)
+    expected = RuntimeError if failure in {"truncated", "budget"} else type(error)
+    with pytest.raises(expected) as raised:
+        discovery.run(**paths)
+    if failure in {"http", "timeout"}:
+        assert raised.value is error
+    assert paths["progress_path"].read_text() == original
+    assert not paths["output_json"].exists()
+    assert not discovery.repo_candidates["acme/demo"].get("unavailable")
+
+
+def test_truncated_tree_checks_budget_during_cached_expansion(monkeypatch):
+    trees = {
+        "root": tree_payload("root", {"type": "tree", "path": "first", "sha": "shared"},
+                             {"type": "tree", "path": "second", "sha": "shared"}),
+        "shared": tree_payload("shared", {"type": "blob", "path": "SKILL.md"}),
+    }
+    module, discovery, calls = truncated_tree_discovery(monkeypatch, trees)
+    checks_after_last_fetch = []
+
+    def check_budget(wait=0):
+        if len(calls) == 5:
+            checks_after_last_fetch.append(True)
+            if len(checks_after_last_fetch) == 2:
+                raise module.DiscoveryBudgetExpired()
+
+    monkeypatch.setattr(discovery, "_check_budget", check_budget)
+    with pytest.raises(module.DiscoveryBudgetExpired):
+        discovery.get_skill_files_from_repo("acme/demo")
+    assert len(calls) == 5
+
+
 @pytest.mark.parametrize("failure", ["truncated", "missing_flag", "missing_tree", "metadata_401", "metadata_403", "metadata_422", "metadata_500", "metadata_timeout", "metadata_no_response", "tree_404", "tree_409", "tree_500", "tree_timeout"])
 def test_incomplete_repo_search_tree_failure_cannot_complete_inventory(tmp_path, monkeypatch, failure):
     import json

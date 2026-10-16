@@ -220,3 +220,17 @@ INJECTION_PATTERNS = [
     re.compile(r"keep\s+(this|that)\s+(secret|hidden)", re.IGNORECASE),
     re.compile(r"don'?t\s+mention\s+you\s+used\s+this\s+skill", re.IGNORECASE),
 ]
+
+# Check groups run by SecurityScanner.scan_content, in order. Ids are recorded
+# in each security decision; labels are shown on generated skill guides.
+SECURITY_CHECK_GROUPS = {
+    "file_size": "File size limit",
+    "frontmatter": "Frontmatter and schema",
+    "dangerous_patterns": "Dangerous code patterns",
+    "sensitive_paths": "Sensitive file paths",
+    "bundled_files": "Bundled scripts and support files",
+    "blocked_sources": "Blocked source repositories",
+    "prompt_injection": "Prompt injection phrases",
+    "credentials": "Hardcoded credentials",
+    "obfuscated_exec": "Obfuscated execution chains",
+}

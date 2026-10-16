@@ -238,6 +238,8 @@ def test_build_search_index_consumes_security_decision_evidence(tmp_path):
                                 "content_sha256": "def456",
                                 "scanned_at": "2026-05-24T00:00:00Z",
                             },
+                            "checks": ["frontmatter", "credentials"],
+                            "finding_types": {"warning:sensitive_path": 1},
                         },
                         "issues": [],
                     }
@@ -264,6 +266,16 @@ def test_build_search_index_consumes_security_decision_evidence(tmp_path):
     record = shard["records"][0]
     assert record["security_status"] == "passed"
     assert record["security_decision"]["id"] == "decision123"
+    page_record = json.loads((output_dir / "page-catalog.json").read_text())["skills"][0]
+    assert page_record["security_scan"] == {
+        "scanner_version": "1.1.0",
+        "ruleset_sha256": "abc123",
+        "scanned_at": "2026-05-24T00:00:00Z",
+        "content_sha256": "def456",
+        "checks": ["frontmatter", "credentials"],
+        "finding_types": {"warning:sensitive_path": 1},
+    }
+    assert "security_scan" not in json.loads((output_dir / "search-index-lite.json").read_text())["skills"][0]
 
 
 def test_build_search_index_consumes_external_security_report_without_publishing_raw(tmp_path):
