@@ -451,7 +451,31 @@ def test_publish_static_pages_receives_catalog_archive_and_output_together(mirro
         *(["--archive", "/tmp/publish/skills"] if mirror_skills else []),
         "--output",
         "/tmp/publish/docs",
+        "--archive-source",
+        "/tmp/publish/skills",
     ]
+
+
+def test_publish_static_pages_pass_install_pins_when_core_provides_them(tmp_path):
+    sync_script = read_repo_file("scripts/sync_main_repo.sh")
+    command = sync_script[sync_script.index('if [[ "$rebuild" -eq 1 ]]') :]
+    command = command.split('\n  run_step "Remove temporary guide catalog"', 1)[0] + '\nfi'
+    (tmp_path / "install-pins.json").write_text('{"pins": {}}', encoding="utf-8")
+    result = subprocess.run(
+        [
+            "bash",
+            "-eu",
+            "-c",
+            f'main_dir="{tmp_path}"\narchive_dir=/tmp/archive\nrebuild=1\nmirror_skills=0\n'
+            'mktemp() { :; }\nmkdir() { :; }\n'
+            'run_step() { if [[ "$1" == "Build static featured skill pages" ]]; then '
+            'printf "%s\\n" "$@"; fi; }\n' + command,
+        ],
+        capture_output=True,
+        text=True,
+        check=True,
+    )
+    assert result.stdout.splitlines()[-2:] == ["--install-pins", f"{tmp_path}/install-pins.json"]
 
 
 @pytest.mark.parametrize("mirror_skills", [0, 1])
@@ -527,7 +551,7 @@ def test_publish_sync_rebuild_steps_read_the_selected_archive_dir():
     rebuild_block = sync_script[sync_script.index('if [[ "$rebuild" -eq 1 ]]') :]
 
     assert '"$main_dir/skills"' not in rebuild_block
-    assert rebuild_block.count('"$archive_dir"') == 6
+    assert rebuild_block.count('"$archive_dir"') == 7
     selection = sync_script[
         sync_script.index('if [[ "$mirror_skills" -eq 1 ]]') : sync_script.index(
             'if [[ "$rebuild" -eq 1 ]]'

@@ -464,6 +464,8 @@ def build_search_index(
                     "is_canonical": records["full"]["id"] == canonical_id,
                 })
     page_records = attach_security_scans(select_featured_skills(independent_skills), security_records_by_id)
+    for record in page_records:
+        record["archive_path"] = records_by_key[f"{record['install']}|{record['branch']}"]["lite"].get("archive_path", "")
     safe_write_json(output_dir / "page-catalog.json", {
         "schema_version": 1,
         "updated_at": utc_now_isoformat(),
