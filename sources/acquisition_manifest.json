@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T16:13:42.675283Z",
-  "total_count": 1696,
+  "updated_at": "2026-10-17T19:11:04.364285Z",
+  "total_count": 1697,
   "entries": {
     "Xquik-dev/x-twitter-scraper": {
       "repo": "Xquik-dev/x-twitter-scraper",
@@ -10123,71 +10123,68 @@
       "repo": "tuantqse90/moltnode-mcp",
       "branch": "main",
       "relative_path": "skills/chord-charts/SKILL.md",
-      "commit_sha": "ff8de7c5182ce308f823a4a4db2a3804c2532c8a",
       "updated_at": "2026-10-16T16:13:27.566838Z"
     },
     "moooai/takeout-coupon:name:takeout-coupon": {
       "repo": "moooai/takeout-coupon",
       "branch": "main",
       "relative_path": "SKILL.md",
-      "commit_sha": "a4f393b891c8d7d0d81c53580651c570cd3d4e6c",
       "updated_at": "2026-10-16T16:13:28.042625Z"
     },
     "getchordlabs/chord:skills/chord": {
       "repo": "getchordlabs/chord",
       "branch": "main",
       "relative_path": "skills/chord/SKILL.md",
-      "commit_sha": "549999a19f74afb42176b6a7815db4c28e845a3f",
       "updated_at": "2026-10-16T16:13:29.376078Z"
     },
     "tuantqse90/moltnode-mcp:skills/moltnode": {
       "repo": "tuantqse90/moltnode-mcp",
       "branch": "main",
       "relative_path": "skills/moltnode/SKILL.md",
-      "commit_sha": "ff8de7c5182ce308f823a4a4db2a3804c2532c8a",
       "updated_at": "2026-10-16T16:13:30.280741Z"
     },
     "risingfish/falsify-claude-skill:.claude/skills/falsify/SKILL.md": {
       "repo": "risingfish/falsify-claude-skill",
       "branch": "main",
       "relative_path": ".claude/skills/falsify/SKILL.md",
-      "commit_sha": "5908ca90d000867b53d1530535e20a8f02136d57",
       "updated_at": "2026-10-16T16:13:31.875598Z"
     },
     "moooai/obtain-coupons-all-in-one:name:obtain-coupons-all-in-one": {
       "repo": "moooai/obtain-coupons-all-in-one",
       "branch": "master",
       "relative_path": "SKILL.md",
-      "commit_sha": "1c4ecd7800843d47e2f0b9823384f8033870e471",
       "updated_at": "2026-10-16T16:13:32.217988Z"
     },
     "moooai/parcel-coupon:name:parcel-coupon": {
       "repo": "moooai/parcel-coupon",
       "branch": "master",
       "relative_path": "SKILL.md",
-      "commit_sha": "dacdde81a90e4db12063a73eae480f9c947c02d9",
       "updated_at": "2026-10-16T16:13:32.275154Z"
     },
     "moooai/movie-coupon:name:movie-coupon": {
       "repo": "moooai/movie-coupon",
       "branch": "master",
       "relative_path": "SKILL.md",
-      "commit_sha": "1636113e8f5cb3f8ba6fe30adac170e64d0191fe",
       "updated_at": "2026-10-16T16:13:32.416943Z"
     },
     "moooai/trip-coupon:name:trip-coupon": {
       "repo": "moooai/trip-coupon",
       "branch": "master",
       "relative_path": "SKILL.md",
-      "commit_sha": "ca075a7bcf98d867630d29e5e6ebe418892bab26",
       "updated_at": "2026-10-16T16:13:32.827016Z"
     },
     "tubeagentkit/youtube-transcript-skills:skills/youtube-transcript": {
       "repo": "tubeagentkit/youtube-transcript-skills",
       "branch": "main",
       "relative_path": "skills/youtube-transcript/SKILL.md",
-      "commit_sha": "95677657f5d213bd63ebcd82c01205007fcd2acb",
       "updated_at": "2026-10-16T16:13:33.390270Z"
+    },
+    "SergiuPogor/curlshot-mcp:skills/curlshot/SKILL.md": {
+      "repo": "SergiuPogor/curlshot-mcp",
+      "branch": "main",
+      "relative_path": "skills/curlshot/SKILL.md",
+      "commit_sha": "06ea9d6b64020bbe902fab585625ec014345765c",
+      "updated_at": "2026-10-17T19:10:55.823527Z"
     }
   }
 }
