@@ -537,6 +537,17 @@ def bundled_file_blobs_match(
     return True
 
 
+def download_source_label(skill: dict) -> str:
+    """Identify a failed source even when discovery supplied no display name."""
+    repo = skill.get("repo") or "<missing repo>"
+    path = skill.get("path") or "<unspecified path>"
+    branch = skill.get("github_branch") or skill.get("branch") or "<unresolved branch>"
+    commit = skill.get("github_commit_sha")
+    revision = f"{branch}@{commit}" if commit else branch
+    name = (skill.get("name") or "unknown").strip() or "unknown"
+    return f"{repo}:{path} [{revision}] ({name})"
+
+
 def classify_download_result(skill: dict, result: object) -> tuple[bool, str]:
     """Classify an async task result and retain unexpected exception details."""
     if isinstance(result, BaseException) and not isinstance(result, Exception):
@@ -544,8 +555,7 @@ def classify_download_result(skill: dict, result: object) -> tuple[bool, str]:
     if result is True:
         return True, ""
     if isinstance(result, Exception):
-        name = (skill.get("name") or "unknown").strip() or "unknown"
-        return False, f"{name}: {type(result).__name__}: {result}"
+        return False, f"{download_source_label(skill)}: {type(result).__name__}: {result}"
     return False, ""
 
 

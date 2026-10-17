@@ -1216,6 +1216,25 @@ def test_public_catalog_excludes_registry_and_groups_exact_body_copies(tmp_path)
     assert all(record["u"].startswith("skills/") for record in featured["skills"])
 
 
+def test_highlighted_limit_counts_content_groups_and_keeps_all_sources(tmp_path, monkeypatch):
+    monkeypatch.setattr("build_search_index.LITE_INDEX_LIMIT", 2)
+    skills = [
+        _skill(repo="acme/original", install="acme/original", content_fingerprint="a", stars=100),
+        _skill(repo="acme/copy", install="acme/copy", content_fingerprint="a", stars=90),
+        _skill(repo="acme/distinct", install="acme/distinct", content_fingerprint="b", stars=1),
+    ]
+    build_search_index(skills, tmp_path)
+    lite = json.loads((tmp_path / "search-index-lite.json").read_text())
+    assert lite["included_count"] == 2
+    assert {record["install"] for record in lite["skills"]} == {"acme/original", "acme/distinct"}
+    assert all(record["is_canonical"] for record in lite["skills"])
+    details = [record for path in (tmp_path / "skill-detail-shards").glob("*.json")
+               for record in json.loads(path.read_text())["skills"]]
+    assert len(details) == 3
+    canonical = next(record for record in details if record["install"] == "acme/original")
+    assert {copy["repo"] for copy in canonical["source_copies"]} == {"acme/original", "acme/copy"}
+
+
 def test_canonical_fields_reuse_body_groups_and_store_sources_once(tmp_path, monkeypatch):
     monkeypatch.setattr("build_search_index.LITE_INDEX_LIMIT", 1)
     skills = [

@@ -27,6 +27,7 @@ from sync_download_support import (
     collect_pinned_tree_entries,
     content_matches_git_blob,
     download_bundled_files_to_directory,
+    download_source_label,
     exact_source_branch,
     read_response_bytes_limited,
     resolve_exact_commit_sha,
@@ -349,13 +350,16 @@ async def download_skills(
         category = sanitize_category(skill.get("category", "other"))
         require_license = normalize_license(skill.get("license", "")) in GPL_SOURCE_LICENSES
         candidate_key = skill_key(skill)
+        failure_source = download_source_label(
+            {**skill, "repo": repo, "path": path, "github_commit_sha": ""}
+        )
 
         if not repo:
-            failures["no_repo"].append(name)
+            failures["no_repo"].append(failure_source)
             add_observation(skill, outcome="failed", failure_reason="no_repo")
             return False
         if path and not is_safe_portable_relative_path(path):
-            failures["invalid_source_path"].append(name)
+            failures["invalid_source_path"].append(failure_source)
             add_observation(skill, outcome="failed", failure_reason="invalid_source_path")
             return False
         blocked_source = blocked_metadata_source(
@@ -371,7 +375,7 @@ async def download_skills(
             blocked_entry, source_field = blocked_source
             reason = blocked_entry.get("reason") or "blocked source repo"
             failures["blocked_source"].append(
-                f"{blocked_entry['repo']}: {name} via {source_field} ({reason})"
+                f"{failure_source}: blocked {blocked_entry['repo']} via {source_field} ({reason})"
             )
             add_observation(skill, outcome="failed", failure_reason="blocked_source")
             logger.warning(
@@ -392,7 +396,7 @@ async def download_skills(
 
         if exact_paths_only:
             if not path or path.rsplit("/", 1)[-1].casefold() != "skill.md":
-                failures["invalid_exact_path"].append(name)
+                failures["invalid_exact_path"].append(failure_source)
                 add_observation(skill, outcome="failed", failure_reason="invalid_exact_path")
                 return False
             relative_candidates = [path]
@@ -401,12 +405,13 @@ async def download_skills(
             relative_candidates = build_relative_probe_order(relative_candidates, manifest_entry)
         attempts = 0
         commit_resolution_failed = False
+        attempt_history = []
 
         async with semaphore:
             if exact_paths_only and pin_commit_sha:
                 recorded_branch = exact_source_branch(skill)
                 if not recorded_branch:
-                    failures["missing_exact_branch"].append(name)
+                    failures["missing_exact_branch"].append(failure_source)
                     add_observation(skill, outcome="failed", failure_reason="missing_exact_branch")
                     return False
                 branch_order = [recorded_branch]
@@ -416,6 +421,10 @@ async def download_skills(
                 )
             for branch in branch_order:
                 download_ref = branch
+                failure_source = download_source_label({
+                    **skill, "repo": repo, "path": path,
+                    "github_branch": branch, "github_commit_sha": "",
+                })
                 if pin_commit_sha:
                     try:
                         download_ref = await resolve_exact_commit_sha(
@@ -429,9 +438,16 @@ async def download_skills(
                         )
                     except Exception as exc:  # noqa: BLE001 — recorded as a failed branch
                         commit_resolution_failed = True
+                        attempt_history.append(f"{failure_source}: {type(exc).__name__}: {exc}")
                         logger.warning("Unable to pin %s@%s: %s", repo, branch, exc)
                         continue
                 for relative_path in relative_candidates:
+                    failure_source = download_source_label({
+                        **skill, "repo": repo, "path": relative_path,
+                        "github_branch": branch,
+                        "github_commit_sha": download_ref if pin_commit_sha else "",
+                    })
+                    attempt_history.append(failure_source)
                     encoded_path = quote(relative_path, safe="/")
                     url = f"{GITHUB_RAW_BASE}/{repo}/{download_ref}/{encoded_path}"
                     attempts += 1
@@ -452,7 +468,7 @@ async def download_skills(
                                 else None
                             )
                         except BundledListingError as exc:
-                            failures["bundled_listing_failed"].append(f"{name}: {exc}")
+                            failures["bundled_listing_failed"].append(f"{failure_source}: {exc}")
                             stats["url_attempts"] += attempts
                             add_observation(
                                 skill,
@@ -515,7 +531,7 @@ async def download_skills(
                                     redistribution_approved = asset_redistribution_approved(skill)
                                     if require_complete_archive and not redistribution_approved:
                                         failure_reason = "asset_redistribution_not_approved"
-                                        failures[failure_reason].append(name)
+                                        failures[failure_reason].append(failure_source)
                                         stats["url_attempts"] += attempts
                                         add_observation(
                                             skill,
@@ -569,7 +585,7 @@ async def download_skills(
                                         )
                                         shutil.rmtree(skill_dir, ignore_errors=True)
                                         failures[failure_reason].append(
-                                            f"{name}: {', '.join(bundled_failures)}"
+                                            f"{failure_source}: {', '.join(bundled_failures)}"
                                         )
                                         stats["url_attempts"] += attempts
                                         add_observation(
@@ -618,7 +634,7 @@ async def download_skills(
                                         )
                                         shutil.rmtree(skill_dir, ignore_errors=True)
                                         failures["security_scan_failed"].append(
-                                            f"{repo}: {name} ({', '.join(issue_types[:8])})"
+                                            f"{failure_source}: {', '.join(issue_types[:8])}"
                                         )
                                         stats["url_attempts"] += attempts
                                         add_observation(
@@ -670,7 +686,7 @@ async def download_skills(
                                     )
                                     return True
                             elif resp.status == 403:
-                                failures["rate_limited"].append(name)
+                                failures["rate_limited"].append(failure_source)
                                 stats["url_attempts"] += attempts
                                 add_observation(
                                     skill,
@@ -682,13 +698,19 @@ async def download_skills(
                                 return False
                     except (asyncio.TimeoutError, aiohttp.ClientError):
                         continue
-                    except Exception:
+                    except Exception as exc:
                         if skill_dir is not None:
                             shutil.rmtree(skill_dir, ignore_errors=True)
-                        raise
+                        # Record here while the resolved revision and probed path
+                        # are available; the batch handler only has the input row.
+                        failures["internal_error"].append(
+                            f"{failure_source}: {type(exc).__name__}: {exc}"
+                        )
+                        add_observation(skill, outcome="failed", failure_reason="internal_error")
+                        return False
 
             failure_reason = "commit_resolution_failed" if commit_resolution_failed else "not_found"
-            failures[failure_reason].append(name)
+            failures[failure_reason].append("; ".join(attempt_history or [failure_source]))
             stats["url_attempts"] += attempts
             now_utc = utc_now()
             entry = negative_cache.get(candidate_key)

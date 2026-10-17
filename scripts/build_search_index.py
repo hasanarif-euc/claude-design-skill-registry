@@ -24,7 +24,11 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
-from build_static_skill_pages import attach_security_scans, group_skill_copies, select_featured_skills
+from build_static_skill_pages import (
+    attach_security_scans,
+    group_skill_copies,
+    select_featured_skills,
+)
 from category_taxonomy import get_category_code, get_taxonomy, resolve_category
 from index_artifacts import write_category_artifacts, write_search_artifacts, write_signal_artifacts
 from plugin_index import build_plugins_index, load_plugins_with_fallback
@@ -492,7 +496,9 @@ def build_search_index(
         {key: value for key, value in skill.items() if not key.startswith("_")}
         for skill in all_lite_skills
     ]
-    lite_skills = all_lite_skills[:LITE_INDEX_LIMIT]
+    # Copies remain addressable in full/detail artifacts, but must not consume
+    # the bounded startup slots that help users discover independent skills.
+    lite_skills = [skill for skill in all_lite_skills if skill["is_canonical"]][:LITE_INDEX_LIMIT]
     ranking_records = sorted(
         ranking_records_by_id.values(),
         key=lambda x: (

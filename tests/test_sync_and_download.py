@@ -1404,6 +1404,108 @@ def test_exact_download_rejects_truncated_asset_response(tmp_path, monkeypatch):
     assert report["failure_reasons"]["bundled_download_failed"] == 1
 
 
+@pytest.mark.parametrize("master_resolves", [False, True])
+def test_failed_branch_probes_retain_earlier_resolved_attempts(tmp_path, monkeypatch, master_resolves):
+    module = load_module()
+    path = "skills/demo/SKILL.md"
+    registry_path = tmp_path / "registry.json"
+    registry_path.write_text(json.dumps({"skills": [{"repo": "acme/demo", "path": path}]}))
+    body = b"---\nname: demo\ndescription: Demo instructions.\n---\n# Demo\n"
+    main_sha, master_sha = "9" * 40, "8" * 40
+    routes = exact_repo_routes("acme/demo", "main", main_sha, [git_blob_entry(path, body)])
+    if master_resolves:
+        routes.update(exact_repo_routes("acme/demo", "master", master_sha, [git_blob_entry(path, body)]))
+    install_fake_aiohttp(monkeypatch, routes)
+    monkeypatch.setitem(module.download_skills.__globals__, "build_relative_candidates", lambda *_args: [path])
+    monkeypatch.setitem(module.download_skills.__globals__, "BRANCHES", ["main", "master"])
+    report_path = tmp_path / "failure.json"
+    stats = asyncio.run(module.download_skills(
+        registry_path, tmp_path / "skills", manifest_path=None,
+        failure_report_path=report_path, cleanup_ci_untracked=False, pin_commit_sha=True,
+    ))
+    assert stats["failed"] == 1
+    report = json.loads(report_path.read_text())
+    reason = "not_found" if master_resolves else "commit_resolution_failed"
+    assert report["failure_reasons"] == {reason: 1}
+    failure = report["failures"][reason][0]
+    assert f"main@{main_sha}" in failure
+    assert "master" in failure
+    assert path in failure
+    if master_resolves:
+        assert f"master@{master_sha}" in failure
+
+
+@pytest.mark.parametrize("path", [None, ""])
+def test_preprobe_missing_path_is_not_reported_as_root_skill(tmp_path, monkeypatch, path):
+    module = load_module()
+    registry_path = tmp_path / "registry.json"
+    registry_path.write_text(json.dumps({"skills": [{"repo": "acme/demo", "path": path}]}))
+    report_path = tmp_path / "failure.json"
+    install_fake_aiohttp(monkeypatch, {})
+    stats = asyncio.run(module.download_skills(
+        registry_path, tmp_path / "skills", manifest_path=None,
+        failure_report_path=report_path, cleanup_ci_untracked=False, exact_paths_only=True,
+    ))
+    assert stats["failed"] == 1
+    report = json.loads(report_path.read_text())
+    failure = report["failures"]["invalid_exact_path"][0]
+    assert "acme/demo:<unspecified path>" in failure
+    assert "SKILL.md" not in failure
+
+
+@pytest.mark.parametrize("stage", ["commit", "listing", "not_found", "internal", "scan_exception"])
+def test_unnamed_download_failures_identify_source_and_attempted_revision(tmp_path, monkeypatch, stage):
+    module = load_module()
+    registry_path = tmp_path / "registry.json"
+    report_path = tmp_path / "failure.json"
+    skill = {"repo": "acme/demo", "path": "skills/demo/SKILL.md", "github_branch": "release",
+             "license": "MIT", "distribution": "compatible"}
+    registry_path.write_text(json.dumps({"skills": [skill]}))
+    sha = "9" * 40
+    body = b"---\nname: demo\ndescription: Demo instructions.\n---\n# Demo\n"
+    tree = [] if stage == "listing" else [git_blob_entry(skill["path"], body)]
+    routes = exact_repo_routes(skill["repo"], "release", sha, tree)
+    if stage == "scan_exception":
+        routes[f"https://raw.githubusercontent.com/acme/demo/{sha}/{skill['path']}"] = FakeResponse(200, body=body)
+        import security_scanner
+
+        def fail_scan(*_args, **_kwargs):
+            raise RuntimeError("unexpected scanner failure")
+        monkeypatch.setattr(security_scanner.SecurityScanner, "scan_file", fail_scan)
+    install_fake_aiohttp(monkeypatch, routes)
+    if stage == "commit":
+        async def fail_resolution(*_args, **_kwargs):
+            raise RuntimeError("revision lookup unavailable")
+        monkeypatch.setitem(module.download_skills.__globals__, "resolve_exact_commit_sha", fail_resolution)
+    if stage == "internal":
+        def fail_normalize(_repo):
+            raise RuntimeError("unexpected normalize failure")
+        monkeypatch.setitem(module.download_skills.__globals__, "normalize_download_repo", fail_normalize)
+    stats = asyncio.run(module.download_skills(
+        registry_path, tmp_path / "skills", manifest_path=None,
+        failure_report_path=report_path, cleanup_ci_untracked=False,
+        exact_paths_only=True, pin_commit_sha=True,
+    ))
+    assert stats["downloaded"] == 0 and stats["failed"] == 1
+    report = json.loads(report_path.read_text())
+    reason = {"commit": "commit_resolution_failed", "listing": "bundled_listing_failed",
+              "not_found": "not_found", "internal": "internal_error", "scan_exception": "internal_error"}[stage]
+    assert report["failure_reasons"] == {reason: 1}
+    failure = report["failures"][reason][0]
+    assert skill["repo"] in failure
+    assert skill["path"] in failure
+    assert "release" in failure
+    if stage in {"listing", "not_found", "scan_exception"}:
+        assert sha in failure
+    elif stage == "commit":
+        assert "revision lookup unavailable" in failure
+    else:
+        assert "unexpected normalize failure" in failure
+    if stage == "scan_exception":
+        assert "unexpected scanner failure" in failure
+    assert not list((tmp_path / "skills").rglob("SKILL.md"))
+
+
 def test_unexpected_skill_exception_is_recorded_in_failure_report(tmp_path, monkeypatch):
     module = load_module()
     registry_path = tmp_path / "registry.json"

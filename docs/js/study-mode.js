@@ -221,13 +221,21 @@
 
             pendingSearchTimer = globalScope.setTimeout(() => {
                 pendingSearchTimer = null;
-                if (lastRecordedSearchRevision === revision) return;
-                const recorded = recorder.track('search_submitted', {
-                    query_length_bucket: queryLengthBucket,
-                    result_count_bucket: bucketResultCount(visibleResultCount()),
-                    source
-                });
-                if (recorded) lastRecordedSearchRevision = revision;
+                const recordOutcome = () => {
+                    if (revision !== searchRevision || lastRecordedSearchRevision === revision) return;
+                    const recorded = recorder.track('search_submitted', {
+                        query_length_bucket: queryLengthBucket,
+                        result_count_bucket: bucketResultCount(visibleResultCount()),
+                        source
+                    });
+                    if (recorded) lastRecordedSearchRevision = revision;
+                };
+                const completion = globalScope.waitForSearchCompletion?.();
+                if (completion) {
+                    completion.then(completed => { if (completed) recordOutcome(); });
+                } else {
+                    recordOutcome();
+                }
             }, delayMs);
         }
 
@@ -350,7 +358,7 @@
             recorder.start(cohort);
             lastSkillInstall = '';
             pendingDetailSource = '';
-            searchRevision = 0;
+            searchRevision += 1;
             lastRecordedSearchRevision = -1;
             refreshControls('Recording started. No search text or personal identifier is stored.');
         });

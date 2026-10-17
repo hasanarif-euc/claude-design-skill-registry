@@ -270,6 +270,33 @@ documentHandlers.click({ target: pluginCopyTarget });
   assert.notStrictEqual(summary.events[1].details.source_view, 'random');
   assert.strictEqual(summary.events[2].details.source_view, 'random');
   assert.strictEqual(summary.events[3].details.source_view, 'random');
+
+  controls['study-start'].listeners.click();
+  let completeSearch;
+  const searchCompletion = new Promise(resolve => { completeSearch = resolve; });
+  fakeWindow.waitForSearchCompletion = () => searchCompletion;
+  controls['result-count'].textContent = '0 results in highlighted index';
+  searchTarget.value = 'old';
+  documentHandlers.input({ target: searchTarget });
+  flushTimers();
+  assert.strictEqual(study.recorder.summary().events.length, 0, 'wait for expanded results');
+  searchTarget.value = 'falsify';
+  documentHandlers.input({ target: searchTarget });
+  flushTimers();
+  controls['result-count'].textContent = '8 results';
+  completeSearch(true);
+  await Promise.resolve();
+  const searchEvents = study.recorder.summary().events;
+  assert.strictEqual(searchEvents.length, 1, 'discard replaced pending queries');
+  assert.strictEqual(searchEvents[0].details.result_count_bucket, study.bucketResultCount(8));
+  assert.strictEqual(searchEvents[0].details.query_length_bucket, study.bucketQueryLength('falsify'));
+
+  fakeWindow.waitForSearchCompletion = () => Promise.resolve(false);
+  searchTarget.value = 'failed search';
+  documentHandlers.input({ target: searchTarget });
+  flushTimers();
+  await Promise.resolve();
+  assert.strictEqual(study.recorder.summary().events.length, 1, 'failed or abandoned loads are not successful search outcomes');
   console.log(JSON.stringify(summary));
 })().catch(error => {
   console.error(error);

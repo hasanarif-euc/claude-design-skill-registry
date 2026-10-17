@@ -89,11 +89,14 @@ assert.strictEqual(node('result-count').textContent, '1 results in highlighted i
 assert(node('search-results').innerHTML.includes('href="skills/review-example/"'));
 assert(node('empty-state').classList.contains('hidden'));
 vm.runInContext('state.fuse.search = () => []', context);
+context.loadFullSearchIndex = async () => { throw Error('offline'); };
 context.search('missing');
 assert.strictEqual(node('result-count').textContent, '0 results in highlighted index');
-assert(!node('empty-state').classList.contains('hidden'));
+assert(node('empty-state').classList.contains('hidden'));
 
 (async () => {
+    await context.activateFullSearch();
+    assert(!node('empty-state').classList.contains('hidden'));
     context.fetchJson = async () => { throw Error('offline'); };
     await context.init();
     assert.strictEqual(node('search-scope').textContent,

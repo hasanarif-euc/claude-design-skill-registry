@@ -330,7 +330,7 @@ responses.set('search-index-lite.json', {
   await assert.rejects(loadFullSearchIndex(), /manifest count or identity mismatch/);
   searchManifest.shard_count = 2;
 
-  const actionState = { index: state.index, currentQuery: 'needle' };
+  const actionState = { index: state.index, currentQuery: 'needle', currentView: 'search' };
   const actionElements = {
     searchAllBtn: { disabled: false, textContent: '' },
     searchScope: { textContent: '' }
