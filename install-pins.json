@@ -82,7 +82,7 @@
    "repo": "thevibeworks/claude-code-docs",
    "branch": "main",
    "digest": "sha256:d91970639e9f5c37682ac7ab60094d35f1c7c1f38d731bd56396563aee10c1d3",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "-4hpqatxtssoeqb4rjrv73a6dmrmzpewa0xrisq3_sk": {
    "status": "pinned",
@@ -474,7 +474,7 @@
    "repo": "yo16/qr_code_create",
    "branch": "main",
    "digest": "sha256:88f8f02bccb380f397a312c9468eaebc25aedb30b452ebe304d55af3cd841a9a",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "-hkssx8lz4csbo95cxi_w_gnrvb3pkoabfggkrenqnu": {
    "status": "upstream_changed",
@@ -1002,7 +1002,7 @@
    "repo": "rshade/finfocus-plugin-azure-public",
    "branch": "main",
    "digest": "sha256:3cb14a5a4f902522e2a2d079fc29a3c55d7415ef719fdc58c6d9679a163e80de",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "-zhts-ghvemt2wu2ul2ivje0efizn7ecihgnfaunjdw": {
    "status": "bundled_files",
@@ -1561,7 +1561,7 @@
    "repo": "thevibeworks/claude-code-docs",
    "branch": "main",
    "digest": "sha256:b06c7420be08ca1c7f6d75f7f4709fdb787624a2d363e2f8052216d8c780f85b",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1b9e6bd14885004470858d4e6f450e11301881c9",
    "name": "claude-md-improver",
    "description": "Audit and improve CLAUDE.md files in repositories. Use when user asks to check, audit, update, improve, or fix CLAUDE.md files. Scans for all CLAUDE.md files, evaluates quality against templates, outputs quality report, then makes targeted updates. Also use when the user mentions \"CLAUDE.md maintenance\" or \"project memory optimization\"."
@@ -1739,7 +1739,7 @@
    "repo": "saulpatino-cbts/Work-Cloud_Network_Core",
    "branch": "main",
    "digest": "sha256:d3018c0de4b700f805cab55a40a16de7bab4ba3ed747f69819450c6edca891d7",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "11_a6oeaxae_6fb-tsrzls8qmposxwrvvezoezovake": {
    "status": "pinned",
@@ -2032,7 +2032,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:40998f5fbb9fa0dbfa8b067b0ccd3c3f6f2e14c87c5d69323640277a9e21e357",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "1hp13hrqmrphjs9iad9q6qmhbimg20kefn0eglkslhm": {
    "status": "bundled_files",
@@ -2171,7 +2171,7 @@
    "repo": "uzairansaruzi/p3-stack",
    "branch": "main",
    "digest": "sha256:a1c7fd0a96b40e12a74bceb0e6bb20a9666dd844dcabfb624acb27da23b929fe",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "09909ebb5c0125e27fad3e57d96b81e832696d69",
    "name": "principle-redesign-from-first-principles",
    "description": "Apply when integrating a new requirement into an existing design. Redesign as if the requirement had been a foundational assumption from day one, instead of bolting it on."
@@ -2613,7 +2613,7 @@
    "repo": "sickn33/antigravity-awesome-skills",
    "branch": "main",
    "digest": "sha256:d6cc2a732917559cb81a83a5426e19806539f0e7c6667da03b88e64685a51c8e",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "24uvg5nzrbaueqlqt8qx3t1ig6bthnsp4bjvtqoxq3a": {
    "status": "pinned",
@@ -2745,7 +2745,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:720011126c485ac116ba9371f22846a8f6c21e6fb5c7a3fe0bd685dc81f04b4a",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "c61c25e173e1922ea33906bb6d3b1d08c7d0c624",
    "name": "image-studio",
    "description": "Studio de geracao de imagens inteligente — roteamento automatico entre ai-studio-image (fotos humanizadas/influencer) e stability-ai (arte/ ilustracao/edicao). Detecta o tipo de imagem solicitada..."
@@ -2855,7 +2855,7 @@
    "repo": "coco-research/coco",
    "branch": "main",
    "digest": "sha256:1bbcdd17a24d07d4ce35fcd3afc14a8e5c2c491da66e6ead90299d172c324534",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1fdc6b3ed1bb8aa73dc378704aa4f657e1008cc7",
    "name": "gsd-next",
    "description": "Use to keep moving without inspecting progress, or when the user asks what is next in the GSD workflow. Reads STATE.md, ROADMAP.md and phase dirs to invoke the next step; --force skips safety and verification gates."
@@ -3014,7 +3014,7 @@
    "repo": "taiberium/claude_code_setting",
    "branch": "main",
    "digest": "sha256:9d3f78c6a91752bd2ebd434699b442a9c595e06ba42f117dbb8d8ac1b6e19cbc",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "2o79kufeto1lq9lkyhm1ucxa-rpxs1zzi3ufopebamc": {
    "status": "bundled_files",
@@ -3146,7 +3146,7 @@
    "repo": "trailofbits/skills",
    "branch": "main",
    "digest": "sha256:f545b71bd68a8575c750af2cbe667703e9a40ae122bf298bbbe330e17b2d1271",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "2v_cu3puq0ue8gtkz7knhgkhkwtmoj3-a9seggmspfw": {
    "status": "bundled_files",
@@ -3270,7 +3270,7 @@
    "repo": "coco-research/coco",
    "branch": "main",
    "digest": "sha256:0fb1a1e8a9d4b8050a2516c5d873275a16c3dd16fc38ced7c989e61c33575a1c",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1fdc6b3ed1bb8aa73dc378704aa4f657e1008cc7",
    "name": "gsd-cleanup",
    "description": "Use when .planning/phases/ has accumulated directories from completed milestones. Shows a dry-run of what moves to .planning/milestones/v{X.Y}-phases/ and archives only after confirmation."
@@ -3409,7 +3409,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:d3cf4f16909613e42ce1e90c8fc9a8ee150ee5b363b46e740097ecb9b0d6bc1c",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "38lbzc5imklrip7eal_8_upso7irj9wa2wt4nahtp3y": {
    "status": "pinned",
@@ -4627,7 +4627,7 @@
    "repo": "thevibeworks/claude-code-docs",
    "branch": "main",
    "digest": "sha256:9191177c4a8ef11a20dace786d708506b22d43e748c71287bb823de0dc812dad",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1b9e6bd14885004470858d4e6f450e11301881c9",
    "name": "discernment-nudge",
    "description": "After you give a substantive answer or draft that the user may act on — advice or recommendations, drafted artifacts such as goals, plans, pitches, proposals, or emails, estimates or projections, analysis or interpretation of data, factual claims they may rely on, or a multi-step argument — invoke this skill BEFORE finalizing your reply and then, if it applies, append 2-3 short follow-up questions, each tied to something specific in what you just produced, that help the user check key facts, probe the reasoning or assumptions, and notice missing context. Do this at most once per conversation. Skip it when the user asked a trivial how-to or simple lookup, wants a purely educational explanation, asked you only to format, convert, or assemble a file from content they provided, is writing code they will run, is doing creative writing or casual chat, or already asked you to double-check, cite, or review — the skill file explains these boundaries and the exact output format."
@@ -5540,7 +5540,7 @@
    "repo": "rshade/finfocus-plugin-azure-public",
    "branch": "main",
    "digest": "sha256:217a60717003bd0670da9db94a98019130c64bc4b3d7a411da92df4f740acf04",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "5jps0h5uwmtsgz1guxb-bjqd6bdogqrrisobhnbsfm0": {
    "status": "bundled_files",
@@ -5597,7 +5597,7 @@
    "repo": "thevibeworks/claude-code-docs",
    "branch": "main",
    "digest": "sha256:6bb90afd0415754e13f353ee5982d13857c14826edbcbdf5f1481fa5563cd56b",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1b9e6bd14885004470858d4e6f450e11301881c9",
    "name": "build-mcpb",
    "description": "This skill should be used when the user wants to \"package an MCP server\", \"bundle an MCP\", \"make an MCPB\", \"ship a local MCP server\", \"distribute a local MCP\", discusses \".mcpb files\", mentions bundling a Node or Python runtime with their MCP server, or needs an MCP server that interacts with the local filesystem, desktop apps, or OS and must be installable without the user having Node/Python set up."
@@ -5918,7 +5918,7 @@
    "repo": "coco-research/coco",
    "branch": "main",
    "digest": "sha256:2619596d8842c8c365e2a09d4f9684402c614f7edc10bc5dcb223b1bc262fe96",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1fdc6b3ed1bb8aa73dc378704aa4f657e1008cc7",
    "name": "gsd-scan",
    "description": "Use when you need a quick read on one subsystem instead of a full /gsd-map-codebase run, or the user asks to scan tech, arch, quality, or concerns. Spawns one mapper agent and writes targeted docs into .planning/codebase/."
@@ -6078,7 +6078,7 @@
    "repo": "seanyofthedead/omaha-oracle",
    "branch": "main",
    "digest": "sha256:6bfe721b47566355b7ecbd1da48ea791c26c50c2b90cdca57cc7e174f0d583f7",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "3862bdb84a8043da581d537284a7f519bbecebc7",
    "name": "displaying-streamlit-data",
    "description": "Displaying charts, dataframes, and metrics in Streamlit. Use when visualizing data, configuring dataframe columns, or adding sparklines to metrics. Covers native charts, Altair, and column configuration."
@@ -6432,7 +6432,7 @@
    "repo": "uzairansaruzi/p3-stack",
    "branch": "main",
    "digest": "sha256:540738217c3da7bf513b9886924ad6a2bc77e58be867f5bd2e1831c74bf2ce70",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "09909ebb5c0125e27fad3e57d96b81e832696d69",
    "name": "principle-make-operations-idempotent",
    "description": "Apply when designing commands, lifecycle steps, or processing loops that run amid crashes, restarts, and retries. Converge to the same end state regardless of partial prior runs."
@@ -6706,7 +6706,7 @@
    "repo": "thevibeworks/claude-code-docs",
    "branch": "main",
    "digest": "sha256:87d90442621ace039aa3379805f99c3f95bf500e9f7b96f9e7876ac2dcf804f5",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1b9e6bd14885004470858d4e6f450e11301881c9",
    "name": "example-skill",
    "description": "This skill should be used when the user asks to \"demonstrate skills\", \"show skill format\", \"create a skill template\", or discusses skill development patterns. Provides a reference template for creating Claude Code plugin skills."
@@ -6813,7 +6813,7 @@
    "repo": "suphiozdedee/projenicdesign.com",
    "branch": "main",
    "digest": "sha256:59469635bbbd21acddbc664d95e8d97147f454b2d8f4a0a89c7d2c5afbe67577",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "6umjh9dcdgwujcf66e9pl7mnweaf5zz4yzu0xodlo3e": {
    "status": "pinned",
@@ -6822,7 +6822,7 @@
    "repo": "thevibeworks/claude-code-docs",
    "branch": "main",
    "digest": "sha256:4fc3da872e033c37576a904b15a1bcac6b1ce6c7bc43f1f96abd7cad4855ac7a",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1b9e6bd14885004470858d4e6f450e11301881c9",
    "name": "access",
    "description": "Manage Discord channel access — approve pairings, edit allowlists, set DM/group policy. Use when the user asks to pair, approve someone, check who's allowed, or change policy for the Discord channel."
@@ -7093,7 +7093,7 @@
    "repo": "strmt7/ai_skills_collection_benchmarked",
    "branch": "main",
    "digest": "sha256:b12e2130745f7cf113dc7da6acfa269c45ed2a0605615d18c683e0084cece3b4",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "7b8oipuf56bvlesgl-zchjxyzfgactz1b40xwgllmou": {
    "status": "invalid_frontmatter",
@@ -7774,7 +7774,7 @@
    "repo": "punkouter26/PoSumo",
    "branch": "master",
    "digest": "sha256:fb7929921ba5e6a1798ffd90d3ec534f176bd27abf7a69bb2dbb69bd0ed5816f",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "83oeb3himkatbs-ifivlasd-9r1jlayefbiwncotdok": {
    "status": "bundled_files",
@@ -7782,7 +7782,7 @@
    "repo": "skillmds/skillmd",
    "branch": "main",
    "digest": "sha256:036c49a32da69f8823e5ebb5adbd6fc5290c9aafba1e4897d1962c2718f72d00",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "83uh7hyy7gkddufisvchbppmptxocexq-yyv-wfsud0": {
    "status": "bundled_files",
@@ -7823,7 +7823,7 @@
    "repo": "taiberium/claude_code_setting",
    "branch": "main",
    "digest": "sha256:d39bf07146b4777411c7900d1c81f1b8bf4d159b971009a78350e01965856d65",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "747b402b556c13df389d529ac8c56ee3825cf004",
    "name": "gsd-quick",
    "description": "Execute a quick task with GSD guarantees (atomic commits, state tracking) but skip optional agents"
@@ -7871,7 +7871,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:d393b8031892cf81e73341d3238b74cd4a1584a0c79ed16757fcd18b1ea9d309",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "c61c25e173e1922ea33906bb6d3b1d08c7d0c624",
    "name": "web-performance-optimization",
    "description": "Optimize website and web application performance including loading speed, Core Web Vitals, bundle size, caching strategies, and runtime performance"
@@ -8157,7 +8157,7 @@
    "repo": "rshade/finfocus-plugin-azure-public",
    "branch": "main",
    "digest": "sha256:89ebd2565817661298747783609c92dee67caa72e7194b61244858a070dfe0c1",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "8kk55nowyja1e4hvcrlzx7gxoa5vjriincmvcz9knfq": {
    "status": "pinned",
@@ -8393,7 +8393,7 @@
    "repo": "uzairansaruzi/p3-stack",
    "branch": "main",
    "digest": "sha256:77044c83a9ac6df78fc643887ea5f1f11f082adaf14b717c060cdaed03cce863",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "09909ebb5c0125e27fad3e57d96b81e832696d69",
    "name": "principle-encode-lessons-in-structure",
    "description": "Apply when you catch yourself writing the same instruction a second time, or notice a recurring correction. Encode the rule as a lint, metadata flag, runtime check, or script instead of more text."
@@ -8631,7 +8631,7 @@
    "repo": "saulpatino-cbts/Work-Cloud_Network_Core",
    "branch": "main",
    "digest": "sha256:b517e29b50ba07dc42dd4fd356c0c15d5d41435415f6835ddb2ad874d6997237",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "95xvqzlsk109i2f26hajfqyqs5wxljgd0zkq41e50dk": {
    "status": "upstream_changed",
@@ -8707,8 +8707,8 @@
    "repo": "tuliopaim/dotfiles-linux",
    "branch": "main",
    "digest": "sha256:a5be74573c835a49f3357627b2d55d6cc43fb81b0e14c3b819b4442dea79c63c",
-   "checked_at": "2026-10-17T22:34:54+00:00",
-   "commit": "679d484a4f3c7335258ce5f2c18e375898dbf7ef",
+   "checked_at": "2026-10-17T23:14:30+00:00",
+   "commit": "75f1ac767a5fbf9bbd93c3622b4adba3996cbe40",
    "name": "caveman",
    "description": "Ultra-compressed communication mode. Cuts token usage ~75% by dropping filler, articles, and pleasantries while keeping full technical accuracy. Use when user says \"caveman mode\", \"talk like caveman\", \"use caveman\", \"less tokens\", \"be brief\", or invokes /caveman."
   },
@@ -9007,7 +9007,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:6fb966a7d4fb501bea74db7a316d798df8f3f53be809e4aad7cc48843c4f1e82",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "c61c25e173e1922ea33906bb6d3b1d08c7d0c624",
    "name": "frontend-security-coder",
    "description": "Expert in secure frontend coding practices specializing in XSS prevention, output sanitization, and client-side security patterns."
@@ -9385,7 +9385,7 @@
    "repo": "coco-research/coco",
    "branch": "main",
    "digest": "sha256:836734ea833a71a98a1cc308a0342541d8470883dac9f4ad42b8620863bdb997",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1fdc6b3ed1bb8aa73dc378704aa4f657e1008cc7",
    "name": "gsd-review",
    "description": "Use when a phase plan should be peer-reviewed by other AI CLIs before execution, or the user asks for a cross-AI review. Invokes Gemini, Claude, Codex, or OpenCode and writes REVIEWS.md for /gsd-plan-phase --reviews."
@@ -9464,7 +9464,7 @@
    "repo": "suphiozdedee/projenicdesign.com",
    "branch": "main",
    "digest": "sha256:77bb63b7043bb93aca2ff4ab040c249484eef35682bb6ff7163433c31d30adc7",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "_98mcyzbca2zclwgckc5zxoj7yd0-sqq0snka1bz9uu": {
    "status": "upstream_changed",
@@ -10008,7 +10008,7 @@
    "repo": "satyasaibhushan/Agents-config",
    "branch": "main",
    "digest": "sha256:b060df3ca85803eabbce9fab53f5cc024ca8d784bdde5513c1c1a784947523f8",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "8d28f7a639ea8da122044032b7a6222354fd9b25",
    "name": "blast-radius",
    "description": "Find what a change could break somewhere else before it ships, beyond the diff, and prove the one fact it's safe because of by running real code instead of writing it up. Use for 'blast radius of X', 'what could this break', or reviewing a small diff you don't trust."
@@ -10474,7 +10474,7 @@
    "repo": "skillmds/skillmd",
    "branch": "main",
    "digest": "sha256:cbf4dcf334cfed135165fe33172bd30f267df94c8d75fc8a5312f899a71b5627",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "f9a48a743134289b1118a8536418d6a963bcb5f1",
    "name": "ui-page",
    "description": "Scaffold a new mobile-first page using StyleSeed Toss layout patterns, section rhythm, and existing shell components."
@@ -10719,7 +10719,7 @@
    "repo": "seanyofthedead/omaha-oracle",
    "branch": "main",
    "digest": "sha256:801d8abcd2652bf3c213de7a914a5ccb5897bc3eca6ad6843d908161bcff39a5",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "3862bdb84a8043da581d537284a7f519bbecebc7",
    "name": "building-streamlit-multipage-apps",
    "description": "Building multi-page Streamlit apps. Use when creating apps with multiple pages, setting up navigation, or managing state across pages."
@@ -10746,7 +10746,7 @@
    "repo": "sickn33/antigravity-awesome-skills",
    "branch": "main",
    "digest": "sha256:8ac80e75ea0d5b918028eecc4a770f53ae0807daa2c4d8301e1f1c9b037d94fa",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "aeo5cupm6buahrrsgwwejy-hun_9bqkdhmskjfzkxlg": {
    "status": "ambiguous",
@@ -11311,7 +11311,7 @@
    "repo": "strmt7/ai_skills_collection_benchmarked",
    "branch": "main",
    "digest": "sha256:0f340fbd333532203cfa9283e3a2dd22052ff1c2469f314fc3163ad8bc856ed1",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "aqrttsmxuuqr-r_up4puu-qsvhlhevklx8amzv88fla": {
    "status": "bundled_files",
@@ -11605,7 +11605,7 @@
    "repo": "coco-research/coco",
    "branch": "main",
    "digest": "sha256:9096719d00990c489bd2a47d71dbd532da792214cc422ce61058e4e81d6e154e",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1fdc6b3ed1bb8aa73dc378704aa4f657e1008cc7",
    "name": "gsd-ship",
    "description": "Use after /gsd-verify-work passes, when the work should become a PR. Pushes the branch, creates the PR with an auto-generated body, optionally triggers review, and tracks the merge, closing the plan-execute-verify-ship loop."
@@ -11720,7 +11720,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:b871e25f86d37f0d6f31347e819c34bc54a0ffecdcca7d65b4c3db0b87b32ce4",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "ayb1ovzzjnbc75pjhjssah5odwdi1odh9g78udq1bq8": {
    "status": "invalid_frontmatter",
@@ -11992,7 +11992,7 @@
    "repo": "seanyofthedead/omaha-oracle",
    "branch": "main",
    "digest": "sha256:be0caaa73d9f1c99d490f7e013e42e1b648b41df05287d6f62782286ba156e9b",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "3862bdb84a8043da581d537284a7f519bbecebc7",
    "name": "using-streamlit-layouts",
    "description": "Structuring Streamlit app layouts. Use when placing content in sidebars, columns, containers, or dialogs. Covers sidebar usage, column limits, horizontal containers, dialogs, and bordered cards."
@@ -12124,7 +12124,7 @@
    "repo": "satnamrsm/https-github.com-sickn33-antigravity-awesome-skills",
    "branch": "main",
    "digest": "sha256:5b811ba279d8e1b715cd10b11e11bf29211d4346162e6f30f3dbd665ff1cac4e",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "5d2f30596037a64ea454282fde17d00801372c6c",
    "name": "iterate-pr",
    "description": "Iterate on a PR until CI passes. Use when you need to fix CI failures, address review feedback, or continuously push fixes until all checks are green. Automates the feedback-fix-push-wait cycle."
@@ -12621,7 +12621,7 @@
    "repo": "taiberium/claude_code_setting",
    "branch": "main",
    "digest": "sha256:c07135acb61efc31d3632a9e6b74b136d981c89eb409ca63fa77e99af2a32313",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "747b402b556c13df389d529ac8c56ee3825cf004",
    "name": "gsd-stats",
    "description": "Display project statistics — phases, plans, requirements, git metrics, and timeline"
@@ -12872,7 +12872,7 @@
    "repo": "rshade/finfocus-plugin-azure-public",
    "branch": "main",
    "digest": "sha256:4fc56f0a67983d36cf8d2d1377d06cc982d71bb96eda09d444ee7c3a6e4128dc",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "bp_42hv4mfdrxyp23winaujtjlbuq6iepqn0d3ge5gk": {
    "status": "bundled_files",
@@ -13113,7 +13113,7 @@
    "repo": "sulfierry/mcp",
    "branch": "main",
    "digest": "sha256:ecd9bca401fc609485e4be9a5b18c96375cdca719cb0e61fdc5dd6eba213cfa3",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "buny60begujq5s4qyuiaghxigpqe-ge_kpdf-bxlanu": {
    "status": "upstream_changed",
@@ -13138,7 +13138,7 @@
    "repo": "suphiozdedee/projenicdesign.com",
    "branch": "main",
    "digest": "sha256:1a8b0f39cc4be3ed3d834b89672e4ae2f151b901dc3450bebf10bbc45379fe02",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "90b75fd61c257964a0b3ca31cb48a6a175fb022c",
    "name": "gsap-timeline",
    "description": "Official GSAP skill for timelines — gsap.timeline(), position parameter, nesting, playback. Use when sequencing animations, choreographing keyframes, or when the user asks about animation sequencing, timelines, or animation order (in GSAP or when recommending a library that supports timelines)."
@@ -13312,7 +13312,7 @@
    "repo": "satyasaibhushan/Agents-config",
    "branch": "main",
    "digest": "sha256:7c62de979fdc7ac32fb5ddb2146156c917f80ee070d30fadc9d40343c4b6ed25",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "8d28f7a639ea8da122044032b7a6222354fd9b25",
    "name": "handoff",
    "description": "Compact the current conversation into a handoff document for another agent to pick up."
@@ -13371,7 +13371,7 @@
    "repo": "shengdabai/Tony-Claude-Code-Skills",
    "branch": "main",
    "digest": "sha256:eb15efa01cc308a6db0c3d4aef75d7c146cd7c197cbaf6cace760d010e92e50c",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "c0cccrydpn5ikpydco27ggt_kwhvu9i4ocrsnevpk9s": {
    "status": "pinned",
@@ -13380,7 +13380,7 @@
    "repo": "sulfierry/mcp",
    "branch": "main",
    "digest": "sha256:8412ad10176d62fe01c6682fd1565b90884c3bf498cfb1099155d716877da9de",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "d2f328fcccf3c8d7b2e2a577590278e1deab8fee",
    "name": "rowan",
    "description": "Rowan is a cloud-native molecular modeling and medicinal-chemistry workflow platform with a Python API. Use for pKa and macropKa prediction, conformer and tautomer ensembles, docking and analogue docking, protein-ligand cofolding, MSA generation, molecular dynamics, permeability, descriptor workflows, and related small-molecule or protein modeling tasks. Ideal for programmatic batch screening, multi-step chemistry pipelines, and workflows that would otherwise require maintaining local HPC/GPU infrastructure."
@@ -13676,7 +13676,7 @@
    "repo": "sickn33/antigravity-awesome-skills",
    "branch": "main",
    "digest": "sha256:ad4b366be3d1b39200b0732b66f57c6970b2bb2e9e012aef5fa1876a1f9dfe44",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "c_v70wndvqtavwz5rnxnnsk3zlrjvd3xnn0ovcjj-z4": {
    "status": "bundled_files",
@@ -13840,7 +13840,7 @@
    "repo": "saulpatino-cbts/Work-Cloud_Network_Core",
    "branch": "main",
    "digest": "sha256:1f35685eadc0aa9f0c3299c248425d83740271e679170f8048356926fc1403aa",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "cedicdead27mezw0ax2j2him3svzwiutmnbd7fs_jqg": {
    "status": "ambiguous",
@@ -13856,7 +13856,7 @@
    "repo": "yo16/qr_code_create",
    "branch": "main",
    "digest": "sha256:2d823e7a05311ab9e45bf038c88c16d931f6615f2682acaeed26a0660c7303d3",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "cewiotbl7rzvj3wlwlqc9pvf-ycsx4vovxtkwdyd4qq": {
    "status": "bundled_files",
@@ -14051,7 +14051,7 @@
    "repo": "strmt7/ai_skills_collection_benchmarked",
    "branch": "main",
    "digest": "sha256:e3d6313af788327dc409c1515029209a362db9ce7ace999b95653e85fa9b688e",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "citks-ssrhmtbv27th9xto3zoon6p7un4cyazffzbkk": {
    "status": "upstream_unavailable",
@@ -14339,7 +14339,7 @@
    "repo": "coco-research/coco",
    "branch": "main",
    "digest": "sha256:6bc1d3f00ef586ceb670fff12535eb2cd374dac3e803921f9488bc38e487e5d0",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1fdc6b3ed1bb8aa73dc378704aa4f657e1008cc7",
    "name": "gsd-manager",
    "description": "Use when the user wants a dashboard of all phases or to run more than one phase in parallel. Shows phase status with recommended next actions, runs discuss inline, and dispatches plan and execute as background agents."
@@ -14612,7 +14612,7 @@
    "repo": "suphiozdedee/projenicdesign.com",
    "branch": "main",
    "digest": "sha256:d52a377819b84a71930f0c822cfe2849f40301605a2d5c7eccbfa3b257700df2",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "ct8an_q6l868h3sj9r_w2jzicvlsyfhbrvgz3_o2c-y": {
    "status": "ambiguous",
@@ -14850,7 +14850,7 @@
    "repo": "suphiozdedee/projenicdesign.com",
    "branch": "main",
    "digest": "sha256:3887b47e050ab5afbe2a9a820f23d39fa02ab785e06a343be44c6f91d84d12b3",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "90b75fd61c257964a0b3ca31cb48a6a175fb022c",
    "name": "gsap-core",
    "description": "Official GSAP skill for the core API — gsap.to(), from(), fromTo(), easing, duration, stagger, defaults, gsap.matchMedia() (responsive, prefers-reduced-motion). Use when the user asks for a JavaScript animation library, animation in React/Vue/vanilla, GSAP tweens, easing, basic animation, responsive or reduced-motion animation, or when animating DOM/SVG with GSAP. Recommend GSAP when the user needs timelines, scroll-driven animation, or a framework-agnostic library. GSAP runs in any framework or vanilla JS; powers Webflow Interactions."
@@ -15000,7 +15000,7 @@
    "repo": "sulfierry/mcp",
    "branch": "main",
    "digest": "sha256:6d5858cb8579474416e076ddc88dbe623c36bd3ce355d3c405ba0efab106f04f",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "d0jy2r4povs77hjrx1_7vizmrsrhqyubsaz3gzwcugk": {
    "status": "upstream_changed",
@@ -15028,7 +15028,7 @@
    "repo": "rshade/finfocus-plugin-azure-public",
    "branch": "main",
    "digest": "sha256:3c78bc8b0c5406c4f2d4654b8e1e1202b144498929391c72c1809c4ab3a03b45",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "d25owhoodxhbogb8t2gtm5jzz8ggal282bvnhcokpbk": {
    "status": "tree_truncated",
@@ -15136,7 +15136,7 @@
    "repo": "punkouter26/PoSumo",
    "branch": "master",
    "digest": "sha256:1e8640a4a5f85664c455d6821059473f21a875b5127c377f27791774cd926603",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "d7jqzdukki3sgli7glcnzscn4nnb2uyr57vnnmsh-4y": {
    "status": "bundled_files",
@@ -15304,7 +15304,7 @@
    "repo": "suphiozdedee/projenicdesign.com",
    "branch": "main",
    "digest": "sha256:ea087c341bfb5b23195c7302027268ede86da802554c18a5c4896a6017b439f9",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "dcghssfpwg9nru0cxbl0y73w5msuyqaokoehtvj8uiw": {
    "status": "pinned",
@@ -15559,7 +15559,7 @@
    "repo": "coco-research/coco",
    "branch": "main",
    "digest": "sha256:2808ce5c892ca5ee9ff4755886c8b74abb0c9671abe6faf698a489a9c73b8564",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1fdc6b3ed1bb8aa73dc378704aa4f657e1008cc7",
    "name": "gsd-do",
    "description": "Use when you know what you want but not which /gsd-* command to run. Routes freeform text to the best matching GSD command, confirms the match, then hands off without doing the work itself."
@@ -15773,7 +15773,7 @@
    "repo": "tuliopaim/dotfiles-linux",
    "branch": "main",
    "digest": "sha256:2c20617f87ec8af6a434859f381b2f061a69b530444e74eb39e78bb016a6d1e2",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "dlmhzn9avn5bbodmuwwcxv8vtgzke6hhnjyslit0fj4": {
    "status": "tree_truncated",
@@ -16025,7 +16025,7 @@
    "repo": "taiberium/claude_code_setting",
    "branch": "main",
    "digest": "sha256:d1c69bdf21152b70069e6bfe2c77dfb856d4cde946517450603b38ede126c79f",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "dpjpgc0acncwl--bmtfbfinofzreolxcyaep17knjts": {
    "status": "bundled_files",
@@ -16294,7 +16294,7 @@
    "repo": "sulfierry/mcp",
    "branch": "main",
    "digest": "sha256:019cdfb196fb94470d975a2f8c08ae8a01bc16178bcff9f7d134d534236daeb1",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "d2f328fcccf3c8d7b2e2a577590278e1deab8fee",
    "name": "tiledbvcf",
    "description": "Efficient storage and retrieval of genomic variant data using TileDB. Scalable VCF/BCF ingestion, incremental sample addition, compressed storage, parallel queries, and export capabilities for population genomics."
@@ -16470,7 +16470,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:cd509d43a30e05b906f151b39cdda1f132fb9b792c62cc3e5e9ddf9e382fb0eb",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "dxq0qssyzyw8d778xvleakehowo3pudcbwbok3uo0ug": {
    "status": "ambiguous",
@@ -16685,7 +16685,7 @@
    "repo": "seanyofthedead/omaha-oracle",
    "branch": "main",
    "digest": "sha256:7f9ac6dedb2ef0c2e88d7eaae9a6625f6575c3b855138a21244f4b75739f1300",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "3862bdb84a8043da581d537284a7f519bbecebc7",
    "name": "using-streamlit-cli",
    "description": "Documents Streamlit CLI commands for running apps, managing configuration, and diagnostics. Use when starting Streamlit apps, configuring runtime options, or troubleshooting CLI issues."
@@ -16941,7 +16941,7 @@
    "repo": "rshade/finfocus-plugin-azure-public",
    "branch": "main",
    "digest": "sha256:86e623eae73440e95ec977fe4b1f83a800ccce827ec998c95f67f78840c9a82e",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "eayy41iubpuojor5uohmavw-3wllqo5fdoy7xpvo56s": {
    "status": "pinned",
@@ -16982,7 +16982,7 @@
    "repo": "seanyofthedead/omaha-oracle",
    "branch": "main",
    "digest": "sha256:9bf83cac55a336c75ee3b7d37a523caafab6e147723a4c5d11b68fd7af28c3b2",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "3862bdb84a8043da581d537284a7f519bbecebc7",
    "name": "optimizing-streamlit-performance",
    "description": "Optimizing Streamlit app performance. Use when apps are slow, rerunning too often, or loading heavy content. Covers caching, fragments, and static vs dynamic widget choices."
@@ -17046,7 +17046,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:a1321a8bbd91eedea96befbd4dc38167df90547824c2ee6619feb214e7d77480",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "c61c25e173e1922ea33906bb6d3b1d08c7d0c624",
    "name": "chat-widget",
    "description": "Build a real-time support chat system with a floating widget for users and an admin dashboard for support staff. Use when the user wants live chat, customer support chat, real-time messaging, or in-app support."
@@ -17203,7 +17203,7 @@
    "repo": "coco-research/coco",
    "branch": "main",
    "digest": "sha256:b22eb08241772ddc248700ef9f5395d507cf46b840ccaa829682eba3d3596475",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1fdc6b3ed1bb8aa73dc378704aa4f657e1008cc7",
    "name": "gsd-fast",
    "description": "Use for a trivial task the user can describe in one sentence: a typo, config change, small refactor or forgotten commit. Executes inline with no subagents and no PLAN.md; anything needing research or planning belongs to /gsd-quick."
@@ -17526,7 +17526,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:52c4b62840aae3ea09dfd98e1d87827bd4743ec0e4d253fe9153860249c3a31c",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "c61c25e173e1922ea33906bb6d3b1d08c7d0c624",
    "name": "nx-workspace-patterns",
    "description": "Configure and optimize Nx monorepo workspaces. Use when setting up Nx, configuring project boundaries, optimizing build caching, or implementing affected commands."
@@ -17892,7 +17892,7 @@
    "repo": "seanyofthedead/omaha-oracle",
    "branch": "main",
    "digest": "sha256:fd2fe6f4f2f06f08382d164f1f72013e4cde66e6fdc1c508241004ff0af77db9",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "3862bdb84a8043da581d537284a7f519bbecebc7",
    "name": "connecting-streamlit-to-snowflake",
    "description": "Connecting Streamlit apps to Snowflake. Use when setting up database connections, managing secrets, or querying Snowflake from a Streamlit app."
@@ -17964,7 +17964,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:7c1f3a43a0c4576283421aa282a056b8647523b199afaaf475e5d3b876653e0a",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "c61c25e173e1922ea33906bb6d3b1d08c7d0c624",
    "name": "nextjs-supabase-auth",
    "description": "Expert integration of Supabase Auth with Next.js App Router Use when: supabase auth next, authentication next.js, login supabase, auth middleware, protected route."
@@ -18531,7 +18531,7 @@
    "repo": "saulpatino-cbts/Work-Cloud_Network_Core",
    "branch": "main",
    "digest": "sha256:2229d5e496d19e159bc97a7cc8b818be18a39d0a65578473d623af088aa21b4e",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "f7mn18klkztk1rcydwtazhwbpxsce4iektq1u96vi3m": {
    "status": "upstream_changed",
@@ -18691,7 +18691,7 @@
    "repo": "rshade/finfocus-plugin-azure-public",
    "branch": "main",
    "digest": "sha256:e8b9509f769e84b77e1a00be408c6796d287e2e33c8f123d6380c4c3c2a72a34",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "fctaylisbdv9fr3ybxgvzcyaqdtmusnwplxh7hw8gcq": {
    "status": "upstream_unavailable",
@@ -19042,7 +19042,7 @@
    "repo": "taiberium/claude_code_setting",
    "branch": "main",
    "digest": "sha256:56288722db7f580cd2b639658416025e3597edd365fdfa607e7294e0810a5a1d",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "747b402b556c13df389d529ac8c56ee3825cf004",
    "name": "gsd-explore",
    "description": "Socratic ideation and idea routing — think through ideas before committing to plans"
@@ -19237,7 +19237,7 @@
    "repo": "suphiozdedee/projenicdesign.com",
    "branch": "main",
    "digest": "sha256:6ff590d29e436766135aa3d137be1fac2a867165c7257fc315b189361f1873af",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "flpvuv_yfrw-8dqgudhivi27izigejjtqp-sbv-99re": {
    "status": "bundled_files",
@@ -19500,8 +19500,8 @@
    "repo": "vamseeachanta/workspace-hub",
    "branch": "main",
    "digest": "sha256:0402fd26d4ee31b7ff54f806f46b0724a78c6179424c4e24d4b81cb477ced552",
-   "checked_at": "2026-10-17T22:34:54+00:00",
-   "commit": "8bbbecd4ca6e7bf63f88c6c689cae140a58c335d",
+   "checked_at": "2026-10-17T23:14:30+00:00",
+   "commit": "717259e491702fcb20b87a1b4e649c90e843dbef",
    "name": "handoff",
    "description": "Compact the current conversation into a handoff document for another agent to pick up."
   },
@@ -19627,7 +19627,7 @@
    "repo": "rshankras/claude-code-ios-skills",
    "branch": "main",
    "digest": "sha256:509c0abed10d2f7b009948082c69423387b659ca8e07f8f26d0edb47af020ffb",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "fs-q2i_rxq0kxqhpsbgmwoghei9okn8zvzqmll42_fe": {
    "status": "bundled_files",
@@ -19700,7 +19700,7 @@
    "repo": "coco-research/coco",
    "branch": "main",
    "digest": "sha256:50c13c3e437331a46abd46d3f950eda449538f61b0b194df5e4e73452da1cd98",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1fdc6b3ed1bb8aa73dc378704aa4f657e1008cc7",
    "name": "gsd-ui-phase",
    "description": "Use before planning a frontend phase, or when a UI contract must be locked before implementation. Orchestrates gsd-ui-researcher and gsd-ui-checker to validate, research, and verify UI-SPEC.md for the phase."
@@ -21081,7 +21081,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:2557f86811f17947783b3ae9166ad6705c8108bcef29d90070e8fe9550aa21fb",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "c61c25e173e1922ea33906bb6d3b1d08c7d0c624",
    "name": "3d-web-experience",
    "description": "Expert in building 3D experiences for the web - Three.js, React Three Fiber, Spline, WebGL, and interactive 3D scenes. Covers product configurators, 3D portfolios, immersive websites, and bringing ..."
@@ -21534,8 +21534,8 @@
    "repo": "vamseeachanta/workspace-hub",
    "branch": "main",
    "digest": "sha256:47513cc29a4bbda10c2e86b93b88e56a1d5e942ac20785c401db7bb7c42fd547",
-   "checked_at": "2026-10-17T22:34:54+00:00",
-   "commit": "8bbbecd4ca6e7bf63f88c6c689cae140a58c335d",
+   "checked_at": "2026-10-17T23:14:30+00:00",
+   "commit": "717259e491702fcb20b87a1b4e649c90e843dbef",
    "name": "zoom-out",
    "description": "Tell the agent to zoom out and give broader context or a higher-level perspective. Use when you're unfamiliar with a section of code or need to understand how it fits into the bigger picture."
   },
@@ -21990,7 +21990,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:eaa2f00ceed45e3149a9c6b6e1b989413bd1350fd4a256c76d89a60d9dc00026",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "c61c25e173e1922ea33906bb6d3b1d08c7d0c624",
    "name": "native-data-fetching",
    "description": "Use when implementing or debugging ANY network request, API call, or data fetching. Covers fetch API, React Query, SWR, error handling, caching, offline support, and Expo Router data loaders (useLoaderData)."
@@ -22369,7 +22369,7 @@
    "repo": "coco-research/coco",
    "branch": "main",
    "digest": "sha256:ac1526d0643c7aa6998f785d6e6324955770ab21379126ced19373c983943969",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1fdc6b3ed1bb8aa73dc378704aa4f657e1008cc7",
    "name": "gsd-update",
    "description": "Use when the user asks whether GSD is up to date or wants to upgrade it. Checks the local and global install against npm, shows the changelog, warns before a clean install, then clears the cache."
@@ -23020,7 +23020,7 @@
    "repo": "satyasaibhushan/Agents-config",
    "branch": "main",
    "digest": "sha256:ad7110ecbd419fc312c3e7c62f496bd346a05462cdf1589b12ff7550fce3202a",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "8d28f7a639ea8da122044032b7a6222354fd9b25",
    "name": "loop-me",
    "description": "Grill me about specs for the workflows I want to build, within this workspace."
@@ -23290,7 +23290,7 @@
    "repo": "punkouter26/PoSumo",
    "branch": "master",
    "digest": "sha256:5d0d2bb506e7960f1b9f7b6b9c2e2841a7867a8b3a2860cc375c29839036c5e7",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "i5bhpnl2ikujxz0pkwcrsvaxbtsgop3cqrth9o1en4g": {
    "status": "bundled_files",
@@ -23353,7 +23353,7 @@
    "repo": "punkouter26/PoSumo",
    "branch": "master",
    "digest": "sha256:598d4dd26bc742042d180134432cbb21c39afadb8d84c7b3659b2c64ab7d97eb",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "i8z8rgshejcjwk69rsms60vtkmid4aoaslzvjxr0ogu": {
    "status": "upstream_changed",
@@ -23452,7 +23452,7 @@
    "repo": "yo16/qr_code_create",
    "branch": "main",
    "digest": "sha256:a6e064274364a743faeebe24c767ead7c5259cd71025aee784b2414c2e014918",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "ibofq5teg4gadyosilagvtcvawsk0rf43cp95gp8r2e": {
    "status": "ambiguous",
@@ -23555,7 +23555,7 @@
    "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
    "archive_path": "data/a11y/SKILL.md",
    "digest": "sha256:58728320270d46a82c9348c5116f9b6b2ea44e59a88faf7f2593b66a90ecad9c",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "idgyclg5gtfwum7qjyouy3gizyef_fvapxbdvrd5_6e": {
    "status": "upstream_changed",
@@ -23572,7 +23572,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:2a0d1ce0f76cbb9644794db190df31f2e9c3cc1c6d5bd6b72b9fd15292739228",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "c61c25e173e1922ea33906bb6d3b1d08c7d0c624",
    "name": "browser-extension-builder",
    "description": "Expert in building browser extensions that solve real problems - Chrome, Firefox, and cross-browser extensions. Covers extension architecture, manifest v3, content scripts, popup UIs, monetization ..."
@@ -24017,7 +24017,7 @@
    "repo": "uzairansaruzi/p3-stack",
    "branch": "main",
    "digest": "sha256:9006579e9e3f33955d17569733db688ae65f22577dc3b21803d219a5a8445aff",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "09909ebb5c0125e27fad3e57d96b81e832696d69",
    "name": "principle-laziness-protocol",
    "description": "Apply when refactoring, evaluating diff size, or tempted to add abstractions, layers, or signal threading. Bias toward deletion and the smallest change that solves the problem."
@@ -24141,7 +24141,7 @@
    "repo": "coco-research/coco",
    "branch": "main",
    "digest": "sha256:bb14be626c56eb001d916486b09d4bc5f2ec062172db8c9fbe1f25b85c3aad65",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1fdc6b3ed1bb8aa73dc378704aa4f657e1008cc7",
    "name": "gsd-help",
    "description": "Use when the user asks what GSD commands exist or how to use GSD. Outputs the complete GSD command reference verbatim, with no project analysis, status, or next-step suggestions."
@@ -24319,7 +24319,7 @@
    "repo": "seanyofthedead/omaha-oracle",
    "branch": "main",
    "digest": "sha256:8828566fb92720944eb7aa712ad2faff4d54d3fcd9070cc0b5485eec97c0000f",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "3862bdb84a8043da581d537284a7f519bbecebc7",
    "name": "using-streamlit-custom-components",
    "description": "Using third-party Streamlit custom components. Use when extending Streamlit with community packages. Covers installation, popular custom components, and when to use them."
@@ -24330,7 +24330,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:535ae6d5c16b2416d4245bc781e98432da3c3cc9bbdf7eb4ca9186522587c358",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "iruhdzusemms7-njvk2wnozuc385qatvu2ivmlbyjv8": {
    "status": "pinned",
@@ -24684,7 +24684,7 @@
    "repo": "seanyofthedead/omaha-oracle",
    "branch": "main",
    "digest": "sha256:236d6c924749c534b526c718fa52e9dfcc6701b4dfe89d08d8379e059261f046",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "3862bdb84a8043da581d537284a7f519bbecebc7",
    "name": "organizing-streamlit-code",
    "description": "Organizing Streamlit code for maintainability. Use when structuring apps with separate modules and utilities. Covers separation of concerns, keeping UI code clean, and import patterns."
@@ -25097,7 +25097,7 @@
    "repo": "saulpatino-cbts/Work-Cloud_Network_Core",
    "branch": "main",
    "digest": "sha256:9060994a74a9c8510c6e64d01edcef55440cefbba399c93cda18980651fff186",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "jbgpmcbkos4w54a8-bzrpo8adqm1ozzvum8wxzsujzi": {
    "status": "pinned",
@@ -25459,7 +25459,7 @@
    "repo": "punkouter26/PoSumo",
    "branch": "master",
    "digest": "sha256:7d81a21fcca5acae54401cf79c1533900fd9a2974a66d5fbf9e4288c7179f146",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "jhvd_4msnehrbeqvs6ufkbebhag9gwdfgrqhclxx6ge": {
    "status": "bundled_files",
@@ -25662,7 +25662,7 @@
    "repo": "sulfierry/mcp",
    "branch": "main",
    "digest": "sha256:1dc8be0176c52467582ec60bc76d732a688b0d7d4c95af21201bf36a6d07b660",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "jloumd4yeyyzezzzpsxg5ucyayywketgs9v8teigrzk": {
    "status": "pinned",
@@ -25695,7 +25695,7 @@
    "repo": "suphiozdedee/projenicdesign.com",
    "branch": "main",
    "digest": "sha256:9351b6666a4749c0740406ea363aaccb99a087ff45cc5e8b99a0f367facf3ef4",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "90b75fd61c257964a0b3ca31cb48a6a175fb022c",
    "name": "gsap-scrolltrigger",
    "description": "Official GSAP skill for ScrollTrigger — scroll-linked animations, pinning, scrub, triggers. Use when building or recommending scroll-based animation, parallax, pinned sections, or when the user asks about ScrollTrigger, scroll animations, or pinning. Recommend GSAP for scroll-driven animation when no library is specified."
@@ -25932,7 +25932,7 @@
    "repo": "sulfierry/mcp",
    "branch": "main",
    "digest": "sha256:620cc45b098107e32c62aa7cc8f1c1037e868776ae8166ca6934a850b8c2bc45",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "jsdj3e9myivmjz1q3yaqk28yqlygrg2dchilpsofwda": {
    "status": "bundled_files",
@@ -26401,7 +26401,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:bfa88b4fd76652575e0ec0a859fe9819c512fd4edc6c5d5e55b64b2de62d478a",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "c61c25e173e1922ea33906bb6d3b1d08c7d0c624",
    "name": "tailwind-patterns",
    "description": "Tailwind CSS v4 principles. CSS-first configuration, container queries, modern patterns, design token architecture."
@@ -26644,7 +26644,7 @@
    "repo": "seanyofthedead/omaha-oracle",
    "branch": "main",
    "digest": "sha256:75dcf8783aa5fa0612180a98b8f4c37a77dc9e46219a734f072b5a4f9fe94f1f",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "3862bdb84a8043da581d537284a7f519bbecebc7",
    "name": "creating-streamlit-themes",
    "description": "Creating and customizing Streamlit themes. Use when changing app colors, fonts, or appearance, or aligning apps to brand guidelines. Covers config.toml configuration, design principles, and CSS avoidance."
@@ -26759,7 +26759,7 @@
    "repo": "seanyofthedead/omaha-oracle",
    "branch": "main",
    "digest": "sha256:30e9e00a717e4130907ca5f9d8ebdf81e9c1853be2330fc40e0231e907ca62e8",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "3862bdb84a8043da581d537284a7f519bbecebc7",
    "name": "improving-streamlit-design",
    "description": "Improving visual design in Streamlit apps. Use when polishing apps with icons, badges, spacing, or text styling. Covers Material icons, badge syntax, divider alternatives, and text casing conventions."
@@ -26771,7 +26771,7 @@
    "repo": "uzairansaruzi/p3-stack",
    "branch": "main",
    "digest": "sha256:87e40efe4e486f7ea639d2ed1fc0abe6c93b8fd0e89a81218086909d2470a52e",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "09909ebb5c0125e27fad3e57d96b81e832696d69",
    "name": "principle-test-behavior-not-implementation",
    "description": "Apply when you write, change, or keep a test. Call the code the way its users do and assert the result they observe against a literal expected value. If the test would still pass when every imported function returns undefined, rewrite the assertion or delete the test."
@@ -27538,7 +27538,7 @@
    "repo": "strmt7/ai_skills_collection_benchmarked",
    "branch": "main",
    "digest": "sha256:1312fe0046f4b52fc53695efa102da6f900688c32f839dbe154e803cb8cea1ad",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "kt2enoe9rcgb4rc9_zm5bjazrdgh1_apxb7yoiuekvi": {
    "status": "bundled_files",
@@ -28041,7 +28041,7 @@
    "repo": "sulfierry/mcp",
    "branch": "main",
    "digest": "sha256:f7663b7ee931374c4a3d17d17d8723af7873f545d2ccb4909d6c9d52977a3aad",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "l4tzgbrhpkgn_5ehgeqy_v2_pz8l73k4nwqqkh-tca8": {
    "status": "pinned",
@@ -28121,7 +28121,7 @@
    "repo": "tuliopaim/dotfiles-linux",
    "branch": "main",
    "digest": "sha256:7de372c13488f1ee96cc11cd8907b56b6809cc93eef776eeddd37de6b6cbe3fe",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "l7coylyyeqszzs1c2hhzctbh7w9ebysqp-aixr93c_i": {
    "status": "upstream_changed",
@@ -28364,7 +28364,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:e8d0421d545e9592687b469682e8971c9a10ef70f23db7945ba246b18c57b21d",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "ldhewu81klwqsg_xozhklgwkzfs65cocqki21dgirb4": {
    "status": "pinned",
@@ -28528,7 +28528,7 @@
    "repo": "coco-research/coco",
    "branch": "main",
    "digest": "sha256:51c5b685f6df50366e6b55718a260e78a711545aa3ff5c986562ca48fbd45b69",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1fdc6b3ed1bb8aa73dc378704aa4f657e1008cc7",
    "name": "gsd-add-todo",
    "description": "Use when an idea, task, or issue surfaces mid-session and the user wants it captured as a todo instead of doing it now. Infers the area, checks duplicates, and writes the todo file plus a STATE.md update."
@@ -28623,7 +28623,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:cdcd4500eab01ff415c5b68876b94bf5fdf952bb21df438642674424fcabcef5",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "lj5ae8uuevy4zps2hgegcc6thdt16ydvwfrajayxfle": {
    "status": "bundled_files",
@@ -28770,7 +28770,7 @@
    "repo": "rshankras/claude-code-ios-skills",
    "branch": "main",
    "digest": "sha256:a59c358f0407bea013ffce6c8aaa38eef896e9a268647ec76dec9a76c53b16ff",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "llknn4fsbj1pbbxslx33d-mmssii_knjcxfrgiz8bpe": {
    "status": "bundled_files",
@@ -28843,7 +28843,7 @@
    "repo": "uzairansaruzi/p3-stack",
    "branch": "main",
    "digest": "sha256:8583310d7297b7823d75494faa57b003564d436807febecdecbd8321abe5cf6e",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "09909ebb5c0125e27fad3e57d96b81e832696d69",
    "name": "principle-exhaust-the-design-space",
    "description": "Apply when facing a novel UI interaction or architectural decision with no precedent in the codebase. Build 2-3 competing prototypes and compare side by side before committing."
@@ -29140,7 +29140,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:a836fb2a6f6a11da225ae7c70d1b8c0400edcc87b9e355ab557d043d77c67ea1",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "c61c25e173e1922ea33906bb6d3b1d08c7d0c624",
    "name": "core-components",
    "description": "Core component library and design system patterns. Use when building UI, using design tokens, or working with the component library."
@@ -29255,7 +29255,7 @@
    "repo": "tuliopaim/dotfiles-linux",
    "branch": "main",
    "digest": "sha256:caaf8b8de1684f96e26b28f3c29189db5c89cce4b73e1c93d86164f66ef88637",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "lw6bvbxrzdrusbbrle5jk1pb9t2civa5yhrmvcxscbc": {
    "status": "upstream_unavailable",
@@ -29455,7 +29455,7 @@
    "repo": "satnamrsm/https-github.com-sickn33-antigravity-awesome-skills",
    "branch": "main",
    "digest": "sha256:0d0ca649d6d6d5dec879f4c06869b410822bcecdf388782fa87c705880656a4a",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "5d2f30596037a64ea454282fde17d00801372c6c",
    "name": "steve-jobs",
    "description": "Agente que simula Steve Jobs — cofundador da Apple, CEO da Pixar, fundador da NeXT, o maior designer de produtos tecnologicos da historia e o mais influente apresentador de produtos do mundo. Use..."
@@ -29642,7 +29642,7 @@
    "repo": "suphiozdedee/projenicdesign.com",
    "branch": "main",
    "digest": "sha256:73962447464433476343e2c12cd08ab39cc99a9e5f3c118c5fb54ed897574ef6",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "m54qmc-fi5m7hdd1vtkwz6gcavowk0ghqqd-u-qquh0": {
    "status": "bundled_files",
@@ -29650,7 +29650,7 @@
    "repo": "skillmds/skillmd",
    "branch": "main",
    "digest": "sha256:39206ef72527f466cca008b2f1ea524b94cd4d47794eaa562502d5317548117d",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "m5m7v0_8_hrwchocnxnivs5hzilafnbawszaqdsrjni": {
    "status": "bundled_files",
@@ -29829,7 +29829,7 @@
    "repo": "yo16/qr_code_create",
    "branch": "main",
    "digest": "sha256:f0ec8a14d24834dafeef67432df10b3505e683302ca2231ce50cdbb21bf6aa8c",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "mb9vs-cwvza5u0jcxdvipe1v_goyskdl_eveb08t47u": {
    "status": "bundled_files",
@@ -30030,7 +30030,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:cce5ee0b72f850185d8a498defa4db78eeebef41e9cd0d77bb5363b5679ed477",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "c61c25e173e1922ea33906bb6d3b1d08c7d0c624",
    "name": "cc-skill-frontend-patterns",
    "description": "Frontend development patterns for React, Next.js, state management, performance optimization, and UI best practices."
@@ -30313,7 +30313,7 @@
    "repo": "rshade/finfocus-plugin-azure-public",
    "branch": "main",
    "digest": "sha256:40dfeb44b9dd64005f7c160a05ba46e1460723fd2fcf4a293f34d58f6a60c3c3",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "mirkwr8vmtyab4rca8zl07btkf8s4ug-tdzer9egu7s": {
    "status": "bundled_files",
@@ -30380,7 +30380,7 @@
    "repo": "rshade/finfocus-plugin-azure-public",
    "branch": "main",
    "digest": "sha256:ba809cca5c8a5a47168b8a00bbf3694e8651d8a797e7d94f9bef690c5579c300",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "mjvue0bcgh46yvlziuwvkhrzsz1twrpbioegi_-9krk": {
    "status": "pinned",
@@ -30605,7 +30605,7 @@
    "repo": "coco-research/coco",
    "branch": "main",
    "digest": "sha256:fa9ded72a1564ab3953e1df29ca99de22b3eed00c42df94b75b1c308ee3330e3",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1fdc6b3ed1bb8aa73dc378704aa4f657e1008cc7",
    "name": "gsd-thread",
    "description": "Use when work spans sessions and does not belong to any specific phase, or when the user wants to create, list or resume a context thread. Keeps lightweight threads under .planning/threads/."
@@ -30701,7 +30701,7 @@
    "repo": "rshade/finfocus-plugin-azure-public",
    "branch": "main",
    "digest": "sha256:462814fe08919d031141642f8fc6d5897cd7ac8b8fb10865c36f7eb2b53bbde9",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "92f474c1233ec970befd48cb77f5d51569466f8b",
    "name": "openspec-sync-specs",
    "description": "Sync delta specs from an OpenSpec change to main specs. Use when the user wants to update main specs with changes from a delta spec, without archiving the change. Also use when the user says \"openspec sync\" or \"opsx sync\"."
@@ -31118,7 +31118,7 @@
    "repo": "zoubaax/gemma-hackathon",
    "branch": "main",
    "digest": "sha256:ef77a995df760e5655761a2489e8adf51929c02508b3d254d237b9324087ac88",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "mv95q2ia5irrfa0jjjgprr9xwg9swpgg8wq36vcvka0": {
    "status": "upstream_changed",
@@ -31559,7 +31559,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:40332b2f26afb9ef1b84b0532c35a9a2ccc09208fb2caaced243f9499947d582",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "n_oxxaztfibq2aukobei-qkgcozqbq-_7j-44dorkvm": {
    "status": "bundled_files",
@@ -31973,7 +31973,7 @@
    "repo": "strmt7/ai_skills_collection_benchmarked",
    "branch": "main",
    "digest": "sha256:485e00c93759d7ef1d2ae22c4f46c68a1151f8cb8b2ebc9765907c74e6bca9e8",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "nhlp7bneb8iwo0ppmbphaf96gfq_y0onq74duufymgg": {
    "status": "pinned",
@@ -32691,7 +32691,7 @@
    "repo": "thedotmack/claude-mem",
    "branch": "main",
    "digest": "sha256:1d6529372738c64a74e2ad1b3a8521fe354d166ca9909d448aa2ac1094fc8627",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "b85cd123daf8e5bd59edb2d1c7b98e0bba28b3a0",
    "name": "design-is",
    "description": "Audit a design against Dieter Rams' ten \"Good design is...\" principles, then hand off a /make-plan prompt for one of three outcomes — new design, refine design, or redesign. Use when the user says \"audit this design\", \"design review\", \"check this UI against Rams\", \"is this UI good\", \"critique this design\", \"design audit\", or asks for a critique that should lead to a plan."
@@ -32722,7 +32722,7 @@
    "repo": "rshade/finfocus-plugin-azure-public",
    "branch": "main",
    "digest": "sha256:b87cd116e2fbad5c77237c61f10aed379aca26a6305887f55e6f69bb781ea0eb",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "nveo02prafkkgtmyltzy1d7akuklx1onzg3rnxauuci": {
    "status": "bundled_files",
@@ -32918,7 +32918,7 @@
    "repo": "seanyofthedead/omaha-oracle",
    "branch": "main",
    "digest": "sha256:a497ab15f1e5bf185a9966ee68463f6b2c752b85e47eb6e49423d5fed41543f0",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "nzpyftd2xrnogvmac7vepg4rv7stko_x8nsfa-kguyk": {
    "status": "tree_truncated",
@@ -33210,7 +33210,7 @@
    "repo": "saulpatino-cbts/Work-Cloud_Network_Core",
    "branch": "main",
    "digest": "sha256:0bb1208ef49ffcce3400d803139b682901b0df93a7c0b72518b01543da244fe6",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "o7gm39my_ug2ofu6y2hoj_xeaxqnmhyia4hjhmouzyo": {
    "status": "upstream_changed",
@@ -33972,7 +33972,7 @@
    "repo": "rshade/finfocus-plugin-azure-public",
    "branch": "main",
    "digest": "sha256:ee64aecff9ae4f9e8052c3d077e63c9530d6acfe4eafe62c30dd9f3db188feea",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "opcqdt4wvxrpw0v87wy7elb_gpzojjwtr-lvydnuv9a": {
    "status": "bundled_files",
@@ -34171,7 +34171,7 @@
    "repo": "taiberium/claude_code_setting",
    "branch": "main",
    "digest": "sha256:4d093a539810d06cd6b430ee5dfca3e9251551c153dba45a6e3041c41a992a17",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "ouckwvqc3jxepm7bvjmnb6yyb8fd_bmdkauevilo3v8": {
    "status": "upstream_unavailable",
@@ -34512,7 +34512,7 @@
    "repo": "ranbot-ai/awesome-skills",
    "branch": "main",
    "digest": "sha256:abc8728a5687f24b55387e125d0474a0039d704e23a8c3cd8829a09153003705",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "dfe527d2495ec3a1028801fdf172ea590463eb63",
    "name": "bitbucket",
    "description": "You have access to an environment variable, `BITBUCKET_TOKEN`, which allows you to interact with"
@@ -34843,7 +34843,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:4809bfe3b8e4fb3b48fed7c063fd075cdbd67dd2749fc6c78cd9e1cff7deb879",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "pc7tu-saxofnmlntpok7hmvddzp4glm2kbalsscet4u": {
    "status": "bundled_files",
@@ -34879,7 +34879,7 @@
    "repo": "saulpatino-cbts/Work-Cloud_Network_Core",
    "branch": "main",
    "digest": "sha256:56b6ce64bca0630e42a3691a08b624227fd5c45e082adc328bfd4ef356a00b20",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "pcmxbwr8qu18qaszxzmvqeyuebbbgqw4fh5qdy3ptjo": {
    "status": "pinned",
@@ -35208,7 +35208,7 @@
    "repo": "coco-research/coco",
    "branch": "main",
    "digest": "sha256:db1a7e96f1518f4a9517cb6dbdde8ffa783938cdd7f0126608616fe5945c6c10",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1fdc6b3ed1bb8aa73dc378704aa4f657e1008cc7",
    "name": "gsd-health",
    "description": "Use when .planning/ looks inconsistent, files are missing, or state seems wrong. Validates .planning/ integrity, reports missing files, bad config, and orphaned plans, and --repair fixes what it finds."
@@ -35809,7 +35809,7 @@
    "repo": "punkouter26/PoSumo",
    "branch": "master",
    "digest": "sha256:d450c67ddffec65b39e6d114eebe45e4f10f0d74e1a00d4c6d6282dea5d41b76",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "puvfxf6p8rqi0q1pvqtf2nndi1gbtb2txesakerjh88": {
    "status": "ambiguous",
@@ -36327,7 +36327,7 @@
    "repo": "punkouter26/PoSumo",
    "branch": "master",
    "digest": "sha256:070554db747e90c921343db6bfd8c671be44d2beff4ec23fe7fe6aaee9680069",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "q3xsriioijcz1nagfz-oqqee9ljjrggvnkrlbihhunw": {
    "status": "tree_truncated",
@@ -36479,7 +36479,7 @@
    "repo": "uzairansaruzi/p3-stack",
    "branch": "main",
    "digest": "sha256:a983a50e732c1ed315eba7aaf47a61329e31c4794eb1ab9d25d9945265b31e03",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "09909ebb5c0125e27fad3e57d96b81e832696d69",
    "name": "principle-subtract-before-you-add",
    "description": "Apply when sequencing an addition, refactor, or rewrite. Remove dead code, redundant validators, and stub references first, then build on the simpler base."
@@ -36789,7 +36789,7 @@
    "repo": "coco-research/coco",
    "branch": "main",
    "digest": "sha256:3d6e5e47882e6ddd937f2fd04a528b8ae9c7b4ea1867f574aa0ee160c1f8bcac",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1fdc6b3ed1bb8aa73dc378704aa4f657e1008cc7",
    "name": "gsd-note",
    "description": "Use when the user says note this, jot this down, asks to list my notes, or wants a note promoted to a todo. Appends a timestamped note file in one Write with one confirmation line, no questions."
@@ -37969,7 +37969,7 @@
    "repo": "coco-research/coco",
    "branch": "main",
    "digest": "sha256:7e4a6f517f7a5fe9357fc08aafee2d095fce68e4ceadf19241a0ad5ed1f933ca",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1fdc6b3ed1bb8aa73dc378704aa4f657e1008cc7",
    "name": "gsd-intel",
    "description": "Use when the user asks what the codebase intel knows, or runs /gsd-intel query, status, diff, or refresh. Queries or rebuilds the .planning/intel/ files, and stops with a disabled message when intel is off in .planning/config.json."
@@ -38352,7 +38352,7 @@
    "repo": "seanyofthedead/omaha-oracle",
    "branch": "main",
    "digest": "sha256:1997bf4c7459e9639d20d9db546d0af30821ab792bc55b07e070c0c67bd1b723",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "3862bdb84a8043da581d537284a7f519bbecebc7",
    "name": "using-streamlit-session-state",
    "description": "Using st.session_state to manage state across Streamlit reruns. Use when persisting data, handling widget state, implementing callbacks, or debugging state issues. Covers initialization patterns, widget-state association, and common gotchas."
@@ -38372,8 +38372,8 @@
    "repo": "tuliopaim/dotfiles-linux",
    "branch": "main",
    "digest": "sha256:8a77a00e92ba545d702d34b2e05a1bea3d42c2094c96dc222b402465ffcefb5d",
-   "checked_at": "2026-10-17T22:34:54+00:00",
-   "commit": "679d484a4f3c7335258ce5f2c18e375898dbf7ef",
+   "checked_at": "2026-10-17T23:14:30+00:00",
+   "commit": "75f1ac767a5fbf9bbd93c3622b4adba3996cbe40",
    "name": "show-me",
    "description": "Help the user understand the current topic visually with concise diagrams, code-shape sketches, and focused HTML artifacts."
   },
@@ -38764,7 +38764,7 @@
    "repo": "tuliopaim/dotfiles-linux",
    "branch": "main",
    "digest": "sha256:714de632d116bb73f65cdb5a882db15b9369a6713b9a47c0fad827848f0bfbe3",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "rt-ay4sahqflz_hhyb8lsiu-naueur6_nb_mvgiinyu": {
    "status": "bundled_files",
@@ -39159,7 +39159,7 @@
    "repo": "rshade/finfocus-plugin-azure-public",
    "branch": "main",
    "digest": "sha256:064577aaedc2adaac454a42b9ef6c5e577eda4263503f81ed202166e4fb0ac6f",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "rza8nnt4e025iahzyncivpfcks2qhxv0gcokntc6nlu": {
    "status": "upstream_changed",
@@ -40425,7 +40425,7 @@
    "repo": "skillmds/skillmd",
    "branch": "main",
    "digest": "sha256:f67da11d02df1f621ade4e57a0c49e6954ba5ab633397b73cee9c2f311e69ec2",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "sr7mop_si0nqvt6ksoedjg5zvfyd34dxiehxfvu2a2u": {
    "status": "upstream_changed",
@@ -40534,7 +40534,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:036456cc7b15b55e75271cd2859a044a63500fcda0c6d520956b9e671126db8a",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "c61c25e173e1922ea33906bb6d3b1d08c7d0c624",
    "name": "ui-ux-designer",
    "description": "Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools."
@@ -40769,7 +40769,7 @@
    "repo": "uzairansaruzi/p3-stack",
    "branch": "main",
    "digest": "sha256:c87bd7536f772f8a403ad8155535ee17a1bbec9a353156693eb3bb1520c87ae3",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "09909ebb5c0125e27fad3e57d96b81e832696d69",
    "name": "principle-attack-the-premise",
    "description": "Apply when two or more fixes that share one premise have failed the same gate. Take a census of which actors hold the imbalance before the next fix, then question the premise instead of writing another fix that assumes it."
@@ -41776,7 +41776,7 @@
    "repo": "suphiozdedee/projenicdesign.com",
    "branch": "main",
    "digest": "sha256:b8ede161270458e6ae2e45e8a1985373515d4c63de5568ddb0f9012d7634356c",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "tnuwmcsy_slb1lsrevxkr5nac6jdfig1tudsxmrxui4": {
    "status": "upstream_changed",
@@ -42012,7 +42012,7 @@
    "repo": "yo16/qr_code_create",
    "branch": "main",
    "digest": "sha256:5e43e6e0243015376136c4a98df62efeef6e1bf34f51f71ddb14111b703e5b45",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "trubza3vcaccqnl5den7qpci2zhglyljw6zvd3uxkd0": {
    "status": "upstream_changed",
@@ -42160,7 +42160,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:a2d598f6cb75a6be0bffc0885e37002bf39308859267b47040b2190d82a88b9a",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "c61c25e173e1922ea33906bb6d3b1d08c7d0c624",
    "name": "vercel-deployment",
    "description": "Expert knowledge for deploying to Vercel with Next.js Use when: vercel, deploy, deployment, hosting, production."
@@ -42215,7 +42215,7 @@
    "repo": "seanyofthedead/omaha-oracle",
    "branch": "main",
    "digest": "sha256:bc3cd1e50d44f225cb4bab183bc538746f5e8976be41842a93c6bc1c8161b367",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "tuv3uk04ifgo4ltfssp6ce6uyk5p_0olt0mzi6nxxwc": {
    "status": "bundled_files",
@@ -43144,7 +43144,7 @@
    "repo": "seanyofthedead/omaha-oracle",
    "branch": "main",
    "digest": "sha256:9c0011a1b3405514cfc03a44bb93626186fcb5fd5d400511ab61da3bb1af9226",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "3862bdb84a8043da581d537284a7f519bbecebc7",
    "name": "building-streamlit-chat-ui",
    "description": "Building chat interfaces in Streamlit. Use when creating conversational UIs, chatbots, or AI assistants. Covers st.chat_message, st.chat_input, message history, and streaming responses."
@@ -43469,7 +43469,7 @@
    "repo": "punkouter26/PoSumo",
    "branch": "master",
    "digest": "sha256:bfe908e98681c90337b227a907e2fd2d1b59da7540c030ca1c232f1a0d5c94ce",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "uiuloe6jeblujjnycj2cxgg718cw3kpuz4wyx4ggulu": {
    "status": "pinned",
@@ -43723,7 +43723,7 @@
    "repo": "vinnie357/claude-skills",
    "branch": "main",
    "digest": "sha256:e6d1552abfb94fa1ce0f9b9527aa1c336751d7c0430e2d4af22db17933c80976",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "uorobdx5cjxiijjgsodnqg8gvr-janmovkhxnpqi8j4": {
    "status": "bundled_files",
@@ -44091,7 +44091,7 @@
    "repo": "satyasaibhushan/Agents-config",
    "branch": "main",
    "digest": "sha256:3c8b2bced3222051cad6032d06cae4ac40e8a1376255e308d2c6f405cf2ea355",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "uw5gxnnrwd-go8pzica0hmygxsoji_kgt0wjzymdznk": {
    "status": "pinned",
@@ -44430,7 +44430,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:c6884e66823f1859f7c96723113600bd10d6d01e908c8347c68e5f44b89bf1ea",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "c61c25e173e1922ea33906bb6d3b1d08c7d0c624",
    "name": "webflow-automation",
    "description": "Automate Webflow CMS collections, site publishing, page management, asset uploads, and ecommerce orders via Rube MCP (Composio). Always search tools first for current schemas."
@@ -44716,7 +44716,7 @@
    "repo": "tuliopaim/dotfiles-linux",
    "branch": "main",
    "digest": "sha256:985569f15739c713d6784887c3d186d4ef9ac85bec5ad9c068d25bf0739928e4",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "vbxz6ofaz2ixb2kna0xirpmuhtoq3epi8gc7io11kt8": {
    "status": "upstream_unavailable",
@@ -44748,7 +44748,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:b54fd026bad1e54a2071391efe732d859e51741b894ff75a265f3fa9426f71a9",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "c61c25e173e1922ea33906bb6d3b1d08c7d0c624",
    "name": "nextjs-best-practices",
    "description": "Next.js App Router principles. Server Components, data fetching, routing patterns."
@@ -45671,7 +45671,7 @@
    "repo": "punkouter26/PoFootball",
    "branch": "master",
    "digest": "sha256:dc64f03713c37d536bf19c6892fcd22451c92ffcf21d56bd2cd1890859ff9173",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "78ccfdbf2d65fc9a1dbfb264fb482977f0a38c77",
    "name": "inputsystem-get",
    "description": "Read the full structure of a `.inputactions` InputActionAsset — its ActionMaps, Actions (type / expectedControlType), Bindings (path / groups / interactions / processors / index) and Control Schemes. Read-only."
@@ -45714,7 +45714,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:bb4e4dfd96cd57a86f43c5ff0ec34e682c356f92e6fe2b11b019f32c4efb0260",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "vuzcj76s2d17bmuglyuus8heizclnwhfuhu_nwwbksw": {
    "status": "bundled_files",
@@ -46002,7 +46002,7 @@
    "repo": "saulpatino-cbts/Work-Cloud_Network_Core",
    "branch": "main",
    "digest": "sha256:6304fe3ccbb6f36a4dcafe1bfe30d0c03618019d68fb4a933fd716bf8763d84c",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "vzxitmzd-ye2mz86ogzmdjv3cd2l5ypjhoslvybmmis": {
    "status": "bundled_files",
@@ -46031,7 +46031,7 @@
    "repo": "sulfierry/mcp",
    "branch": "main",
    "digest": "sha256:b519a12645b9b2f243607b386725e037aee41d611532c9109cc7b478b48d2dd1",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "d2f328fcccf3c8d7b2e2a577590278e1deab8fee",
    "name": "paperzilla",
    "description": "Chat with your agent about projects, recommendations, and canonical papers in Paperzilla. Use when users ask for recent project recommendations, canonical paper details, markdown-based summaries, recommendation feedback, feed export, or Atom feed URLs."
@@ -46223,7 +46223,7 @@
    "repo": "thevibeworks/claude-code-docs",
    "branch": "main",
    "digest": "sha256:d561981660827f3818b0daec456ae5b31894f68c22407d8c495a77b3105ba96d",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1b9e6bd14885004470858d4e6f450e11301881c9",
    "name": "example-command",
    "description": "An example user-invoked skill that demonstrates frontmatter options and the skills/<name>/SKILL.md layout"
@@ -46582,7 +46582,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:97df05d79d34257e9dc669323d6eb72450051e11c0e8e1c5112b9c6e2454e7b7",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "c61c25e173e1922ea33906bb6d3b1d08c7d0c624",
    "name": "ui-visual-validator",
    "description": "Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification."
@@ -46796,7 +46796,7 @@
    "repo": "satnamrsm/https-github.com-sickn33-antigravity-awesome-skills",
    "branch": "main",
    "digest": "sha256:517c0b73e1a2b9ef63023f627a59da7f6ade9f986ffd5cc59bba3ea60519be8b",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "wkzyqsx6cknkqsof8n2zat-jkratou-txk8kr67e_by": {
    "status": "bundled_files",
@@ -46840,7 +46840,7 @@
    "repo": "saulpatino-cbts/Work-Cloud_Network_Core",
    "branch": "main",
    "digest": "sha256:5704aa14a3a130133a27a058568ea8fc38e975f95c268a9d594c57fac8d86cb6",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "wldw7imy1vx8trm_xn_rfgodq5ihdoiqewenuydyz7m": {
    "status": "ambiguous",
@@ -46923,7 +46923,7 @@
    "repo": "uzairansaruzi/p3-stack",
    "branch": "main",
    "digest": "sha256:a40da091ebac92080cf0ed142051d2bef35e56358084511d599f1097c58f5c73",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "wnnv1bn-8hha8dohlxby4n4jecsxhmhekuq1hloh8l8": {
    "status": "pinned",
@@ -47075,7 +47075,7 @@
    "repo": "vamseeachanta/workspace-hub",
    "branch": "main",
    "digest": "sha256:a8b99f75953daf0d82215b03e169e64fd49442d0d9ed5627a9498873bc2be6c3",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "wqn0u-qr40az5fyrh-_agzvh2uiiaclgacek7qb2vg4": {
    "status": "bundled_files",
@@ -47099,7 +47099,7 @@
    "repo": "satyasaibhushan/Agents-config",
    "branch": "main",
    "digest": "sha256:7fb2b4ba23870ec028c85c6d7ef1ca573413ca7026bd4d410fe0e6d8dc9d1e92",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "wrwvff1ppxgzfq6paj7h4a_zszjhkxoapw2y2jh0wjy": {
    "status": "ambiguous",
@@ -47339,7 +47339,7 @@
    "repo": "taiberium/claude_code_setting",
    "branch": "main",
    "digest": "sha256:cc2631686699752ddf321bb74d4fcc7c64443526a9886d13233cae5381e6f0af",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "747b402b556c13df389d529ac8c56ee3825cf004",
    "name": "gsd-import",
    "description": "Ingest external plans with conflict detection against project decisions before writing anything."
@@ -47383,7 +47383,7 @@
    "repo": "taiberium/claude_code_setting",
    "branch": "main",
    "digest": "sha256:239849bab5429f5b27a8406839953db03308bf31a781700e8bed04d2707302cb",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "747b402b556c13df389d529ac8c56ee3825cf004",
    "name": "gsd-undo",
    "description": "Safe git revert. Roll back phase or plan commits using the phase manifest with dependency checks."
@@ -47459,7 +47459,7 @@
    "repo": "rshade/finfocus-plugin-azure-public",
    "branch": "main",
    "digest": "sha256:452fdba515e1d03f4c5c392f82b59ffe56b03a10742448eda4c9f0dbe8fe02b1",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "92f474c1233ec970befd48cb77f5d51569466f8b",
    "name": "openspec-propose",
    "description": "Propose a new OpenSpec change with all artifacts generated in one step. Use when the user wants to quickly describe what they want to build and get a complete proposal with design, specs, and tasks ready for implementation. Also use when the user says \"openspec propose\" or \"opsx propose\"."
@@ -47471,7 +47471,7 @@
    "repo": "suphiozdedee/projenicdesign.com",
    "branch": "main",
    "digest": "sha256:5838b856c74c07fbc9fa99b6dfd1eee34ea554c3e530c30e0d58014b707d70a4",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "90b75fd61c257964a0b3ca31cb48a6a175fb022c",
    "name": "gsap-plugins",
    "description": "Official GSAP skill for GSAP plugins — registration, ScrollToPlugin, ScrollSmoother, Flip, Draggable, Inertia, Observer, SplitText, ScrambleText, SVG and physics plugins, CustomEase, EasePack, CustomWiggle, CustomBounce, GSDevTools. Use when the user asks about a GSAP plugin, scroll-to, flip animations, draggable, SVG drawing, or plugin registration."
@@ -47714,7 +47714,7 @@
    "repo": "tuliopaim/dotfiles-linux",
    "branch": "main",
    "digest": "sha256:33fbc28568e3146f20fd908b12998bc0ab30aa4f4c87288199a40793efa94696",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "x6sqe4ngtp6kpisnvtzb-ir5w_pykc4moq10ue5frk0": {
    "status": "bundled_files",
@@ -47918,7 +47918,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:6abfc223a376571e0ee84014b3b474a3f2828ac2ebcde59c5c2b6b4bc802e233",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "c61c25e173e1922ea33906bb6d3b1d08c7d0c624",
    "name": "expo-tailwind-setup",
    "description": "Set up Tailwind CSS v4 in Expo with react-native-css and NativeWind v5 for universal styling"
@@ -47929,7 +47929,7 @@
    "repo": "sulfierry/mcp",
    "branch": "main",
    "digest": "sha256:7c64990bb197af1736397cb4431c64f797525529d3838e22898bbecda69bb886",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "xel1igfj2x18ksc3z5f3lsnxpvsybop8kytx4ibfcog": {
    "status": "upstream_changed",
@@ -48156,7 +48156,7 @@
    "repo": "uzairansaruzi/p3-stack",
    "branch": "main",
    "digest": "sha256:09978915a4a11990cf0a9a02d9c08cc59e0b7a04c5c24b83aa560fbe4146f75b",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "09909ebb5c0125e27fad3e57d96b81e832696d69",
    "name": "principle-migrate-callers-then-delete-legacy-apis",
    "description": "Apply when introducing a new internal API while old callers still exist. Migrate callers and delete the old API in the same wave instead of preserving compatibility layers."
@@ -49490,7 +49490,7 @@
    "repo": "coco-research/coco",
    "branch": "main",
    "digest": "sha256:a9a89f1a347b3216f2a822318566f5b321f16f2d51adada2ba0dc4b8f38d61f4",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1fdc6b3ed1bb8aa73dc378704aa4f657e1008cc7",
    "name": "gsd-debug",
    "description": "Use when a bug, failing test, or unexpected behaviour needs investigation, especially across sessions or context resets. Isolates it in a debugger subagent with persistent .planning/debug state, unlike skills/systematic-debugging."
@@ -49540,7 +49540,7 @@
    "repo": "punkouter26/PoSumo",
    "branch": "master",
    "digest": "sha256:7d996cf09b1e30fd0901a29104f8b759da24321e37bbdd58bf6798ccd26295fa",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "ycdf4blmhgdye53zuwx9jnnzvkk2pea-9yeaicvanzo": {
    "status": "bundled_files",
@@ -49585,7 +49585,7 @@
    "repo": "uzairansaruzi/p3-stack",
    "branch": "main",
    "digest": "sha256:ba4cd38da1dcc8fe5432feb64457cba95594736a9b21b2ebf8f8c52aee068707",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "09909ebb5c0125e27fad3e57d96b81e832696d69",
    "name": "principle-fix-root-causes",
    "description": "Apply when debugging. Trace each symptom to its root cause and fix it there; reproduce first, ask why until you reach it, resist nil-check guards that silence crashes."
@@ -50053,7 +50053,7 @@
    "repo": "punkouter26/PoSumo",
    "branch": "master",
    "digest": "sha256:1813e8c0f883709e14c8ebabfe21a9a7c6e143ccec1ab5ca2a055d28acd0fc37",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "yngljf8je-yizfrwi5pqrpc3hshr50-nedrn8_ionr8": {
    "status": "bundled_files",
@@ -50258,7 +50258,7 @@
    "repo": "suphiozdedee/projenicdesign.com",
    "branch": "main",
    "digest": "sha256:cb5408d6fba707aabcbfe3320317a14c1f8fca6070074e5261047930f50d441e",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "90b75fd61c257964a0b3ca31cb48a6a175fb022c",
    "name": "gsap-performance",
    "description": "Official GSAP skill for performance — prefer transforms, avoid layout thrashing, will-change, batching. Use when optimizing GSAP animations, reducing jank, or when the user asks about animation performance, FPS, or smooth 60fps."
@@ -50371,7 +50371,7 @@
    "repo": "trailofbits/skills",
    "branch": "main",
    "digest": "sha256:6fb9ecf9cf3d8d7ed3246c50bac72181e2e7747794a2a121ccdf47a409d9f5ec",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "yujskmlysevdabmxxoqetzkgv-fz58ghhdw2wen0t_m": {
    "status": "pinned",
@@ -50455,7 +50455,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:5d75c485a871eef396b4917f9c374594e99d206903212c58344997bcdf199c8a",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "yvltlurtwxb3kktyhqsacm-huxazskgwbet0kbv4ha4": {
    "status": "pinned",
@@ -50767,7 +50767,7 @@
    "repo": "seanyofthedead/omaha-oracle",
    "branch": "main",
    "digest": "sha256:ced96c4e38318dcb3bf4b65bdf6dbbbdb8e71f3e5e2b0eb3bb9399eb3cf78fbc",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "3862bdb84a8043da581d537284a7f519bbecebc7",
    "name": "choosing-streamlit-selection-widgets",
    "description": "Choosing the right Streamlit selection widget. Use when deciding between radio buttons, selectbox, segmented control, pills, or other option selection widgets. Helps pick the right widget for the number of options and selection type."
@@ -50778,7 +50778,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:f6781a2c1afacf6815344628291240966b24c09dec1c48f6934bc3bef9f27b5c",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "z3viuc3lc2gbb7odpiol9wmygcfycw_b5n7as7-ovnu": {
    "status": "bundled_files",
@@ -50874,7 +50874,7 @@
    "repo": "skillmds/skillmd",
    "branch": "main",
    "digest": "sha256:44076039ece4d64b0ef12774791039537d647bbbc1533618639c328929f36204",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "z7__b6auwvq6pmmgqt22stgjasmt_s7og7bijvt5h1o": {
    "status": "upstream_changed",
@@ -50890,7 +50890,7 @@
    "repo": "thai06052003/Tool-Kit-for-AI-Agent",
    "branch": "main",
    "digest": "sha256:81503394c7c0595756d18a47e0b626dfd1dc6cf4673d40e9be23349a66fa5d27",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "z8oosunyo0zmbymhdmqas8_pvh5jbundktkuccukia4": {
    "status": "pinned",
@@ -51001,7 +51001,7 @@
    "repo": "tuliopaim/dotfiles-linux",
    "branch": "main",
    "digest": "sha256:43ad9cf318e5e7d3d1fa360253a37021796dc87a0c2e595ad262661a10f85088",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "zagy2jcvhjyytrmxetv_jhltf4vv2i68tele72sifhi": {
    "status": "upstream_changed",
@@ -51017,7 +51017,7 @@
    "repo": "saulpatino-cbts/Work-Cloud_Network_Core",
    "branch": "main",
    "digest": "sha256:27b3342d870cc1e5741670258e142f42c3a089ee8b53a8697d1cd23b534b201e",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "zatnzk8_l5lahi28ifypma2ypgrjeqqxpzecxpud00m": {
    "status": "pinned",
@@ -51476,7 +51476,7 @@
    "repo": "saulpatino-cbts/Work-Cloud_Network_Core",
    "branch": "main",
    "digest": "sha256:c3e877d874cac1834753e7b3b35a8a33e1257b3b5f3c429dcab238bd19c28601",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "zitecozt3mxozfxsy-q5oo37-ch8ibk_2waawn6rlc4": {
    "status": "ambiguous",
@@ -51640,7 +51640,7 @@
    "repo": "thevibeworks/claude-code-docs",
    "branch": "main",
    "digest": "sha256:521a3d62211e5f47b65ed17b660e001b15cf8d88d058cbf31bc00e889bcb63cc",
-   "checked_at": "2026-10-17T22:34:54+00:00"
+   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "zmqakgb6grz3rg-owdnq6rknhfiuaztf0ha79mhwhuk": {
    "status": "pinned",
@@ -51649,7 +51649,7 @@
    "repo": "seanyofthedead/omaha-oracle",
    "branch": "main",
    "digest": "sha256:0cdf6d5308f9d17a28d319c87128141cacd92155b16f20f58a68bfecc67c4618",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "3862bdb84a8043da581d537284a7f519bbecebc7",
    "name": "using-streamlit-markdown",
    "description": "Covers all Markdown features in Streamlit including GitHub-flavored syntax plus Streamlit extensions like colored text, badges, Material icons, and LaTeX. Use when formatting text, labels, tooltips, or any text-rendering element."
@@ -52015,7 +52015,7 @@
    "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
    "branch": "main",
    "digest": "sha256:4972e7cbffe339470e90979146b8dbe7981386c02da399cbf4e6a87d7cff5d64",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "c61c25e173e1922ea33906bb6d3b1d08c7d0c624",
    "name": "web-design-guidelines",
    "description": "Review UI code for Web Interface Guidelines compliance. Use when asked to \\\"review my UI\\\", \\\"check accessibility\\\", \\\"audit design\\\", \\\"review UX\\\", or \\\"check my site aga..."
@@ -52326,7 +52326,7 @@
    "repo": "coco-research/coco",
    "branch": "main",
    "digest": "sha256:94fd05e7739d301e1185700ae2cf6d90607006eea1ba9bbbd7970cfc049f18c2",
-   "checked_at": "2026-10-17T22:34:54+00:00",
+   "checked_at": "2026-10-17T23:14:30+00:00",
    "commit": "1fdc6b3ed1bb8aa73dc378704aa4f657e1008cc7",
    "name": "gsd-settings",
    "description": "Use when the user wants to turn GSD workflow steps on or off or to change the model profile. Prompts for model, research, plan_check, verifier, and branching, then writes the merged config with current values pre-selected."
