@@ -420,6 +420,18 @@
    "digest": "sha256:dd2f82c6dc8582b621f9eb57fcb65f557f88eadf872727ac81d0840ae12c504e",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "-eyu7hcuxphjnsnk3peeipiqcwy4jatj21xind3rvgc": {
+   "status": "pinned",
+   "path": ".gemini/skills/editor-application-set-state/SKILL.md",
+   "archive_path": "bash/editor-application-set-state/SKILL.md",
+   "repo": "bsoc-bitbyte/BattleGround-Mobile-Jabalpur",
+   "branch": "main",
+   "digest": "sha256:5cd9e369cf724ed11bb2f4b7af2a15510d3375318dd441e38305b7a1416bbefd",
+   "checked_at": "2026-10-18T11:51:37+00:00",
+   "commit": "e309afecd889f2d79485b97fc24e83ad270111f5",
+   "name": "editor-application-set-state",
+   "description": "Start / stop / pause the Unity Editor 'playmode'. Use 'editor-application-get-state' to inspect the current state first. Throws if the project currently has compilation errors."
+  },
   "-f7k2pzfctrrjt-aujxgfq6_8l_wnhaammpz3o403pq": {
    "status": "upstream_changed",
    "archive_path": "product/designing-surveys-refoundai-lenny-skills/SKILL.md",
@@ -840,18 +852,6 @@
    "branch": "main",
    "digest": "sha256:e5833cf7a539bc84147512b7e55cfb91e5e7223d72276a2cd92e6ee99a7bd002",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "-uoupt01tlkk0bbsdhkks6v1neoakn_tn0ojeg_eucc": {
-   "status": "pinned",
-   "path": ".claude/skills/opus-extended-thinking/SKILL.md",
-   "archive_path": "ai-llm/opus-extended-thinking-frankxai-arcanea/SKILL.md",
-   "repo": "frankxai/arcanea",
-   "branch": "main",
-   "digest": "sha256:5ece6e3f687af52b0155f3ce11652f9a259d8ba1740a039036a8d26300d56129",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "7da9e78d1cb9bcd4dabdb0ed771ebcfdf2d0ec34",
-   "name": "opus-extended-thinking",
-   "description": "Leverage Claude Opus 4.5's extended thinking capabilities for deep reasoning, complex analysis, and multi-step synthesis. Use when problems require thorough deliberation before response."
   },
   "-uut6vr9phht2ro6xenepsyyvccyszgdndugcroi-js": {
    "status": "pinned",
@@ -1852,6 +1852,14 @@
    "digest": "sha256:59b21fecb91d469dc7d2dd0536a7d09713de3e8eb7ec666279fb7b70cb6997e5",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "17mwbzu1p2tnskiwgwp9btke8ba6z_t0ocae_3l1iia": {
+   "status": "upstream_changed",
+   "archive_path": "other/short-suphiozdedee-projenicdesign-com/SKILL.md",
+   "repo": "suphiozdedee/projenicdesign.com",
+   "branch": "main",
+   "digest": "sha256:690005e46629181a269581d87879adecd5cb34ba5702a6f2be224eae6493e397",
+   "checked_at": "2026-10-18T11:51:37+00:00"
+  },
   "17xgg5dtuv0z4s7_gfdizk0xdee9e6qvrl1m77dsm0u": {
    "status": "bundled_files",
    "archive_path": "other/remotion-maps-pehan-jpg-botcircuits-motion-v/SKILL.md",
@@ -2695,6 +2703,14 @@
    "name": "openai-knowledge",
    "description": "Use when working with the OpenAI API (Responses API) or OpenAI platform features (tools, streaming, Realtime API, auth, models, rate limits, MCP) and you need authoritative, up-to-date documentation (schemas, examples, limits, edge cases). Prefer the OpenAI Developer Documentation MCP server tools when available; otherwise guide the user to enable `openaiDeveloperDocs`."
   },
+  "2_hqw3yunrqrsu2z8uwm8bgwtunwpo62is1_wx8l8va": {
+   "status": "ambiguous",
+   "archive_path": "bash/axonx/SKILL.md",
+   "repo": "sickn33/agentic-awesome-skills",
+   "branch": "main",
+   "digest": "sha256:8f854fe23703558bebc948118f1fd76c942857802e19d9bb573b5062f784e02e",
+   "checked_at": "2026-10-18T11:51:37+00:00"
+  },
   "2_nkb2bolpmy2hnwza01shxz8il-abzfxuk0-oqx0ms": {
    "status": "upstream_unavailable",
    "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
@@ -2936,14 +2952,6 @@
    "digest": "sha256:8b0f7b7dc83a26af06cd0d22f25e01711f00c2244ffed0d31c8031570fbf7ef0",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "2jdaxc1uslfixkmaihei4mdo2fwlplw4h7z85e8_ib0": {
-   "status": "upstream_changed",
-   "archive_path": "workflow/openspec-continue-change-ruan-cat-monorepo/SKILL.md",
-   "repo": "ruan-cat/monorepo",
-   "branch": "main",
-   "digest": "sha256:d0fbc067936de6bea93e611b962d6fa0fd58bcd47b1fe8ee529fa0c97c1afd9d",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "2jr0ihzvd7kk8wjbmizsshcdzneptumhrahw5wgfu2k": {
    "status": "pinned",
    "path": ".claude/skills/task-sorting/SKILL.md",
@@ -3048,6 +3056,14 @@
    "digest": "sha256:9d2b204949d79d6cbf57c986a7ab721afda9317149f7d405d004ce8d81c87900",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "2osfoark0vgoq5a-lboemnwh-9v0l_mvotmhfabgvyq": {
+   "status": "upstream_changed",
+   "archive_path": "bash/profiler-list-modules-punkouter26-posumo/SKILL.md",
+   "repo": "punkouter26/PoSumo",
+   "branch": "master",
+   "digest": "sha256:f45e767b29e905d879870200d27819036fce0615d647420dca205444c86e20b8",
+   "checked_at": "2026-10-18T11:51:37+00:00"
+  },
   "2phueg_zyzq4u65xw9pcnucg0nneooai3-orxccklha": {
    "status": "bundled_files",
    "archive_path": "development/cs-onboard-vikasvardhanv-jerry-skills/SKILL.md",
@@ -3123,6 +3139,18 @@
    "branch": "main",
    "digest": "sha256:4673558954e6ab0272a3c4d3b7b5bbe84561fb6889ef1d58906b0835b037a1cd",
    "checked_at": "2026-10-18T07:49:20+00:00"
+  },
+  "2snvinvfk9tuedreusrz0vved-llgh6rfvjn-w4uyba": {
+   "status": "pinned",
+   "path": ".gemini/skills/gameobject-component-add/SKILL.md",
+   "archive_path": "other/gameobject-component-add/SKILL.md",
+   "repo": "bsoc-bitbyte/BattleGround-Mobile-Jabalpur",
+   "branch": "main",
+   "digest": "sha256:825e8afb7570dbd20db52849a6a5b33e2d6322f6cd9265b6151885eb4201865a",
+   "checked_at": "2026-10-18T11:51:37+00:00",
+   "commit": "e309afecd889f2d79485b97fc24e83ad270111f5",
+   "name": "gameobject-component-add",
+   "description": "Add one or more Components to a GameObject in the opened Prefab or active Scene. Component types are looked up by full name (with namespace) or by class-name fallback. Use 'gameobject-find' to locate the host GameObject and 'gameobject-component-list-all' to discover valid component type names."
   },
   "2sz0w7le0_hde_mbrfkyxlkxw0rr697icfwxdgbohk4": {
    "status": "upstream_changed",
@@ -3521,18 +3549,6 @@
    "branch": "main",
    "digest": "sha256:959ac7e16c548ea6fe2463d781da9a125febe6d2478a2a83886bd60beebb083c",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "3akl8gxj4m_5smcbh8xp2pbljbfxprsj-wvcxgyiqek": {
-   "status": "pinned",
-   "path": "skills/os-scripting/SKILL.md",
-   "archive_path": "workflow/os-scripting-ncdevshiv-nc-skills-mcp/SKILL.md",
-   "repo": "ncdevshiv/NC-skills-mcp",
-   "branch": "master",
-   "digest": "sha256:6600a8553a4513b8141f311d6f2c609213d6387bebc3480ac5ed95c8df02b2f7",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "03aeba8dfec6263564b938c3e99b0d4752d1c189",
-   "name": "os-scripting",
-   "description": "Operating system and shell scripting troubleshooting workflow for Linux, macOS, and Windows. Covers bash scripting, system administration, debugging, and automation."
   },
   "3bpmrvzljhiul4fjugfnsimgqqwbq2js5wsl4rwphcw": {
    "status": "bundled_files",
@@ -4156,6 +4172,14 @@
    "commit": "1b32f81724c0d71fe9ef093ca44697f559fdab6e",
    "name": "enforcing-stability-in-ci",
    "description": "Use this skill to set up a CI gate that fails the build when Compose stability silently regresses, using the `skydoves/compose-stability-analyzer` Gradle plugin (primary) or the `j-roskopf/ComposeGuard` plugin (alternative for non-Android multiplatform). Covers applying `com.github.skydoves.compose.stability.analyzer`, configuring the `composeStabilityAnalyzer { stabilityValidation { ... } }` DSL, generating a `.stability` baseline with `:stabilityDump`, committing it to version control, and wiring `:stabilityCheck` into a GitHub Actions or other CI job. Use when the team wants a stability SLO, when an unstable parameter slipped into a shared data class and went unnoticed until jank was reported, when migrating a large app to strong skipping, or when the user mentions stabilityCheck, stabilityDump, baseline drift, ComposeGuard, or \"fail the build on stability regression\"."
+  },
+  "3zezekfnqrvfzybolupaqbvurndiibsnd2kv-w6t-uo": {
+   "status": "ambiguous",
+   "archive_path": "other/court-sickn33-agentic-awesome-skil/SKILL.md",
+   "repo": "sickn33/agentic-awesome-skills",
+   "branch": "main",
+   "digest": "sha256:bb86ad7347e2465d20a64be6634f79bb3b7a0f8d2fea0d2a365e1cde0cb2a72a",
+   "checked_at": "2026-10-18T11:51:37+00:00"
   },
   "3zlmrvsxkjd84pw1njwkhtzvy2qytenx6rj9tmr4yde": {
    "status": "ambiguous",
@@ -5120,6 +5144,14 @@
    "digest": "sha256:596f23bac075b92f5418accb5071aeaaa0ea813adb698174fe9428f2affc3848",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "55hfwrz6hx4brlcp3t5zgmbk-ebjjm6fdahqioeafoi": {
+   "status": "upstream_changed",
+   "archive_path": "other/vizcom-suphiozdedee-projenicdesign-com/SKILL.md",
+   "repo": "suphiozdedee/projenicdesign.com",
+   "branch": "main",
+   "digest": "sha256:bd914e98908b171b0952c14cf802594c3f226680fa51d13a66969912d38a5e70",
+   "checked_at": "2026-10-18T11:51:37+00:00"
+  },
   "56d9wfa9qujjgjqjvnd6_qwqbbvtuyzapctmlbx0uw4": {
    "status": "bundled_files",
    "archive_path": "design/theme-factory/SKILL.md",
@@ -5749,18 +5781,6 @@
    "name": "exa-automation",
    "description": "Automate Exa tasks via Rube MCP (Composio). Always search tools first for current schemas."
   },
-  "5o_ie8homyfsb3mqurjd3krftcuirmljkqzeovek4ym": {
-   "status": "pinned",
-   "path": "skills/agents/organization-best-practices/SKILL.md",
-   "archive_path": "other/organization-best-practices-wlue-config/SKILL.md",
-   "repo": "wlue/config",
-   "branch": "master",
-   "digest": "sha256:667aa2530d1e2df3f3bec5146bb6d37b9321e189a35a9e45a798af553d06cfb0",
-   "checked_at": "2026-10-18T07:49:20+00:00",
-   "commit": "222c8ab8f2d84b349c675ccaaba4bc14d56423f2",
-   "name": "organization-best-practices",
-   "description": "Configure multi-tenant organizations, manage members and invitations, define custom roles and permissions, set up teams, and implement RBAC using Better Auth's organization plugin. Use when users need org setup, team management, member roles, access control, or the Better Auth organization plugin."
-  },
   "5ooacous64wf6nqmuzg92zu5bn4faunld2qtowf7bqm": {
    "status": "bundled_files",
    "archive_path": "quality/web-quality-audit/SKILL.md",
@@ -6107,14 +6127,6 @@
    "digest": "sha256:160fe0f75622dfb364bbd516e0f53dad049a0624f9f8767c75a26d65893e0c49",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "5ztharkjw5ja8jeialb1g98zxwqb3oa-erbph6gcvwu": {
-   "status": "upstream_changed",
-   "archive_path": "workflow/openspec-ff-change-ruan-cat-monorepo/SKILL.md",
-   "repo": "ruan-cat/monorepo",
-   "branch": "main",
-   "digest": "sha256:a316a2055e043e363dfe88372c7ce86f8a05c368c34da16f7fb35a6ab13b3516",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "5zylwhimpm_4nvfqb_obbhabhzacm7zugpq2oyfuec8": {
    "status": "bundled_files",
    "archive_path": "other/cubox-kbarbel640-del-skills/SKILL.md",
@@ -6297,6 +6309,14 @@
    "branch": "main",
    "digest": "sha256:03c4de7613c712aea336d64c467ea3ed14be2cbd52345925fe949c75c01c29f7",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "6b2phsjyfgrc6psqrrynlru5yb3bl7p_yjywwll3doa": {
+   "status": "upstream_changed",
+   "archive_path": "other/reflection-method-find-punkouter26-posumo/SKILL.md",
+   "repo": "punkouter26/PoSumo",
+   "branch": "master",
+   "digest": "sha256:0c7511acc9f083b5d07cbe4bec57e7b703f3d6d6cc2a1cac3bb7b2c6cbe174ab",
+   "checked_at": "2026-10-18T11:51:37+00:00"
   },
   "6bnu7edf3lkpbek6sn7_dr0-q21q7kme8lzv_yfsany": {
    "status": "upstream_changed",
@@ -7709,14 +7729,6 @@
    "digest": "sha256:1b57e293201fe9c209d2f897aab82c17e5b597768c9dc6a22dd4670d90ceffa8",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "7y_zubjzzmitkkguve0wpzb_n19erndmfgdoe4rw6jw": {
-   "status": "upstream_changed",
-   "archive_path": "data/openapi-spec-writer/SKILL.md",
-   "repo": "erichowens/some_claude_skills",
-   "branch": "main",
-   "digest": "sha256:09047afaa988b9bd0496feae874228f72dd712586b65ad9f200d9aad7050fe63",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "7ycj8ksfyog1tenf2geeqem5akwvijike1eunnntijw": {
    "status": "ambiguous",
    "archive_path": "other/crewai-welitonevoc-biblia-codex/SKILL.md",
@@ -8285,14 +8297,6 @@
    "repo": "trailofbits/skills",
    "branch": "main",
    "digest": "sha256:ef774b925eb1d1fc12e4f5ddc3f5ad925ecd795315827447228c70cc44c6170c",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "8mgce8zfeiy5je-tl9um-amyb0xaw0ewuk6ocymssxu": {
-   "status": "upstream_changed",
-   "archive_path": "workflow/openspec-onboard-danielsogl-copilot-workflow-dem/SKILL.md",
-   "repo": "danielsogl/copilot-workflow-demo",
-   "branch": "main",
-   "digest": "sha256:f17b1ebe4da466e27d90e8b2ccd2401292d1c96d1b742c45231d15b70fe90268",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "8mtihi18c1v_widseble2g-wlav0h1iwkawsp460tj8": {
@@ -10033,6 +10037,14 @@
    "name": "blast-radius",
    "description": "Find what a change could break somewhere else before it ships, beyond the diff, and prove the one fact it's safe because of by running real code instead of writing it up. Use for 'blast radius of X', 'what could this break', or reviewing a small diff you don't trust."
   },
+  "_ulu09o-tmuj1ben6k1a-0cw9xrjd2usax-rbfcm5co": {
+   "status": "ambiguous",
+   "archive_path": "development/cockney/SKILL.md",
+   "repo": "sickn33/agentic-awesome-skills",
+   "branch": "main",
+   "digest": "sha256:bd0b637e48ff1333e71e2fc943712721d35b5dfaaf37d1484ca52756a62e31bf",
+   "checked_at": "2026-10-18T11:51:37+00:00"
+  },
   "_uzh-qd4yy4jxbthiuhmo2g7_0kfykbc7tftkgeoaxq": {
    "status": "bundled_files",
    "archive_path": "other/brand-xenodeve-xeno-skills/SKILL.md",
@@ -10164,6 +10176,18 @@
    "name": "on-track",
    "description": "Run the full on-track check on a conversation, project, or keyword the owner names: find the sessions, extract exactly what he typed, dispatch independent judges who go to the live product as him and report what was missed, plan the remedy, and return one page — what he will see, what is missing, the plan. Use when told to check whether work is on track, to audit a project that has drifted, on 'run the on-track check on X', or when a long campaign is about to freeze, hand off, or claim done."
   },
+  "a00zndlh7u1rakidbsnnji6al9khd3muokgoh015iio": {
+   "status": "pinned",
+   "path": ".gemini/skills/assets-shader-get-data/SKILL.md",
+   "archive_path": "bash/assets-shader-get-data/SKILL.md",
+   "repo": "bsoc-bitbyte/BattleGround-Mobile-Jabalpur",
+   "branch": "main",
+   "digest": "sha256:d728e65064d6b892d5f2083ae471f0ecb4f22cbb10eda975b571902dc32c9ea3",
+   "checked_at": "2026-10-18T11:51:37+00:00",
+   "commit": "e309afecd889f2d79485b97fc24e83ad270111f5",
+   "name": "assets-shader-get-data",
+   "description": "Get detailed data about a shader asset — properties, subshaders, passes, compilation messages, and supported status. Supports token-saving path-scoped reads via `paths` or `viewQuery`. Use 'assets-find' with `t:Shader` or 'assets-shader-list-all' to locate the shader first."
+  },
   "a0cvtuy6rsdvllk2q5ru6nnlphvmhazbazzwjcvich8": {
    "status": "bundled_files",
    "archive_path": "other/deep-research-thamielis-agents/SKILL.md",
@@ -10180,12 +10204,13 @@
    "digest": "sha256:b1d0fc0d882c7d2278f5f10139d5c6539aa2fbc532ecbb8560a77dcfcc23d855",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "a1dxtnfnuec60yqzpu1lafyssikbida2f_jp3y8mgaw": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "data/openapi-spec-generation/SKILL.md",
-   "digest": "sha256:3f31a82f43909b18788ab297b864f507ba632103bd4b39e30aa04f6cc47c0d3c",
-   "checked_at": "2026-10-17T18:43:47+00:00"
+  "a1luwz-9rcx4k00a90irbtv4kcsofh996m2hky1trm4": {
+   "status": "upstream_changed",
+   "archive_path": "bash/unity-skill-generate-punkouter26-posumo/SKILL.md",
+   "repo": "punkouter26/PoSumo",
+   "branch": "master",
+   "digest": "sha256:cbbf517098e547ef7171be6276fee982d5a1bb81c7d5af4f23a36d93976269f6",
+   "checked_at": "2026-10-18T11:51:37+00:00"
   },
   "a1nt_0kjfdhhwayfzy2p5e3rdaix6mnz4vk_ep570g4": {
    "status": "bundled_files",
@@ -11064,6 +11089,18 @@
    "branch": "main",
    "digest": "sha256:d17e5a30fdf27f9dbcce2e756956cee2a5592dd3529170cae0a1f232b001bb60",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "aktlnjwwvjzx_mmjsiv2ojirad8vbtf3adsq_u7zbx0": {
+   "status": "pinned",
+   "path": ".gemini/skills/gameobject-component-get/SKILL.md",
+   "archive_path": "other/gameobject-component-get/SKILL.md",
+   "repo": "bsoc-bitbyte/BattleGround-Mobile-Jabalpur",
+   "branch": "main",
+   "digest": "sha256:72dfc358c798f6674044caa7abcb7da9cf72993dea2e12d21dc4bd6e2692c55c",
+   "checked_at": "2026-10-18T11:51:37+00:00",
+   "commit": "e309afecd889f2d79485b97fc24e83ad270111f5",
+   "name": "gameobject-component-get",
+   "description": "Get detailed information about a specific Component on a GameObject — type, enabled state, and (optionally) serialized fields and properties. Supports token-saving path-scoped reads via `paths` or `viewQuery`. Use 'gameobject-find' to list components first."
   },
   "akxlnp0xf57pvfcavoezgw45dv6cmd6twpa2lt6ry_u": {
    "status": "upstream_changed",
@@ -12678,6 +12715,18 @@
    "name": "distill",
    "description": "Strip designs to their essence by removing unnecessary complexity. Great design is simple, powerful, and clean."
   },
+  "blxzg86e-fhqotftfbkvhnv55xl62pxi8su5dyzbhis": {
+   "status": "pinned",
+   "path": ".gemini/skills/assets-prefab-instantiate/SKILL.md",
+   "archive_path": "other/assets-prefab-instantiate/SKILL.md",
+   "repo": "bsoc-bitbyte/BattleGround-Mobile-Jabalpur",
+   "branch": "main",
+   "digest": "sha256:40a86ddbd3b1408dff5239b9f81cd3bc7052b92e1a1853c5f123f350b7ba65ba",
+   "checked_at": "2026-10-18T11:51:37+00:00",
+   "commit": "e309afecd889f2d79485b97fc24e83ad270111f5",
+   "name": "assets-prefab-instantiate",
+   "description": "Instantiate a prefab into the currently active scene at an optional position/rotation/scale, parented under an optional scene GameObject path. Use 'assets-find' to locate the prefab asset first."
+  },
   "bm0ukilnm22ckvmcopppwlogy6gn4e7ae8hg0ppzsgg": {
    "status": "bundled_files",
    "archive_path": "bash/finance-micsapp-micstec-skills/SKILL.md",
@@ -13470,14 +13519,6 @@
    "repo": "vjrivmon/Setup-Software-IA",
    "branch": "main",
    "digest": "sha256:56560dded679d91a576994577d309a1d9e9f9497471b8924544002f92ab84d9f",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "c4rioxl7e4jviwmzdorp6_tvw2fnqcaffn_9s6zlwdg": {
-   "status": "tree_truncated",
-   "archive_path": "other/operating-sliver-c2-andycungkrinx91-konoha-6/SKILL.md",
-   "repo": "andycungkrinx91/konoha",
-   "branch": "master",
-   "digest": "sha256:0f1bdb826164eee226fa70fa047bc15af331e982aa5a2f2ee657067752a5de30",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "c4talsc-i8mdbraq9svqnclg-ryn586h6szn9edbjom": {
@@ -14733,18 +14774,6 @@
    "name": "cloudflare",
    "description": "Guide for building applications on Cloudflare's edge platform. Use when implementing serverless functions (Workers), edge databases (D1), storage (R2, KV), real-time apps (Durable Objects), AI features (Workers AI, AI Gateway), static sites (Pages), or any edge computing solutions."
   },
-  "cvbzloltzyx3l5d4osfzq_7erwju4s1dt01gdujxncu": {
-   "status": "pinned",
-   "path": "modifiers/ordering-modifier-chains/SKILL.md",
-   "archive_path": "development/ordering-modifier-chains-skydoves-compose-performance-/SKILL.md",
-   "repo": "skydoves/compose-performance-skills",
-   "branch": "main",
-   "digest": "sha256:57b72424fb4f25e33b8a4144e9eaaae01b11fff2d375514e00b56e5fa0934c8a",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "1b32f81724c0d71fe9ef093ca44697f559fdab6e",
-   "name": "ordering-modifier-chains",
-   "description": "Use this skill to diagnose and fix Jetpack Compose Modifier ordering bugs — wrong paint region for background, wrong click area for clickable, wrong clipping for clip, wrong measurement for padding/size, surprising graphicsLayer scope. Covers the wrap-the-next-modifier mental model, the canonical pitfalls (padding vs background, clickable placement, clip before background, graphicsLayer placement), and why hoisting an entire Modifier chain via remember { Modifier.… } is rarely a real perf win because Compose already interns identical chains. Use when the developer asks \"why does the click area extend past the visible button\", \"why is my background painted in the wrong place\", \"does Modifier order matter\", \"should I cache my Modifier chain\", or reviews a diff that reorders modifiers."
-  },
   "cvf1o9nqglq5j4em5m9m3isbeh-vznmmw-ipssjduq4": {
    "status": "tree_truncated",
    "archive_path": "security/s3-modbender-skill-library-mcp/SKILL.md",
@@ -15460,6 +15489,14 @@
    "branch": "main",
    "digest": "sha256:9087e893ac47f941a835db74bccb236202724be4a1620f79336f4dc40515ea6e",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "dgfqlgkafsnwxgnoj4ohgnd42tdcmr_bvwdh-u33wbq": {
+   "status": "ambiguous",
+   "archive_path": "bash/assay/SKILL.md",
+   "repo": "sickn33/agentic-awesome-skills",
+   "branch": "main",
+   "digest": "sha256:b08bc80c438364d1441a6e0c031d9bc7df0a8ab270af58b202f11966ce1ca4b3",
+   "checked_at": "2026-10-18T11:51:37+00:00"
   },
   "dggjxln6ylyynbrcpir4kwavca6sauvg5nem8itq7bg": {
    "status": "tree_truncated",
@@ -19445,6 +19482,14 @@
    "digest": "sha256:291e32076ca059db578832eede6ab35ae1b8b070efa46e42a30747f8154e0941",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "fpfuybhqjy4vhe-9kxuxlb_zegiu_fl7lb8unqdq4yw": {
+   "status": "upstream_changed",
+   "archive_path": "other/sdk-dx/SKILL.md",
+   "repo": "suphiozdedee/projenicdesign.com",
+   "branch": "main",
+   "digest": "sha256:edda64fbc88ea1c5b85666dbc9adc14ed7ab312d4bad35fb90264434733db67a",
+   "checked_at": "2026-10-18T11:51:37+00:00"
+  },
   "fpiusg_cbg8ald4d6oxaokvjiec969cz4-kpsboi9dk": {
    "status": "upstream_changed",
    "archive_path": "data/typescript-expert/SKILL.md",
@@ -19831,13 +19876,6 @@
    "repo": "suphiozdedee/projenicdesign.com",
    "branch": "main",
    "digest": "sha256:9b88cfc0c704216c8a477ba99be268f9a6a9b99da5645cb05247b7c850ead9d5",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "fw55kz0huokfytzmbiblw2rt3beq3ajf1f5soj_z6em": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest\",\"status\":\"404\"}",
-   "archive_path": "ai-llm/openai-automation/SKILL.md",
-   "digest": "sha256:220372a14b117e8f59b0c69ef4a72eb8efd2412d9c362cfa75750167694a0c68",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "fwatpmk8r0nyyppt1wp6iy1-fljxi_fqavxkj0tcxua": {
@@ -20265,14 +20303,6 @@
    "repo": "vamseeachanta/workspace-hub",
    "branch": "main",
    "digest": "sha256:dbd7cabb99164fa6571ee0cd599099838260c72fce25a01d42ed68575065d3c8",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "g6daxt37ssbmzgjk9rnywug4o8pzsf45bae_kyc5lpk": {
-   "status": "bundled_files",
-   "archive_path": "other/orchestration-skill-creator-jicate-solutions-arts-tally-roja/SKILL.md",
-   "repo": "Jicate-Solutions/arts_tally_roja",
-   "branch": "main",
-   "digest": "sha256:f699b889a1a8e1ddda17123d41aa083678b7a7d4209a58dc4235af66b2339db9",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "g6ghfwzn55wveaxnsgmlswajqajdpdr5zynrqqfqpxi": {
@@ -21106,14 +21136,6 @@
    "digest": "sha256:c83c127801a840db51b5e56f4df6319970664d110a7bf13f08bdad795461de7c",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "gninfiq2zjifiyigsarvaaqrc8b16ullw0hbv8gned0": {
-   "status": "bundled_files",
-   "archive_path": "testing/outside-in-testing-rysweet-azurehaymaker/SKILL.md",
-   "repo": "rysweet/AzureHayMaker",
-   "branch": "main",
-   "digest": "sha256:66b384217a02627d01fc0445b2aad83921ba161602a70a349f9fdd9e094007e3",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "gnkbondpnwe15px60551bqpi5coegdlc1r6xhdpe-e8": {
    "status": "pinned",
    "path": ".agent/skills/startup-analyst/SKILL.md",
@@ -21662,14 +21684,6 @@
    "digest": "sha256:9f0bc14c44ec5c11eb753c02afa843b6ace5043d44b23da25fbca73e8098857a",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "h-c16055y98cmsivhdw8qqb8ncqz-5bbwgu6jc9zpo0": {
-   "status": "upstream_changed",
-   "archive_path": "data/onboarding-new-hires-refoundai-lenny-skills/SKILL.md",
-   "repo": "RefoundAI/lenny-skills",
-   "branch": "main",
-   "digest": "sha256:08e00692e36dc4fc383f4d13371984665ecc4e2a35e211a20e0990cd99874ce2",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "h-e7xfnu8e2kylz7w7psavsb0inb72y-kcfjwl0znye": {
    "status": "bundled_files",
    "archive_path": "design/hatch-pet-mrglennc64-new-ac/SKILL.md",
@@ -22123,18 +22137,6 @@
    "digest": "sha256:afa0aac76af07ded9302fd8ce3b35045cd0fb0bbe39f12f23fc09f6db546faf5",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "he3d_sc1dbblfqqezhfkgtyu2bddl_nyrcstotbnpdk": {
-   "status": "pinned",
-   "path": ".claude/skills/one-canonical/SKILL.md",
-   "archive_path": "other/one-canonical-armanisadeghi-matrx-local/SKILL.md",
-   "repo": "armanisadeghi/matrx-local",
-   "branch": "main",
-   "digest": "sha256:8feefd4f676fe456f241df3b77bb498ad4adfa24c6ff33d1c7423d6e7da6b3eb",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "c92e7ca6faa8f85cc7aed5b926a1e9ae40ba8b4b",
-   "name": "one-canonical",
-   "description": "Collapsing every copy of one kind of thing (tables, UIs, utilities, hooks, APIs, renderers) into a single canonical one. Use when asked to unify, merge, converge, or 'make one X used everywhere', or before migrating callers onto a new canonical piece. NOT for docs (use docs)."
-  },
   "heaomvp2peg0oi2bvtvzpzqitxhj2chtjdajupiztai": {
    "status": "bundled_files",
    "archive_path": "data/golang-database-samber-cc-skills-golang/SKILL.md",
@@ -22181,6 +22183,18 @@
    "branch": "main",
    "digest": "sha256:80fc976fcb672e94d5aaa78c015b05b3c3564294096e5904c627aec6a8372808",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "hexsevub_xh3u1mj2kuuluzq6qg88a_6p8oavncmghs": {
+   "status": "pinned",
+   "path": "skills/moatmri/SKILL.md",
+   "archive_path": "other/moatmri-nguyen-thanh-1-askills/SKILL.md",
+   "repo": "nguyen-thanh-1/ASkills",
+   "branch": "main",
+   "digest": "sha256:be79b2bace5353af26e4c5ef1da57b8cb8a235e67ba8a2f3d3bb53baf2c8ca07",
+   "checked_at": "2026-10-18T11:51:37+00:00",
+   "commit": "17bee03c2b2855921a62d22f798b0fbbd109c938",
+   "name": "moatmri",
+   "description": "Analyze AI disruption pressure across a business, map competitive exposure, and produce a 90-day defensive action plan."
   },
   "hfqvguoubrnt5t0-3opbwwlfldg1mwhrj0y3kmci_es": {
    "status": "tree_truncated",
@@ -22426,14 +22440,6 @@
    "digest": "sha256:43639a9454cdc2d5d69a6c379405d687630183b140570ef3454fd0d08c324c83",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "hknsdtlpas3c9qyhahc_ml1as0g08nwgopff6obqlia": {
-   "status": "ambiguous",
-   "archive_path": "ai-llm/connect-chrome-kk20300113-png-my-claude-skills/SKILL.md",
-   "repo": "kk20300113-png/my-claude-skills",
-   "branch": "master",
-   "digest": "sha256:d16489f65a14d24deec882de74364b8faf49fe50e0f0dd04eeb2e64210c5759b",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "hko0s-mkua5kt0z7z6lfx-drrvsqoxzz9cxd5pv4hok": {
    "status": "pinned",
    "path": ".claude/skills/openspec-continue-change/SKILL.md",
@@ -22532,6 +22538,14 @@
    "branch": "master",
    "digest": "sha256:fd9c96b1a0ca0c19f696d708383442de2899de95f82d8bef7b6707c32a1462d7",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "hmtjfditm5qkjfa8yn66mwsxhmj8nrj07gwcsmfew8e": {
+   "status": "upstream_changed",
+   "archive_path": "other/vexor-suphiozdedee-projenicdesign-com/SKILL.md",
+   "repo": "suphiozdedee/projenicdesign.com",
+   "branch": "main",
+   "digest": "sha256:cfea3112935990e5a1a591805fc942cfe8cff7cea0e0fd4ba7eb6e7d23bdd0df",
+   "checked_at": "2026-10-18T11:51:37+00:00"
   },
   "hn15fkw6g3s9hucfmez9vp8kr93tiri6muuzq0r1n_g": {
    "status": "bundled_files",
@@ -22709,6 +22723,14 @@
    "archive_path": "local-ai-infrastructure/modal-hxk622-tokendance-106b82e8/SKILL.md",
    "digest": "sha256:b53c917f8142446a71573114f19f92341702a8dfc856c1dd659cb52364c6dce0",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "hqcwyeo9hlvrtkv_zur0f--neukx098wukgl9wk8t34": {
+   "status": "upstream_changed",
+   "archive_path": "other/sympy-suphiozdedee-projenicdesign-com/SKILL.md",
+   "repo": "suphiozdedee/projenicdesign.com",
+   "branch": "main",
+   "digest": "sha256:f696516e760f8f01a28d7d140f4afca9de7ac0769a28f6fde9abd4f1c399cc51",
+   "checked_at": "2026-10-18T11:51:37+00:00"
   },
   "hqkulmjj8xwvsqhvekjh1yvdzl7d8fl0heifxofnpiy": {
    "status": "bundled_files",
@@ -22989,6 +23011,14 @@
    "digest": "sha256:19cec081d406d1de45f46c6d1eccfa2a19e153876ce923a4feed1f435bf5a80d",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "hvih3zry762mfq_4dqmkfueactq_7hsgepeb77i9twu": {
+   "status": "upstream_changed",
+   "archive_path": "bash/profiler-capture-frame-punkouter26-posumo/SKILL.md",
+   "repo": "punkouter26/PoSumo",
+   "branch": "master",
+   "digest": "sha256:7191b8c6973fae98d14713c76acc7e97f47e2a632775e0ccccb5bde250c212a2",
+   "checked_at": "2026-10-18T11:51:37+00:00"
+  },
   "hvkoz-myyks1jfofk3ozcweyhtotep64tne4qarkj0m": {
    "status": "pinned",
    "path": "Skills/Skills/loop-me/SKILL.md",
@@ -23072,6 +23102,18 @@
    "branch": "main",
    "digest": "sha256:9df98fb3825ea55e4e4a510329b6e05871f59c49f7d5609ca18722c5cfbdcc02",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "hxuh2yhirrrt4jsbai4lxbowmm5irukrogykfjem3ae": {
+   "status": "pinned",
+   "path": ".gemini/skills/gameobject-set-parent/SKILL.md",
+   "archive_path": "other/gameobject-set-parent/SKILL.md",
+   "repo": "bsoc-bitbyte/BattleGround-Mobile-Jabalpur",
+   "branch": "main",
+   "digest": "sha256:e856f944ff1d5bb31d38e51d8bd20b6c6fd45c9d5bb533a06e875071d3b93783",
+   "checked_at": "2026-10-18T11:51:37+00:00",
+   "commit": "e309afecd889f2d79485b97fc24e83ad270111f5",
+   "name": "gameobject-set-parent",
+   "description": "Reparent a batch of GameObjects under a new parent in the currently opened Prefab or active Scene. Per-item failures are reported in the returned status string instead of aborting the batch. Use 'gameobject-find' to locate the GameObjects first."
   },
   "hxwntzrzqycdneava_eeict4xu_imuju7ehzunkcspk": {
    "status": "upstream_changed",
@@ -23684,18 +23726,6 @@
    "branch": "main",
    "digest": "sha256:227d3025f58515d4bd19d678df8dfa97b1148a1768be12646f661c76c52e2fcf",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "igdhd7w5nphztgnwsuxtkoe5nh4grdt20mvlavc4hvw": {
-   "status": "pinned",
-   "path": "skills/skills-codex/overleaf-sync/SKILL.md",
-   "archive_path": "bash/overleaf-sync/SKILL.md",
-   "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
-   "branch": "main",
-   "digest": "sha256:15644b418d9d043ac1f66e03242a9f8ecebc63569fc0a43f913252f3bfb2abe7",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "15c0b799e6cd5fbc4da381a5786dd0bc2cdf15ee",
-   "name": "overleaf-sync",
-   "description": "Two-way sync between a local paper directory and an Overleaf project, so ARIS audit/edit workflows stay on the local copy while collaborators edit in the Overleaf web UI. Use when user says \"同步 overleaf\", \"overleaf sync\", \"推送到 overleaf\", \"connect overleaf\", \"Overleaf 桥接\", \"pull overleaf\", \"push overleaf\", or wants to bridge their ARIS paper directory with an Overleaf project."
   },
   "igdtn7m5mmgls0nt75u60lw0nw9crldovpkmgamkpuq": {
    "status": "bundled_files",
@@ -25251,14 +25281,6 @@
    "digest": "sha256:813fa8bc711cd2ebaefd6a4f73fc6093edbf24a48ca80c381b67623b6c0c982b",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "jf0qjyjm7_bkvn1ayzoiwnybohpb7270vl2a2ehyxjq": {
-   "status": "upstream_changed",
-   "archive_path": "workflow/openspec-new-change-ruan-cat-monorepo/SKILL.md",
-   "repo": "ruan-cat/monorepo",
-   "branch": "main",
-   "digest": "sha256:cdaa388d36d27cc4b29a6a96d748671dc39e7484bab2025828606fee4d16190a",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "jfa8-flbavdogsezluwy2we2g9hgzxacoc7k_vqpbog": {
    "status": "pinned",
    "path": "skills-db/legal/form-1023/SKILL.md",
@@ -26271,6 +26293,14 @@
    "name": "nestjs-patterns",
    "description": "NestJS architecture patterns for modules, controllers, providers, DTO validation, guards, interceptors, config, and production-grade TypeScript backends."
   },
+  "k-slbsxxivdy88ulhy6ehi1rukgjyjokhcrgkg99dci": {
+   "status": "upstream_changed",
+   "archive_path": "other/ux-copy/SKILL.md",
+   "repo": "sickn33/agentic-awesome-skills",
+   "branch": "main",
+   "digest": "sha256:4b83627b00fb2d3156f2f9ef8b08d9e548364045d43a2712e9884315b044d855",
+   "checked_at": "2026-10-18T11:51:37+00:00"
+  },
   "k0bthxemrxzz_f1vzdo6yu2vmjm2jxxlz2axq-9b7kw": {
    "status": "ambiguous",
    "archive_path": "other/brief-ziyabicilecommerce-h-ai-cash-machine/SKILL.md",
@@ -26853,14 +26883,6 @@
    "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
    "archive_path": "data/gdpr-data-handling-pelan05-vscode-agents-folder/SKILL.md",
    "digest": "sha256:bd55121333bee6c3cfccd58a3445c35b5cb49f7d793c6a0c60a95536a123b3c7",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "kdzhhbksmdyymmuvzwoy1ipgls7py1vepceyvblz6i0": {
-   "status": "upstream_changed",
-   "archive_path": "development/open-source-contributions-jezweb-claude-skills/SKILL.md",
-   "repo": "jezweb/claude-skills",
-   "branch": "main",
-   "digest": "sha256:000d354aff1e3d8a629ace0e4c2cd9996e7f5e2615e947becf97d6bd31867f57",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "ke9zfktnjrobgegev9p_whan--g7ehefsdo7nn-ez58": {
@@ -27788,6 +27810,18 @@
    "name": "hive-mind-advanced",
    "description": "Advanced Hive Mind collective intelligence system for queen-led multi-agent coordination with consensus mechanisms and persistent memory"
   },
+  "kxnnf8rilvj72e4nokoa7o7hihootieuwewxjbczrbk": {
+   "status": "pinned",
+   "path": ".gemini/skills/gameobject-component-list-all/SKILL.md",
+   "archive_path": "other/gameobject-component-list-all/SKILL.md",
+   "repo": "bsoc-bitbyte/BattleGround-Mobile-Jabalpur",
+   "branch": "main",
+   "digest": "sha256:21469930fa7f535222b7b99bb51d938fb653bffae81515e72a850daf7f9f2445",
+   "checked_at": "2026-10-18T11:51:37+00:00",
+   "commit": "e309afecd889f2d79485b97fc24e83ad270111f5",
+   "name": "gameobject-component-list-all",
+   "description": "List the fully-qualified C# type names of every concrete `UnityEngine.Component` subclass available in the project. Paginated (default 5/page, max 500). Use this to find a valid `componentName` for 'gameobject-component-add'."
+  },
   "kxntf6s4anlikjurlv2oxhwcgjfp3676gh_dsfoe7m0": {
    "status": "pinned",
    "path": "skills/superpowers/dispatching-parallel-agents/SKILL.md",
@@ -28170,6 +28204,18 @@
    "archive_path": "data/analytics-tracking-claudiodearaujo-sistema-de-narra-o-d/SKILL.md",
    "digest": "sha256:d3619b093a80a814821d87f40e230e165918800820738af9d6087975d765ccff",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "l9iyla_yr_vm_0ibfih-hsib9akqfdlizfftz5k5msg": {
+   "status": "pinned",
+   "path": ".gemini/skills/script-update-or-create/SKILL.md",
+   "archive_path": "bash/script-update-or-create/SKILL.md",
+   "repo": "bsoc-bitbyte/BattleGround-Mobile-Jabalpur",
+   "branch": "main",
+   "digest": "sha256:8d30196b0491e977dac7a739e4978aa5c710d0208b469e216dfde94a381da67c",
+   "checked_at": "2026-10-18T11:51:37+00:00",
+   "commit": "e309afecd889f2d79485b97fc24e83ad270111f5",
+   "name": "script-update-or-create",
+   "description": "Write a `.cs` script file (create or overwrite) with the provided C# code. Validates syntax via Roslyn before write — invalid code is rejected with error details and the file is left untouched. Refreshes the AssetDatabase and delivers the final result via `requestId` after Unity finishes the triggered compilation. Use 'script-read' to inspect existing content first."
   },
   "l9l9uirqq785ar8-w7ewyccfiidhuzvurijrmtm662w": {
    "status": "ambiguous",
@@ -29685,14 +29731,6 @@
    "name": "rust-pro",
    "description": "Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready systems programming."
   },
-  "m5vkxcpk5wqet9phc5-un9g2efehgifbbajws33u-vy": {
-   "status": "tree_truncated",
-   "archive_path": "bash/ovh-modbender-skill-library-mcp/SKILL.md",
-   "repo": "modbender/skill-library-mcp",
-   "branch": "main",
-   "digest": "sha256:4f38aa35e80e5f3b600c5324955a3008973b5d1be84d2390d82991091c0c1afe",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "m5wucxmzlh8fkfcferumzeiwbpfsklh5ghk-ietkikc": {
    "status": "tree_truncated",
    "archive_path": "documents/paper-2-web-aiskillstore-marketplace-2/SKILL.md",
@@ -30479,14 +30517,6 @@
    "name": "child-skill",
    "description": "A nested skill in a subdirectory."
   },
-  "mljswwg9xdvw-czwayb_bevhrz2inbxg2pyfhfm3hg4": {
-   "status": "bundled_files",
-   "archive_path": "other/onboarding-patrickserrano-lacquer/SKILL.md",
-   "repo": "patrickserrano/lacquer",
-   "branch": "main",
-   "digest": "sha256:ca219e0ba8f931888e2a634624ab927206f8ef26aeca2250399c3c48da0341e0",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "mlqgpiwv82nxmqcothbk0kvdjofcir0asbjhdm_1pti": {
    "status": "pinned",
    "path": ".claude/skills/m13-domain-error/SKILL.md",
@@ -30691,18 +30721,6 @@
    "name": "agent-sandbox",
    "description": "Agent skill for sandbox - invoke with $agent-sandbox"
   },
-  "mog2ru3nstgq3g7zls85ufxa4ffxdvcuoo63ncanyfo": {
-   "status": "pinned",
-   "path": ".opencode/skills/openspec-sync-specs/SKILL.md",
-   "archive_path": "other/openspec-sync-specs-rshade-finfocus-plugin-azur-3/SKILL.md",
-   "repo": "rshade/finfocus-plugin-azure-public",
-   "branch": "main",
-   "digest": "sha256:462814fe08919d031141642f8fc6d5897cd7ac8b8fb10865c36f7eb2b53bbde9",
-   "checked_at": "2026-10-17T23:14:30+00:00",
-   "commit": "92f474c1233ec970befd48cb77f5d51569466f8b",
-   "name": "openspec-sync-specs",
-   "description": "Sync delta specs from an OpenSpec change to main specs. Use when the user wants to update main specs with changes from a delta spec, without archiving the change. Also use when the user says \"openspec sync\" or \"opsx sync\"."
-  },
   "moo_2dhfdjvktp1imymhg2xggutv1rnikgcvj9v9l8k": {
    "status": "bundled_files",
    "archive_path": "other/monitoring-darkweb-sources-xtofuub-openrecon-ios/SKILL.md",
@@ -30844,14 +30862,6 @@
    "repo": "ruvnet/ruflo",
    "branch": "main",
    "digest": "sha256:5337a5c98d88ca7b574d921f91807008cb93fb0a1e1e662dad70e2e58266b878",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "ms6sksta-tn_rnfywuebdrpllao2gutcanrudxzpo10": {
-   "status": "bundled_files",
-   "archive_path": "development/owasp-guard-nagarenegishi-nagarenegishi-github/SKILL.md",
-   "repo": "NagareNegishi/NagareNegishi.github.io",
-   "branch": "main",
-   "digest": "sha256:d37a801024906d5c9380814535417eeb20ce8f8b601f67613e3c9ae32762c6e6",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "ms7puaaa0xoq53lovvcg2b3najdgreacavdfun5_gwe": {
@@ -31897,18 +31907,6 @@
    "digest": "sha256:8f2d681b7cda6f36ff7c83193f48c0e9f9357bf04030a87798d477e15793de16",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "ngaabsyggljtamgezsug7jaavwqvjrmlsqvmsizzbus": {
-   "status": "pinned",
-   "path": "lists/optimizing-lazy-layouts/SKILL.md",
-   "archive_path": "development/optimizing-lazy-layouts-skydoves-compose-performance-/SKILL.md",
-   "repo": "skydoves/compose-performance-skills",
-   "branch": "main",
-   "digest": "sha256:b905f03a2961c4b6129c624312ad1682848c4e95873d45249ca00060fa7c57a9",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "1b32f81724c0d71fe9ef093ca44697f559fdab6e",
-   "name": "optimizing-lazy-layouts",
-   "description": "Use this skill to fix scroll jank, lost item state, and broken animateItem() animations in LazyColumn, LazyRow, LazyVerticalGrid, and LazyHorizontalGrid. Covers stable item keys, contentType for mixed-type feeds, Modifier.animateItem() requirements, hoisting modifier chains and painters out of the items lambda, and validating item composable stability. Use when the developer mentions LazyColumn jank, dropped frames while scrolling, items losing scroll state on insert/remove/reorder, mixed feeds of cards/headers/ads feeling sluggish, animateItem() not animating, RecyclerView view-type analog, key parameter, or contentType parameter. The prefetch-window tuning lives in a sibling skill."
-  },
   "ngdempkijxcmn0oead1adkt1dp_zgjqwdtga-yj57sm": {
    "status": "upstream_unavailable",
    "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
@@ -31943,6 +31941,18 @@
    "branch": "main",
    "digest": "sha256:b9189dd592d0aa8ae38072deb0e10d9ba9c7307d5ad7811c4e6e7cccbda61a86",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "nh9surymylec_f700gagxozttz1hbuhuteguope2hz4": {
+   "status": "pinned",
+   "path": ".grok/skills/speckit-converge/SKILL.md",
+   "archive_path": "productivity/speckit-converge-tjsasakifln-extra-cli/SKILL.md",
+   "repo": "tjsasakifln/extra-cli",
+   "branch": "main",
+   "digest": "sha256:1355b748919c7750cc87be94534192e5ff227229c14cbd34ca993a5f977a4ce2",
+   "checked_at": "2026-10-18T11:51:37+00:00",
+   "commit": "c25939e9b7806c7d646fa5f4dfddf6ce740c79af",
+   "name": "speckit-converge",
+   "description": "Assess the current codebase against the feature's spec, plan, and tasks, then append any remaining unbuilt work as new tasks to tasks.md so implement can complete it."
   },
   "nhbxfpdgfbxpxhqnx4vnxpgblb-kwswlmbsofjccb90": {
    "status": "invalid_frontmatter",
@@ -32182,14 +32192,6 @@
    "commit": "961ab6c8795ab6e56851e77bcb423983bbac0258",
    "name": "worker-integration",
    "description": "Worker-Agent integration for intelligent task dispatch and performance tracking"
-  },
-  "nltavm-fj_mne6v1d6-ch7tz0exi3ket_ezpunwepfq": {
-   "status": "tree_truncated",
-   "archive_path": "devops/onboarding-ibragimov-oasis-vibe-coder/SKILL.md",
-   "repo": "ibragimov-oasis/vibe-coder",
-   "branch": "main",
-   "digest": "sha256:6581d7be260fe7d4a2c7e56fb9f44cfe9257e8b665d5300df72326d1d5b425f0",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "nlyftrtd-k3-sixcdbze0oukftx14fi2qv5vuhib9ao": {
    "status": "upstream_unavailable",
@@ -34074,6 +34076,14 @@
    "name": "commit",
    "description": "ALWAYS use this skill when committing code changes — never commit directly without it. Creates commits following Sentry conventions with proper conventional commit format and issue references. Trigger on any commit, git commit, save changes, or commit message task."
   },
+  "os-g6ozdbak2j8opvqzb8jk7vgyccqrfj31pxmoywji": {
+   "status": "ambiguous",
+   "archive_path": "security/node-security-review-gonkagate-opencode-setup-2/SKILL.md",
+   "repo": "GonkaGate/opencode-setup",
+   "branch": "main",
+   "digest": "sha256:b5d97ac04ace527e122618dea95098b36d1fd88445f917b12fe6c7a63aed6938",
+   "checked_at": "2026-10-18T11:51:37+00:00"
+  },
   "osdex6i8_cnbdtqg-yumdkrnm_9pqmfz2o8irjjgcqa": {
    "status": "bundled_files",
    "archive_path": "other/financial-analyst-vikasvardhanv-jerry-skills/SKILL.md",
@@ -34726,20 +34736,24 @@
    "name": "python-anti-patterns",
    "description": "Use this skill when reviewing Python code for common anti-patterns to avoid. Use as a checklist when reviewing code, before finalizing implementations, or when debugging issues that might stem from known bad practices."
   },
+  "p8qgb0f04zydlgttbyx7fmbb2hxtlw44yhyrgbnyuca": {
+   "status": "pinned",
+   "path": ".gemini/skills/assets-material-create/SKILL.md",
+   "archive_path": "bash/assets-material-create/SKILL.md",
+   "repo": "bsoc-bitbyte/BattleGround-Mobile-Jabalpur",
+   "branch": "main",
+   "digest": "sha256:052139f6f2987ae04c8a8d3b6a0bab03f512ad2cd9cb12be869b0a2fdcca8229",
+   "checked_at": "2026-10-18T11:51:37+00:00",
+   "commit": "e309afecd889f2d79485b97fc24e83ad270111f5",
+   "name": "assets-material-create",
+   "description": "Create a new Material asset with default parameters at a given 'Assets/'-rooted path ending in '.mat'. Creates intermediate folders if missing. Use 'assets-shader-list-all' to find a valid `shaderName`."
+  },
   "p8vz_7j6p87x_irlo4zkubwvjexxkyfg-zdzwqf_lgg": {
    "status": "tree_truncated",
    "archive_path": "other/cncf-sso-reviewer-domehahn-skrun/SKILL.md",
    "repo": "domehahn/skrun",
    "branch": "main",
    "digest": "sha256:f422412443155b3896d99a5963b3a61af711699371da0c0b635b5a3995af394d",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "p99df1gsecqnptorivuccwze6wpk1tnoaqxwp8zjh_w": {
-   "status": "upstream_changed",
-   "archive_path": "data/openai-assistants/SKILL.md",
-   "repo": "jezweb/claude-skills",
-   "branch": "main",
-   "digest": "sha256:418177d1ad2da08404017fdc8718ddfd62a06ccc5c5c9bc539c08178b0fef4b5",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "p_sujwy8tnxtmuc4r8puxv0txznpeemsjbbb6bo9ly4": {
@@ -34857,13 +34871,6 @@
    "commit": "8cabe3956984ec47c03560d65caaa8224d263702",
    "name": "desk-open",
    "description": "Create and open a new desk in the workshop. Sets up the folder structure, initial journal, and desk identity so the next session that sits down finds the trail."
-  },
-  "pdi7bpnoxnldr32dwkoqt_2b5qvlibsdagnvzmv97ry": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest\",\"status\":\"404\"}",
-   "archive_path": "workflow/onboarding-agent-vasic-digital-superagent-2/SKILL.md",
-   "digest": "sha256:cd3c6146b16e8cbda5705938f149f54e69821cd96a82c56bdc60570bf5f36f1c",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "pdsx_cgxnmmajox31zovh06puox6yf0jwb-ugv7pnnu": {
    "status": "bundled_files",
@@ -36731,14 +36738,6 @@
    "digest": "sha256:dd7a34c53c932cf54a9f75e43a5f0cb03181c564c1a441d384742bff8180dfb5",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "qgnjgsnyn1lnwugpq1f4vs4b1y9_jiljioh1bzwjy48": {
-   "status": "tree_truncated",
-   "archive_path": "development/operating-havoc-c2-andycungkrinx91-konoha-6/SKILL.md",
-   "repo": "andycungkrinx91/konoha",
-   "branch": "master",
-   "digest": "sha256:f3778d62b5e8a0cdc4a861ad982a75387259057534ad08fbb9272d9ad389ddb8",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "qgochdgn71s0cwz7g1w06lc-75yn-2symvxqu6xedsy": {
    "status": "pinned",
    "path": "skills/labclaw-general-dask/SKILL.md",
@@ -37293,6 +37292,18 @@
    "digest": "sha256:4685c11f457738b7fcb683d5c775334ed0ee4dca5e02c005a8257c8bd80a8298",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "qs96jcyta9s3ix5gozbzrc2wtzpnbbtuqnm-wxujw98": {
+   "status": "pinned",
+   "path": ".gemini/skills/editor-application-get-state/SKILL.md",
+   "archive_path": "bash/editor-application-get-state/SKILL.md",
+   "repo": "bsoc-bitbyte/BattleGround-Mobile-Jabalpur",
+   "branch": "main",
+   "digest": "sha256:222c244741fa1ce78a068c459053be3e69a67ea3cee194c3062a7535ea507859",
+   "checked_at": "2026-10-18T11:51:37+00:00",
+   "commit": "e309afecd889f2d79485b97fc24e83ad270111f5",
+   "name": "editor-application-get-state",
+   "description": "Return the current state of `UnityEditor.EditorApplication` — playmode, paused state, compilation state, and related flags."
+  },
   "qs_5xndoftsnykjeatghavxd2ygbme7vnmrjfopb4kw": {
    "status": "upstream_unavailable",
    "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest\",\"status\":\"404\"}",
@@ -37604,14 +37615,6 @@
    "commit": "03aeba8dfec6263564b938c3e99b0d4752d1c189",
    "name": "haskell-pro",
    "description": "Expert Haskell engineer specializing in advanced type systems, pure functional design, and high-reliability software. Use PROACTIVELY for type-level programming, concurrency, and architecture guidance."
-  },
-  "qzmxcx1jchvyhihgkikj4xeft1q1lm79fialllwdvvw": {
-   "status": "ambiguous",
-   "archive_path": "bash/os-scripting-sickn33-antigravity-awesome/SKILL.md",
-   "repo": "sickn33/antigravity-awesome-skills",
-   "branch": "main",
-   "digest": "sha256:2a881e652285c30129fa72319a7289ce21dcf7ec708de237ca66f0f5fe48fc7a",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "r0dbyrrhbkhx-6wqobz1rh9tlfzz-h82r1yli4bj9am": {
    "status": "bundled_files",
@@ -37966,6 +37969,18 @@
    "commit": "1fdc6b3ed1bb8aa73dc378704aa4f657e1008cc7",
    "name": "gsd-intel",
    "description": "Use when the user asks what the codebase intel knows, or runs /gsd-intel query, status, diff, or refresh. Queries or rebuilds the .planning/intel/ files, and stops with a disabled message when intel is off in .planning/config.json."
+  },
+  "rc8krmks91gt_sxsqqcd4mt7ih1p0mbl7wdp2fz2vti": {
+   "status": "pinned",
+   "path": "skills/vector-database-engineer/SKILL.md",
+   "archive_path": "ai-llm/vector-database-engineer/SKILL.md",
+   "repo": "agent-skills-hub/agent-skills-hub",
+   "branch": "main",
+   "digest": "sha256:082111c4b1718f7b173cfd3b7668da174a54e9b2cb18e6c62541db96fd3e6011",
+   "checked_at": "2026-10-18T11:51:37+00:00",
+   "commit": "efc0b9639b83cf19aa73cc1b74844a6f302fe7ca",
+   "name": "vector-database-engineer",
+   "description": "Expert in vector databases, embedding strategies, and semantic search implementation. Masters Pinecone, Weaviate, Qdrant, Milvus, and pgvector for RAG applications, recommendation systems, and similar"
   },
   "rcj7nffyz0ellztm6ue5kt8vus6nwsq22yk3s9okfyc": {
    "status": "upstream_changed",
@@ -38882,6 +38897,14 @@
    "archive_path": "data/python-testing-patterns/SKILL.md",
    "digest": "sha256:3b6b5b1d9fbd34eb45664ab54978716a264322b03c42b1a188f24d874b8ee854",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "ruggsm3hvnadsbspzjlnzuhb__r4hehniu-cmd9ms7y": {
+   "status": "bundled_files",
+   "archive_path": "other/seaborn-nguyen-thanh-1-askills/SKILL.md",
+   "repo": "nguyen-thanh-1/ASkills",
+   "branch": "main",
+   "digest": "sha256:5a301fcbc105d1f159edcb5b6fe5dfccfe30f1b15f5d00f3984b3b77efde211e",
+   "checked_at": "2026-10-18T11:51:37+00:00"
   },
   "ruoabrbi5cvqynp__bf7m6m0hxeb3eaekyn_v2colm0": {
    "status": "pinned",
@@ -39915,6 +39938,14 @@
    "branch": "main",
    "digest": "sha256:106e625ce5f70c8daa025a5f1e7602ca376ba6781b479e157a3581b6a83f7cfe",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "si5acrzbxypgysliuufe70veermsmfyeuiadmkyfblw": {
+   "status": "ambiguous",
+   "archive_path": "marketing/looot/SKILL.md",
+   "repo": "sickn33/agentic-awesome-skills",
+   "branch": "main",
+   "digest": "sha256:a842e5856d320c04f9a0260c8ff012f5e83e33f48c9568d07a67ef6747d7eadc",
+   "checked_at": "2026-10-18T11:51:37+00:00"
   },
   "sie-s-h-uupkeznxm89ncudjoayskzbwvkq8qdthcss": {
    "status": "bundled_files",
@@ -41344,6 +41375,14 @@
    "name": "copilot-sdk",
    "description": "Build agentic applications with GitHub Copilot SDK. Use when embedding AI agents in apps, creating custom tools, implementing streaming responses, managing sessions, connecting to MCP servers, or creating custom agents. Triggers on Copilot SDK, GitHub SDK, agentic app, embed Copilot, programmable agent, MCP server, custom agent."
   },
+  "te4k9ekk2kcfi_yrwldea3yewhp9qq4007r-rtvulhy": {
+   "status": "upstream_changed",
+   "archive_path": "other/tool-set-enabled-state-punkouter26-posumo/SKILL.md",
+   "repo": "punkouter26/PoSumo",
+   "branch": "master",
+   "digest": "sha256:6fe0f2a6c5a9031a28a1dbbfff6efb95d9342ec70a1306e9e25fbce408ad202e",
+   "checked_at": "2026-10-18T11:51:37+00:00"
+  },
   "tee8md0ab2iuky9l69efuaakljbhwjogmobo00vc0mg": {
    "status": "upstream_changed",
    "archive_path": "development/hugging-face-evaluation-manager/SKILL.md",
@@ -41630,14 +41669,6 @@
    "digest": "sha256:2c5a94f3111f7500497aecb10e3225cbc0037a97b699be45098beebf447fcf6b",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "tjfjwnz9odiflcepktqclotckvrh59q9xq5zcn9gt_w": {
-   "status": "bundled_files",
-   "archive_path": "development/ossfuzz-stanfish06-skillquarium/SKILL.md",
-   "repo": "stanfish06/skillquarium",
-   "branch": "master",
-   "digest": "sha256:aeb1abbcac5ae5e4a73be4bb923fc9cca20d8d1073630c2e0a1ff37fccbec598",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "tjqcmopr8rremwuvt9tp8agvsrgtay0fekq7ezfed7g": {
    "status": "pinned",
    "path": "skills/codex/find-docs/SKILL.md",
@@ -41686,13 +41717,6 @@
    "digest": "sha256:379598491381082d955ed5c74e5348fb4730eb005f95db217b29d1445a38efc6",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "tklrvn7thuxiawldfroujfnxdejmmznnkhnovlnxpgu": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Branch not found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "integration/opentrons-integration-ovachiever-droid-tings/SKILL.md",
-   "digest": "sha256:f313ce4d467de28399ad2e35dc95a3105db76db7fe8171dea25e476ad1abdaa8",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "tkz_d_kh8ls_lp-jcx3-rwhkp3nqpp3z-7-hhs79bn0": {
    "status": "pinned",
    "path": ".agents/skills/agent-agent/SKILL.md",
@@ -41719,14 +41743,6 @@
    "repo": "sinhoneyy/master-skills",
    "branch": "master",
    "digest": "sha256:2828620a434a08c8fca6deb55365d2d525be625b6b381384d47651d54a9c79f3",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "tmhrnvrevo5qqxleg7xawpxtwsrajrnncjuvdhyu7xu": {
-   "status": "upstream_changed",
-   "archive_path": "data/organizational-design-refoundai-lenny-skills/SKILL.md",
-   "repo": "RefoundAI/lenny-skills",
-   "branch": "main",
-   "digest": "sha256:85bcc8d4b336bb70c3a0d5b37fc9799d357ec439c87b8a23d6da26a54d5bd34c",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "tmm15_ufosb5fs7fareenrhrok6o-f1cy_2dfrde10y": {
@@ -43048,18 +43064,6 @@
    "digest": "sha256:8d7c1643ab2e87c69a6165526312672a6e8eed670bcbf8bb030b0a03d625783b",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "ubtyztgyuctfleqtasywzhgxeikfjhnugmujekibxtm": {
-   "status": "pinned",
-   "path": ".claude/skills/owasp-scan/SKILL.md",
-   "archive_path": "security/owasp-scan-nagarenegishi-nagarenegishi-github/SKILL.md",
-   "repo": "NagareNegishi/NagareNegishi.github.io",
-   "branch": "main",
-   "digest": "sha256:8ef7ab1a23bf88424be636b4d536990f8153b350eacaacf3ea4597bee4a6e118",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "b2efc256b6429ec77a2b813b8474112e1fa292f8",
-   "name": "owasp-scan",
-   "description": "On-demand OWASP Top 10:2025 security scanner. Scans a single file, captures cross-file connections for follow-up, and maintains a persistent findings record. Use when the user runs /owasp-scan with a file path, or asks to scan a file for security issues."
-  },
   "ubzhf73xdz_czs00bx-rl2pxss9jsrqhrshttloznru": {
    "status": "pinned",
    "path": "favorites/langgraph-fundamentals/SKILL.md",
@@ -43293,14 +43297,6 @@
    "commit": "0d46bf66690f3f35ea851c5bd42e68f97a9056df",
    "name": "rich-terminal-output",
    "description": "Create beautiful terminal output with Rich library including tables, progress bars, panels, and syntax highlighting. Use when building CLI applications or enhancing terminal output in Python."
-  },
-  "ufjwoed8f1-frf8bjbmhanyhjhxougsro0qkky1-dku": {
-   "status": "upstream_changed",
-   "archive_path": "api/openalex/SKILL.md",
-   "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
-   "branch": "main",
-   "digest": "sha256:9c7d51e40b6022e7150288752ebb91e9e2f550624ed1a535ee619f1b5df29807",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "ufoosk3mrz1hgu0e3siqjwpjgje3agrodeyilhvp0m4": {
    "status": "pinned",
@@ -44362,14 +44358,6 @@
    "digest": "sha256:7ad8be92c9b6a1e59c73069a9edcca1e9c8ad3cc00c3401dd1c4b53878aa8db3",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "v1_larnog2aw-hb5e02es9e6qr3i2w6pii2kgnxrfqg": {
-   "status": "tree_truncated",
-   "archive_path": "devops/opc-meghal86-stacksignal/SKILL.md",
-   "repo": "meghal86/stacksignal",
-   "branch": "main",
-   "digest": "sha256:7882b935772edf23c3c363f384cf2c3589e3f94fa2ff11cc33315dfb7020abf8",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "v1rpl_bvo6u98x62ol7xhpfd1y0xkyollm7wr7tcgeg": {
    "status": "upstream_changed",
    "archive_path": "marketing/competitor-alternatives-sickn33-antigravity-awesome-2/SKILL.md",
@@ -44751,6 +44739,14 @@
    "digest": "sha256:0f75a4d3fe6cc765996cb9bdb47d855c721c08b7cd30e40299fba71d4819ac25",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "vbzibcx2srnh8ekzp0x96h8zs-dh14wxutvdbc6w2re": {
+   "status": "upstream_changed",
+   "archive_path": "product/to-prd-suphiozdedee-projenicdesign-com/SKILL.md",
+   "repo": "suphiozdedee/projenicdesign.com",
+   "branch": "main",
+   "digest": "sha256:91a53f03fa89f382fe1708ed9065e8944b3d51324ebf5b3cfc075b0fda76122a",
+   "checked_at": "2026-10-18T11:51:37+00:00"
+  },
   "vc3uhc7rlmi3rucpofxkwt_xf6f-2ejj_lo2sssx2bi": {
    "status": "upstream_changed",
    "archive_path": "data/database-optimizer/SKILL.md",
@@ -45056,6 +45052,18 @@
    "commit": "20c5aaa1cb057bc5e5ca9415d44762441a39e69b",
    "name": "pr-writer",
    "description": "Create pull requests following Sentry's engineering practices."
+  },
+  "vgyx7ndd9jsp0n6dg-mtbuhs6e4ywc7q65fv_wqz81m": {
+   "status": "pinned",
+   "path": ".gemini/skills/gameobject-component-destroy/SKILL.md",
+   "archive_path": "bash/gameobject-component-destroy/SKILL.md",
+   "repo": "bsoc-bitbyte/BattleGround-Mobile-Jabalpur",
+   "branch": "main",
+   "digest": "sha256:f13b8293965c5be4490aaef46d5d26c696ff3e9582caa868382f3ffb5f550aab",
+   "checked_at": "2026-10-18T11:51:37+00:00",
+   "commit": "e309afecd889f2d79485b97fc24e83ad270111f5",
+   "name": "gameobject-component-destroy",
+   "description": "Destroy one or more Components from a target GameObject. Missing (null) components are skipped — they cannot be destroyed. Use 'gameobject-find' and 'gameobject-component-get' to identify the components first."
   },
   "vhiauvfginxfl5kj7ikk1xlea-mxrzfdzhrztf2nnne": {
    "status": "ambiguous",
@@ -45637,14 +45645,6 @@
    "repo": "microsoft/azure-skills",
    "branch": "main",
    "digest": "sha256:f46e9dd4d4bef33ca78b32980eb06d6667d1c68bf0c1690eef26ea90ca0ae4fa",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "vtugl4m7vhnddmpk-m9y72v9uz7vf5m33qrabxvdzym": {
-   "status": "ambiguous",
-   "archive_path": "product/onboarding-mashharuki-revenuecat-sample/SKILL.md",
-   "repo": "mashharuki/RevenueCat-Sample",
-   "branch": "main",
-   "digest": "sha256:15a802ffb73828730aba90b740426fbb8d2070721ee92d6f8737de4704e8ff0f",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "vubn4igfgdazdxmfwzyrpvy6oe-ojpikcq1gierpile": {
@@ -46943,6 +46943,18 @@
    "digest": "sha256:a40da091ebac92080cf0ed142051d2bef35e56358084511d599f1097c58f5c73",
    "checked_at": "2026-10-17T23:14:30+00:00"
   },
+  "wncjpmquo9azht6e3q1x_7c6gd_janrzh_g6mkg5f1q": {
+   "status": "pinned",
+   "path": ".gemini/skills/screenshot-isolated/SKILL.md",
+   "archive_path": "bash/screenshot-isolated-bsoc-bitbyte-battleground-mobile-/SKILL.md",
+   "repo": "bsoc-bitbyte/BattleGround-Mobile-Jabalpur",
+   "branch": "main",
+   "digest": "sha256:98f6fe24029e405cf8197aef1e715524976fe7fd4fa79f1cda33d73dd51b5fa5",
+   "checked_at": "2026-10-18T11:51:37+00:00",
+   "commit": "e309afecd889f2d79485b97fc24e83ad270111f5",
+   "name": "screenshot-isolated",
+   "description": "Render a target GameObject from a chosen camera angle with optional layer-based isolation, configurable background (solid/skybox/transparent), multi-light setup via JSON, and Composite (2x2 Front/Right/Back/Top) mode. Returns a PNG image. When isolated=true, inactive children may briefly fire OnEnable — see the body for side-effect notes."
+  },
   "wnnv1bn-8hha8dohlxby4n4jecsxhmhekuq1hloh8l8": {
    "status": "pinned",
    "path": "skills/declarative-agents/SKILL.md",
@@ -47118,6 +47130,14 @@
    "branch": "main",
    "digest": "sha256:3f61cfe3ef64fcd4eb59812b6f2a957c81f2629fcacc7379be2848b209f91d36",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "wrfr3nsi_90bloig4n2rwl0csvl1h4b-uzc7q_kzsby": {
+   "status": "upstream_changed",
+   "archive_path": "other/screenshot-game-view-punkouter26-posumo/SKILL.md",
+   "repo": "punkouter26/PoSumo",
+   "branch": "master",
+   "digest": "sha256:3a33b19fad7165376883592bee7c36f4b1a3e8d52048f091999843e1bb301fc8",
+   "checked_at": "2026-10-18T11:51:37+00:00"
   },
   "wrrmmgnedvfgr7j3zkynh4jetimf09bddh7s3yeutxy": {
    "status": "bundled_files",
@@ -47477,18 +47497,6 @@
    "branch": "main",
    "digest": "sha256:9395aabae64891ebdac5f31d17c83b9d47546dc0c9b22654c7b89e9b04da7cf6",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "wytnfilc02zatfh86so0a4e9gwb2cughj53yrvivhcu": {
-   "status": "pinned",
-   "path": ".opencode/skills/openspec-propose/SKILL.md",
-   "archive_path": "productivity/openspec-propose-rshade-finfocus-plugin-azur-3/SKILL.md",
-   "repo": "rshade/finfocus-plugin-azure-public",
-   "branch": "main",
-   "digest": "sha256:452fdba515e1d03f4c5c392f82b59ffe56b03a10742448eda4c9f0dbe8fe02b1",
-   "checked_at": "2026-10-17T23:14:30+00:00",
-   "commit": "92f474c1233ec970befd48cb77f5d51569466f8b",
-   "name": "openspec-propose",
-   "description": "Propose a new OpenSpec change with all artifacts generated in one step. Use when the user wants to quickly describe what they want to build and get a complete proposal with design, specs, and tasks ready for implementation. Also use when the user says \"openspec propose\" or \"opsx propose\"."
   },
   "wz4qyl_h7tzk82k5f6dt_cjjxthqfsvexhp_xddw63g": {
    "status": "pinned",
@@ -47951,14 +47959,6 @@
    "repo": "erichowens/some_claude_skills",
    "branch": "main",
    "digest": "sha256:55b07a18f23c8d818c9b3edf374c8a33deb6a5dec8c0121cbb5f77df0137184f",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "xevhmvdg43ronwu4p3l9sbt3vx6zsnugxzd-px4dahy": {
-   "status": "upstream_changed",
-   "archive_path": "integration/openai-apps-mcp-jezweb-claude-skills-2/SKILL.md",
-   "repo": "jezweb/claude-skills",
-   "branch": "main",
-   "digest": "sha256:6b7aef5adfe98f50e8f39d7df375165e209c520a883c434c538c6500c69cbbb1",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "xey2iw_5v2kudsxeh56uk5vubh9dpjwlqerxnc6qgga": {
@@ -50336,14 +50336,6 @@
    "name": "shipping-and-launch",
    "description": "Prepares production launches. Use when preparing to deploy to production. Use when you need a pre-launch checklist, when setting up monitoring, when."
   },
-  "yszguc_fg0bztnr9xvexb1qdgz9-ztlufiokuno3mek": {
-   "status": "upstream_changed",
-   "archive_path": "data/openai-api/SKILL.md",
-   "repo": "jezweb/claude-skills",
-   "branch": "main",
-   "digest": "sha256:ea1606ccc476dab4a420bc72c0ba72493154cf3ea8a35459dfb43d10246b20a7",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "ytsaay9os6m4polyu63ggl8_grebko41vsmwyd6kslg": {
    "status": "bundled_files",
    "archive_path": "devops/skypilot-tianhao909-ai-research-skills-c/SKILL.md",
@@ -50641,6 +50633,14 @@
    "branch": "main",
    "digest": "sha256:7e223493ca841105688fba04f3a227e770de4341444e8d8fcc4cb5b710e69287",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "yxtqagrh4k6zjuldeezhr77jtujv11yhtqj8_pkryhe": {
+   "status": "upstream_changed",
+   "archive_path": "bash/screenshot-scene-view-punkouter26-posumo/SKILL.md",
+   "repo": "punkouter26/PoSumo",
+   "branch": "master",
+   "digest": "sha256:1421c9bc2c64edd4557b32a82293db37f822ffbdd9d218e32df7991799eea110",
+   "checked_at": "2026-10-18T11:51:37+00:00"
   },
   "yy3160qjcggbrihdilmkjqsmvmgbqujvaev0gi-u328": {
    "status": "bundled_files",
@@ -51273,13 +51273,6 @@
    "digest": "sha256:305787dc283e502534f45fafdb7efdf9dfcbaa833160655380d4217fdd44f984",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "zeqxchj6jrkvekywhpkha8rpxtyifkg3wewbnzulzh4": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest\",\"status\":\"404\"}",
-   "archive_path": "integration/otter-moltbot-skills/SKILL.md",
-   "digest": "sha256:9a467f6d8e0b0127dbd4fd9331678dc1a038043dea2968b5ce760d8e9259c596",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "zewnykpfsukzldw3n-yvjxwaoz9ihneiq-ffev8x-cy": {
    "status": "bundled_files",
    "archive_path": "data/torchforge/SKILL.md",
@@ -51851,6 +51844,14 @@
    "name": "web3-testing",
    "description": "Test smart contracts comprehensively using Hardhat and Foundry with unit tests, integration tests, and mainnet forking. Use when testing Solidity contracts, setting up blockchain test suites, or validating DeFi protocols."
   },
+  "zpflh_op-fj6ogxr3kkiezexfdbonjf1lkoghflxw-m": {
+   "status": "ambiguous",
+   "archive_path": "other/shark/SKILL.md",
+   "repo": "sickn33/agentic-awesome-skills",
+   "branch": "main",
+   "digest": "sha256:d477ecfb196099aaff2fb4b02034da811f85bc553ded29fde59a942dff947d87",
+   "checked_at": "2026-10-18T11:51:37+00:00"
+  },
   "zpfsxksgor2xjt4ncswv_zvqkrupl2wapf31nherkti": {
    "status": "ambiguous",
    "archive_path": "ai-llm/hybrid-search-implementation-sickn33-antigravity-awesome/SKILL.md",
@@ -51957,6 +51958,14 @@
    "commit": "f5a345024fbd0850ccbd01419c12e84009911cdd",
    "name": "react-patterns",
    "description": "React 18/19 patterns including hooks discipline, server/client component boundaries, Suspense + error boundaries, form actions, data fetching, state management decision trees, and accessibility-first composition. Use when writing or reviewing React components."
+  },
+  "zqyma8yy9soedtpf6i4kweqninqonflzg-foj4c9-ns": {
+   "status": "upstream_changed",
+   "archive_path": "bash/profiler-enable-module-punkouter26-posumo/SKILL.md",
+   "repo": "punkouter26/PoSumo",
+   "branch": "master",
+   "digest": "sha256:027db62d88e3373653a109fd2b1afe7196eba98f0db54284f8ea8fc69e04f832",
+   "checked_at": "2026-10-18T11:51:37+00:00"
   },
   "zr0ge6qkjrbke6eokhhpzepfjsz-kdc11ebbnutupoa": {
    "status": "bundled_files",
@@ -52186,6 +52195,14 @@
    "name": "agent-browser",
    "description": "Browser automation CLI for AI agents. Use when the user needs to interact with websites, including navigating pages, filling forms, clicking buttons, taking screenshots, extracting data, testing web apps, or automating any browser task. Triggers include requests to \"open a website\", \"fill out a form\", \"click a button\", \"take a screenshot\", \"scrape data from a page\", \"test this web app\", \"login to a site\", \"automate browser actions\", or any task requiring programmatic web interaction."
   },
+  "zvxwkiztycapaqgmq2zh4cwh0z1a7cepbvppejpaiz8": {
+   "status": "ambiguous",
+   "archive_path": "devops/datadog-sickn33-agentic-awesome-skil/SKILL.md",
+   "repo": "sickn33/agentic-awesome-skills",
+   "branch": "main",
+   "digest": "sha256:b9e5fc4bfef17c55ee0197615d5c9476d82c733dcbbd9dabb9cd188c388f3905",
+   "checked_at": "2026-10-18T11:51:37+00:00"
+  },
   "zvzklygoqemq0xuewo9seka18sytqchlgnjiavyohqa": {
    "status": "bundled_files",
    "archive_path": "integration/gh-address-comments-northseadl-skillwisp/SKILL.md",
@@ -52193,6 +52210,14 @@
    "branch": "main",
    "digest": "sha256:77389eefd3fb6584210668ca8e43f4b8de87e7722ddd953474bc9e24cdfaaedd",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "zw3m1idqnupyj7op0oo9q-h38dohwjal07djaggyebw": {
+   "status": "bundled_files",
+   "archive_path": "productivity/deepapi-nguyen-thanh-1-askills/SKILL.md",
+   "repo": "nguyen-thanh-1/ASkills",
+   "branch": "main",
+   "digest": "sha256:4a240bc2c0c88d70c008d0e5eddda2d644b5147daa667ae67e0d9e303e293eb4",
+   "checked_at": "2026-10-18T11:51:37+00:00"
   },
   "zwhcddzogxr7nuyfy4akqsfm2lpqvfkvtl-zatumbza": {
    "status": "upstream_changed",
