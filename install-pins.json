@@ -76,14 +76,6 @@
    "digest": "sha256:be9e97e1e4ca564b99691087aefe5693544570c67ca2252027210f8cf0177113",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "-4gdeek2aqycd8n3qdv5fl8wrnsjuyiklt0p5tflegq": {
-   "status": "ambiguous",
-   "archive_path": "design/frontend-design-thevibeworks-claude-code-docs/SKILL.md",
-   "repo": "thevibeworks/claude-code-docs",
-   "branch": "main",
-   "digest": "sha256:d91970639e9f5c37682ac7ab60094d35f1c7c1f38d731bd56396563aee10c1d3",
-   "checked_at": "2026-10-17T23:14:30+00:00"
-  },
   "-4hpqatxtssoeqb4rjrv73a6dmrmzpewa0xrisq3_sk": {
    "status": "pinned",
    "path": "skills/normalize/SKILL.md",
@@ -468,6 +460,14 @@
    "name": "effect-concurrency-fibers",
    "description": "Concurrency with Effect.all, forEach concurrency, Fiber lifecycle, race and timeouts. Use for parallelizing tasks safely."
   },
+  "-gsdk1hnthftli6bupqvpuys6_mmyo1vo0xzhneip14": {
+   "status": "bundled_files",
+   "archive_path": "development/api-dev-whyzsm-tiny-agents/SKILL.md",
+   "repo": "whyzsm/tiny-agents",
+   "branch": "main",
+   "digest": "sha256:101f9a313cff52ef047071d66b75b3b041efdcd57837634ebc8fb16b24b9fd93",
+   "checked_at": "2026-10-18T07:49:20+00:00"
+  },
   "-hat-nyagcumv6keaxadzcaoc1pom4ysfpwu_fxzl08": {
    "status": "bundled_files",
    "archive_path": "marketing/free-tool-strategy-yo16-qr-code-create/SKILL.md",
@@ -790,6 +790,14 @@
    "digest": "sha256:a23b01d9baa964225787129b30e7cb42c94761c1bdc80b4c67b31144dd43ee67",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "-srlqwzvmcmxtyvgatkzi07fsg8kx1ypo8dx_zhy7du": {
+   "status": "ambiguous",
+   "archive_path": "other/pptx-posters-xuyinfor-crypto-claude-agent-enginee/SKILL.md",
+   "repo": "xuyinfor-crypto/claude-agent-engineer",
+   "branch": "main",
+   "digest": "sha256:8a01567022ae51d4cb26a4d36c359b5f1c278055ada8dc1e3568899c2636fdee",
+   "checked_at": "2026-10-18T07:49:20+00:00"
+  },
   "-tp8mzkmvl4iunkf3smbiavcpq7hbdh567to-hw6ffa": {
    "status": "bundled_files",
    "archive_path": "generation/baoyu-slide-deck-chengyihua-nanobot-ts/SKILL.md",
@@ -995,14 +1003,6 @@
    "branch": "main",
    "digest": "sha256:57eaf97e982fe758b6fd0ef2281b6961940e4a1c8258f303b0ce02d55d0636c6",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "-z-gq3egu9uqgskigi4gvgmnnbiateta3sn-haktdro": {
-   "status": "ambiguous",
-   "archive_path": "bash/openspec-explore-rshade-finfocus-plugin-azur/SKILL.md",
-   "repo": "rshade/finfocus-plugin-azure-public",
-   "branch": "main",
-   "digest": "sha256:3cb14a5a4f902522e2a2d079fc29a3c55d7415ef719fdc58c6d9679a163e80de",
-   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "-zhts-ghvemt2wu2ul2ivje0efizn7ecihgnfaunjdw": {
    "status": "bundled_files",
@@ -1546,6 +1546,14 @@
    "digest": "sha256:a8b8ca2c05e5bc6b988f5e447f0e4aa6b65c6bc132369d5e0927a3db63c0d8d0",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "0se3ayke8yffw5__aa18h76rrzbjum3i2gpb5h1oa2k": {
+   "status": "bundled_files",
+   "archive_path": "design/use-dom-wearedevpunks-skills/SKILL.md",
+   "repo": "wearedevpunks/skills",
+   "branch": "main",
+   "digest": "sha256:7041bb26db02e24c45eb6c4c4879138a0f52786dd928eefd66c90a35b0e3197d",
+   "checked_at": "2026-10-18T07:49:20+00:00"
+  },
   "0sgyjrkckhhttep5-fqxzpjlbfjanvnqaoy4yjpqywc": {
    "status": "ambiguous",
    "archive_path": "other/board-ziyabicilecommerce-h-ai-cash-machine/SKILL.md",
@@ -1725,6 +1733,14 @@
    "branch": "main",
    "digest": "sha256:6ed59c79ed710368e9eefa57bc9ca054f36b1f9339ade5fd65a8ee72303ea663",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "1-1bfi1nosipl2ib4to3v1awkeqljorsivzzv7p2g98": {
+   "status": "bundled_files",
+   "archive_path": "design/gpt-taste-xenodeve-xeno-skills/SKILL.md",
+   "repo": "xenodeve/xeno-skills",
+   "branch": "main",
+   "digest": "sha256:2e64c269953f2656c21bf5a0fa6b4568e82fe0c72b36e8f84758e090349966a5",
+   "checked_at": "2026-10-18T07:49:20+00:00"
   },
   "1-ilu1-hgyrwptmt47lifiqorflxs7vrvhgmsu8xk-m": {
    "status": "upstream_unavailable",
@@ -2199,18 +2215,6 @@
    "branch": "main",
    "digest": "sha256:e84971730968773533651a9a327175ed223db5fba5b849ea765e9ccda390f956",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "1nqoyypmzpigosr4ooluhk3ct6qihvd0rgth6e1keog": {
-   "status": "pinned",
-   "path": "imagegen-frontend-web/SKILL.md",
-   "archive_path": "design/imagegen-frontend-web/SKILL.md",
-   "repo": "mxyhi/ok-skills",
-   "branch": "main",
-   "digest": "sha256:6b5c2256522fdba1e3313eafa3d743b960a7b13ec029d3e6586e04b23327c1f8",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "03fc6e217bf316fdb7aa6485826503750b75c084",
-   "name": "imagegen-frontend-web",
-   "description": "Elite frontend image-direction skill for generating premium, conversion-aware website design references. CRITICAL OUTPUT RULE — generate ONE separate horizontal image FOR EVERY section. A landing page with 8 sections produces 8 images. Never compress multiple sections into one image. Enforces composition variety (not always left-text / right-image), background-image freedom, varied CTAs, varied hero scales (giant / mid / mini minimalist), narrative concept spine, second-read moments, and a single consistent palette across all images. Optimized for landing pages, marketing sites, and product comps that developers or coding models can accurately recreate."
   },
   "1ntmzsropgya3mz4ojl-s2jqwncaa_gj6igr302oj8e": {
    "status": "upstream_changed",
@@ -2788,14 +2792,6 @@
    "digest": "sha256:e5ce81d3dc40e7780b0fa2a0a36b5ada888beb3931d2badd2909b57c50002aed",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "2dtfcof81mf2mnf4ystpmsbkd5g2skamqdne0jzypzu": {
-   "status": "bundled_files",
-   "archive_path": "bash/hatch-pet-vikasvardhanv-jerry-skills/SKILL.md",
-   "repo": "vikasvardhanv/jerry_skills",
-   "branch": "main",
-   "digest": "sha256:7ab0f01e8561085d1b494a6ca74abed766c655da8ec98284fb38a362c19d6871",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "2dyzrz1mxe6rwket3hxnh-0manio2zzdx3dqkn1k8hu": {
    "status": "bundled_files",
    "archive_path": "design/onboard-wonecosystem-2300-skills/SKILL.md",
@@ -3060,6 +3056,14 @@
    "digest": "sha256:8867e51eb0fcdfd054039aa139a55db8565a4ed14f5e14fea976b504aa33c643",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "2pmbqoomjijrxh9bqjub5pdfjquvpth7s4eobxhm_kc": {
+   "status": "bundled_files",
+   "archive_path": "development/animate-expo/SKILL.md",
+   "repo": "wearedevpunks/skills",
+   "branch": "main",
+   "digest": "sha256:2121fc72ffa476492c1b91ccf96c7b26aade9d1a332dc5834ba3526e1102b00d",
+   "checked_at": "2026-10-18T07:49:20+00:00"
+  },
   "2pxwv_-w1dgo0elyyakjhkihigg7lmysrpmylx8a-hq": {
    "status": "bundled_files",
    "archive_path": "data/xlsx-northseadl-skillwisp/SKILL.md",
@@ -3099,6 +3103,26 @@
    "branch": "main",
    "digest": "sha256:f1d3e1133a046f5a2c416b801ac28565af5dccef70225bb6c55f313898de7020",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "2rszeygna8038v0dnc_ihn84qwpfwv_5w45i1p1jdmo": {
+   "status": "pinned",
+   "path": ".claude/skills/sentry/iterate-pr/SKILL.md",
+   "archive_path": "other/iterate-pr-xuyinfor-crypto-claude-agent-enginee/SKILL.md",
+   "repo": "xuyinfor-crypto/claude-agent-engineer",
+   "branch": "main",
+   "digest": "sha256:7b36c6b6c3bed04a2c22e25006665b11a38319a27a698b1045485408c6965c70",
+   "checked_at": "2026-10-18T07:49:20+00:00",
+   "commit": "4a8295e846279aab3beb3eb6822abc12562b5421",
+   "name": "iterate-pr",
+   "description": "Iterate on a PR until CI passes. Use when you need to fix CI failures, address review feedback, or continuously push fixes until all checks are green. Automates the feedback-fix-push-wait cycle."
+  },
+  "2sa6krv6ae62rqrtyea6neqw_ju8yxkyaxq8ennd_ai": {
+   "status": "bundled_files",
+   "archive_path": "other/fluidsim-xuyinfor-crypto-claude-agent-enginee/SKILL.md",
+   "repo": "xuyinfor-crypto/claude-agent-engineer",
+   "branch": "main",
+   "digest": "sha256:4673558954e6ab0272a3c4d3b7b5bbe84561fb6889ef1d58906b0835b037a1cd",
+   "checked_at": "2026-10-18T07:49:20+00:00"
   },
   "2sz0w7le0_hde_mbrfkyxlkxw0rr697icfwxdgbohk4": {
    "status": "upstream_changed",
@@ -3789,6 +3813,18 @@
    "digest": "sha256:0a965df87fbf065e9e64fd49b7a4adb4f5d3ead6b70c873675e2b37d370ca065",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "3kyjflp-xr0qbzb_nkcnoq873awthqxfglhep5uygqi": {
+   "status": "pinned",
+   "path": "skills/agents/email-and-password-best-practices/SKILL.md",
+   "archive_path": "security/email-and-password-best-practices-wlue-config/SKILL.md",
+   "repo": "wlue/config",
+   "branch": "master",
+   "digest": "sha256:ef9b2d86e9e0ef89f1e8fd62ec86df212a370d4c8f6ebe43936e6f225c94cb63",
+   "checked_at": "2026-10-18T07:49:20+00:00",
+   "commit": "222c8ab8f2d84b349c675ccaaba4bc14d56423f2",
+   "name": "email-and-password-best-practices",
+   "description": "Configure email verification, implement password reset flows, set password policies, and customise hashing algorithms for Better Auth email/password authentication. Use when users need to set up login, sign-in, sign-up, credential authentication, or password security with Better Auth."
+  },
   "3lhqu8xsp8nfnciabv1esoqwdqlsyn-pcrv6zao8myo": {
    "status": "bundled_files",
    "archive_path": "data/goal-seeking-agent-pattern-rysweet-azurehaymaker/SKILL.md",
@@ -3961,6 +3997,18 @@
    "digest": "sha256:e27b4bac48f6da02183013f5ae8e35573774d96a3c5bf1ca24870a045135d1a6",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "3tndjbgkw_-tdyvvfxryuhrq5jhkpekvxl-i-rth7lo": {
+   "status": "pinned",
+   "path": ".claude/skills/openspec-archive-change/SKILL.md",
+   "archive_path": "other/openspec-archive-change-yexiyue-ratatui-kit/SKILL.md",
+   "repo": "yexiyue/ratatui-kit",
+   "branch": "main",
+   "digest": "sha256:ba809cca5c8a5a47168b8a00bbf3694e8651d8a797e7d94f9bef690c5579c300",
+   "checked_at": "2026-10-18T07:49:20+00:00",
+   "commit": "3843a1227c83a12e7823469a430eb6f73296328a",
+   "name": "openspec-archive-change",
+   "description": "Archive a completed OpenSpec change in the experimental workflow. Use when the user wants to finalize and archive a change after implementation is complete. Also use when the user says \"openspec archive\" or \"opsx archive\"."
+  },
   "3tnzuepxfjby0wsat8kxj33hnw52zqw6bh2ptxtae5k": {
    "status": "pinned",
    "path": ".claude/skills/research-strategy/SKILL.md",
@@ -4040,6 +4088,14 @@
    "branch": "main",
    "digest": "sha256:ca1cec7cf610ddc5c6dff9185f38bacc48349205aa4de8c5d755436778f52533",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "3wfu2znc4bfp7j4dkyjj1mzsstpwaabp0npfw7jk36y": {
+   "status": "ambiguous",
+   "archive_path": "documents/hookify-rules-wasdqwerty81972-stai-project/SKILL.md",
+   "repo": "wasdqwerty81972/Stai-Project",
+   "branch": "main",
+   "digest": "sha256:b604608e30ac2b8f4f62dea3023efe2d3247b41a38c4156a6b6297173f2405a8",
+   "checked_at": "2026-10-18T07:49:20+00:00"
   },
   "3wy3htgperacjjv5bhk09ufh48po9yedwmgbcqpgwes": {
    "status": "pinned",
@@ -4520,6 +4576,14 @@
    "digest": "sha256:808fc5717aa88ad65efff312b11c186294d3e6ee301afb584e2f86599b137787",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "4iehp0q_j5szrfz5ndus-hfsgxojyvjqw5lunsksbau": {
+   "status": "bundled_files",
+   "archive_path": "performance/nowait-xuyinfor-crypto-claude-agent-enginee/SKILL.md",
+   "repo": "xuyinfor-crypto/claude-agent-engineer",
+   "branch": "main",
+   "digest": "sha256:fd71e79f36014d423e296fa7e71e48aa5ec437c15a8d096033766a898afc8a25",
+   "checked_at": "2026-10-18T07:49:20+00:00"
+  },
   "4jrgnjcbfknnhkpzrvzelql_jn2v05gpnoh_t_veupc": {
    "status": "pinned",
    "path": ".claude/skills/gtm-ai-gtm/SKILL.md",
@@ -4610,14 +4674,6 @@
    "repo": "MicrosoftDocs/mcp",
    "branch": "main",
    "digest": "sha256:624630d63736692be9e11059672089fc8efd1b64a7010474aec48f876263ab82",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "4n8owj2mvvcpp5gczyj-vf4-lzbgt9lvddlphcvyzky": {
-   "status": "bundled_files",
-   "archive_path": "design/frontend-slides-lovits-skills-manager-backu/SKILL.md",
-   "repo": "lovits/skills-manager-backup",
-   "branch": "main",
-   "digest": "sha256:832994fe1dfcce2aa7ceca9a1b7b708eca94becef242713999855f4e946cf4d5",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "4npufgmag9tof5ozpe6pnwbocg_z5koisfinau3_eeo": {
@@ -5646,6 +5702,18 @@
    "digest": "sha256:87c8cf025987d1f1a0e9c0fd0b8605946a0ebd5478676471ce296d8f0adc0f07",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "5mv3zbsfyhr_hvs5rfgvcwqmc_bfbnvfnhiqpiiwtes": {
+   "status": "pinned",
+   "path": ".claude/skills/sentry/create-pr/SKILL.md",
+   "archive_path": "development/create-pr-xuyinfor-crypto-claude-agent-enginee/SKILL.md",
+   "repo": "xuyinfor-crypto/claude-agent-engineer",
+   "branch": "main",
+   "digest": "sha256:016fe48fde481f70fd7b18072d8744876f84068482460968b9d2ea2b82b51b9e",
+   "checked_at": "2026-10-18T07:49:20+00:00",
+   "commit": "4a8295e846279aab3beb3eb6822abc12562b5421",
+   "name": "create-pr",
+   "description": "Create pull requests following Sentry conventions. Use when opening PRs, writing PR descriptions, or preparing changes for review. Follows Sentry's code review guidelines."
+  },
   "5nbonhhminz6cfa-i1v1oglukd1ttigkmg9ri2kbuss": {
    "status": "tree_truncated",
    "archive_path": "other/fund-johnalbertini14-glit-openclaw-skills/SKILL.md",
@@ -5680,6 +5748,18 @@
    "commit": "989a2f52e1aaa4a10f54297cdad50aeef75e8cd4",
    "name": "exa-automation",
    "description": "Automate Exa tasks via Rube MCP (Composio). Always search tools first for current schemas."
+  },
+  "5o_ie8homyfsb3mqurjd3krftcuirmljkqzeovek4ym": {
+   "status": "pinned",
+   "path": "skills/agents/organization-best-practices/SKILL.md",
+   "archive_path": "other/organization-best-practices-wlue-config/SKILL.md",
+   "repo": "wlue/config",
+   "branch": "master",
+   "digest": "sha256:667aa2530d1e2df3f3bec5146bb6d37b9321e189a35a9e45a798af553d06cfb0",
+   "checked_at": "2026-10-18T07:49:20+00:00",
+   "commit": "222c8ab8f2d84b349c675ccaaba4bc14d56423f2",
+   "name": "organization-best-practices",
+   "description": "Configure multi-tenant organizations, manage members and invitations, define custom roles and permissions, set up teams, and implement RBAC using Better Auth's organization plugin. Use when users need org setup, team management, member roles, access control, or the Better Auth organization plugin."
   },
   "5ooacous64wf6nqmuzg92zu5bn4faunld2qtowf7bqm": {
    "status": "bundled_files",
@@ -6493,14 +6573,6 @@
    "name": "clerk-auth",
    "description": "Expert patterns for Clerk auth implementation, middleware, organizations, webhooks, and user sync Use when: adding authentication, clerk auth, user authentication, sign in, sign up."
   },
-  "6iez2u_gr4lejkmejcxdqt0n6pk6nit2nhfqiifdpxk": {
-   "status": "ambiguous",
-   "archive_path": "other/qutip-workonthestreets-wolo/SKILL.md",
-   "repo": "workonthestreets/wolo",
-   "branch": "main",
-   "digest": "sha256:25d79e95290fe27f6e7360dfb816fb0f0082b6c9c846e02d94402d93c3974673",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "6jo_1aqgokoj_maqgqzhq2kgzfrxsj-zg9eh8t7jfac": {
    "status": "ambiguous",
    "archive_path": "security/pci-compliance-kutlug-mvp-repo/SKILL.md",
@@ -6577,18 +6649,6 @@
    "name": "sympy",
    "description": "SymPy is a Python library for symbolic mathematics that enables exact computation using mathematical symbols rather than numerical approximations."
   },
-  "6ligldjru3tmbezmbpbfjjle35kswqtom2z2s_pfjks": {
-   "status": "pinned",
-   "path": "skills/neon-postgres/SKILL.md",
-   "archive_path": "documents/neon-postgres-jyjeanne-ai-setup-forge/SKILL.md",
-   "repo": "jyjeanne/ai-setup-forge",
-   "branch": "main",
-   "digest": "sha256:b78bf0e158d841aa710e0c3fd1906dad412d5f191abafc8ee228a5609de38ac2",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "5ddba3cc97bb68f68c0bdcd3112d850461285c19",
-   "name": "neon-postgres",
-   "description": "Guides and best practices for working with Neon Serverless Postgres. Covers getting started, local development with Neon, choosing a connection method, Neon features, authentication (@neondatabase/auth), PostgREST-style data API (@neondatabase/neon-js), Neon CLI, and Neon's Platform API/SDKs. Use for any Neon-related questions."
-  },
   "6m1iasjzwiz3obtlwv9vpxjsg0aysi4g7_b7y49us_y": {
    "status": "pinned",
    "path": "skills/signup-flow-cro/SKILL.md",
@@ -6655,6 +6715,18 @@
    "archive_path": "bash/bash-pro-juarezroncalli-ferramentas/SKILL.md",
    "digest": "sha256:76712a0d96be10c38a41a86299c839cf8f7c08a8721bf0b467978a3a5fc424ce",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "6nqqdaifpz7pqmialvp4ysbaxwzh5_g8zcocvjd3kf8": {
+   "status": "pinned",
+   "path": ".claude/skills/openspec-ff-change/SKILL.md",
+   "archive_path": "bash/openspec-ff-change-yexiyue-ratatui-kit-2/SKILL.md",
+   "repo": "yexiyue/ratatui-kit",
+   "branch": "main",
+   "digest": "sha256:b87cd116e2fbad5c77237c61f10aed379aca26a6305887f55e6f69bb781ea0eb",
+   "checked_at": "2026-10-18T07:49:20+00:00",
+   "commit": "3843a1227c83a12e7823469a430eb6f73296328a",
+   "name": "openspec-ff-change",
+   "description": "Fast-forward through OpenSpec artifact creation. Use when the user wants to quickly create all artifacts needed for implementation without stepping through each one individually. Also use when the user says \"openspec ff\" or \"opsx ff\"."
   },
   "6o1jdjbbt1kvl94bru_rkeu4ws-t7tcoxrrllw0i_um": {
    "status": "bundled_files",
@@ -6807,14 +6879,6 @@
    "name": "langgraph-human-in-the-loop",
    "description": "INVOKE THIS SKILL when implementing human-in-the-loop patterns, pausing for approval, or handling errors in LangGraph. Covers interrupt(), Command(resume=...), approval/validation workflows, and the 4-tier error handling strategy."
   },
-  "6t5wxpybjbhl0cfbgvnh9cgvnfcfts1saajqjoxblaq": {
-   "status": "bundled_files",
-   "archive_path": "design/hallmark-suphiozdedee-projenicdesign-com/SKILL.md",
-   "repo": "suphiozdedee/projenicdesign.com",
-   "branch": "main",
-   "digest": "sha256:59469635bbbd21acddbc664d95e8d97147f454b2d8f4a0a89c7d2c5afbe67577",
-   "checked_at": "2026-10-17T23:14:30+00:00"
-  },
   "6umjh9dcdgwujcf66e9pl7mnweaf5zz4yzu0xodlo3e": {
    "status": "pinned",
    "path": "content/github/claude-plugins-official/external_plugins/discord/skills/access/SKILL.md",
@@ -6886,14 +6950,6 @@
    "commit": "9a628f4917581c2e234f1f5893c609c8ce28a151",
    "name": "game-art",
    "description": "Game art principles. Visual style selection, asset pipeline, animation workflow."
-  },
-  "6wrlgvr2y5exeacvi5nfum6jiuuzbnf0kebvt5vbpiq": {
-   "status": "upstream_changed",
-   "archive_path": "other/brand-suphiozdedee-projenicdesign-com/SKILL.md",
-   "repo": "suphiozdedee/projenicdesign.com",
-   "branch": "main",
-   "digest": "sha256:1c24139633e2ebf11da4f97eaeb1c0564f8658a40b3ad779387a5b8c6cb76dbc",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "6x_vv0fthkp7n_zfkvddcedycwpgaxkyt55eqhy1i6w": {
    "status": "bundled_files",
@@ -8119,14 +8175,6 @@
    "digest": "sha256:22beb7ea1b921a9cd5ef8263e9986fcfe2a04dc864ab4c694ef29378f3ebf91b",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "8juu7z5pm1a_-gc_j5r9rypaf3unnzztw9i6erksmrq": {
-   "status": "bundled_files",
-   "archive_path": "design/use-dom-superhealth-skills-hub/SKILL.md",
-   "repo": "superhealth/skills-hub",
-   "branch": "master",
-   "digest": "sha256:7041bb26db02e24c45eb6c4c4879138a0f52786dd928eefd66c90a35b0e3197d",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "8kgqsvtgl35_lo-xhoxiofybdgs6wv5asy5vzubpzfs": {
    "status": "upstream_changed",
    "archive_path": "data/azure-keyvault-py/SKILL.md",
@@ -8150,14 +8198,6 @@
    "branch": "main",
    "digest": "sha256:aa842b9c52e60203917fada02ca80780c18ac9042dfc85080c8d75a9e8c31758",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "8kjtaatsbufy-aiwkrpu29qotww6gbi3ow2vxjpckrs": {
-   "status": "ambiguous",
-   "archive_path": "bash/openspec-new-change-rshade-finfocus-plugin-azur-3/SKILL.md",
-   "repo": "rshade/finfocus-plugin-azure-public",
-   "branch": "main",
-   "digest": "sha256:89ebd2565817661298747783609c92dee67caa72e7194b61244858a070dfe0c1",
-   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "8kk55nowyja1e4hvcrlzx7gxoa5vjriincmvcz9knfq": {
    "status": "pinned",
@@ -9127,14 +9167,6 @@
    "name": "agent-browser",
    "description": "Browser automation CLI for AI agents. Use when the user needs to interact with websites, including navigating pages, filling forms, clicking buttons, taking screenshots, extracting data, testing web apps, or automating any browser task. Triggers include requests to \"open a website\", \"fill out a form\", \"click a button\", \"take a screenshot\", \"scrape data from a page\", \"test this web app\", \"login to a site\", \"automate browser actions\", or any task requiring programmatic web interaction. Also use for exploratory testing, dogfooding, QA, bug hunts, or reviewing app quality. Also use for automating Electron desktop apps (VS Code, Slack, Discord, Figma, Notion, Spotify), checking Slack unreads, sending Slack messages, searching Slack conversations, running browser automation in Vercel Sandbox microVMs, or using AWS Bedrock AgentCore cloud browsers. In Claude Code, use Claude in Chrome instead when the task needs the user's own logged-in browser (see CLAUDE.md Routing Rules)."
   },
-  "9rngnugikmppc_mc4vjghrnzwwuisjsnpbjfvm0ckoy": {
-   "status": "bundled_files",
-   "archive_path": "domains/gene-database-sanand0-scientific-research-2/SKILL.md",
-   "repo": "sanand0/scientific-research",
-   "branch": "main",
-   "digest": "sha256:3a1c1cbac86961ee4cf539e6c7eb62328e90a4133084ba016a312c691e65b9cd",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "9rocqy13oxiwsurhovoav5kwgyusj1jslk8uus22ege": {
    "status": "upstream_changed",
    "archive_path": "design/accessibility-jezweb-claude-skills/SKILL.md",
@@ -9305,18 +9337,6 @@
    "branch": "master",
    "digest": "sha256:baa6057bec07334f531789d07fbdd656afd725c0540992bd04db7589cac36d26",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "9znzn0iuvhcknxx8o2446grdjfus6etoswbskwzxvl8": {
-   "status": "pinned",
-   "path": ".claude/skills/page-import/SKILL.md",
-   "archive_path": "data/page-import/SKILL.md",
-   "repo": "ddttom/webcomponents-with-eds",
-   "branch": "main",
-   "digest": "sha256:4223c03ef00159b574ec4a3602ac23d0be8cc307d414de50362f041d3feb421f",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "aafaefe16b4fb133ec2f55962b6222755a846109",
-   "name": "page-import",
-   "description": "Import a single webpage from any URL to structured HTML content for authoring in AEM Edge Delivery Services. Scrapes the page, analyzes structure, maps to existing blocks, and generates HTML for immediate local preview. Also triggered by terms like \"migrate\", \"migration\", or \"migrating\"."
   },
   "9zvllk0-s6cp0r2_zpzk_4yqiq8htzisexlvk9bzdoy": {
    "status": "upstream_changed",
@@ -9612,13 +9632,13 @@
    "name": "brand-guidelines",
    "description": "Apply Anthropic's official brand colors and typography to artifacts for consistent visual identity and professional design standards. A reference for shaping your own."
   },
-  "_fhumrf_v5i45cqn7nukifd3jdjfknvwi-pdxwm1sus": {
+  "_fp82mv_ivdpxubvzxtojehyvziwxzawynlxwsinnvw": {
    "status": "bundled_files",
-   "archive_path": "design/gpt-tasteskill-sgomez-dev-claude-skills/SKILL.md",
-   "repo": "sgomez-dev/claude-skills",
+   "archive_path": "other/eas-update-insights-wearedevpunks-skills/SKILL.md",
+   "repo": "wearedevpunks/skills",
    "branch": "main",
-   "digest": "sha256:2e64c269953f2656c21bf5a0fa6b4568e82fe0c72b36e8f84758e090349966a5",
-   "checked_at": "2026-10-17T18:43:47+00:00"
+   "digest": "sha256:bb2796387c2781576d1ed75065559eb06bbd836ad2ca61269f862d9d29f8302c",
+   "checked_at": "2026-10-18T07:49:20+00:00"
   },
   "_fzkd_hpih5lwh1f3dfddhuo5xvdndq5n7zpnwmiu90": {
    "status": "pinned",
@@ -10013,6 +10033,14 @@
    "name": "blast-radius",
    "description": "Find what a change could break somewhere else before it ships, beyond the diff, and prove the one fact it's safe because of by running real code instead of writing it up. Use for 'blast radius of X', 'what could this break', or reviewing a small diff you don't trust."
   },
+  "_uzh-qd4yy4jxbthiuhmo2g7_0kfykbc7tftkgeoaxq": {
+   "status": "bundled_files",
+   "archive_path": "other/brand-xenodeve-xeno-skills/SKILL.md",
+   "repo": "xenodeve/xeno-skills",
+   "branch": "main",
+   "digest": "sha256:1c24139633e2ebf11da4f97eaeb1c0564f8658a40b3ad779387a5b8c6cb76dbc",
+   "checked_at": "2026-10-18T07:49:20+00:00"
+  },
   "_ve7ilwa6svusagzvqaied6eizxujfmmmq8tf_giugu": {
    "status": "ambiguous",
    "archive_path": "development/vue-woody1234567-nuxt-tech-blog/SKILL.md",
@@ -10086,14 +10114,6 @@
    "error": "GitHub API 404: {\"message\":\"Branch not found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
    "archive_path": "security/better-auth-huydepzai121-skill/SKILL.md",
    "digest": "sha256:efa610974344149a2285035d849ef1ae84ddc1f065364fdf6ac91141bfa6c642",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "_z_vmih2q7ej5i1td_-vzw2409z18lmzjf4wngd7cag": {
-   "status": "bundled_files",
-   "archive_path": "ai-llm/nowait-reasoning-optimizer/SKILL.md",
-   "repo": "foryourhealth111-pixel/Vibe-Skills",
-   "branch": "main",
-   "digest": "sha256:fd71e79f36014d423e296fa7e71e48aa5ec437c15a8d096033766a898afc8a25",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "_zclfsmapcues-vyk3stgtleto7svjph6fz-innu35k": {
@@ -10252,14 +10272,6 @@
    "repo": "spencerbeggs/claude-design-coordinator",
    "branch": "main",
    "digest": "sha256:6dcc9e60ee52e9819f68a389a89fd7f3ed2a97e88de357a242d47c7314987039",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "a5j4gareynpt5fyp93sju5je9au4jqghknoxjjyuvq4": {
-   "status": "bundled_files",
-   "archive_path": "productivity/ito-compute-nguyentrunghieutcu-ctxora-engine/SKILL.md",
-   "repo": "nguyentrunghieutcu/ctxora-engine",
-   "branch": "main",
-   "digest": "sha256:ed0664f44307b1243cd7fa7521b05ca3f50a1dd4460e93b55edb8bcda988e815",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "a5nv2uwkhv_xezj9_ekbqeaqphy1uyz0fo7npzkabz4": {
@@ -11326,14 +11338,6 @@
    "error": "GitHub API 404: {\"message\":\"Branch not found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
    "archive_path": "development/seo-review-leonardomso-33-js-concepts/SKILL.md",
    "digest": "sha256:78d1f882ce814fd72c1b6e40f6cc194cd74eaf330916d670b9668d47ad7db794",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "aqwhl1vhbmjixv9qd0yx0y7idvb11bywd0rnwtlmfl4": {
-   "status": "bundled_files",
-   "archive_path": "design/animate-bendsp-dotfiles/SKILL.md",
-   "repo": "bendsp/dotfiles",
-   "branch": "main",
-   "digest": "sha256:f6317335da2662e92270dc0a6128bea95d7216cd751f86628e3ac6b72804e805",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "ar5u28dr6jmir4zw0c77wd7x2becg-a1flogkslxwke": {
@@ -12866,14 +12870,6 @@
    "name": "quality-metrics",
    "description": "Measure quality effectively with actionable metrics. Use when establishing quality dashboards, defining KPIs, or evaluating test effectiveness."
   },
-  "bp1yu5-venpiidmou87c2zd19sqagunhyhenzo3acai": {
-   "status": "ambiguous",
-   "archive_path": "other/openspec-verify-change-rshade-finfocus-plugin-azur/SKILL.md",
-   "repo": "rshade/finfocus-plugin-azure-public",
-   "branch": "main",
-   "digest": "sha256:4fc56f0a67983d36cf8d2d1377d06cc982d71bb96eda09d444ee7c3a6e4128dc",
-   "checked_at": "2026-10-17T23:14:30+00:00"
-  },
   "bp_42hv4mfdrxyp23winaujtjlbuq6iepqn0d3ge5gk": {
    "status": "bundled_files",
    "archive_path": "bash/exa-search-raktim-mondol-hermes-plugin-resear/SKILL.md",
@@ -12951,6 +12947,18 @@
    "branch": "main",
    "digest": "sha256:044ed1a72470b56b0ecfecebed76015c7cee913bf22343ae50ac20f51f1f4cf4",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "brh786xfikr44qv5mheht6eekdazyl2aa9ngioiaq7i": {
+   "status": "pinned",
+   "path": ".claude/skills/openspec-explore/SKILL.md",
+   "archive_path": "bash/openspec-explore-yexiyue-ratatui-kit-2/SKILL.md",
+   "repo": "yexiyue/ratatui-kit",
+   "branch": "main",
+   "digest": "sha256:3cb14a5a4f902522e2a2d079fc29a3c55d7415ef719fdc58c6d9679a163e80de",
+   "checked_at": "2026-10-18T07:49:20+00:00",
+   "commit": "3843a1227c83a12e7823469a430eb6f73296328a",
+   "name": "openspec-explore",
+   "description": "Enter OpenSpec explore mode - a thinking partner for exploring ideas, investigating problems, and clarifying requirements in a project that uses OpenSpec. Use when the user wants to think through something before or during an OpenSpec change. Also use when the user says \"openspec explore\" or \"opsx explore\"."
   },
   "brjlemepdw0xwcneqoeeozklss253mxjgs9sm6oye_e": {
    "status": "bundled_files",
@@ -13131,6 +13139,14 @@
    "digest": "sha256:4811e35b59de0f49dfb25dfd5c499353740fcd63bce9c8e70079b7facac9ff55",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "bv-zfjm_zkoqsevk72w0vajpwxtayyjotj6an_qjhfs": {
+   "status": "bundled_files",
+   "archive_path": "other/brandkit-xenodeve-xeno-skills/SKILL.md",
+   "repo": "xenodeve/xeno-skills",
+   "branch": "main",
+   "digest": "sha256:b0c4837e1bd140ca816ae54948754ddd2ac1e2a4d3619363777a80caf00b2ede",
+   "checked_at": "2026-10-18T07:49:20+00:00"
+  },
   "bv1g7gdkjglukttop4fpwhgxvgnb8rifi_gu4q3zal8": {
    "status": "pinned",
    "path": ".claude/skills/gsap-timeline/SKILL.md",
@@ -13221,18 +13237,6 @@
    "branch": "main",
    "digest": "sha256:9363dea8e2c7dc9778780567099cb783a92987d2eb2362472f05cf86c18d014b",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "bwu6e3ago0cpcat-bwskxg6nvirpukxbggqphildj4u": {
-   "status": "pinned",
-   "path": "pair-agent/SKILL.md",
-   "archive_path": "other/pair-agent-kk20300113-png-my-claude-skills/SKILL.md",
-   "repo": "kk20300113-png/my-claude-skills",
-   "branch": "master",
-   "digest": "sha256:a10544980ff0407cce7b8a2d176ffe83a53902b9698cdd3c8688cdc9077e0e63",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "a5613dcdca4266e6e63f98b7579f645a46c00750",
-   "name": "pair-agent",
-   "description": "Pair a remote AI agent with your browser. One command generates a setup key and\nprints instructions the other agent can follow to connect. Works with OpenClaw,\nHermes, Codex, Cursor, or any agent that can make HTTP requests. The remote agent\ngets its own tab with scoped access (read+write by default, admin on request).\nUse when asked to \"pair agent\", \"connect agent\", \"share browser\", \"remote browser\",\n\"let another agent use my browser\", or \"give browser access\". (gstack)\nVoice triggers (speech-to-text aliases): \"pair agent\", \"connect agent\", \"share my browser\", \"remote browser access\"."
   },
   "bwvaex_ff3tm7s9qvgr7yybi2cvqtjvpypirxklzjms": {
    "status": "upstream_changed",
@@ -13475,6 +13479,14 @@
    "branch": "master",
    "digest": "sha256:0f1bdb826164eee226fa70fa047bc15af331e982aa5a2f2ee657067752a5de30",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "c4talsc-i8mdbraq9svqnclg-ryn586h6szn9edbjom": {
+   "status": "bundled_files",
+   "archive_path": "design/design-taste-frontend-v1-xenodeve-xeno-skills/SKILL.md",
+   "repo": "xenodeve/xeno-skills",
+   "branch": "main",
+   "digest": "sha256:033d45af1ed23832730642f95f40ab49db7fb5222848489a6c5656144bfc6dae",
+   "checked_at": "2026-10-18T07:49:20+00:00"
   },
   "c4toegxg83w0n5dzftjp9eca5iv56ok-1k5wsobyqdg": {
    "status": "upstream_changed",
@@ -14163,6 +14175,18 @@
    "commit": "8a3ba437a292b434ff64ec8b09ef876090385fc7",
    "name": "seo-schema",
    "description": "Detect, validate, and generate Schema.org structured data. JSON-LD format preferred. Use when user says \"schema\", \"structured data\", \"rich results\", \"JSON-LD\", or \"markup\"."
+  },
+  "ckgep8xurfs8kjvnhhjwdw5jixxkxkobyfu_pqft8he": {
+   "status": "pinned",
+   "path": ".claude/skills/sentry/find-bugs/SKILL.md",
+   "archive_path": "security/find-bugs-xuyinfor-crypto-claude-agent-enginee/SKILL.md",
+   "repo": "xuyinfor-crypto/claude-agent-engineer",
+   "branch": "main",
+   "digest": "sha256:edad456696ade7d64c855594e55b9064689a6ce354e667dc2a64e83362a56a8e",
+   "checked_at": "2026-10-18T07:49:20+00:00",
+   "commit": "4a8295e846279aab3beb3eb6822abc12562b5421",
+   "name": "find-bugs",
+   "description": "Find bugs, security vulnerabilities, and code quality issues in local branch changes. Use when asked to review changes, find bugs, security review, or audit code on the current branch."
   },
   "ckln5w6ccfxcrn_6txhx3coz2dctpsykgux8cfgpvhk": {
    "status": "pinned",
@@ -15022,14 +15046,6 @@
    "name": "maxia",
    "description": "Connect to MAXIA AI-to-AI marketplace on Solana. Discover, buy, sell AI services. Earn USDC. 13 MCP tools, A2A protocol, DeFi yields, sentiment analysis, rug detection."
   },
-  "d1svzcspfedsuzphgxhzwsc9xaawlyv9jobs6a8r7sk": {
-   "status": "ambiguous",
-   "archive_path": "other/openspec-apply-change-rshade-finfocus-plugin-azur-2/SKILL.md",
-   "repo": "rshade/finfocus-plugin-azure-public",
-   "branch": "main",
-   "digest": "sha256:3c78bc8b0c5406c4f2d4654b8e1e1202b144498929391c72c1809c4ab3a03b45",
-   "checked_at": "2026-10-17T23:14:30+00:00"
-  },
   "d25owhoodxhbogb8t2gtm5jzz8ggal282bvnhcokpbk": {
    "status": "tree_truncated",
    "archive_path": "documents/scientific-slides/SKILL.md",
@@ -15186,18 +15202,6 @@
    "digest": "sha256:55717c0d50b7600eba3ab475f62c06c5bfc2db9728b731e9f67db648d4477f74",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "d_qo-rtfpax4phaavb1lkltiwsvunwxcfb1qkvrkcq0": {
-   "status": "pinned",
-   "path": "katalog/skills/sentry/find-bugs/SKILL.md",
-   "archive_path": "security/find-bugs-metinduraktr-44-claude-otonom-sistem/SKILL.md",
-   "repo": "metinduraktr-44/claude-otonom-sistem",
-   "branch": "main",
-   "digest": "sha256:edad456696ade7d64c855594e55b9064689a6ce354e667dc2a64e83362a56a8e",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "9b7bf197665302ad85bd2c81bc32c561a3a8b816",
-   "name": "find-bugs",
-   "description": "Find bugs, security vulnerabilities, and code quality issues in local branch changes. Use when asked to review changes, find bugs, security review, or audit code on the current branch."
-  },
   "d_redhfruz4ptji3sqacvjnshcsewdqgjkpp3vw13o4": {
    "status": "bundled_files",
    "archive_path": "bash/git-guardrails-claude-code-tt-a1i-matt-skills-with-to-/SKILL.md",
@@ -15297,14 +15301,6 @@
    "branch": "main",
    "digest": "sha256:413f4ab913d07f7fd92acbadc25d71aad63443be0c40d11234944aea688603b6",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "dc6gqvjehjkjtl7v43nie-1d7arimwu406pnosyfigy": {
-   "status": "bundled_files",
-   "archive_path": "design/ui-ux-pro-max-suphiozdedee-projenicdesign-com/SKILL.md",
-   "repo": "suphiozdedee/projenicdesign.com",
-   "branch": "main",
-   "digest": "sha256:ea087c341bfb5b23195c7302027268ede86da802554c18a5c4896a6017b439f9",
-   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "dcghssfpwg9nru0cxbl0y73w5msuyqaokoehtvj8uiw": {
    "status": "pinned",
@@ -16111,18 +16107,6 @@
    "digest": "sha256:25d66ff6c4d9e2c45c310ec5292c20bc90e48dc3b06dafa78f13e8a18691ad66",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "dqkdvljmsmrr64qaunji2fqgxg_tnhc4brh2c29bulk": {
-   "status": "pinned",
-   "path": ".claude/skills/ecc/hookify-rules/SKILL.md",
-   "archive_path": "documents/hookify-rules-sakamoto-family-smil-agent-monorepo/SKILL.md",
-   "repo": "sakamoto-family-smile/agent_monorepo",
-   "branch": "main",
-   "digest": "sha256:b604608e30ac2b8f4f62dea3023efe2d3247b41a38c4156a6b6297173f2405a8",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "f5a345024fbd0850ccbd01419c12e84009911cdd",
-   "name": "hookify-rules",
-   "description": "This skill should be used when the user asks to create a hookify rule, write a hook rule, configure hookify, add a hookify rule, or needs guidance on hookify rule syntax and patterns."
-  },
   "dqltok4yjlt-abtnmib2wrx440rsnsshmktjqik7uok": {
    "status": "ambiguous",
    "archive_path": "other/bmad-market-research-huing7373-catc/SKILL.md",
@@ -16848,6 +16832,14 @@
    "name": "mobile-security-coder",
    "description": "Expert in secure mobile coding practices specializing in input validation, WebView security, and mobile-specific security patterns. Use PROACTIVELY for mobile security implementations or mobile security code reviews."
   },
+  "e6hus4mnurnoowyiqiq3udosrbocfepcuimkey3irwk": {
+   "status": "ambiguous",
+   "archive_path": "productivity/ito-compute-wasdqwerty81972-stai-project/SKILL.md",
+   "repo": "wasdqwerty81972/Stai-Project",
+   "branch": "main",
+   "digest": "sha256:ed0664f44307b1243cd7fa7521b05ca3f50a1dd4460e93b55edb8bcda988e815",
+   "checked_at": "2026-10-18T07:49:20+00:00"
+  },
   "e6qxp8s41fy_rs4kerneqpzcpddz_th9dlcgxi0-j2k": {
    "status": "pinned",
    "path": "skills/flutter/video-audio-processing/SKILL.md",
@@ -16934,14 +16926,6 @@
    "branch": "main",
    "digest": "sha256:a45cddd4511f8262df05b20506f4d52be8210a9ee05a13d9e36d4ee321bab593",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "eaf94qqofdn57hspvjsh8jvxfhrgwetiyvwv7p86hko": {
-   "status": "ambiguous",
-   "archive_path": "productivity/openspec-propose-rshade-finfocus-plugin-azur-2/SKILL.md",
-   "repo": "rshade/finfocus-plugin-azure-public",
-   "branch": "main",
-   "digest": "sha256:86e623eae73440e95ec977fe4b1f83a800ccce827ec998c95f67f78840c9a82e",
-   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "eayy41iubpuojor5uohmavw-3wllqo5fdoy7xpvo56s": {
    "status": "pinned",
@@ -17216,6 +17200,14 @@
    "digest": "sha256:4e04b64bf45c8e78d1e426beaeac8e732aa2bafb92561c6d1fc16b3095611a33",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "egfgg1vlkwkyrdoyg9zykujdzr97ankznkqlc6shpjk": {
+   "status": "bundled_files",
+   "archive_path": "design/expo-tailwind-setup-wearedevpunks-skills/SKILL.md",
+   "repo": "wearedevpunks/skills",
+   "branch": "main",
+   "digest": "sha256:6abfc223a376571e0ee84014b3b474a3f2828ac2ebcde59c5c2b6b4bc802e233",
+   "checked_at": "2026-10-18T07:49:20+00:00"
+  },
   "eghas2dhvhwtgs18ldefphz_xkomphzwze1rdbo9dv8": {
    "status": "pinned",
    "path": ".claude/skills/ecc/cost-tracking/SKILL.md",
@@ -17377,6 +17369,18 @@
    "commit": "cc0752c884183806eefb8122424638464c56dd34",
    "name": "browser-automation",
    "description": "Browser automation powers web testing, scraping, and AI agent interactions. The difference between a flaky script and a reliable system comes down to understanding selectors, waiting strategies, and anti-detection patterns.  This skill covers Playwright (recommended) and Puppeteer, with patterns for testing, scraping, and agentic browser control. Key insight: Playwright won the framework war. Unless you need Puppeteer's stealth ecosystem or are Chrome-only, Playwright is the better choice in 202"
+  },
+  "einbq-u4jcd1yziepem4w7qckbn0be9obk2ygwsibv8": {
+   "status": "pinned",
+   "path": "skills/agents/create-auth-skill/SKILL.md",
+   "archive_path": "other/create-auth-skill-wlue-config/SKILL.md",
+   "repo": "wlue/config",
+   "branch": "master",
+   "digest": "sha256:5f21170914d4e3cf5b1a5503fa2e68d4e48ebe2b9792cb44cb3dead9cdf52117",
+   "checked_at": "2026-10-18T07:49:20+00:00",
+   "commit": "222c8ab8f2d84b349c675ccaaba4bc14d56423f2",
+   "name": "create-auth-skill",
+   "description": "Scaffold and implement authentication in TypeScript/JavaScript apps using Better Auth. Detect frameworks, configure database adapters, set up route handlers, add OAuth providers, and create auth UI pages. Use when users want to add login, sign-up, or authentication to a new or existing project with Better Auth."
   },
   "eiqtylnzc_1pmanuq5e9hn7513ysprqkdvpf2q9fa_i": {
    "status": "pinned",
@@ -17551,14 +17555,6 @@
    "digest": "sha256:bb27b16ad41c5c2d4fea14c12359c6a01fc755f2bb91140f0c2c43b05b3adb10",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "emfwzil591zjrgqibgj-nrs4ghkdsgmb5hfsh7lpyys": {
-   "status": "bundled_files",
-   "archive_path": "design/stitch-skill-sgomez-dev-claude-skills/SKILL.md",
-   "repo": "sgomez-dev/claude-skills",
-   "branch": "main",
-   "digest": "sha256:46bdb08fee2dded38b6ba0a051230a502d6ac6e4044afd47592cb40c256028b5",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "emhuwyx12uhubd1m4-drx_epsujdmdkta-igq65pqx4": {
    "status": "ambiguous",
    "archive_path": "other/status-levalencia-agent-god-mode/SKILL.md",
@@ -17598,18 +17594,6 @@
    "branch": "main",
    "digest": "sha256:ac7f1d1f87d08d7f8713f07c1f6522268b814acea850f97bc986e00f8b461bc3",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "enk3ybwoqqqzzqgs-cbse1omhbi9r1mjrlzjfcwg_zu": {
-   "status": "pinned",
-   "path": "katalog/skills/sentry/iterate-pr/SKILL.md",
-   "archive_path": "other/iterate-pr-metinduraktr-44-claude-otonom-sistem/SKILL.md",
-   "repo": "metinduraktr-44/claude-otonom-sistem",
-   "branch": "main",
-   "digest": "sha256:7b36c6b6c3bed04a2c22e25006665b11a38319a27a698b1045485408c6965c70",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "9b7bf197665302ad85bd2c81bc32c561a3a8b816",
-   "name": "iterate-pr",
-   "description": "Iterate on a PR until CI passes. Use when you need to fix CI failures, address review feedback, or continuously push fixes until all checks are green. Automates the feedback-fix-push-wait cycle."
   },
   "enkwoqcq7djt1wupmzq99tb-ptlvxl4bsdj1ss323rc": {
    "status": "upstream_changed",
@@ -17823,14 +17807,6 @@
    "repo": "davila7/claude-code-templates",
    "branch": "main",
    "digest": "sha256:8eee2b4a7b1742586eff4946c9c87cc8a918d3f559d277a1a6a451a433d3fb2c",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "esecwvfruixtuugkb37zte_hkhdjzigpmkk63eus9au": {
-   "status": "bundled_files",
-   "archive_path": "data/senior-qa/SKILL.md",
-   "repo": "pur3v4d3r/pur3-pkb-codebase",
-   "branch": "main",
-   "digest": "sha256:4453b4aa9bf923a911ee0c44249e74a95b91b5da7daee16c61652a8a7c8595ae",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "esefdrknoue1g1jd0jhjiw_lf22mw0vrygehj5w1ecw": {
@@ -18370,14 +18346,6 @@
    "digest": "sha256:de717c17ba655f299dab4232ce8a6ed4d226e8f5700ba89784e8292f1b9df40a",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "f2qg-wkgbdjbji-i3-n3yrjftdv1h9kjlcnp_qqknyi": {
-   "status": "bundled_files",
-   "archive_path": "documents/writing-for-agents-staticaland-skills-3/SKILL.md",
-   "repo": "staticaland/skills",
-   "branch": "main",
-   "digest": "sha256:a842323e664e5af104eac5c97ad22fda929ebeb62d81c501161ac1f6f482db58",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "f2rfb2kdsn5j0oa0vttbchw-xzu6er0jwmatiu2tec0": {
    "status": "bundled_files",
    "archive_path": "devops/cuopt-install-jukeyman-jukeyman-skills/SKILL.md",
@@ -18685,14 +18653,6 @@
    "digest": "sha256:8f99946d5aa8e11dae8ba1ade746a6a803efcba63ba8b618dbf7748331c14e47",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "fcb_m6hrphk8sfhrahcom5vha6s7sjgg_c3c2m-mfhi": {
-   "status": "ambiguous",
-   "archive_path": "other/openspec-sync-specs-rshade-finfocus-plugin-azur/SKILL.md",
-   "repo": "rshade/finfocus-plugin-azure-public",
-   "branch": "main",
-   "digest": "sha256:e8b9509f769e84b77e1a00be408c6796d287e2e33c8f123d6380c4c3c2a72a34",
-   "checked_at": "2026-10-17T23:14:30+00:00"
-  },
   "fctaylisbdv9fr3ybxgvzcyaqdtmusnwplxh7hw8gcq": {
    "status": "upstream_unavailable",
    "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
@@ -18921,18 +18881,6 @@
    "digest": "sha256:d65e813b99c2b94bb0a4ea3dd7007fedf78557d280f6080daaad6a00dfc25dbd",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "fgt4wi6zvp_kwjamsvop-zxg9oqtjyvftlazmlkv3lk": {
-   "status": "pinned",
-   "path": "katalog/skills/sentry/code-review/SKILL.md",
-   "archive_path": "other/code-review-metinduraktr-44-claude-otonom-sistem/SKILL.md",
-   "repo": "metinduraktr-44/claude-otonom-sistem",
-   "branch": "main",
-   "digest": "sha256:ec5fc8855cb4648b4f2c79b608f8c8824a2da6a683330524c4d6283e4a3954c4",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "9b7bf197665302ad85bd2c81bc32c561a3a8b816",
-   "name": "code-review",
-   "description": "Perform code reviews following Sentry engineering practices. Use when reviewing pull requests, examining code changes, or providing feedback on code quality. Covers security, performance, testing, and design review."
-  },
   "fgzmsxzkh2nykrrdgo_gq3hjlzq_g0xdnk-p6nbfv04": {
    "status": "upstream_changed",
    "archive_path": "business/pricing-strategy-im5tu-claude/SKILL.md",
@@ -19046,6 +18994,18 @@
    "commit": "747b402b556c13df389d529ac8c56ee3825cf004",
    "name": "gsd-explore",
    "description": "Socratic ideation and idea routing — think through ideas before committing to plans"
+  },
+  "fhzjyqm_78hjwyq3fqws-l9_curxndjztyikmt1qs6u": {
+   "status": "pinned",
+   "path": "skills/common/two-factor-authentication-best-practices/SKILL.md",
+   "archive_path": "other/two-factor-authentication-best-practices/SKILL.md",
+   "repo": "yigityildiz0/universal-ai-skill-library",
+   "branch": "main",
+   "digest": "sha256:a1d864b2232aa1dda3252648c8efad5ede9baed3ebed14d82f862e8990a0aa96",
+   "checked_at": "2026-10-18T07:49:20+00:00",
+   "commit": "df3d7d789e2f1928177b50829e023a4af15bf365",
+   "name": "two-factor-authentication-best-practices",
+   "description": "Configure TOTP authenticator apps, send OTP codes via email/SMS, manage backup codes, handle trusted devices, and implement 2FA sign-in flows using Better."
   },
   "fidcv-ur0m8hvxp3twxl9xrakto_m6pr5oqqhxqbbtq": {
    "status": "ambiguous",
@@ -19945,18 +19905,6 @@
    "digest": "sha256:05006a2c3f1fdc68dd308e8a7ad7daffd7e8f7b910643d241e31e4484110b107",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "fxcbeqwpkjimdb9z7_prdi-qnzobdl4f8lke3ln6olw": {
-   "status": "pinned",
-   "path": "skills/skill-share/SKILL.md",
-   "archive_path": "other/skill-share-manu14357-zskills/SKILL.md",
-   "repo": "manu14357/zskills",
-   "branch": "main",
-   "digest": "sha256:10f179fd8dcb2f3f4dd52a4f3f6ec01baacb06f14b546e14301dff2de8807b39",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "d342cd81bcf923871c7982f49458109b101b1ff9",
-   "name": "skill-share",
-   "description": "A skill that creates new Claude skills and automatically shares them on Slack using Rube for seamless team collaboration and skill discovery."
-  },
   "fxmy99gqcq_yoihpz9avsclms5ogpjfpmb5lulm8oqm": {
    "status": "pinned",
    "path": "plugins/all-skills/skills/content-research-writer/SKILL.md",
@@ -20445,6 +20393,14 @@
    "branch": "main",
    "digest": "sha256:f0696338cd733bc2a91ebdeea260d284634445d82af321cb009fa4a80d0c3ad7",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "galniqatmbftm_hf-mw-daczkriorbskzxtdn5jv7tw": {
+   "status": "bundled_files",
+   "archive_path": "other/qutip-xuyinfor-crypto-claude-agent-enginee/SKILL.md",
+   "repo": "xuyinfor-crypto/claude-agent-engineer",
+   "branch": "main",
+   "digest": "sha256:25d79e95290fe27f6e7360dfb816fb0f0082b6c9c846e02d94402d93c3974673",
+   "checked_at": "2026-10-18T07:49:20+00:00"
   },
   "gapy749jilflwztc5jle_ppwjmnrvgxkit-aif8pefm": {
    "status": "upstream_changed",
@@ -21825,6 +21781,18 @@
    "digest": "sha256:8763d9941856b578302cc32990d0eee0b0b8f9a2afbe4b4bf0ec6307c38ebe85",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "h2psukgj5qsg452ef1emgnbsr7z7wxg7jbmqt-kr4gg": {
+   "status": "pinned",
+   "path": ".claude/skills/utilities/skill-share/SKILL.md",
+   "archive_path": "other/skill-share-xuyinfor-crypto-claude-agent-enginee/SKILL.md",
+   "repo": "xuyinfor-crypto/claude-agent-engineer",
+   "branch": "main",
+   "digest": "sha256:490d49b6be9169c3e992b2ddbce7c8e4f88c95a5c574a9007cef7d1b2d7937a2",
+   "checked_at": "2026-10-18T07:49:20+00:00",
+   "commit": "4a8295e846279aab3beb3eb6822abc12562b5421",
+   "name": "skill-share",
+   "description": "A skill that creates new Claude skills and automatically shares them on Slack using Rube for seamless team collaboration and skill discovery."
+  },
   "h2q5cgzysef-xj7y5_kwk2h_hbwdjyvhmssdm-lovcm": {
    "status": "upstream_changed",
    "archive_path": "devops/arxiv-search/SKILL.md",
@@ -22087,26 +22055,6 @@
    "digest": "sha256:7fd339c353914e33e1cc9f55baba528e926821b9a6e031700539e9d981c40015",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "hbt8c1bkkvfixk678wmwfolalsst0ntybgrpmrxtk_m": {
-   "status": "bundled_files",
-   "archive_path": "other/animate-expo-bendsp-dotfiles/SKILL.md",
-   "repo": "bendsp/dotfiles",
-   "branch": "main",
-   "digest": "sha256:2121fc72ffa476492c1b91ccf96c7b26aade9d1a332dc5834ba3526e1102b00d",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "hcdwpcat587ovoi2xkzzkcibjalifk-lpuo3ec2fp6c": {
-   "status": "pinned",
-   "path": "skills/brandkit/SKILL.md",
-   "archive_path": "other/brandkit-stanfish06-skillquarium/SKILL.md",
-   "repo": "stanfish06/skillquarium",
-   "branch": "master",
-   "digest": "sha256:b0c4837e1bd140ca816ae54948754ddd2ac1e2a4d3619363777a80caf00b2ede",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "310739c37255f5b4915741dba6178499c24f0248",
-   "name": "brandkit",
-   "description": "Premium brand-kit image generation skill for creating high-end brand-guidelines boards, logo systems, identity decks, and visual-world presentations. Trained for minimalist, cinematic, editorial, dark-tech, luxury, cultural, security, gaming, developer-tool, and consumer-app brand systems. Optimized for intentional logo concepting, refined composition, sparse typography, strong symbolic meaning, premium mockups, art-directed imagery, and flexible grid layouts."
-  },
   "hcieak5atrplcpsr6z13zitosl_pina7-m2lwaklztg": {
    "status": "bundled_files",
    "archive_path": "development/freeze-yolopunk-jedi/SKILL.md",
@@ -22130,6 +22078,14 @@
    "branch": "main",
    "digest": "sha256:6e709e6b4bc167c794647a0b6ad87e77ae295d9c7a2449b1e7b043b7f27ca723",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "hddxmxpk-hgtz3dtjstfdsfmenjdwkrxfyyvvgvbeuy": {
+   "status": "bundled_files",
+   "archive_path": "design/design-taste-frontend-xenodeve-xeno-skills/SKILL.md",
+   "repo": "xenodeve/xeno-skills",
+   "branch": "main",
+   "digest": "sha256:aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89",
+   "checked_at": "2026-10-18T07:49:20+00:00"
   },
   "hdeyleuxgyy1ig0ri0zeknntqtd9ekm0relmob8rolo": {
    "status": "pinned",
@@ -22834,6 +22790,14 @@
    "name": "security-review",
    "description": "Use this skill when adding authentication, handling user input, working with secrets, creating API endpoints, or implementing payment/sensitive features. Provides comprehensive security checklist and patterns."
   },
+  "hs_lsr_dft8zxx-c2gvd14m1ruayymdmqje9zlszdpy": {
+   "status": "bundled_files",
+   "archive_path": "design/motion-framer-xenodeve-xeno-skills/SKILL.md",
+   "repo": "xenodeve/xeno-skills",
+   "branch": "main",
+   "digest": "sha256:37b0a6fb2470feca368cf96f8058456b81dd17385a9c35334b794628d7c7981b",
+   "checked_at": "2026-10-18T07:49:20+00:00"
+  },
   "hsawpkgw4eewncxyo0air1hlank7cj6rp1gzpuu4en4": {
    "status": "pinned",
    "path": "skills/qa/SKILL.md",
@@ -22909,6 +22873,18 @@
    "commit": "259f2ac87f0d3807222b777a1807515b9b6e3618",
    "name": "sketch",
    "description": "Throwaway HTML mockups: 2-3 design variants to compare."
+  },
+  "httdj0zvx1f9xexnkvs1fkifjhxokbtzlpoi0g-kl60": {
+   "status": "pinned",
+   "path": ".claude/skills/openspec-sync-specs/SKILL.md",
+   "archive_path": "other/openspec-sync-specs-yexiyue-ratatui-kit-2/SKILL.md",
+   "repo": "yexiyue/ratatui-kit",
+   "branch": "main",
+   "digest": "sha256:e8b9509f769e84b77e1a00be408c6796d287e2e33c8f123d6380c4c3c2a72a34",
+   "checked_at": "2026-10-18T07:49:20+00:00",
+   "commit": "3843a1227c83a12e7823469a430eb6f73296328a",
+   "name": "openspec-sync-specs",
+   "description": "Sync delta specs from an OpenSpec change to main specs. Use when the user wants to update main specs with changes from a delta spec, without archiving the change. Also use when the user says \"openspec sync\" or \"opsx sync\"."
   },
   "htyfcb94sl28ogxh9thbm0-cr0kipp80w7hqspyyq4s": {
    "status": "pinned",
@@ -23721,6 +23697,14 @@
    "name": "overleaf-sync",
    "description": "Two-way sync between a local paper directory and an Overleaf project, so ARIS audit/edit workflows stay on the local copy while collaborators edit in the Overleaf web UI. Use when user says \"同步 overleaf\", \"overleaf sync\", \"推送到 overleaf\", \"connect overleaf\", \"Overleaf 桥接\", \"pull overleaf\", \"push overleaf\", or wants to bridge their ARIS paper directory with an Overleaf project."
   },
+  "igdtn7m5mmgls0nt75u60lw0nw9crldovpkmgamkpuq": {
+   "status": "bundled_files",
+   "archive_path": "design/find-skills-whyzsm-tiny-agents/SKILL.md",
+   "repo": "whyzsm/tiny-agents",
+   "branch": "main",
+   "digest": "sha256:deddc03b4b5f50755b97fcdb737a786676992ef7e9be614d2cd2c71e0320bebf",
+   "checked_at": "2026-10-18T07:49:20+00:00"
+  },
   "ighwbhbrf-o2dwypennxift1k5gr2ysmkye3vlotayu": {
    "status": "upstream_changed",
    "archive_path": "generation/generate-image/SKILL.md",
@@ -24109,14 +24093,6 @@
    "commit": "eecef0cf01509176dc5ebac1a48295c565e31f53",
    "name": "nx-generate",
    "description": "Generate code using nx generators. USE WHEN scaffolding code or transforming existing code - for example creating libraries or applications, or anything else that is boilerplate code or automates repetitive tasks. ALWAYS use this first when generating code with Nx instead of calling MCP tools or running nx generate immediately."
-  },
-  "inkffj7bm-7rxgdhis-67sy1ovbuuug_13y4fex1gl4": {
-   "status": "bundled_files",
-   "archive_path": "writing/cold-email-marysatasselshaped66-skills-collection-1/SKILL.md",
-   "repo": "marysatasselshaped667/skills-collection-1",
-   "branch": "main",
-   "digest": "sha256:00edc97e4d6f1ac786817b679ff849e27bd353120632580c6bcb759aa3704d18",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "ins9_hyptoqrcv0ya2a8-dapztq8-zardpgbxeab3yc": {
    "status": "ambiguous",
@@ -24788,14 +24764,6 @@
    "digest": "sha256:bc9c62bb41d3756876ac23223c55a1e98e60cd4ce39afbc26dd0d894f036ff2c",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "j19v4wjjxexofw3y8jo86jg4ogpr-vsdt2rdllcqhno": {
-   "status": "bundled_files",
-   "archive_path": "design/motion-framer-petersonsenadevs-senzu-2/SKILL.md",
-   "repo": "petersonsenadevs/senzu",
-   "branch": "main",
-   "digest": "sha256:37b0a6fb2470feca368cf96f8058456b81dd17385a9c35334b794628d7c7981b",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "j2mflifemxx4tgt1yraucog1las9lpika68shbjfb_a": {
    "status": "ambiguous",
    "archive_path": "other/bumblebee-sinhoneyy-master-skills/SKILL.md",
@@ -24803,6 +24771,14 @@
    "branch": "master",
    "digest": "sha256:c31b80e0b8975fbf4bec4e3d42d1be2f4ee3f2e35b0ae0ddccbac82967040876",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "j2s6uxpny-ffjmwxyf0b6amiz4imjl4datxbfkc0bf8": {
+   "status": "bundled_files",
+   "archive_path": "design/threejs-animation-xenodeve-xeno-skills/SKILL.md",
+   "repo": "xenodeve/xeno-skills",
+   "branch": "main",
+   "digest": "sha256:b24dc96c7a854ab97fa797a8e20d6bf981f155dfc625fd1ef347042395b7754c",
+   "checked_at": "2026-10-18T07:49:20+00:00"
   },
   "j2sdgpdqh-udjxqwb4xsp65yyy6zkn_ml1-ope-sxsu": {
    "status": "pinned",
@@ -25162,6 +25138,26 @@
    "branch": "main",
    "digest": "sha256:610d091047bcfb9db0f75c057d15538481a721111579fc5ec7f83ad9131a2165",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "jcy3ipaduwfsziwp3jworm_9gtuf6vzjxpq4kqmoc0u": {
+   "status": "bundled_files",
+   "archive_path": "design/lightweight-3d-effects-xenodeve-xeno-skills/SKILL.md",
+   "repo": "xenodeve/xeno-skills",
+   "branch": "main",
+   "digest": "sha256:d0ae4223cce30dbf075a2ce8e6c12a51dc66f996384751820f15f6dd7228d8f7",
+   "checked_at": "2026-10-18T07:49:20+00:00"
+  },
+  "jdm5b-7anzjngke_ueozbjhnjto9mvtopf1jju3knpq": {
+   "status": "pinned",
+   "path": ".claude/skills/sentry/code-review/SKILL.md",
+   "archive_path": "other/code-review-xuyinfor-crypto-claude-agent-enginee/SKILL.md",
+   "repo": "xuyinfor-crypto/claude-agent-engineer",
+   "branch": "main",
+   "digest": "sha256:ec5fc8855cb4648b4f2c79b608f8c8824a2da6a683330524c4d6283e4a3954c4",
+   "checked_at": "2026-10-18T07:49:20+00:00",
+   "commit": "4a8295e846279aab3beb3eb6822abc12562b5421",
+   "name": "code-review",
+   "description": "Perform code reviews following Sentry engineering practices. Use when reviewing pull requests, examining code changes, or providing feedback on code quality. Covers security, performance, testing, and design review."
   },
   "jdrnipflbhn2jhlf9u9m7styezsh22h3a5827lrars0": {
    "status": "upstream_changed",
@@ -25687,18 +25683,6 @@
    "commit": "1a45bbbebbdcf33e51bbd014860c7e45e45d153d",
    "name": "write-a-skill",
    "description": "Create new agent skills with proper structure, progressive disclosure, and bundled resources. Use when user wants to create, write, or build a new skill."
-  },
-  "jlw-1tlfoxceeqonzgsrgfxdyxc39gtnpm8k6fptd0m": {
-   "status": "pinned",
-   "path": ".claude/skills/gsap-scrolltrigger/SKILL.md",
-   "archive_path": "development/gsap-scrolltrigger-suphiozdedee-projenicdesign-com/SKILL.md",
-   "repo": "suphiozdedee/projenicdesign.com",
-   "branch": "main",
-   "digest": "sha256:9351b6666a4749c0740406ea363aaccb99a087ff45cc5e8b99a0f367facf3ef4",
-   "checked_at": "2026-10-17T23:14:30+00:00",
-   "commit": "90b75fd61c257964a0b3ca31cb48a6a175fb022c",
-   "name": "gsap-scrolltrigger",
-   "description": "Official GSAP skill for ScrollTrigger — scroll-linked animations, pinning, scrub, triggers. Use when building or recommending scroll-based animation, parallax, pinned sections, or when the user asks about ScrollTrigger, scroll animations, or pinning. Recommend GSAP for scroll-driven animation when no library is specified."
   },
   "jmbii8lc_b9txzapf-nhgdy1un2whixrhoncyqd_5n4": {
    "status": "upstream_unavailable",
@@ -26967,13 +26951,6 @@
    "name": "worktree-swarm",
    "description": "Set up and orchestrate parallel Claude Code agents using git worktrees. Use this skill when the user wants to parallelize a feature across multiple agents, spawn worktrees, or merge agent work back together."
   },
-  "kftxtlbvpigw7d1jiidnxjrxgcsihy0mcypti6hf1fm": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest\",\"status\":\"404\"}",
-   "archive_path": "integration/page-x-automation/SKILL.md",
-   "digest": "sha256:78422baff6fc977ee264713c6e4ce9bf25345d4bfef967b65e51d7c2c2bd2e37",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "kg7dnvyqiq4got-hemi5tcemydhd0wioevbvtun9umu": {
    "status": "tree_truncated",
    "archive_path": "other/export-vincentagwu-deutsches-recht-slim-2/SKILL.md",
@@ -27189,6 +27166,14 @@
    "name": "repo-scan",
    "description": "Cross-stack source code asset audit — classifies every file, detects embedded third-party libraries, and delivers actionable four-level verdicts per module with interactive HTML reports."
   },
+  "kkipjh_h2fcfeonanxobtztwjdnf1mq1oxptoskbb9m": {
+   "status": "bundled_files",
+   "archive_path": "design/stitch-design-taste-xenodeve-xeno-skills/SKILL.md",
+   "repo": "xenodeve/xeno-skills",
+   "branch": "main",
+   "digest": "sha256:46bdb08fee2dded38b6ba0a051230a502d6ac6e4044afd47592cb40c256028b5",
+   "checked_at": "2026-10-18T07:49:20+00:00"
+  },
   "kkxzvbw8yqbo7bm_tnouwgry5m4yyre1soo0btspkx8": {
    "status": "pinned",
    "path": "skills/agents-md/SKILL.md",
@@ -27236,6 +27221,14 @@
    "branch": "main",
    "digest": "sha256:8556594bd39fe1cb374c394a3fd8b45daba604c354f659d482a2de3dfadda827",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "klgovrxuo24ucn6gho2c_hf6f4y0nzpiy-3aru2gwl8": {
+   "status": "bundled_files",
+   "archive_path": "development/gsap-scrolltrigger-xenodeve-xeno-skills/SKILL.md",
+   "repo": "xenodeve/xeno-skills",
+   "branch": "main",
+   "digest": "sha256:9351b6666a4749c0740406ea363aaccb99a087ff45cc5e8b99a0f367facf3ef4",
+   "checked_at": "2026-10-18T07:49:20+00:00"
   },
   "klhfdez-hvpavbhqclgwvjwfku4ociony4swbvvocoy": {
    "status": "bundled_files",
@@ -27431,6 +27424,18 @@
    "branch": "main",
    "digest": "sha256:7296bb938cac073d301493371f30b25e2f46006231728e19fdb8b839d6b87e56",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "kqv50snfs_ldfjysqvo18hw4gtsjtxpplfzw7rbr-ii": {
+   "status": "pinned",
+   "path": ".claude/skills/openspec-onboard/SKILL.md",
+   "archive_path": "other/openspec-onboard-yexiyue-ratatui-kit/SKILL.md",
+   "repo": "yexiyue/ratatui-kit",
+   "branch": "main",
+   "digest": "sha256:40dfeb44b9dd64005f7c160a05ba46e1460723fd2fcf4a293f34d58f6a60c3c3",
+   "checked_at": "2026-10-18T07:49:20+00:00",
+   "commit": "3843a1227c83a12e7823469a430eb6f73296328a",
+   "name": "openspec-onboard",
+   "description": "Guided onboarding for OpenSpec - walk through a complete workflow cycle with narration and real codebase work. Also use when the user says \"openspec onboard\" or \"opsx onboard\"."
   },
   "kqxcuof8cpq5hxpl6xhtuotrixjklrtq_tfiuqockqy": {
    "status": "ambiguous",
@@ -27654,6 +27659,14 @@
    "branch": "main",
    "digest": "sha256:38ba648975ae6ba512d6695676f146163db61a496b867f716f4bdfb0ee3aca3e",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "kunixqffj1useqmceosegp9l0k-ru8vwbqz6ttq3irk": {
+   "status": "bundled_files",
+   "archive_path": "writing/cold-email-yehia-alhaddad-workout-logger-flutt/SKILL.md",
+   "repo": "yehia-alhaddad/workout-logger-flutter",
+   "branch": "main",
+   "digest": "sha256:00edc97e4d6f1ac786817b679ff849e27bd353120632580c6bcb759aa3704d18",
+   "checked_at": "2026-10-18T07:49:20+00:00"
   },
   "kv0m6mnelxmssrhzxdagfv2jy1ll2etdsvcbangsfte": {
    "status": "bundled_files",
@@ -28422,6 +28435,14 @@
    "digest": "sha256:57940e8cf1176341ad87006a5c8d56517b42bcdd936dbb5250e5aa63ab7d11ee",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "lebvor6tomrcarlw0k-qhnkmyayqu3hchapcpjub1za": {
+   "status": "bundled_files",
+   "archive_path": "design/animate-wearedevpunks-skills/SKILL.md",
+   "repo": "wearedevpunks/skills",
+   "branch": "main",
+   "digest": "sha256:f6317335da2662e92270dc0a6128bea95d7216cd751f86628e3ac6b72804e805",
+   "checked_at": "2026-10-18T07:49:20+00:00"
+  },
   "leezitrntxgu3a2ldrfukl4bbhhrrhoxfeo0wddsiie": {
    "status": "pinned",
    "path": ".github/skills/dotnet-upgrade/SKILL.md",
@@ -28803,6 +28824,18 @@
    "commit": "026d0842ca42ec6ce67e17117b281429181e845a",
    "name": "doc",
    "description": "Read, create, and edit .docx documents with formatting and layout fidelity via OpenAI's document skill."
+  },
+  "lmsxavxksij9a0unamwadww28dd2olb2fqoizguy6q0": {
+   "status": "pinned",
+   "path": ".claude/skills/openspec-verify-change/SKILL.md",
+   "archive_path": "other/openspec-verify-change-yexiyue-ratatui-kit-2/SKILL.md",
+   "repo": "yexiyue/ratatui-kit",
+   "branch": "main",
+   "digest": "sha256:4fc56f0a67983d36cf8d2d1377d06cc982d71bb96eda09d444ee7c3a6e4128dc",
+   "checked_at": "2026-10-18T07:49:20+00:00",
+   "commit": "3843a1227c83a12e7823469a430eb6f73296328a",
+   "name": "openspec-verify-change",
+   "description": "Verify implementation matches OpenSpec change artifacts. Use when the user wants to validate that implementation is complete, correct, and coherent before archiving. Also use when the user says \"openspec verify\" or \"opsx verify\"."
   },
   "lmwd0bjrezd9racb83hdhitxu-w6uzqrvtafckm9b2c": {
    "status": "upstream_changed",
@@ -29396,14 +29429,6 @@
    "digest": "sha256:2138c7bc224f4eede12d5bffcb57b11e39ce793c3a932fa1c2199589e415b487",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "lzbwyqaq-hn-dhhuysbc6gwmgylne2jdy6zxht8ymag": {
-   "status": "bundled_files",
-   "archive_path": "other/pixijs-2d-thisisdiwad-rsj222/SKILL.md",
-   "repo": "thisisdiwad/rsj222",
-   "branch": "main",
-   "digest": "sha256:2a57d75847887b2b4cf7315d902f9273f06ae58b358576ba3efb6dd6b7b4aec2",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "lzdq0io5hvcoc3uobrzau8il9oz2z1qtz3rf0tbhtpi": {
    "status": "bundled_files",
    "archive_path": "development/genotoxic-trailofbits-skills/SKILL.md",
@@ -29584,18 +29609,6 @@
    "digest": "sha256:1c0c6484cef6e1c23d709f7cea402a6a83002021c0c6fed4bb639ede1c25699b",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "m3oylp5wkjll2lpk9ugf_mgh3rciskncfx52gs3k1jq": {
-   "status": "pinned",
-   "path": "data/skills/tanweai-pua/p7/skills/p7/SKILL.md",
-   "archive_path": "other/p7-om-scogo-skillsh-scraper/SKILL.md",
-   "repo": "om-scogo/skillsh-scraper",
-   "branch": "main",
-   "digest": "sha256:c15775473e9cf220169d39498441623a510fea8a0e1242a8d110d8243775668c",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "8859218955d9504cd18b59e7892100718039d3b4",
-   "name": "p7",
-   "description": "P7 Senior Engineer mode — solution-driven execution under P8 supervision. Use when user says 'P7模式', '方案驱动', or when spawned as sub-task executor by P8. Produces: implementation plan + code + 3-question self-review, delivered via [P7-COMPLETION]."
-  },
   "m3tjyhojj1m7acwuflx903bxvdw9uyfx4xo2jqmqoaw": {
    "status": "bundled_files",
    "archive_path": "development/media-processing-nicepkg-ai-workflow/SKILL.md",
@@ -29746,14 +29759,6 @@
    "commit": "f5a345024fbd0850ccbd01419c12e84009911cdd",
    "name": "mysql-patterns",
    "description": "MySQL and MariaDB schema, query, indexing, transaction, replication, and connection-pool patterns for production backends."
-  },
-  "m8yzfy5m1upgu0-fz62jlw_0uhaobazlm5u7oy2dswe": {
-   "status": "bundled_files",
-   "archive_path": "other/pacsomatic-raktim-mondol-hermes-plugin-resear/SKILL.md",
-   "repo": "raktim-mondol/hermes-plugin-researchcraft",
-   "branch": "main",
-   "digest": "sha256:5f5a40aa1381cafed5d7a623cb3ef1d48e67711b68e65700cee9d2f5348b3259",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "m93bbcyhgurebhnwowdg_fpmpj4_53dv6fk7d1sz5yq": {
    "status": "pinned",
@@ -30023,6 +30028,14 @@
    "digest": "sha256:581e1276b76c95d5458080684cd202db201b287702f3553082aba1c129f088d7",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "meggdt0u8qbjkubiipei40-rtubree0jpkg8sikri30": {
+   "status": "bundled_files",
+   "archive_path": "other/gene-database/SKILL.md",
+   "repo": "xuyinfor-crypto/claude-agent-engineer",
+   "branch": "main",
+   "digest": "sha256:3a1c1cbac86961ee4cf539e6c7eb62328e90a4133084ba016a312c691e65b9cd",
+   "checked_at": "2026-10-18T07:49:20+00:00"
+  },
   "menigfdyynoyryz3dikahliagx85y0x1yrx56re55nc": {
    "status": "pinned",
    "path": ".claude/skills/cc-skill-frontend-patterns/SKILL.md",
@@ -30066,6 +30079,14 @@
    "branch": "main",
    "digest": "sha256:f1656cb00b9af8dc625a9655448b410b37ce6f1e523048a5abf09fda25cbfd32",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "mfbe6hfwsvtoor3qkta8ijavbstculmkoqb_lmu4ydm": {
+   "status": "ambiguous",
+   "archive_path": "bash/openspec-bulk-archive-change-yexiyue-ratatui-kit/SKILL.md",
+   "repo": "yexiyue/ratatui-kit",
+   "branch": "main",
+   "digest": "sha256:064577aaedc2adaac454a42b9ef6c5e577eda4263503f81ed202166e4fb0ac6f",
+   "checked_at": "2026-10-18T07:49:20+00:00"
   },
   "mfdwvnwvxyxuvf-gfcfoukvgk8gj8qyssetrpvpwxwi": {
    "status": "pinned",
@@ -30307,14 +30328,6 @@
    "digest": "sha256:cade0cbe70e7b1ea1f3dd0085206079bc3d78d9d36fe84776247815f3c1f0f21",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "miozewhaebwyfxc7wmxvbam7uwuobaracwbnaiosolq": {
-   "status": "ambiguous",
-   "archive_path": "other/openspec-onboard-rshade-finfocus-plugin-azur/SKILL.md",
-   "repo": "rshade/finfocus-plugin-azure-public",
-   "branch": "main",
-   "digest": "sha256:40dfeb44b9dd64005f7c160a05ba46e1460723fd2fcf4a293f34d58f6a60c3c3",
-   "checked_at": "2026-10-17T23:14:30+00:00"
-  },
   "mirkwr8vmtyab4rca8zl07btkf8s4ug-tdzer9egu7s": {
    "status": "bundled_files",
    "archive_path": "other/tdd-simplerick0-com-ackhax-configs/SKILL.md",
@@ -30373,14 +30386,6 @@
    "branch": "main",
    "digest": "sha256:bb89deea4e2782f85f9052eaee5b0f2a415beeb102b184c97d87901cdb0a1fe3",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "mjuq4jgeztsu5brujtucxmjabzsjngco0jybknep96s": {
-   "status": "ambiguous",
-   "archive_path": "other/openspec-archive-change-rshade-finfocus-plugin-azur-2/SKILL.md",
-   "repo": "rshade/finfocus-plugin-azure-public",
-   "branch": "main",
-   "digest": "sha256:ba809cca5c8a5a47168b8a00bbf3694e8651d8a797e7d94f9bef690c5579c300",
-   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "mjvue0bcgh46yvlziuwvkhrzsz1twrpbioegi_-9krk": {
    "status": "pinned",
@@ -30654,14 +30659,6 @@
    "name": "ads-meta",
    "description": "Audit Meta Ads measurement, Pixel and Conversions API, attribution, Facebook and Instagram creative, audiences, placements, automation, budgets, account structure, and policy. Use for Meta Ads, Facebook Ads, Instagram Ads, Advantage+, Pixel, CAPI, Events Manager, creative fatigue, or Meta campaign optimization."
   },
-  "mo3wa05vaqixfy60zasknopu9p8icstjrw8bihy46ms": {
-   "status": "ambiguous",
-   "archive_path": "design/find-skills-mashharuki-claude-code-sample-2/SKILL.md",
-   "repo": "mashharuki/claude-code-sample",
-   "branch": "main",
-   "digest": "sha256:2a23f483fc7e34c6f4ff188a65b4cba9d48403cf5b21b27c96f6e3fd8c6d00c9",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "mo5n_smp3mjcjphkleulj7vfs69wtxwlpt4c4bsmvey": {
    "status": "pinned",
    "path": "audit/auditing-compose-performance/SKILL.md",
@@ -30720,14 +30717,6 @@
    "repo": "moorestech/mooreseditor",
    "branch": "master",
    "digest": "sha256:f4647ca866a3accf763777f83e7682954f0187cd6bea7eea0399796652414e8f",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "mparw5c7pbgg5q_zib_2rrpu74ad2rfet-eshhri1s8": {
-   "status": "ambiguous",
-   "archive_path": "other/fluidsim-workonthestreets-wolo/SKILL.md",
-   "repo": "workonthestreets/wolo",
-   "branch": "main",
-   "digest": "sha256:4673558954e6ab0272a3c4d3b7b5bbe84561fb6889ef1d58906b0835b037a1cd",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "mpihk7zhn5uwbpntrrhfejjpbe3mhqnpkcrto9p-4mi": {
@@ -30907,18 +30896,6 @@
    "commit": "989a2f52e1aaa4a10f54297cdad50aeef75e8cd4",
    "name": "wiz-automation",
    "description": "Automate Wiz tasks via Rube MCP (Composio). Always search tools first for current schemas."
-  },
-  "msbf2fqkbe-t7dp-tanzfvxh12-gt0mot701zzo4kiy": {
-   "status": "pinned",
-   "path": "data/skills/tanweai-pua/p9/skills/p9/SKILL.md",
-   "archive_path": "other/p9-om-scogo-skillsh-scraper/SKILL.md",
-   "repo": "om-scogo/skillsh-scraper",
-   "branch": "main",
-   "digest": "sha256:3bebb16aba1979cef73cc29aab04d58159a3076c353c925c22c5b878f669654d",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "8859218955d9504cd18b59e7892100718039d3b4",
-   "name": "p9",
-   "description": "P9 Tech Lead mode — write Task Prompts, manage P8 agent teams, never write code yourself. Use when user says 'P9模式', 'tech-lead', '帮我管理这个项目', '任务拆解', or when coordinating 3+ parallel agents. Produces: Task Prompts (六要素) + P8 team delivery."
   },
   "msj4wz-bwk1jzt6dwr4hhsrpa_2pb9jehfh-q7uxxwm": {
    "status": "bundled_files",
@@ -31472,6 +31449,14 @@
    "branch": "main",
    "digest": "sha256:71254dbd3eb1647d44be4a9b93b991d26eea9e08b09f33b219f99fa0fc708c02",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "n5xckbn8lscjh1twe13ftnd8ydqiz_mgnsuzilphi1k": {
+   "status": "bundled_files",
+   "archive_path": "design/frontend-design-xenodeve-xeno-skills/SKILL.md",
+   "repo": "xenodeve/xeno-skills",
+   "branch": "main",
+   "digest": "sha256:d91970639e9f5c37682ac7ab60094d35f1c7c1f38d731bd56396563aee10c1d3",
+   "checked_at": "2026-10-18T07:49:20+00:00"
   },
   "n6qf17tcwalmv6l8lg_a4vwmbwph__eqejk9qmbjeui": {
    "status": "ambiguous",
@@ -32564,14 +32549,6 @@
    "name": "using-git-worktrees",
    "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - ensures an isolated workspace exists via native tools or git worktree fallback"
   },
-  "nsj3nrxccfbjom96c9oj665d_gnjm8oxx2z9sko_mdk": {
-   "status": "tree_truncated",
-   "archive_path": "development/p5-modbender-skill-library-mcp/SKILL.md",
-   "repo": "modbender/skill-library-mcp",
-   "branch": "main",
-   "digest": "sha256:3a9525983f0189fe5bed5965a7d476b1e4be28b3af109df427a645bf81c1bd8f",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "nsjbgofc-hgupvp5srz0ndhh08u4uvdpfakbikgdw3g": {
    "status": "upstream_changed",
    "archive_path": "development/cursor-multi-repo/SKILL.md",
@@ -32715,14 +32692,6 @@
    "commit": "3c3d4701441d6e7b1e6de2cc98ecd6dd41a0774a",
    "name": "clickhouse-io",
    "description": "ClickHouse database patterns, query optimization, analytics, and data engineering best practices for high-performance analytical workloads."
-  },
-  "nv0eh6lndc4kk9n5my1wwows8gbmxcgggupwtpbhayk": {
-   "status": "ambiguous",
-   "archive_path": "bash/openspec-ff-change-rshade-finfocus-plugin-azur/SKILL.md",
-   "repo": "rshade/finfocus-plugin-azure-public",
-   "branch": "main",
-   "digest": "sha256:b87cd116e2fbad5c77237c61f10aed379aca26a6305887f55e6f69bb781ea0eb",
-   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "nveo02prafkkgtmyltzy1d7akuklx1onzg3rnxauuci": {
    "status": "bundled_files",
@@ -33171,18 +33140,6 @@
    "branch": "main",
    "digest": "sha256:c75618d588d334b348278ae12b0cef13447764105cd0d5eb92e7c23f02ea59c2",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "o5rg_ycyct67dqxd2p22iwh-fscn9ga2v0j407em8ie": {
-   "status": "pinned",
-   "path": ".agents/skills/ponytail/SKILL.md",
-   "archive_path": "development/ponytail-samplexbro-agentsmesh/SKILL.md",
-   "repo": "sampleXbro/agentsmesh",
-   "branch": "master",
-   "digest": "sha256:4cbc1e68a329dffb2b580110deb133fdd4bef078ab59071d043be8e96e25dfca",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "2a22abcae4e5677b6e385b5a0e144c48baac4a94",
-   "name": "ponytail",
-   "description": "Forces the laziest solution that actually works, simplest, shortest, most minimal. Channels a senior dev who has seen everything: question whether the task needs to exist at all (YAGNI), reach for the standard library before custom code, native platform features before dependencies, one line before fifty. Supports intensity levels: lite, full (default), ultra. Use on ANY coding task: writing, adding, refactoring, fixing, reviewing, or designing code, and choosing libraries or dependencies. Also use whenever the user says \"ponytail\", \"be lazy\", \"lazy mode\", \"simplest solution\", \"minimal solution\", \"yagni\", \"do less\", or \"shortest path\", or complains about over-engineering, bloat, boilerplate, or unnecessary dependencies. Do NOT use for non-coding requests (general knowledge, prose, translation, summaries, recipes)."
   },
   "o6bxy3jnc-6ceei0puq28msc55qtxlkhuiziup1cvu4": {
    "status": "pinned",
@@ -33851,6 +33808,14 @@
    "digest": "sha256:659de693c3eb914f057f0105e832418c22bb9f6d88dab005ea7b826b8ef84c68",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "oljx_gdt3trko8q310ena_ykjmh9zx2fwmpv5xyanks": {
+   "status": "bundled_files",
+   "archive_path": "design/ui-styling-xenodeve-xeno-skills/SKILL.md",
+   "repo": "xenodeve/xeno-skills",
+   "branch": "main",
+   "digest": "sha256:625e302c60ee8f2e22d56cbe638c4a739e2657f566dae42689503ad517c30f1e",
+   "checked_at": "2026-10-18T07:49:20+00:00"
+  },
   "olngwihn0fmcnltupt5ttkxq1l_ihuvi3qzbijt1egm": {
    "status": "bundled_files",
    "archive_path": "development/rdkit-sanand0-scientific-research/SKILL.md",
@@ -33965,14 +33930,6 @@
    "commit": "e274d584e40dd707853cd07da8ba47c5fc0b6152",
    "name": "systematic-debugging",
    "description": "Use when encountering any bug, test failure, or unexpected behavior. 4-phase root cause investigation — NO fixes without understanding the problem first."
-  },
-  "op0kxwlvvq8y-ggjewbdzng--wawwukclinphyhd_gu": {
-   "status": "ambiguous",
-   "archive_path": "other/openspec-continue-change-rshade-finfocus-plugin-azur/SKILL.md",
-   "repo": "rshade/finfocus-plugin-azure-public",
-   "branch": "main",
-   "digest": "sha256:ee64aecff9ae4f9e8052c3d077e63c9530d6acfe4eafe62c30dd9f3db188feea",
-   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "opcqdt4wvxrpw0v87wy7elb_gpzojjwtr-lvydnuv9a": {
    "status": "bundled_files",
@@ -34541,6 +34498,14 @@
    "digest": "sha256:6adfd1babfbfe2f85e0fcbde518f24a804ebe06afeb8682ce1df395284d6f5cb",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "p2jhrsyn76gf8evjljouhvffkhnhdvutw5izksbr_nq": {
+   "status": "bundled_files",
+   "archive_path": "documents/writing-for-agents-wearedevpunks-skills/SKILL.md",
+   "repo": "wearedevpunks/skills",
+   "branch": "main",
+   "digest": "sha256:a842323e664e5af104eac5c97ad22fda929ebeb62d81c501161ac1f6f482db58",
+   "checked_at": "2026-10-18T07:49:20+00:00"
+  },
   "p2m0a2iuyj0iew5wcda4pn2-lrbydmwohkj6aqjbmou": {
    "status": "bundled_files",
    "archive_path": "security/api-patterns-tuorjp-users-flutter-specki/SKILL.md",
@@ -34940,6 +34905,14 @@
    "digest": "sha256:8831bbbeee9c8a9ef93e015169eeae1061cd3b5db45391abaeb05d9edab737a0",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "pecemfmx_dmb0vokdbmzg3zqnmi5fpdmbuk_2nr9x04": {
+   "status": "bundled_files",
+   "archive_path": "design/frontend-slides-wrg32786-aigent-os/SKILL.md",
+   "repo": "wrg32786/aigent-os",
+   "branch": "master",
+   "digest": "sha256:832994fe1dfcce2aa7ceca9a1b7b708eca94becef242713999855f4e946cf4d5",
+   "checked_at": "2026-10-18T07:49:20+00:00"
+  },
   "pegxbou9zziq3wzceqqsx7wo4evgz_qm8thqd2ggtva": {
    "status": "ambiguous",
    "archive_path": "documents/humanizer-vamseeachanta-workspace-hub-2/SKILL.md",
@@ -35041,14 +35014,6 @@
    "repo": "trailofbits/skills",
    "branch": "main",
    "digest": "sha256:cd105f0d449839fd6349476e3ae492dda60081e58ebf6858a64c8752f462c9aa",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "pfwmhmdibpfelmdzwcl8dbharoi9yjhtewnl1hgsasq": {
-   "status": "tree_truncated",
-   "archive_path": "design/taste-skill-v1-nota-america-forgecat-agent-profi/SKILL.md",
-   "repo": "nota-america/forgecat-agent-profiles",
-   "branch": "main",
-   "digest": "sha256:033d45af1ed23832730642f95f40ab49db7fb5222848489a6c5656144bfc6dae",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "pfyti8my6jawel8u9w8qkt1qnnnmdxjl0rmvxc3h3wa": {
@@ -36445,6 +36410,18 @@
    "digest": "sha256:f0c92431730fa895b9f540a5aabaf174bfdcbecd3e07915ca0747e5bba66524b",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "q9-1wdvg4xwfomyg0nc4qtk9bsov2ubxfps8hzjiops": {
+   "status": "pinned",
+   "path": "skills/agents/neon-postgres/SKILL.md",
+   "archive_path": "documents/neon-postgres-wlue-config/SKILL.md",
+   "repo": "wlue/config",
+   "branch": "master",
+   "digest": "sha256:b78bf0e158d841aa710e0c3fd1906dad412d5f191abafc8ee228a5609de38ac2",
+   "checked_at": "2026-10-18T07:49:20+00:00",
+   "commit": "222c8ab8f2d84b349c675ccaaba4bc14d56423f2",
+   "name": "neon-postgres",
+   "description": "Guides and best practices for working with Neon Serverless Postgres. Covers getting started, local development with Neon, choosing a connection method, Neon features, authentication (@neondatabase/auth), PostgREST-style data API (@neondatabase/neon-js), Neon CLI, and Neon's Platform API/SDKs. Use for any Neon-related questions."
+  },
   "q97kdreoobzyebc_oc2kpgduc5qhh5fau1fenacpwpi": {
    "status": "upstream_unavailable",
    "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
@@ -36928,6 +36905,14 @@
    "branch": "main",
    "digest": "sha256:478ff04a7e3ecf9157b14fc2c24b4ae3fef7460debf27c4ecbe361bf26b0ac29",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "qjuoikd4oqk7v_e8y9wdfqybvqcl5mj9on5shndoyti": {
+   "status": "bundled_files",
+   "archive_path": "other/barba-js-xenodeve-xeno-skills/SKILL.md",
+   "repo": "xenodeve/xeno-skills",
+   "branch": "main",
+   "digest": "sha256:505abfc560b3738be60bae33a45d17898779bdcd5211ae9f2bb8ff58cc8cf434",
+   "checked_at": "2026-10-18T07:49:20+00:00"
   },
   "qjyybmlwifeyfjlpoiqu-d5plfhtlj8cnyv3n7f_42g": {
    "status": "tree_truncated",
@@ -37671,6 +37656,14 @@
    "branch": "main",
    "digest": "sha256:97a773e57c311442c118d3c0614faaa21187866532f520fe6f9b49ce3ec5dc44",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "r1ugoghu8y4nw5h8kaliktovyixkl9apzt0reqdmcpi": {
+   "status": "bundled_files",
+   "archive_path": "other/senior-qa-xuyinfor-crypto-claude-agent-enginee/SKILL.md",
+   "repo": "xuyinfor-crypto/claude-agent-engineer",
+   "branch": "main",
+   "digest": "sha256:4453b4aa9bf923a911ee0c44249e74a95b91b5da7daee16c61652a8a7c8595ae",
+   "checked_at": "2026-10-18T07:49:20+00:00"
   },
   "r1ztzf62ukqptqjdo5a-je8zgmx4xpjiurlf6g0bz3w": {
    "status": "bundled_files",
@@ -38513,6 +38506,14 @@
    "digest": "sha256:7cde52ea9bed7488e035482fb84ba9d1c1dbf06b2dd008655b91ce6b5203c436",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "rn68spldqjepdptesrdpz0buzgnziwrnx9en5x3-fc8": {
+   "status": "bundled_files",
+   "archive_path": "design/minimalist-ui-xenodeve-xeno-skills/SKILL.md",
+   "repo": "xenodeve/xeno-skills",
+   "branch": "main",
+   "digest": "sha256:36bc7328f085405f43b476938e62460fa573bf7e984e949e072bcf014831a44c",
+   "checked_at": "2026-10-18T07:49:20+00:00"
+  },
   "rn6gaxpdd2tjgvo6p-wpggpibd18hbdn4dfuk59zrhi": {
    "status": "bundled_files",
    "archive_path": "writing/seo-fundamentals-whd4-expert-ai-skills/SKILL.md",
@@ -38560,6 +38561,18 @@
    "branch": "main",
    "digest": "sha256:417c51b39c800b3b9daa9a813485a701b031d399303fa85c7af29cd06d26c160",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "ro3kc1cgg_gyawtxgvykqbfy3e-zrjdadpb-n7szvsc": {
+   "status": "pinned",
+   "path": "skills/ponytail/SKILL.md",
+   "archive_path": "development/ponytail-wrg32786-aigent-os/SKILL.md",
+   "repo": "wrg32786/aigent-os",
+   "branch": "master",
+   "digest": "sha256:1316a2f3f95741d2300b116fe0c2d81ce4a9568656ed0a62643f54aaf09957f2",
+   "checked_at": "2026-10-18T07:49:20+00:00",
+   "commit": "8f9405b35a3dbe6e4557866584e4e3422ecc7e23",
+   "name": "ponytail",
+   "description": "Forces the laziest solution that actually works, simplest, shortest, most minimal. Channels a senior dev who has seen everything: question whether the task needs to exist at all (YAGNI), reach for the standard library before custom code, native platform features before dependencies, one line before fifty. Supports intensity levels: lite, full (default), ultra. Use on ANY coding task: writing, adding, refactoring, fixing, reviewing, or designing code, and choosing libraries or dependencies. Also use whenever the user says \"ponytail\", \"be lazy\", \"lazy mode\", \"simplest solution\", \"minimal solution\", \"yagni\", \"do less\", or \"shortest path\", or complains about over-engineering, bloat, boilerplate, or unnecessary dependencies. Do NOT use for non-coding requests (general knowledge, prose, translation, summaries, recipes)."
   },
   "ro5ren-rjane-fgk13qzx9iys6owjpgdo_xxen6yezc": {
    "status": "tree_truncated",
@@ -38634,6 +38647,18 @@
    "branch": "main",
    "digest": "sha256:d45827c299c021f77b0f146fefa3ee679b13f99e9a2ffdf48e8de2347adeefe1",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "rqo9vjwgubctohdxylpejjbjzwa-emlckrdvuluuu2k": {
+   "status": "pinned",
+   "path": ".claude/skills/openspec-apply-change/SKILL.md",
+   "archive_path": "other/openspec-apply-change-yexiyue-ratatui-kit/SKILL.md",
+   "repo": "yexiyue/ratatui-kit",
+   "branch": "main",
+   "digest": "sha256:3c78bc8b0c5406c4f2d4654b8e1e1202b144498929391c72c1809c4ab3a03b45",
+   "checked_at": "2026-10-18T07:49:20+00:00",
+   "commit": "3843a1227c83a12e7823469a430eb6f73296328a",
+   "name": "openspec-apply-change",
+   "description": "Implement tasks from an OpenSpec change. Use when the user wants to start implementing, continue implementation, or work through tasks. Also use when the user says \"openspec apply\", \"opsx apply\", or \"openspec implement\"."
   },
   "rr3e-b3yi42t9n4a2ta37lkgymjkl_hq5oen_lzonp0": {
    "status": "ambiguous",
@@ -38729,13 +38754,6 @@
    "repo": "lxyeternal/MalSkillBench",
    "branch": "main",
    "digest": "sha256:c9cd51f1010c5b13d9dbf18d9bf811dedc46707e8494ac2036fef4218699d562",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "rselr0ku_h1wfdcvjffdv2nlbfgenwjd9_mver4pii0": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Branch not found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "development/threejs-animation/SKILL.md",
-   "digest": "sha256:b24dc96c7a854ab97fa797a8e20d6bf981f155dfc625fd1ef347042395b7754c",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "rsevkhgaulzhzox4e91cmtc03asnsqedkfb8fdcxcuw": {
@@ -39089,14 +39107,6 @@
    "digest": "sha256:1923621326583f9228c6047008ef4d7059a87bf10dbcb7b913ebffc6592c3313",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "rydhsrgsinh46ibxdzhcdsag7ldyndpcev-rjddot2k": {
-   "status": "upstream_changed",
-   "archive_path": "documents/latex-posters-foryourhealth111-pix-vibe-skills/SKILL.md",
-   "repo": "foryourhealth111-pixel/Vibe-Skills",
-   "branch": "main",
-   "digest": "sha256:8a01567022ae51d4cb26a4d36c359b5f1c278055ada8dc1e3568899c2636fdee",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "rylorcm-56eccad-vln1myu_hmbvgzu4ry_demhlp0g": {
    "status": "bundled_files",
    "archive_path": "integration/moosend-automation-diegosouzapw-awesome-omni-skill/SKILL.md",
@@ -39153,14 +39163,6 @@
    "digest": "sha256:6a29f969543573de60cc569995b92e9875fa3586ba3e9fdc510e1345c29fe0df",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "rz2s-2iblfh1arg0ysxwrgsi-tapbz98cycx9lglhdg": {
-   "status": "ambiguous",
-   "archive_path": "bash/openspec-bulk-archive-change-rshade-finfocus-plugin-azur-3/SKILL.md",
-   "repo": "rshade/finfocus-plugin-azure-public",
-   "branch": "main",
-   "digest": "sha256:064577aaedc2adaac454a42b9ef6c5e577eda4263503f81ed202166e4fb0ac6f",
-   "checked_at": "2026-10-17T23:14:30+00:00"
-  },
   "rza8nnt4e025iahzyncivpfcks2qhxv0gcokntc6nlu": {
    "status": "upstream_changed",
    "archive_path": "data/local-places-youjjwal-clawdbot/SKILL.md",
@@ -39176,6 +39178,14 @@
    "branch": "main",
    "digest": "sha256:e7141309d122ba5a0313222f71ee2909b3da6afcda42e407e34a454846b08c39",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "rzppkqcpdbynqhfsch2gk7x9xne6ewlitbp_qf8dvy0": {
+   "status": "bundled_files",
+   "archive_path": "design/ui-ux-pro-max-xenodeve-xeno-skills/SKILL.md",
+   "repo": "xenodeve/xeno-skills",
+   "branch": "main",
+   "digest": "sha256:ea087c341bfb5b23195c7302027268ede86da802554c18a5c4896a6017b439f9",
+   "checked_at": "2026-10-18T07:49:20+00:00"
   },
   "rzx60_hdqs5zsvu-me47kryxoiarl1higsqu9jhpwp0": {
    "status": "pinned",
@@ -39627,18 +39637,6 @@
    "commit": "94ddc1731e8287de7a3b58cab5bc017f365c63a9",
    "name": "ubiquitous-language",
    "description": "Extract a DDD-style ubiquitous language glossary from the current conversation, flagging ambiguities and proposing canonical terms. Saves to UBIQUITOUS_LANGUAGE.md. Use when user wants to define domain terms, build a glossary, harden terminology, create a ubiquitous language, or mentions \"domain model\" or \"DDD\"."
-  },
-  "scezoa71eeiojvczb0wktwqkle1ft2wtmndev7f3uea": {
-   "status": "pinned",
-   "path": "katalog/skills/sentry/create-pr/SKILL.md",
-   "archive_path": "development/create-pr-metinduraktr-44-claude-otonom-sistem/SKILL.md",
-   "repo": "metinduraktr-44/claude-otonom-sistem",
-   "branch": "main",
-   "digest": "sha256:016fe48fde481f70fd7b18072d8744876f84068482460968b9d2ea2b82b51b9e",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "9b7bf197665302ad85bd2c81bc32c561a3a8b816",
-   "name": "create-pr",
-   "description": "Create pull requests following Sentry conventions. Use when opening PRs, writing PR descriptions, or preparing changes for review. Follows Sentry's code review guidelines."
   },
   "scj48sctxmb79txzryqdvj11cmfudprxjmhfcie3em4": {
    "status": "upstream_unavailable",
@@ -40710,18 +40708,6 @@
    "digest": "sha256:4ebe886a489381dc615f357532a864b92f0c8bc496673f19dec6151f4657ee27",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "sxseouucgihblz-bkbhr91opzdrqsneczqt0dysu7f0": {
-   "status": "pinned",
-   "path": ".claude/skills/owasp-update/SKILL.md",
-   "archive_path": "development/owasp-update-nagarenegishi-nagarenegishi-github/SKILL.md",
-   "repo": "NagareNegishi/NagareNegishi.github.io",
-   "branch": "main",
-   "digest": "sha256:ec63efab366c8791e4c9c7a0f0ac2db1b0f9db26ca59ada29ae93ebc557686b3",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "b2efc256b6429ec77a2b813b8474112e1fa292f8",
-   "name": "owasp-update",
-   "description": "Update the local OWASP cheat sheet cache. Use when the user explicitly runs /owasp-update to refresh cached OWASP Cheat Sheet Series content for the current project's language."
-  },
   "sxsyugtdx8nal0hkpunqtyzq-bmnt_o31waohbvtzs8": {
    "status": "tree_truncated",
    "archive_path": "api/jo4/SKILL.md",
@@ -40781,6 +40767,14 @@
    "branch": "main",
    "digest": "sha256:dc7a2d17b1ed05895b3b1e4d2e3ef80f281630a5d5284334eeab66b4084894d2",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "sz4j8avtafhvsfnwyukmibt0dpfp3tod1hfmk4ast8u": {
+   "status": "bundled_files",
+   "archive_path": "design/image-to-code-xenodeve-xeno-skills/SKILL.md",
+   "repo": "xenodeve/xeno-skills",
+   "branch": "main",
+   "digest": "sha256:4c060a8064a8b13380bc2ef3d6e6a1d0b1e316aa093cd9807d0ce9e4eeb037fa",
+   "checked_at": "2026-10-18T07:49:20+00:00"
   },
   "szdummkajsmp7fmjdmxhnb-o4zkc0tobvgaetn51tyg": {
    "status": "upstream_changed",
@@ -40986,6 +40980,14 @@
    "name": "antfu",
    "description": "Anthony Fu's opinionated tooling and conventions for JavaScript/TypeScript projects. Use when setting up new projects, configuring ESLint/Prettier alternatives, monorepos, library publishing, or when the user mentions Anthony Fu's preferences."
   },
+  "t6y8y6bzr90v73f79qgdq5fjdiuclenbq-mnmjsxpmi": {
+   "status": "bundled_files",
+   "archive_path": "other/locomotive-scroll-xenodeve-xeno-skills/SKILL.md",
+   "repo": "xenodeve/xeno-skills",
+   "branch": "main",
+   "digest": "sha256:cfb107ae328e100ad1ca89554fbf590a15330daa1ba861540bb0481948f77553",
+   "checked_at": "2026-10-18T07:49:20+00:00"
+  },
   "t7_ng0zhfbvkpkomihket4gkjfl4ohxt-atnv4i__8m": {
    "status": "pinned",
    "path": "flux-kontext/SKILL.md",
@@ -40997,6 +40999,14 @@
    "commit": "fca19ae084c2ae4667f5c8affbb99da5103d5832",
    "name": "flux-kontext",
    "description": "Edit images with Flux 1 Kontext Pro (Black Forest Labs' precise local image-edit model) on RunComfy — bundled with the model's documented prompting patterns so the skill gets sharper output than naive prompting against the same model. Documents Flux Kontext's strengths (single-reference precise local edits, strong prompt control, consistent high-fidelity outputs), the schema (single image + prompt), and when to route to Nano Banana Edit / GPT Image 2 edit / Flux 2 Klein instead. Calls `runcomfy run blackforestlabs/flux-1-kontext/pro/edit` through the local RunComfy CLI. Triggers on \"flux kontext\", \"flux-kontext\", \"flux 1 kontext\", \"kontext\", \"BFL kontext\", or any explicit ask to edit with this model."
+  },
+  "t7wxrauqbllxynax1a-zbnum6hjlct_9bmaslclqbry": {
+   "status": "bundled_files",
+   "archive_path": "bash/hatch-pet-whyzsm-tiny-agents/SKILL.md",
+   "repo": "whyzsm/tiny-agents",
+   "branch": "main",
+   "digest": "sha256:7ab0f01e8561085d1b494a6ca74abed766c655da8ec98284fb38a362c19d6871",
+   "checked_at": "2026-10-18T07:49:20+00:00"
   },
   "t8ddeqrf9z5ygumnjzdf7k2yia_0d_wf7hwij24qcai": {
    "status": "bundled_files",
@@ -41112,6 +41122,18 @@
    "branch": "main",
    "digest": "sha256:8d74ce70b597ce8d780a094dbc5ff66bbe95ccb814e86fc5dad9ba3c638b7d08",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "tanxm0bpqyc4iesd7iv_16eepsewvd_rsweodx6vbgc": {
+   "status": "pinned",
+   "path": ".claude/skills/openspec-continue-change/SKILL.md",
+   "archive_path": "other/openspec-continue-change-yexiyue-ratatui-kit-2/SKILL.md",
+   "repo": "yexiyue/ratatui-kit",
+   "branch": "main",
+   "digest": "sha256:ee64aecff9ae4f9e8052c3d077e63c9530d6acfe4eafe62c30dd9f3db188feea",
+   "checked_at": "2026-10-18T07:49:20+00:00",
+   "commit": "3843a1227c83a12e7823469a430eb6f73296328a",
+   "name": "openspec-continue-change",
+   "description": "Continue working on an OpenSpec change by creating the next artifact. Use when the user wants to progress their change, create the next artifact, or continue their workflow. Also use when the user says \"openspec continue\" or \"opsx continue\"."
   },
   "tatn2cdjwbkk9ro3yaxliwrtht6vb0pli-pnloyldro": {
    "status": "upstream_changed",
@@ -41301,6 +41323,14 @@
    "commit": "026d0842ca42ec6ce67e17117b281429181e845a",
    "name": "fal-image-edit",
    "description": "AI-powered image editing with style transfer, background removal, object removal, and inpainting via fal.ai hosted models."
+  },
+  "tdshbfxtfeojyb7x7i5q30jwagkpxugro2ufcwbdnyi": {
+   "status": "ambiguous",
+   "archive_path": "bash/openspec-new-change-yexiyue-ratatui-kit/SKILL.md",
+   "repo": "yexiyue/ratatui-kit",
+   "branch": "main",
+   "digest": "sha256:89ebd2565817661298747783609c92dee67caa72e7194b61244858a070dfe0c1",
+   "checked_at": "2026-10-18T07:49:20+00:00"
   },
   "tdyr-rddf89dssmzpq0z_3m4jztoo4w9rq_o2ax4dna": {
    "status": "pinned",
@@ -41492,18 +41522,6 @@
    "branch": "main",
    "digest": "sha256:62ff80a083bf7b5c1004b79361db3e1c12b04f3fca3e82b28a41676c6ee8b124",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "tif4owhejyqjuhmpe_rkupsblxyh26v8a3_o8-qo5zg": {
-   "status": "pinned",
-   "path": "SKILLS/better-auth/create-auth/SKILL.md",
-   "archive_path": "other/create-auth-marysatasselshaped66-skills-collection-1/SKILL.md",
-   "repo": "marysatasselshaped667/skills-collection-1",
-   "branch": "main",
-   "digest": "sha256:5f21170914d4e3cf5b1a5503fa2e68d4e48ebe2b9792cb44cb3dead9cdf52117",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "143ea22157f77c1f5fc67fd2d773b3ff53d55d79",
-   "name": "create-auth-skill",
-   "description": "Scaffold and implement authentication in TypeScript/JavaScript apps using Better Auth. Detect frameworks, configure database adapters, set up route handlers, add OAuth providers, and create auth UI pages. Use when users want to add login, sign-up, or authentication to a new or existing project with Better Auth."
   },
   "tijufw6fev0gxjek-zflpta48xolxrarj6z-wvn0lsm": {
    "status": "upstream_changed",
@@ -43391,6 +43409,14 @@
    "digest": "sha256:43ce5354855709d10d7171bae301157b0b88e6ac9a3775c9acd9599c0b7617d5",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "uhlqr73zy6-ulrvpvlc9whbrqzfu4fh1xedxvoyonzc": {
+   "status": "bundled_files",
+   "archive_path": "design/design-system-xenodeve-xeno-skills/SKILL.md",
+   "repo": "xenodeve/xeno-skills",
+   "branch": "main",
+   "digest": "sha256:8aa5ff93320559a6e5289d37b6b06b3307737dbfb4a6f3fc44135c705613c511",
+   "checked_at": "2026-10-18T07:49:20+00:00"
+  },
   "uhpa7z9cxb-n90vvpfohi21oevwyy5yz6wbrbp2-uau": {
    "status": "upstream_changed",
    "archive_path": "data/azure-search-documents-py/SKILL.md",
@@ -44948,14 +44974,6 @@
    "digest": "sha256:dedcc5844bf2fd4f348b418dbc0c0042c7103657cb39cc6f82c084c0b5614235",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "vfm-seaoo7p77hkkznswyugo_riqal5jdkuykkac_es": {
-   "status": "bundled_files",
-   "archive_path": "development/oxcaml-avsm-oxmono/SKILL.md",
-   "repo": "avsm/oxmono",
-   "branch": "main",
-   "digest": "sha256:f7e24f3e3b196feabc57a67713ea50c1d4a81a9c126de891f3473a2195c83cca",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "vftyzg9kvdromyhzk_ewwm5bfkqp09gl1h8nxypmd8w": {
    "status": "bundled_files",
    "archive_path": "local-ai-infrastructure/sherpa-onnx-tts-charlie-818-clawd/SKILL.md",
@@ -45393,6 +45411,14 @@
    "branch": "main",
    "digest": "sha256:64915b51fab7af2111809a3c787fcf572d3944dcc1310d2478e97e3f9df5ee3c",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "vpb3l2rje5nyhev4pbskz5zj0jklmxu8_tqphkjkfe0": {
+   "status": "bundled_files",
+   "archive_path": "design/hallmark-xenodeve-xeno-skills/SKILL.md",
+   "repo": "xenodeve/xeno-skills",
+   "branch": "main",
+   "digest": "sha256:59469635bbbd21acddbc664d95e8d97147f454b2d8f4a0a89c7d2c5afbe67577",
+   "checked_at": "2026-10-18T07:49:20+00:00"
   },
   "vphklqntr3k8pq8hhbkndcxnqpndkonuinjvjhqg8sg": {
    "status": "pinned",
@@ -46893,14 +46919,6 @@
    "digest": "sha256:250a46ebe34c22746c3f67f1f67be1627bcf9da3ccb470e080a6d33b551a4351",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "wmbyjlqkjh3d122yg60lafjpnmnpgf1epct5uxh86fu": {
-   "status": "bundled_files",
-   "archive_path": "design/design-taste-frontend-sidiangongyuan-codex-skills-library/SKILL.md",
-   "repo": "sidiangongyuan/codex-skills-library",
-   "branch": "main",
-   "digest": "sha256:f0f40dbdc86b2432f35740f76755115bae8581ac8bb6e54e50c119ab938fc34c",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "wmcfalc0ruimssuh6hmqinhvd_cuo5goag3qmkjnje4": {
    "status": "bundled_files",
    "archive_path": "development/nextjs-module-builder/SKILL.md",
@@ -47052,6 +47070,14 @@
    "branch": "main",
    "digest": "sha256:ec6f1d4211d4f5bd5d1a1fbcff341f42f207220c225c7ae78b0d7c6d02990738",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "wqaon6mz9yvpqysc6lf80rclnh6bbiqgyar5joaiz8y": {
+   "status": "bundled_files",
+   "archive_path": "design/modern-web-design-xenodeve-xeno-skills/SKILL.md",
+   "repo": "xenodeve/xeno-skills",
+   "branch": "main",
+   "digest": "sha256:062b0120b59067744c135ec5d49d71e468b8e16de92ec2dec6fc19c41c4a9a24",
+   "checked_at": "2026-10-18T07:49:20+00:00"
   },
   "wqdobdcxkb1irrn9jzf1yvtcxv5-oublyzmujpel_7k": {
    "status": "bundled_files",
@@ -47911,18 +47937,6 @@
    "digest": "sha256:09df0ea7921f63d51befae9fc8f71daece5ef49d7b96e35fff8b18d15d6afda7",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "xed78pe7plwk5w3cnhksinxoddmsd9xwx2jsmgdxbmi": {
-   "status": "pinned",
-   "path": ".claude/skills/expo-tailwind-setup/SKILL.md",
-   "archive_path": "design/expo-tailwind-setup-ratnesh-maurya-tracker-ratnesh-maur/SKILL.md",
-   "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
-   "branch": "main",
-   "digest": "sha256:6abfc223a376571e0ee84014b3b474a3f2828ac2ebcde59c5c2b6b4bc802e233",
-   "checked_at": "2026-10-17T23:14:30+00:00",
-   "commit": "c61c25e173e1922ea33906bb6d3b1d08c7d0c624",
-   "name": "expo-tailwind-setup",
-   "description": "Set up Tailwind CSS v4 in Expo with react-native-css and NativeWind v5 for universal styling"
-  },
   "xeezlwk6yskq7j8zfycufgbnl4tbnk0o5imofw1wyi8": {
    "status": "bundled_files",
    "archive_path": "development/pymc-sulfierry-mcp/SKILL.md",
@@ -48252,6 +48266,14 @@
    "commit": "77cf6c79835fa4fce3f29ad495b2bfdeb36ef050",
    "name": "web-design-guidelines",
    "description": "Review UI code for Web Interface Guidelines compliance. Use when asked to \"review my UI\", \"check accessibility\", \"audit design\", \"review UX\", or \"check my site against best practices\"."
+  },
+  "xjzgbj0pfyehkwyltxj1xyu5fvw-nk-92sl65kfoexc": {
+   "status": "bundled_files",
+   "archive_path": "design/imagegen-frontend-web-xenodeve-xeno-skills/SKILL.md",
+   "repo": "xenodeve/xeno-skills",
+   "branch": "main",
+   "digest": "sha256:6b5c2256522fdba1e3313eafa3d743b960a7b13ec029d3e6586e04b23327c1f8",
+   "checked_at": "2026-10-18T07:49:20+00:00"
   },
   "xkdear8haw_aakyt8baztwgwvotlitc6mzejq6hwed8": {
    "status": "ambiguous",
@@ -48683,14 +48705,6 @@
    "name": "aget-wind-down",
    "description": "End AGET session with state capture and sanity checks"
   },
-  "xttcjqqp_hi8ortahamxictzcd4ufvkzy6u_-snmd3a": {
-   "status": "invalid_frontmatter",
-   "archive_path": "development/pair-programming-spencermarx-open-code-review/SKILL.md",
-   "repo": "spencermarx/open-code-review",
-   "branch": "main",
-   "digest": "sha256:32ef344d86f63817fefbadc949ecafee891fc91ab1de97c21031e7540bb61108",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "xttjvjoiwedp5s-kvr4til7zoyopwkckthsufeoxv4u": {
    "status": "ambiguous",
    "archive_path": "marketing/cmo-advisor-smartrickpicks-substrate-bk-airlock-2/SKILL.md",
@@ -48758,14 +48772,6 @@
    "commit": "f5a345024fbd0850ccbd01419c12e84009911cdd",
    "name": "autonomous-loops",
    "description": "Patterns and architectures for autonomous Claude Code loops — from simple sequential pipelines to RFC-driven multi-agent DAG systems."
-  },
-  "xuv8l3nbnpc8tlw_gy2lkkqwlvvsebnkjr83vpoetrg": {
-   "status": "invalid_frontmatter",
-   "archive_path": "development/pair-programming-ruvnet-ruflo/SKILL.md",
-   "repo": "ruvnet/ruflo",
-   "branch": "main",
-   "digest": "sha256:9cb477122f860af321c3a6d243941bafee38f2540fd33d7e18a43f34cf249850",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "xvpm-f9sigjniuxh606b_noofdu69ox9jq1hprj8g-w": {
    "status": "pinned",
@@ -49589,6 +49595,14 @@
    "commit": "09909ebb5c0125e27fad3e57d96b81e832696d69",
    "name": "principle-fix-root-causes",
    "description": "Apply when debugging. Trace each symptom to its root cause and fix it there; reproduce first, ask why until you reach it, resist nil-check guards that silence crashes."
+  },
+  "ydqizgrf8mqhjjpgrayg0kyub3tkmz8ruruwirj-bnm": {
+   "status": "bundled_files",
+   "archive_path": "platform/imagegen-frontend-mobile-xenodeve-xeno-skills/SKILL.md",
+   "repo": "xenodeve/xeno-skills",
+   "branch": "main",
+   "digest": "sha256:8a33389979f3074fa0926678e266ad2eb9234624472254469fc1ad916b9caa24",
+   "checked_at": "2026-10-18T07:49:20+00:00"
   },
   "ydxadn3ienhu3m6eciscnltl-lwgkxp6nntyn76wgl4": {
    "status": "upstream_changed",
@@ -50796,6 +50810,18 @@
    "digest": "sha256:dc3e4a3b73bcaf08572f2957324acee0662a5ca8484cf5e5407efed5f051faad",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "z4idixqjoayf0daov_-tgflaqnt7hl_5rwhdso5516g": {
+   "status": "pinned",
+   "path": ".claude/skills/openspec-propose/SKILL.md",
+   "archive_path": "productivity/openspec-propose-yexiyue-ratatui-kit/SKILL.md",
+   "repo": "yexiyue/ratatui-kit",
+   "branch": "main",
+   "digest": "sha256:86e623eae73440e95ec977fe4b1f83a800ccce827ec998c95f67f78840c9a82e",
+   "checked_at": "2026-10-18T07:49:20+00:00",
+   "commit": "3843a1227c83a12e7823469a430eb6f73296328a",
+   "name": "openspec-propose",
+   "description": "Propose a new OpenSpec change with all artifacts generated in one step. Use when the user wants to quickly describe what they want to build and get a complete proposal with design, specs, and tasks ready for implementation. Also use when the user says \"openspec propose\" or \"opsx propose\"."
+  },
   "z4y5tts1skyljbnjr1wxa40ekyg8ezs9hr_wqvwtcha": {
    "status": "bundled_files",
    "archive_path": "design/ui-to-vue-affaan-m-ecc/SKILL.md",
@@ -51557,6 +51583,14 @@
    "branch": "main",
    "digest": "sha256:4aaa41924d2f21318ff7486306c1925e6f224893395a5812bd6da87a5a0c2c19",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "zlaz-drut2kdpbnsnxrvye5tjab4ztvtrrufs0nmmpo": {
+   "status": "bundled_files",
+   "archive_path": "other/pixijs-2d-xenodeve-xeno-skills/SKILL.md",
+   "repo": "xenodeve/xeno-skills",
+   "branch": "main",
+   "digest": "sha256:bbae14f6bd724f7a394d3f9e5b6326661806d4f171f81b8e92c03ad8c86f7f9d",
+   "checked_at": "2026-10-18T07:49:20+00:00"
   },
   "zlbvuturqjonshyy8qpdedfc28zmb89j9te3dud__bc": {
    "status": "pinned",
