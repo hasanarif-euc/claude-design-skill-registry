@@ -25,12 +25,12 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/algorithmic-art-d2c463975c68/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pptx-b7b95fac7f86/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/cpp-pro-9504e03b4b9e/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/doc-coauthoring-2545bbb2567c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/scanpy-e982d059a731/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/doc-coauthoring-2545bbb2567c/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/mcp-builder-31bfb9e6ee48/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ui-skills-524febc22879/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/bash-pro-f67eb6f8a5b2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/brand-guidelines-bafd25a60f7c/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/mcp-builder-31bfb9e6ee48/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/c4-code-763b8a15632f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/php-pro-0c18d226d4a2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/xlsx-e0c7e028b059/</loc></url>
@@ -42,20 +42,20 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/verification-before-completion-fa6dbfec2d8b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/angular-621b1c981015/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/debugger-25a8f16d971b/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/sympy-3a7e9ab16770/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/notebooklm-74d95521873a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/paid-ads-32b8bae77034/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/sympy-3a7e9ab16770/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/database-ba309c38518f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/java-pro-e98adfa03ac4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/manifest-54217f6f73c0/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/networkx-982da2f61c5d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/design-md-7d685849d2d1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/kaizen-59f2ff73c174/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/networkx-982da2f61c5d/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/convex-bad3b22b3f3b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/polars-3f5dfa93def6/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/convex-bad3b22b3f3b/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/astropy-44552b5c49fb/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fal-audio-b70e3fc626a0/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/skill-creator-efe5cd29f4b3/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/astropy-44552b5c49fb/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/systematic-debugging-ad01c780a2ab/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/blockrun-06911705e2fc/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/page-cro-f4cf1ab4a354/</loc></url>
@@ -64,10 +64,10 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/graphql-0204b62b0b92/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/langfuse-ca8e8d8bdfc5/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/popup-cro-862a0ec71962/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/find-skills-90d08e39c2f4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/firebase-f465e2358577/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/inngest-ac497816850c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/loki-mode-cc7b8f47cc2e/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/find-skills-90d08e39c2f4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/slack-gif-creator-b1bcf35aba6e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/web-artifacts-builder-36ce2134fea0/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/receiving-code-review-68eca958a071/</loc></url>
@@ -75,8 +75,8 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/writing-plans-53c80837c4d8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fp-react-fe6b7f84cf1d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/qiskit-a91e8793dced/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/scala-pro-de7068287194/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/seaborn-93a4f734b541/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/scala-pro-de7068287194/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ui-styling-17f866502cb7/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/astro-c642fc2760f3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/tavily-web-33f66e4b5d70/</loc></url>
@@ -89,8 +89,8 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hono-c2c1c1854c1a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/julia-pro-c348b960bed0/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/lex-173d4c7a75fe/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/telegram-6a435cc6696c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/shap-e5ad3edeb7c8/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/telegram-6a435cc6696c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/biopython-4df1fab12789/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/brainstorming-019f582f5f00/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/git-pushing-810e71523e7a/</loc></url>
@@ -101,8 +101,8 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/file-organizer-1ae8e29e7ecc/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/yes-md-f08ee6e9798e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/shopify-03dd0bfc693c/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/test-driven-development-19360619d46d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/matplotlib-8d68b0419026/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/test-driven-development-19360619d46d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ai-seo-92247699e971/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/elon-musk-54aab5c511a2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/executing-plans-768ee3198beb/</loc></url>
@@ -117,6 +117,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/favicon-d458e3907a65/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/clean-code-064b4e21d86d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/clip-8386aa11c49d/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/image-enhancer-39f668aa5bbf/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/maxia-97539731be31/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/moyu-ff3049e3f0e9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/wiki-qa-63aa10a2fcf2/</loc></url>
@@ -126,8 +127,8 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/better-auth-0020fa0abab8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/chroma-425a6e4b065e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/django-tdd-359c754b3636/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/elixir-pro-c40eb0c297a7/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/find-skills-c53d7f049c4e/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/image-enhancer-39f668aa5bbf/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/kaizen-85826b7d6c8c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/revops-f8f4e4c00421/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/seo-page-e650bd4062ef/</loc></url>
@@ -140,11 +141,14 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/codex-review-a8614089213a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/defuddle-02a4f543b030/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gdb-cli-2f1b5abd3198/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gget-78635dc085af/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/golang-pro-3a942646f94b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/jobgpt-3e19f8d00c12/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/plotly-b1be6e59640f/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pysam-f70891f2e7c3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/recallmax-0aaf389895d8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/seo-geo-f6a52d832b1e/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/simpy-242f0bf0fb36/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/issues-77be2c442c98/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/api-patterns-61f8cb95dc4f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/architecture-d8f1c4c9d8a7/</loc></url>
@@ -153,15 +157,12 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/clerk-auth-02600a73f71f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/commit-4636c7fa694a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/e2e-testing-4986406fa432/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/elixir-pro-c40eb0c297a7/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/esm-2ccc1c5d66e2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/faiss-ac9717acefc4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/finishing-a-development-branch-1e95c799f5fe/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gget-78635dc085af/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/instagram-56cf9b33e82d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/molykit-7ce419b0caa9/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pysam-f70891f2e7c3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/remotion-43f387ae3268/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/simpy-242f0bf0fb36/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/tmux-f107180b534a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/wordpress-76c800d52b3a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/web-frameworks-764a74d2c533/</loc></url>
@@ -172,43 +173,46 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/commit-7effb14c2f31/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/csharp-pro-e013b7b11036/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/domain-modeling-dc684c8f96ab/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/esm-2ccc1c5d66e2/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/flowio-d63bf1edde20/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/github-d608e8258503/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hono-6a823576c40d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/jq-f1d16857e6a9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/lex-2798133f6473/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/matchms-263fa7dd34ab/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/mobile-development-abf8a21ed8e0/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/next-best-practices-59db3a8e2bde/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pytdc-6301a6bab9c4/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/qutip-6110dbff24fb/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/screenshots-702d799c554c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/using-git-worktrees-3f39bb6272cf/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/wiki-qa-9a8efcaeaea7/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/grill-me-58cbe933d6ea/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/adhx-7f5cfecafb62/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/adhx-da3ce49b301a/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/aeon-027d2cfc4882/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/astro-05e26837f4f4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/crewai-a988b0774349/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/dask-166f9cf3b5a2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/django-pro-a1721e5cfbc6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/dspy-2af47a0634ad/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/find-bugs-48247227d09e/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/flowio-d63bf1edde20/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gh-address-comments-37678fa7868a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/github-684dbad34628/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/handoff-b53338d86f60/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/iterate-pr-16d4504b28bc/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/matchms-263fa7dd34ab/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/next-best-practices-59db3a8e2bde/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/nosql-expert-f8730003e0fa/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/paid-ads-bdc2ba4dd4bd/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pathml-e3268e336e8e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/problem-solving-c9f59787b404/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pytdc-6301a6bab9c4/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/qutip-6110dbff24fb/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pydicom-e8aaba1f4bff/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/seo-096cbfcefdb8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/seo-327c7a225139/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/sequential-thinking-bd1e03c44be3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/sql-pro-5523cc4e12af/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/using-neon-a2a96da2d9d0/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/using-superpowers-b0f383032ad9/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/vaex-727490f0d1a9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/vercel-react-best-practices-eb1d14e8caa7/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/aeon-027d2cfc4882/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/agentmail-f5c44af8235d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/agents-md-e8c5a575aeb6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/auri-core-e52b70b18964/</loc></url>
@@ -216,32 +220,30 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/create-pr-30a3f2cb06bf/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/create-pr-d85f12ca91dd/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/daily-cbf992ab8b42/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/dask-166f9cf3b5a2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/diary-481dc85d82f6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fp-async-9c1b9ee00800/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fp-ts-react-fe11e9cbd410/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/lamindb-03137f6e04ef/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/moyu-338199d10654/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pathml-e3268e336e8e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pdf-official-67992f75fd3d/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pydicom-e8aaba1f4bff/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pymoo-1f3c339d7b8f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/repomix-1ac81198509d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/revops-1c5070a1f96b/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/vaex-727490f0d1a9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/xlsx-9ed543f3ddd3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/lead-research-assistant-23dcd7925848/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/blucli-2137b5157166/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/peekaboo-ebcab2d8f852/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/cirq-6e3accbf8a46/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/codebase-design-02c8d2b8c643/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/crewai-c1ad07963ea3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/docx-9942d5845041/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/domain-name-brainstormer-d541dcf02cec/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/geo-fundamentals-ee13d75b0cd9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/jq-eb906e967414/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/lamindb-03137f6e04ef/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/llava-5da3dcbedfb0/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/maxia-5a34e9f91f6b/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/medchem-c95d66645e7d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/mobile-design-0c8509ebe975/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pymoo-1f3c339d7b8f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/scanpy-bd89e0d06cc8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/security-review-1956d45a5438/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/shadcn-73fb9c726f23/</loc></url>
@@ -257,26 +259,29 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/songsee-e940a59e95fb/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ai-md-0d5f3a528c47/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ai-product-693308747e61/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/anndata-232b48b6eae6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/app-builder-9e5586dac9b9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/axiom-773348a98e6b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/careful-75024dbb9f69/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/cirq-05769d694762/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/cirq-6e3accbf8a46/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/cpp-testing-d09fb84b8182/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/databases-4d9cbbb2e111/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/datamol-0353818ab323/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/diffdock-26265b7693a7/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/frontend-development-65d10494431d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gdb-cli-e6e93ac659ed/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hr-pro-e6c1eec9dc32/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/jobgpt-a6dce3123b2e/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/medchem-c95d66645e7d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/media-processing-64a85b746558/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/optimize-1e56f5c25030/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/oracle-633513170504/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/oss-hunter-b885e67276ee/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/plotly-b4f7ecd683e6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/prd-152b5ec4f9a7/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/qiskit-1faa6d818db0/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/satori-8a2b721ad61f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/seo-geo-d6ca25d738e6/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/skill-share-46840e323df3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/sympy-db3e2d91a1ab/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/videodb-5644fe31dbef/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gog-aee5c01ded22/</loc></url>
@@ -287,14 +292,12 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/mcporter-db6210b188d1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/obsidian-b5019b5e44be/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openai-whisper-d4149b6a0aa6/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/anndata-232b48b6eae6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/apple-notes-eabe748530d3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/astropy-baf486959d24/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/datamol-0353818ab323/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/diffdock-26265b7693a7/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fp-errors-78ddb5c8bf46/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/graphql-365a21bab0cf/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/grill-me-7cdc995d540a/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gtars-7272ee40a262/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/imagen-f41d978b146e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/llm-ops-a9586632b606/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/molykit-5217dd1684d7/</loc></url>
@@ -302,16 +305,15 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pdf-0a664619adb3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/php-pro-c161a7e11f49/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/plotly-1d399d132aad/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/plotly-b4f7ecd683e6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/polars-ba1aefa18bd7/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pr-writer-6c92a6529a18/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/skill-share-46840e323df3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/tdd-workflow-851573401847/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ui-ux-pro-max-446e6085ea8d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/whisper-99c3eb782eac/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/yes-md-bcdd82868b78/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/evaluation-e240ae67e247/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/invoice-organizer-07a90d40a7bb/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/rdkit-01bb03f2fe37/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/coding-standards-fa6bed7c4615/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ordercli-05e3eaf4174c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/spotify-player-4d0a9fffd676/</loc></url>
@@ -319,6 +321,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/bro-f1a7236bb31e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/c-pro-724710795831/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/c4-code-db61676ebf45/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/cobrapy-f788ea39857c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/council-056d83db590c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/data-engineer-4ecf07c81db2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/database-design-75418bff44b3/</loc></url>
@@ -327,13 +330,15 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/firebase-a3366adffb1b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/freeze-cfcb599e75f1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/game-development-33251d0a9376/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/geniml-a87ef5027b18/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/git-commit-8de95317c518/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/grill-with-docs-4209d0fda2e9/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gtars-7272ee40a262/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/guard-e87d34fdd41d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/kaizen-84620930f5e0/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openai-image-gen-4fb5ab19c263/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pinecone-9cf408b7d154/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pufferlib-00779019fc1b/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pydeseq2-6939123ead40/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/red-team-tactics-e22bf2fb4af0/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/seo-plan-66c4fbef9103/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/songsee-9ff086df77f9/</loc></url>
@@ -344,7 +349,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/obsidian-a28b02f7e771/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/favicon-92ba3ba970c9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/sharp-edges-f23dbecb452e/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/rdkit-01bb03f2fe37/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/bear-notes-71d2e848eccf/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/goplaces-5b99673ddcb0/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/model-usage-5cdfabcfdfdc/</loc></url>
@@ -352,42 +356,49 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/wacli-8263d2cbdb6b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/api-documenter-394107415585/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/app-builder-fad0730df64c/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/arboreto-25707a96369d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/axolotl-c2149644c836/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/bash-pro-c223d754b238/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/blueprint-84f27613551a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/blueprint-e8144069caf2/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/brandkit-8db497885a65/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/cirq-e0fd7bfb7da9/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/cobrapy-f788ea39857c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/code-review-56189ab2aff1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/competitive-ads-extractor-101e8cef11aa/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/database-3d537efe4744/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/debugging-a0b718a7cb43/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/deepchem-cf3361667373/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/deeptools-1f73cefa823f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/defuddle-120285cd2320/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/defuddle-5f61bc0e7f71/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/frontend-design-37777702fff1/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/geniml-a87ef5027b18/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gh-fix-ci-6d9887a52c54/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/haskell-pro-88a8d6dfd74f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/inngest-75b2ffd22e89/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/instructor-7e89692c2511/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/langfuse-9c965850d4ad/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/linear-bfe8acf6a1d4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/mcp-cli-de9a8db272bf/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/mcp-integration-0b57761ec91a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/mermaidjs-v11-d9412eeeac13/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ml-engineer-68af8e83336a/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/molfeat-6be77f1ddbea/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/neurokit2-a24db206d755/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/parallel-agents-b57a74fa8370/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/plugin-structure-4a1f93f8de9a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/prototype-09a4514480b1/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pufferlib-00779019fc1b/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pydeseq2-6939123ead40/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pyhealth-5e167d8e2391/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/python-patterns-6cd8b519a92e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/remotion-8883c11cb192/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/rust-testing-0ab9dab0dd85/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/seaborn-2bb2fd9b62b2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/seo-page-a56191d2b00a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/slack-gif-creator-d53f04cfe2ff/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/statsmodels-01894a8956f0/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/templates-c44f04cda574/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/typescript-pro-53b1a8234750/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ui-page-159d0c24b6c4/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/umap-learn-654e3e60e35b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/unfreeze-2ce94cab095d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/vercel-react-best-practices-e95ed300f9c4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/notion-524af7a051c2/</loc></url>
@@ -395,56 +406,50 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/speed-8a9575709d35/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/artifacts-builder-929e02707693/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/clickhouse-io-20cd3b7dadc7/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/denario-2a8327bd919c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/strategic-compact-d6fd08e97039/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/himalaya-db3faf9333db/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/imsg-6baa1e7583db/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/notion-c292490ac964/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/trello-40f5f3f6aab8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/angular-122c8c72e0e6/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/arboreto-25707a96369d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/arxiv-ac4800ca5e2b/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/brandkit-8db497885a65/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ck-13369951f1c4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/clarity-gate-351d59f7b305/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/commit-df7a1c86c8c8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/connect-ff07b0e809a4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/debugger-11bdd28a77e3/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/deepchem-cf3361667373/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/deeptools-1f73cefa823f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/findmy-919b4a371cac/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fp-async-bdcf8db4b9be/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fp-react-8ca4e62e3074/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gh-fix-ci-6d9887a52c54/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/golang-patterns-a591a53af143/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gpt-taste-e4348d4d3f0b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/jpa-patterns-b5b9771968d0/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/linear-bfe8acf6a1d4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/manifest-4a374f99fc8d/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/molfeat-6be77f1ddbea/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/networkx-adf7e4d4af33/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/neurokit2-a24db206d755/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/prompt-library-6f99db140448/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pyhealth-5e167d8e2391/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pylabrobot-fed6cad2d5f7/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pymatgen-3708b057072f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/python-testing-7cd7798e2ed6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/qa-9ef3c0f6913c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/react-best-practices-8b50e6ad2f27/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/statsmodels-01894a8956f0/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/stream-chain-6ad0642acfbe/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/tailwind-patterns-c0babeeb8ce6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ui-a11y-7534b6de38cb/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/umap-learn-654e3e60e35b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ux-audit-ecd572019b52/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ux-copy-727691337803/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ux-flow-63ce1729ce4d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/viboscope-063c236e7dc9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/vizcom-6d7d3ee7b703/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/vr-ar-f2030e1b8b63/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/wordpress-98d39ae5661d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fal-generate-02030b48e94b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fal-platform-42cd4d5a4cd3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/nano-pdf-673630d1533c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/seo-fundamentals-07c30da70a53/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/denario-2a8327bd919c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/frontend-patterns-05c11ce72ae9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/agentdb-advanced-e54932707eb9/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/biomni-612f184d5732/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/cirq-1cc2971011a2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/clawhub-36c89490aabc/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/clean-code-5d8f43941e41/</loc></url>
@@ -453,11 +458,12 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/dbos-golang-c2c7678a3007/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/dbos-python-825dece18d16/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/defense-in-depth-1de2458303af/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/etetoolkit-9a44afecb641/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/eval-harness-a3fb1d2f5687/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gh-cli-3f4451c5de88/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/github-multi-repo-0f518589bf70/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gpt-taste-e4348d4d3f0b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/graphql-1531d097d891/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/histolab-a5de8efa578a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hook-development-1b06e53bde77/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/i18n-localization-8b02df73a89b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/idea-os-0774f5e1bbeb/</loc></url>
@@ -467,10 +473,10 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/modal-serverless-gpu-f6d5513b0a4c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/onboarding-cro-11dd37a2d6a6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pptx-51a2506f652a/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pylabrobot-fed6cad2d5f7/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pymatgen-3708b057072f/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pyopenms-9c727c510d02/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/qdrant-vector-search-f093ae598037/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/react-patterns-c7eed47fc195/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/redesign-existing-projects-2929b8b3c9fc/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/refactor-f6909ff93b44/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/root-cause-tracing-b344b9877b6d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ruby-pro-0c7719425829/</loc></url>
@@ -485,7 +491,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/unslop-c6ba80f82c5e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/verification-loop-ad3df695ecff/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/vite-30d7dea490dd/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/wordpress-98d39ae5661d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/blogwatcher-d64b39cd9bc9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/imessage-f91074a1ddeb/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/sag-563d10459970/</loc></url>
@@ -496,19 +501,17 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/agentdb-optimization-8011833d53d9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ai-product-d0b89c41a73c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/behavioral-modes-e87e4bd45c92/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/biomni-612f184d5732/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/bioservices-7d87bdbb1144/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/c4-context-b11f1ecb2f73/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/diagnose-5699342bf507/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/django-patterns-969ed670cfc3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/doc-1154ad83bf44/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/etetoolkit-9a44afecb641/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/extract-520afec96f1d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/form-cro-5146fd95a80c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/form-cro-d33792ff24e5/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gitops-workflow-55a97d67a939/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/grilling-afa0e6d1b055/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/harden-1d489076b9a3/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/histolab-a5de8efa578a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/json-canvas-7147795d9f5a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/launch-strategy-25f5eca5bd72/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/manim-video-04d7c554651e/</loc></url>
@@ -523,12 +526,12 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/playwright-skill-0d5d5096b494/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/polars-da1fbb457be9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pptx-official-35f803dc6c55/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pyopenms-9c727c510d02/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/redesign-existing-projects-2929b8b3c9fc/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/remotion-12fee1dfb159/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/remotion-c01539c56120/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/scikit-bio-18ff6c10e2a2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/skill-builder-32a61fab39f5/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/skill-installer-5fbc2de9303d/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/torchdrug-08ae8a42b166/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ui-to-vue-ba22283a4723/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/unslop-bb57b6721d10/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/vercel-react-native-skills-2d1f9f595be1/</loc></url>
@@ -550,37 +553,39 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/agentdb-memory-patterns-796d72544613/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/agentdb-vector-search-9449d9db1da3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/benchmark-218c483c5199/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/bioservices-7d87bdbb1144/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/bun-runtime-53e2e6990481/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/copilot-sdk-a095a3e3d507/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/crosspost-3744a77dd084/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/deployment-procedures-be02678c65ec/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/design-taste-frontend-f3252bb1def7/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/diagnosing-bugs-347fbd9ba389/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/docker-expert-219cdf745030/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/docx-official-9723ce1fc648/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/full-output-enforcement-4d8c8e5e6dfa/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/geopandas-011e582bf7fc/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/github-project-management-64015d8c8731/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/github-release-management-3c2c525fb593/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hypogenic-bfe94b265bcb/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/javascript-pro-f154e2bb804c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/mcp-builder-e256227171d1/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/modal-b1ea3271f212/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/model-usage-0b1551b99c83/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/multiplayer-6331a28dadb6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/nanoclaw-repl-7f59b45a734e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-propose-a98e210c39f4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/outlines-2eb6984ce74d/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pennylane-a1d765303fe2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/plugin-settings-da98b4c36e05/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/powershell-windows-288b401e168a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/python-patterns-b75fb26b6571/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/qiskit-41e7e0922771/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/raffle-winner-picker-197f4c8c6b0d/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/scikit-bio-18ff6c10e2a2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/seaborn-38fb0a588680/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/security-scan-fdcf24169906/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/skill-creator-20509911320e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/slack-5c14db5bc3ca/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/speech-5dfea9a05254/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/tool-design-f0575729f525/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/torchdrug-08ae8a42b166/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ui-ux-pro-max-cd69890ba1e1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/vercel-react-best-practices-79f7d2d83e41/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/videodb-f6e8692f335c/</loc></url>
@@ -596,6 +601,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/sag-5a51ac60e04d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/session-logs-0e4f6de5ddd8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/voice-call-d9418eac8c4c/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/adaptyv-4bbfee397b93/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/agentic-os-256767a4d77e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ai-engineer-0e5dab65802d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/claude-opus-4-5-migration-cc75ddc14125/</loc></url>
@@ -603,30 +609,26 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/cro-4c4d39ca8ae3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/csharp-docs-6c37731f293d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/deep-research-780cc54048e9/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/design-taste-frontend-f3252bb1def7/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/devops-f9a3d1b30e70/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/email-ops-d1a7c54dbc0c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/email-sequence-e90348d3715b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/emil-design-eng-ba875c90dd27/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ena-database-77e35e945b39/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fastapi-pro-43ace1099c99/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/file-organizer-708ea270645d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/firebase-27ac841c3aa2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fp-async-c94036c89222/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/game-art-e27fec58998b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/game-design-2164165be245/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/geopandas-011e582bf7fc/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/github-ops-90a53593d3b4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/google-adk-python-049def24c56a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hooks-automation-3f567c2197de/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hypogenic-bfe94b265bcb/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/llama-cpp-ee0eaff5db12/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/marketing-ideas-c45ce06836d2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/mlops-engineer-16a2a0f994b7/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/modal-b1ea3271f212/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/molykit-051411254945/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/nemo-curator-e972552152e9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/network-101-a61e3732e95b/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pennylane-a1d765303fe2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/perl-patterns-487bbd22e754/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/perl-security-bde16958f755/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/polymarket-e414371853e5/</loc></url>
@@ -634,6 +636,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/reasoningbank-agentdb-7723e9a211c2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/red-team-tools-3dfa15f44cb7/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/risk-manager-2b6298600658/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/scvi-tools-a4b9cd5f5ad3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/senior-frontend-59de751f63e6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/seo-fdf099bde7b9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/serving-llms-vllm-fe8a1f4aa87c/</loc></url>
@@ -656,7 +659,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/1password-17d84091bf72/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openai-whisper-api-d19a302d0eae/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/sonoscli-7be3265582ca/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/adaptyv-4bbfee397b93/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/agentfolio-e52e8b70e472/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/agents-md-6bdf105a7fa8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/architecture-a2a6b7d89d79/</loc></url>
@@ -668,16 +670,18 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/crewai-b3f894a99227/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/depmap-564a0d599978/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/email-systems-935711afb969/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ena-database-77e35e945b39/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/executing-plans-26325b86ee20/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/figma-b515882828fc/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/find-bugs-79f77f7fd626/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fp-errors-2b56d02e75e1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/frontend-slides-78266c5deb77/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/github-5bcf2191dca9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gptq-1edd7dfdb410/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/grilling-5c97e18d3b95/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/high-end-visual-design-cd6d1800bcd4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/himalaya-3551ec7a3bab/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/humanizer-793d2e27a147/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/industrial-brutalist-ui-9fcf870acd71/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/langsmith-fetch-def8b87a6584/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/market-research-9661205ac15e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/mle-workflow-780f5f10aaae/</loc></url>
@@ -690,20 +694,25 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-apply-change-bde22749a310/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ordercli-42db376bef35/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/page-cro-035fb65837ad/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/peer-review-d293c9c8b9df/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/plotly-988d4d1603c8/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ponytail-24471bc03175/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/popup-cro-5e9be6aa44c4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pymc-214db9f24ad6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/rag-engineer-54ea23e5369c/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/scikit-learn-e678b97eb6ed/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/scvelo-058e4a897ffa/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/scvi-tools-a4b9cd5f5ad3/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/skill-installer-b0dbadf8648b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/sparc-methodology-002886875dd4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/testing-qa-e5eb4ebc02b8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/threejs-3adf16c291d3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/threejs-d16b466deaa0/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/trigger-dev-6222c8a3a542/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/uncloud-04338168a06c/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/use-dom-1956e1498e2d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/videodb-c24601eb16b7/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/x-api-e08b1b4e3c59/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/zarr-python-da523edb081b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/blucli-f9ae5da0a742/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/camsnap-c8222424b531/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openai-whisper-dcc82cc6f8c8/</loc></url>
@@ -737,14 +746,13 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/documentation-templates-6332121b710c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/docx-official-c7720e625b6f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ecc-guide-a717052df88c/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/figma-b515882828fc/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/file-uploads-26940fb394fd/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fix-292c821b41d7/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fluidsim-09ca56382edd/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/free-tool-strategy-b268173d91c4/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/frontend-design-c2d74e4d9ed0/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/graphql-02e0edc9b1da/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/high-end-visual-design-cd6d1800bcd4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/idor-testing-a5f97fa523a4/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/industrial-brutalist-ui-9fcf870acd71/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/mcp-management-5d43814ba9a7/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/mcporter-aee2d800ecd3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/messages-ops-15ecf5e3efc5/</loc></url>
@@ -754,8 +762,8 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openhue-47394654b17f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-archive-change-015a180c0189/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pair-programming-0159403da0d3/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/peer-review-d293c9c8b9df/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ponytail-24471bc03175/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/playwright-19bc8fe23726/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/python-code-style-32b195bad739/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/quant-analyst-693d96c50fb5/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/react-best-practices-a5a6a80a8363/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/reasoningbank-intelligence-cc6a4ace974e/</loc></url>
@@ -763,28 +771,26 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/santa-method-9971ca41e117/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/satori-6974ad00a40c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/scanning-tools-5e66bc605a4c/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/scikit-learn-e678b97eb6ed/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/screenshot-3d565f898ce8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/setup-pre-commit-71fb3631acf2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/shader-035737986077/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/simpo-training-2270d726ac96/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/skill-creator-ae56719e33f6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/skill-development-84d87c3e03c5/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/skill-installer-b0dbadf8648b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/slime-rl-training-54720cc5e134/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/tailored-resume-generator-0a33ff74f9f5/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/tensorrt-llm-2c1e2e2180a4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/tg-41e31656b481/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/transformers-31abd8d3075d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/unocss-78fbba45b9af/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/use-dom-1956e1498e2d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/v3-mcp-optimization-c785ef797fa8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/verification-quality-354b4021249c/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/video-downloader-5b07de710bd1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/video-editing-732d9205daf0/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/vue-ea3a4ac3d8b5/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/web-design-reviewer-eadf653e2f04/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/webapp-testing-592c10e5d5d1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/x-api-a83c80abc8f1/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/zarr-python-da523edb081b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/bear-notes-00b90ed4be0f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/eightctl-d04e5cc30cad/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/csharp-async-9c5c4a750437/</loc></url>
@@ -814,16 +820,17 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/edit-article-6735230f363d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/evaluation-3fd24e5357ff/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/file-uploads-6d7bf249ad1f/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fluidsim-09ca56382edd/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/find-bugs-01fab0ff7b80/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/form-cro-e8516a080b73/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/frontend-design-c2d74e4d9ed0/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gemini-bf727d7307cf/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/geo-database-66c292e12b39/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gguf-quantization-a34608ad9e20/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/github-workflow-automation-5cb8429b6037/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gitlab-ci-patterns-a7aaf6cdc103/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/goplaces-e06173dce2b7/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/grill-with-docs-70aa33347280/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/grpo-rl-training-4dc8258060b4/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gwas-database-cbaaf4881f2c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hig-inputs-1c76a2000a33/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/huggingface-tokenizers-8447a3e5ce91/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/inngest-145f75a89de5/</loc></url>
@@ -833,8 +840,10 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/langfuse-f5ee8de5aea4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/llm-app-patterns-0b5b24d57d92/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/loki-mode-a42dbe85739a/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/markitdown-7e38fe323fb1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/mcporter-162f4ca8cc34/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/migrate-to-shoehorn-3001bce56119/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/minimalist-ui-e40666c2a97d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/multi-agent-patterns-2869eb426ed4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/nano-pdf-8475cac67094/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/nb-f027529ae5ab/</loc></url>
@@ -843,9 +852,8 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/notion-research-documentation-98a52248214c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/notion-spec-to-implementation-9f9a118c622c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/nuxt-5caf7512257f/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pdb-database-7fa03c3a632a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/performance-profiling-7e930c0eef7d/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/playwright-19bc8fe23726/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/python-code-style-32b195bad739/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/rust-patterns-9c9493e45fa8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ruzzy-c2b704109937/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/scaffold-exercises-16ae8f1ab06f/</loc></url>
@@ -854,6 +862,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/senior-architect-63d6c295b9fa/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/senior-devops-99f1544f565d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/senior-fullstack-b537b9938d5c/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/senior-qa-a16c647d4452/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/signup-db5bda2ae728/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/skill-scout-c149caacd569/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/sora-e902c0beab36/</loc></url>
@@ -865,7 +874,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/tdd-df6c8ee07cd6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/terminal-ops-8d159ef1ab16/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/to-prd-63a14ee99587/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/transformers-31abd8d3075d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/triage-a1181965942e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/trigger-dev-7462884ac6cb/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ui-a11y-e1671d00fd3f/</loc></url>
@@ -876,7 +884,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/v3-core-implementation-defedb35b8e0/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/v3-memory-unification-f8461a7bc611/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/v3-performance-optimization-32d721154701/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/video-downloader-5b07de710bd1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/vizcom-af0f0189e3dd/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/weather-8a0906dab7d1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/wizard-2f893a392045/</loc></url>
@@ -931,29 +938,25 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/error-handling-aef21cf25f07/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/exa-search-434c27fdec3a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fal-ai-media-48d918729b48/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/find-bugs-01fab0ff7b80/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/flutter-expert-20df7e9fe744/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fp-ts-errors-03d9b09c2662/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/frontend-design-b61f0186c01b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/game-engine-07428f5130f4/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/geo-database-66c292e12b39/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gene-database-21f51f4923df/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/github-6e2601b804f9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gstack-upgrade-0787da308909/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gwas-database-cbaaf4881f2c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/handoff-e71989315d1b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/healthcheck-837dcf90f368/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/idor-testing-14bb78eba1e5/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/image-to-code-08c6eae8204c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/jira-6b73232061a7/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/laravel-tdd-54742fd94269/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/last30days-1aebf067beed/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/legal-advisor-fdf0b809a751/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/markitdown-7e38fe323fb1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/mcp-builder-304ff14acc6f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/merge-15ad823f9153/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/minimalist-ui-e40666c2a97d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/neon-postgres-c9926bc6611e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/page-cro-0a4a1e4c45c0/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pdb-database-7fa03c3a632a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pinia-eaa675813ce2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ponytail-audit-8702d21c11bc/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ponytail-debt-d097e9fa8ef4/</loc></url>
@@ -968,7 +971,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/report-f3bd9bb739d6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/research-ops-c869a1a6d4ca/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/sarif-parsing-267eb5b69415/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/senior-qa-a16c647d4452/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/sentencepiece-999a171fa846/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/seo-audit-3b16280b1a4a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/seo-plan-628377d4ab40/</loc></url>
@@ -1049,15 +1051,18 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/claude-code-e42f9d032407/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/clickhouse-io-fe43147674ff/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/codebase-design-9c4351678fca/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/commit-4f71053d7d41/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/condition-based-waiting-3b2683929f6d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/config-gc-850c763fb5a8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/containing-active-breach-dc6305a880ff/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/convex-558b25ce381d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/copywriting-47d20492a2fd/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/deslop-b29416869f05/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/detecting-wmi-persistence-ba96f3ddf5db/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/development-dc37ce6875d2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/enhance-prompt-5036133c195b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/eval-6df3f04ff4ef/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fda-database-2aeb25210cf8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/find-skills-38ddbe541f20/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/firecrawl-scraper-4c3f5c551451/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/first-ask-6c8144058e5a/</loc></url>
@@ -1066,7 +1071,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fp-backend-f89170d5fed9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/frontend-design-2bb65e25232a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gcp-cloud-run-bdf3aa228ba7/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gene-database-21f51f4923df/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gepetto-8182768a7b64/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gh-fix-ci-da379e5d65f5/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/git-advanced-workflows-de1445e2cf7f/</loc></url>
@@ -1075,9 +1079,11 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gsap-utils-62f692554fc8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/handoff-f651d1aa37bf/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/heartmula-a246ec1e0b94/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hmdb-database-b3e1354ee479/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/java-docs-4dceeb994313/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/javascript-mastery-cb2c5d9bafb4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/julia-pro-af31e121d755/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/kegg-database-cba51b8e9575/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/lambda-labs-gpu-cloud-c272c5a7659d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/laravel-tdd-8055e62aabf1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/lemmaly-b6b943c5ef06/</loc></url>
@@ -1126,6 +1132,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/skill-creator-16864383feec/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/skill-creator-90f07dac612b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/skill-creator-f90b89177620/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/skill-creator-fc1a9a47cfcc/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/sql-optimization-patterns-bca6e22119cd/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/tdd-03e1e3e8c44b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/tdd-workflow-4a1edbfefcdd/</loc></url>
@@ -1189,9 +1196,9 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/clarify-db19648e9e81/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/claude-api-6bb9522c5eb3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/clean-code-a40610cd74c4/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/code-review-c2491b1affa6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/codex-011d256bec2b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/comfyui-c7a461f8ca89/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/commit-4f71053d7d41/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/commit-work-8c6639a90022/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/console-get-logs-05d83c9979eb/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/context-degradation-d5db333b00d2/</loc></url>
@@ -1203,7 +1210,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/cred-omega-c198f0accf2e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/database-admin-97a10be8b3ff/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/defi-protocol-templates-cb16326d58ab/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/deslop-b29416869f05/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/deslop-b2af25b19dd8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/differential-review-4bcd0eb4a64b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/discord-e0a435f6f4d1/</loc></url>
@@ -1217,8 +1223,8 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/error-detective-4a892d592fb9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/event-store-design-4cf5ddca0226/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/excalidraw-dbc55643a73f/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/expo-tailwind-setup-2a7ee9f12b1a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fastapi-templates-df91009af3b7/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fda-database-2aeb25210cf8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/find-bugs-ffcad86e3f5a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/flow-nexus-swarm-8b56361319fe/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gcp-cloud-run-3dd4c8c93638/</loc></url>
@@ -1229,10 +1235,9 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/grill-with-docs-0fea36f83902/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/himalaya-d8ffbf20aab9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hive-mind-advanced-625510900b26/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hmdb-database-b3e1354ee479/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hunting-for-dcsync-attacks-e19299d27ca5/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/image-abb830463a56/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/image-to-code-08c6eae8204c/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/imagegen-frontend-web-c234712ee515/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/infographics-963bb93d9b73/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/intelligent-routing-85c8695cf22e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ios-developer-a0e8046729a9/</loc></url>
@@ -1241,7 +1246,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/iterative-retrieval-25957f86a368/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/jupyter-notebook-9567b97aea92/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/k8s-security-policies-8e3a295eb30e/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/kegg-database-cba51b8e9575/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/kotlin-patterns-f2d890d932f1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/langchain-architecture-d6ebc0b6a422/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/layout-285f0b0d1ad8/</loc></url>
@@ -1281,6 +1285,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openhue-34ad47f9c272/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-explore-e93ebc7effc4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/page-cro-dd96d844e9b8/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/paper-2-web-4a79c6ff3eca/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pci-compliance-800833028664/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pdf-3035e079ec35/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/peft-9617070f3743/</loc></url>
@@ -1314,7 +1319,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ship-learn-next-45f1a0b807e9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/shodan-reconnaissance-82ceb0e1143f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/skill-creator-60cc1d4a4b87/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/skill-creator-fc1a9a47cfcc/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/slides-3edd55deed44/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/slidev-fef578b8b452/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/slime-5085eb488cd5/</loc></url>
@@ -1323,6 +1327,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/string-database-1a7413d9914f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/telegram-5b44b6b625b7/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/testing-patterns-98a342e74ade/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/threejs-animation-a03ca2544099/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/threejs-lighting-9e5ff915277f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/threejs-loaders-43cc9afa8261/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/threejs-textures-4c13794ff9e7/</loc></url>
@@ -1421,7 +1426,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/claude-d3js-skill-4e0021ea6503/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/cli-mastery-c155a73b1240/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/clinpgx-cfa062fcf3e5/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/code-review-c2491b1affa6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/code-review-checklist-ec6b04cd4980/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/code-review-excellence-ec3d6d1eb7b8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/codebase-inspection-7a2ee041f8e9/</loc></url>
@@ -1470,7 +1474,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/exploiting-idor-vulnerabilities-40c2a6bae876/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/exploiting-ipv6-vulnerabilities-eaed07cdd889/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/exploratory-data-analysis-7b9a950e4eff/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/expo-tailwind-setup-2a7ee9f12b1a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/figma-implement-design-1eef9152f79b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/firebase-cffbeed97e7e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fix-ci-6af6b309af30/</loc></url>
@@ -1488,12 +1491,12 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gstack-upgrade-91bacb988dc2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hads-24d5600c3119/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/helm-chart-scaffolding-6d6c4f007a0b/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hookify-rules-26e381cd7aca/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/html-injection-testing-a044d3d49b7f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/huggingface-accelerate-583de26b0af8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hunting-for-webshell-activity-fc711021bb33/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hybrid-cloud-networking-cf46ecd28407/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/imagegen-0b19429044cb/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/imagegen-frontend-web-c234712ee515/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/init-4cd9d57f623e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/interaction-design-84cf527437bb/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/json-canvas-52360918cc3f/</loc></url>
@@ -1543,16 +1546,26 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/notion-bc8adfd20203/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/nx-monorepo-25e8ad94fe66/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/obsidian-bases-05c43c8c44a0/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-apply-change-31d6a287e2ef/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-archive-change-1cfcc67b0479/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-archive-change-58fc48e0d535/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-bulk-archive-change-55e2a7a04802/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-bulk-archive-change-6eb0c37bf80d/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-continue-change-179d38c3f5cd/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-explore-4226a98704c0/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-explore-8a729126a31d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-explore-c4b14c7b643e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-ff-change-62a676b714b7/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-ff-change-f17c3fa57021/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-new-change-74db1c2ff649/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-onboard-dce2e600b10a/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-propose-aeda370c4174/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-sync-specs-5f863bcc53c6/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-verify-change-45143ac47ee1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-verify-change-cc0409e55f53/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/oracle-a26b7397db57/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/overdrive-c2eb9f1cb623/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/page-cro-c53a54f911d7/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/paper-2-web-4a79c6ff3eca/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/parallel-agents-7876a14be943/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/parallel-debugging-c43b83b50e0e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/paypal-integration-73aa74652964/</loc></url>
@@ -1580,6 +1593,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/programmatic-seo-8468771ba6f3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/prompt-engineering-patterns-a30b70f78195/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pyhealth-43805e5b92c3/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pymc-bayesian-modeling-c0e2f4e2b3c5/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pymoo-e90a70016fbd/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/python-packaging-b2c44c1b3783/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/python-performance-optimization-984411b04ac8/</loc></url>
@@ -1617,6 +1631,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/speculative-decoding-33fdb9b78909/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/sqlmodel-task-models-a5a47e45f580/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/stable-baselines3-7cfd9bfe476a/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/stitch-design-taste-4f2b5ba7f859/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/stitch-loop-6b5097d69217/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/stripe-integration-c63a50321ed4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/styling-with-shadcn-8d5de511fb96/</loc></url>
@@ -1630,7 +1645,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/temporal-python-testing-0273ec1e09fb/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/theme-factory-aa147a7433bc/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/thermo-nuclear-code-quality-review-18cac11fec78/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/threejs-animation-a03ca2544099/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/threejs-fundamentals-5187755d273f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/threejs-geometry-79aca38d5d88/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/threejs-postprocessing-b6014f140ed6/</loc></url>
@@ -1646,6 +1660,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ui-design-system-9795fbea66ec/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ui-ux-pro-max-28bd52684883/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ui-ux-pro-max-32bf1625ce59/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ui-ux-pro-max-f2972053df87/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/unity-developer-47ca36d5c6f9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/unsafe-checker-e8030cf1eb23/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/update-llms-7666f605c9b6/</loc></url>
@@ -1659,6 +1674,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/wireshark-analysis-bd8fd3f2b498/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/workflow-patterns-2bc0d98d32f1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/writing-for-agents-34c64c775f0f/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/writing-for-agents-74d5d14e93b9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/writing-great-skills-253a4f477036/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/writing-shape-0a7703a2730c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/writing-skills-6d18d33f2ac8/</loc></url>
@@ -1873,6 +1889,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/exa-automation-63ba061093b6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/exa-search-fc3b5941546f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/exploiting-broken-link-hijacking-7779483d7fb1/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/expo-api-routes-a38bae0dd290/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/faf-go-02423d862819/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fal-ai-media-e32427458ce6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fastapi-jwt-auth-afe58bed1091/</loc></url>
@@ -1910,6 +1927,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gpt-image-2-424d59e3b217/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/growth-log-2a6772243997/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/growth-loops-a1ef47f91d9d/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gsap-scrolltrigger-5bd3f01fafb6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gstack-ad37c3381f23/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gstack-upgrade-4981f830f630/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gtars-d03f93bfc686/</loc></url>
@@ -1917,14 +1935,15 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gtm-strategy-ca42f826d20b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gws-shared-56dcb8803b4a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/haskell-pro-2c3c5619720f/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hatch-pet-fde95fec8d3f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/here-automation-f72ef67e6b88/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hf-mcp-8568984f1240/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hf-mem-92f0f47de8f5/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hookify-rules-26e381cd7aca/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hqq-8b825aba16f6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hqq-quantization-7effeb725533/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hunting-for-ntlm-relay-attacks-9618f00c313c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/idea-refine-c5d33b0b0b56/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/imagegen-frontend-mobile-ef6b8171bffc/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/implementing-aws-security-hub-73d01b19f1b6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/implementing-cloud-waf-rules-accc8613b2b7/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/implementing-saml-sso-with-okta-00c092b6998b/</loc></url>
@@ -1936,6 +1955,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/investigate-3c222a351546/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/investigate-73756271073f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ipsae-72844a3f0a87/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/iterate-pr-39995cf51e2c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/java-pro-99f4bdf18bf6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/jpa-patterns-4aedbbedc928/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/keap-automation-8e35810959a5/</loc></url>
@@ -2000,19 +2020,8 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/onboarding-cro-1266a298e993/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openai-docs-4fe7d7ad1c1e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openrlhf-2a2dbf4670f4/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-apply-change-31d6a287e2ef/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-archive-change-1cfcc67b0479/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-bulk-archive-change-55e2a7a04802/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-continue-change-179d38c3f5cd/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-continue-change-c90cc4a6996d/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-explore-4226a98704c0/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-ff-change-f17c3fa57021/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-new-change-74db1c2ff649/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-new-change-f1287be9b0e1/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-onboard-dce2e600b10a/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-propose-aeda370c4174/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-sync-specs-5f863bcc53c6/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/openspec-verify-change-45143ac47ee1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/operating-k8s-local-436f9c743dcb/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/operating-production-services-44da1d4ee29e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/optimizing-attention-flash-6a41e4917346/</loc></url>
@@ -2050,7 +2059,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/prototype-03ff6b1c0ff9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/prototype-a74411089146/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pulse-420672867aa0/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pymc-bayesian-modeling-c0e2f4e2b3c5/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pytest-coverage-3d395e389335/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/python-anti-patterns-5e368b5d048a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/python-observability-d8a14f2df62b/</loc></url>
@@ -2128,7 +2136,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/sqlmap-database-pentesting-57e4bd581f00/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/stable-diffusion-image-generation-f880fdc101ca/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/steve-jobs-eda198abe9fa/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/stitch-design-taste-4f2b5ba7f859/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/stitch-loop-1c39e0cfe3d1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/streaming-llm-responses-763d7569d09f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/supabase-postgres-best-practices-875ba168c7cd/</loc></url>
@@ -2166,7 +2173,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/u301-automation-1ce35af14c97/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ubiquitous-language-7f80cb6b94c1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ui-ux-pro-max-52bda9a30f13/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ui-ux-pro-max-f2972053df87/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ui-visual-validator-ab0894e3ee8f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/unifi-95d927471263/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ux-researcher-designer-fee0b05c5c9f/</loc></url>
@@ -2187,7 +2193,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/working-with-documents-9f1bb885d7e7/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/working-with-spreadsheets-c5c53c4a10a5/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/write-swift-910bf161b527/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/writing-for-agents-74d5d14e93b9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/writing-plans-36c9ce77ecdc/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/writing-plans-8db663bb04c4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/writing-plans-f2b837319a22/</loc></url>
@@ -2334,6 +2339,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/boltzgen-aabac190f5e4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/brainstorming-72fc6c68f651/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/brainstorming-79a02b1126f5/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/brand-41d0f2d2eb35/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/breakdown-feature-prd-149ad94e3704/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/brief-d38a5c34b9d1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/browser-automation-7b4723a6134b/</loc></url>
@@ -2381,6 +2387,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/codex-88889ddb32ae/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/coding-standards-c3e65f005324/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/coding-workflow-08f21e538740/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/cold-email-a91753d164e1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/commit-push-pr-fa98bf907521/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/competitor-alternatives-7de2663516ea/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/conductor-setup-daee0292b28b/</loc></url>
@@ -2395,6 +2402,8 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/coo-advisor-82ae74131c03/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/copywriting-4058ff9365d9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/core-actionbook-4c7a32a8431d/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/create-auth-skill-f3aa0d0a03b4/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/create-pr-ad523bb0d8aa/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/creating-plugins-f31c9f0900aa/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/crypto-bd-agent-fb0821da06e4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/csv-data-summarizer-340062f1f7fb/</loc></url>
@@ -2447,7 +2456,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/excalidraw-diagram-generator-72b8490f1f65/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/excel-analysis-1ee44f1cba8b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/exploiting-oauth-misconfiguration-255d1163bb7f/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/expo-api-routes-a38bae0dd290/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/expo-deployment-6a0b0685dd49/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/expo-ui-598db1336cb5/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fact-check-802e66aa2b96/</loc></url>
@@ -2472,6 +2480,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/frontend-design-f02111bbe39f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/frontend-dev-guidelines-2038c1b34896/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/frontend-skill-950a9da5ba90/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/frontend-slides-47cf798ec0cb/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/frontend-ui-engineering-516ae9b5bffb/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gameobject-create-fb30429eaa19/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gameobject-destroy-dae48d6341c9/</loc></url>
@@ -2498,11 +2507,10 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gsap-4c25a1feb5b0/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gsap-performance-dcf6824c188b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gsap-plugins-8cecc2612f4c/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gsap-scrolltrigger-5bd3f01fafb6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gsc-8b5810aaa552/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/guard-8fbfc6ce5d8d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gws-events-subscribe-4aa9aaac9f87/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hatch-pet-fde95fec8d3f/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hallmark-8b463bfecc55/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hive-mind-a02b17aff29b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hook-development-6fe00a367219/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hook-factory-02f5a3832c8e/</loc></url>
@@ -2510,7 +2518,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/humanizer-zh-e81860b35691/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hunting-for-shadow-copy-deletion-6bd36c6b94ff/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hypogenic-ccc8a10778bf/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/imagegen-frontend-mobile-ef6b8171bffc/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/implementing-zero-trust-in-cloud-f85237510963/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/impress-68f40369714a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/improve-animations-8858e7c1c0c5/</loc></url>
@@ -2521,7 +2528,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/internal-comms-community-70fdbc1ba1aa/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/investor-outreach-b83c8474dfec/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/istio-traffic-management-3ace85f402a4/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/iterate-pr-39995cf51e2c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/javascript-testing-patterns-a1115fca41f0/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/javascript-testing-patterns-d3ecb38d20b2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/job-stories-f89c5d81b741/</loc></url>
@@ -2629,6 +2635,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/performing-ssl-stripping-attack-6b2eaf748f8b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/php-pro-3f5d021969fe/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/piia-3f7387a86b27/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pixijs-2d-bb21c66ac7f2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/plan-5c93c017e73e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/plan-7062e6ef72fe/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/planning-8ffcd90ae5b2/</loc></url>
@@ -3039,6 +3046,8 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/angular-reviewer-458cd04875e3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/angular-state-management-4a0df62a88fd/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/angular-ui-patterns-9347b230555f/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/animate-c746bb6423eb/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/animate-expo-7dba118c35bd/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/animation-vocabulary-2ca96c7d531d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/animation-vocabulary-a0b88d241257/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ansible-reviewer-bf5455c3b2fb/</loc></url>
@@ -3095,6 +3104,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/baoyu-comic-6ac034fa0cab/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/bazel-build-optimization-c22b1d48139c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/bdi-mental-states-7d38e3258327/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/better-auth-best-practices-3deff67c97a9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/binary-analysis-patterns-6fcfb14d1897/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/biopython-0a105a45eace/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/birdnet-c8f9809bcb7e/</loc></url>
@@ -3118,7 +3128,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/brainstorm-266cccef1d84/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/brainstorming-53c9b1b9d557/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/brainstorming-research-ideas-9445178b4ee6/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/brand-41d0f2d2eb35/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/brand-extract-8fa8c4411cba/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/brand-guidelines-14349149f5ba/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/brand-guidelines-community-6abffb186282/</loc></url>
@@ -3239,10 +3248,9 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/coverage-c2cda7ccef75/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/cpo-advisor-50150b78c698/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/cpp-pro-5b0d5dfa9db4/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/create-auth-skill-f3aa0d0a03b4/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/create-plan-0a3a1e799844/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/create-plans-9adae9e4200c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/create-pr-8b9779dbd3f0/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/create-pr-ad523bb0d8aa/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/creative-thinking-for-research-21272aefc369/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/crosspost-a9f1e07180cd/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/crosspost-c9df9091d635/</loc></url>
@@ -3303,6 +3311,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/design-shotgun-7e7265b222a4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/design-sync-0aba4bb44ca9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/design-taste-frontend-v1-0ce023317e25/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/design-taste-frontend-v1-ed49b18fcaf1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/design-update-63e22dff54e6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/design-validate-f5b75f454d16/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/designing-nextjs-ui-63bfec91964c/</loc></url>
@@ -3369,6 +3378,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/file-todos-9844d5e0c856/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/finance-skills-76a8e2f1dde3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/find-nearby-e68ae987af8b/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/find-skills-d16a42f70b4c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/finish-branch-f2df18b4f00e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/finishing-a-development-branch-02f30955967b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/finishing-a-development-branch-6ab6fe6e25ca/</loc></url>
@@ -3389,7 +3399,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/frontend-design-9ab145bfd1f1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/frontend-design-c03425b730cc/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/frontend-patterns-0853c29d2a77/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/frontend-slides-47cf798ec0cb/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ga4-9c68d77ecbdd/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/garmer-73329ba566ed/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gdpr-data-handling-8f5bd967704b/</loc></url>
@@ -3437,7 +3446,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/guru-mcp-8700da8dfef4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gwas-database-f6350a8ae993/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/gwas-lookup-9aff3a228c32/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hallmark-8b463bfecc55/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/helm-reviewer-7713ab9d5a80/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/high-end-visual-design-4ceb15f54b5f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/hipaa-baa-94c0c73f998f/</loc></url>
@@ -3473,6 +3481,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/iqdb-onchain-storage-c4911590ca35/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/itar-tcp-e553ab756dac/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ito-baskets-f3cd74bafc77/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ito-compute-7ed594c74757/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/java-reviewer-a0c7c6d39a90/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/jev-use-1355fedb59ef/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/job-application-f379af16d9a7/</loc></url>
@@ -3488,6 +3497,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/langsmith-observability-c879258287fc/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/lark-okr-2dd51703196f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/latex-compilation-0d725fb6332b/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/latex-posters-5beab4d1d80e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/lead-magnets-4d7c3e2c1b6b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/lean-canvas-9829fe9bdb8e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/legacy-modernizer-c8d8a064b810/</loc></url>
@@ -3551,6 +3561,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/modal-ae11e1b715c8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/modern-javascript-patterns-d5e417c26c93/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/molecular-dynamics-3e822d68dfb4/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/motion-framer-088d8701c29e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ms365-tenant-manager-d3e26245d853/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/mssql-ebba15422cc3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/mtls-configuration-2c0fe2f26ffa/</loc></url>
@@ -3561,6 +3572,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/n8n-validation-expert-366492425452/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/n8n-workflow-patterns-7298adbceeae/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/neon-automation-b4896f082190/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/neon-postgres-5e41f28e7a4c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/network-engineer-515f4ec101f8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/next-cache-components-4ceca6feca91/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/next-upgrade-af21cf72e3e9/</loc></url>
@@ -3576,6 +3588,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/nodejs-reviewer-64c5d85e6aae/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/notification-persistence-0f6712bd3dd1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/notification-trigger-677b2ec31bc4/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/nowait-reasoning-optimizer-e67f7e073227/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/nuxt-8978957b8117/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/nuxt-content-6d24177f96f9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/nuxt-ui-7bde1410e5ad/</loc></url>
@@ -3622,7 +3635,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pick-ui-library-a4bfb3a586de/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pilt-f2ef1006328c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pint-compute-cb87c93c991a/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pixijs-2d-bb21c66ac7f2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/plaid-fintech-9eee353f636d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/plan-design-review-7833eea7e299/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/plan-explore-dfe1275c53a9/</loc></url>
@@ -3891,11 +3903,13 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/tsdown-66d0e9913fb7/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/turborepo-caching-cfddeb19245b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/twilio-communications-d43de7e95fda/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/two-factor-authentication-best-practices-4cd97311a3ff/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/type-get-json-schema-31f33eac7339/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/typescript-advanced-types-c3fa364dcae4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/typescript-advanced-types-e1a05f024154/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/typescript-expert-23660f104424/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/typeset-f58d659b2d86/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ui-styling-10da98343418/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ui-ux-pro-max-c9d5d0560bb2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ui-ux-pro-max-d1fd8911880c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/unity-ecs-patterns-42081333cf3c/</loc></url>
@@ -4352,8 +4366,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/angular-e4a0875fe6ef/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/angular-migration-2fab95040f7a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/angular-migration-89b92ec57c0a/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/animate-c746bb6423eb/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/animate-expo-7dba118c35bd/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/animation-modify-f2a688af4c10/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/animator-create-8ebd5f9f6b50/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/animator-modify-84206703f5b9/</loc></url>
@@ -4366,6 +4378,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/antislop-human-474c0b72e9b4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/anydesign-78c88d57fa11/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/api-design-f41650a83a23/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/api-dev-dce8b3cd5410/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/api-documentation-21cb85a16cc4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/api-gateway-90760cf25e48/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/api-security-best-practices-73e5eb023cd3/</loc></url>
@@ -4504,6 +4517,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/baoyu-cover-image-52a76b34888f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/baoyu-slide-deck-84ce5d54dd23/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/baoyu-xhs-images-73c06d1ff782/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/barba-js-d988cc6dc755/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/bash-audit-3d6f414fba85/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/bash-defensive-patterns-7e9072df1fe3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/bash-pro-4dbad9947498/</loc></url>
@@ -4526,7 +4540,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/bento-460417cac8ae/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/better-auth-08b8c6b16bed/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/better-auth-20410076191b/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/better-auth-best-practices-3deff67c97a9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/better-icons-a636f5d5a73b/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/billing-automation-15997ce33041/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/biologist-analyst-7dc42e0810fa/</loc></url>
@@ -4723,7 +4736,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/codex-review-ac7d28d678c8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/cognito-1135c17dea71/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/cold-email-30d4c4eb74f8/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/cold-email-a91753d164e1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/cold-email-b40af1b3f34a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/collage-layout-expert-7fff71097460/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/collect-user-input-22a3665dc846/</loc></url>
@@ -4802,7 +4814,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/create-adr-654b17dd7bb4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/create-blazor-project-547fa2ad2851/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/create-llms-e81337fd0cb7/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/create-plan-0a3a1e799844/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/create-plan-1e2cb026573d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/create-rfc-45f00558f687/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/create-skill-d661b28f082c/</loc></url>
@@ -4902,10 +4913,10 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/design-review-c87c84260cae/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/design-shotgun-b28d40281b6a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/design-system-9a54fd192e03/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/design-system-ea834d3fd048/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/design-system-planning-243c6e88cd1a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/design-systems-7062e63e7b0f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/design-taste-frontend-31e0a88ed351/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/design-taste-frontend-v1-ed49b18fcaf1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/designing-growth-loops-c61adc2b3909/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/designing-surveys-7b40f1687dcd/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/desk-open-70ca3816f898/</loc></url>
@@ -4988,6 +4999,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/dynamic-debugger-6fad15092af1/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/e2e-testing-patterns-452ef2ace1cc/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/e2e-testing-patterns-747ed2cf3016/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/eas-update-insights-36a63ba6cfa4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/economist-analyst-7f077576d50d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ecp-manual-60946cd60cb8/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ecs-294674b9ac51/</loc></url>
@@ -5014,6 +5026,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/electron-8405eb73d00e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/elevenlabs-music-generation-8ba14bc8e5ad/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/em-dash-b82ebd0f29e2/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/email-and-password-best-practices-1922b0779664/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/email-gateway-421d4fafa63f/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/email-marketing-00e48c3756d2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/email-sequence-c26a662c91b7/</loc></url>
@@ -5120,7 +5133,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/find-hypertable-candidates-e248d5f09b7d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/find-skills-117ddf2fbb17/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/find-skills-c064d950e911/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/find-skills-d16a42f70b4c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/fine-tuning-serving-openpi-8013ec422ac9/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/finnish-humanizer-5770ba729aee/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/firebase-b471b7e143c5/</loc></url>
@@ -5466,7 +5478,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/issue-publish-870de72cb41e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/item-management-c5694b6f45b5/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/iterating-with-ai-and-mcp-ed40676d3bf7/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ito-compute-7ed594c74757/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ito-training-035e74ebb303/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/java-helidon-ec7559976fd7/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/javascript-testing-14180953751b/</loc></url>
@@ -5518,7 +5529,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/lark-im-d45129104cfd/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/last-will-92105b2b9f49/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/latchbio-integration-c9caa5cbbc18/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/latex-posters-5beab4d1d80e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/launch-3390438292c4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/launch-6654fc4c8859/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/launch-marketing-add52d661892/</loc></url>
@@ -5539,6 +5549,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/level-design-bc9862733413/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/lidarr-29d7b9aa907e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/lighthouse-performance-optimization-e288cff7a1a9/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/lightweight-3d-effects-74e9335c342a/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/lindy-cost-tuning-3217564faf75/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/lindy-rate-limits-a9662b492807/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/line-endings-4cd1eb61ee32/</loc></url>
@@ -5561,6 +5572,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/llm-structured-output-9de7c9c71696/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/llm-wiki-ec4bce77c726/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/local-test-369b64197615/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/locomotive-scroll-483b1a10f4ba/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/logo-design-ef846da2568e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/loki-mode-3d7471ed080d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/loop-library-ee261a39f2d8/</loc></url>
@@ -5660,6 +5672,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/model-recommendation-b9c0bfa369c2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/modern-drug-rehab-computer-0a558aec8986/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/modern-javascript-patterns-514eadad2c55/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/modern-web-design-b03bcadb83da/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/modular-design-principles-297b2cef498d/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/module-spec-generator-f3ddc79ef929/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/monitor-experiment-ef48a9e2cc36/</loc></url>
@@ -5669,7 +5682,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/moonshot-evaluate-complexity-ce1ac55da2a4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/moosend-automation-567dbfe203cb/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/morning-39c967205b12/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/motion-framer-088d8701c29e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/msgraph-sdk-4a028b7d9685/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/msstore-cli-8fc8933d5d87/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/mtls-configuration-53d463017dda/</loc></url>
@@ -5692,7 +5704,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/negotiating-offers-212735f75f6c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/nemo-evaluator-sdk-c285d1d4c0b2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/neon-e328561d9bad/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/neon-postgres-5e41f28e7a4c/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/nestjs-best-practices-0ea7395856bc/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/netpad-6f79a8fb19b6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/networkx-6ab0cdfa3993/</loc></url>
@@ -5715,7 +5726,6 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/notion-template-business-0a71c282ba8e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/novelist-analyst-2ad68859c694/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/novelty-check-c8ba15412779/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/nowait-reasoning-optimizer-e67f7e073227/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/nuget-manager-d9306e059d16/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/nuxt-ui-73d7c4b23822/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/nx-a1d157104227/</loc></url>
@@ -5782,6 +5792,7 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/opus-extended-thinking-b3b8559809d6/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/orchestration-skill-creator-7a247305cd5e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ordering-modifier-chains-f0e2596f7074/</loc></url>
+  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/organization-best-practices-ebd89f86a98e/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/organizational-design-c8b554640eda/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/os-scripting-9953079203c4/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/os-scripting-e0d06f823bbe/</loc></url>
@@ -5792,16 +5803,5 @@
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/ovh-9696d12901e2/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/owasp-guard-9428e01693e3/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/owasp-scan-7657823b1573/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/owasp-update-b40afc43b770/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/oxcaml-531b4a457c13/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/p5-8b874a347507/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/p7-5c960a06d1c1/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/p9-3a52f4554487/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pacsomatic-e995b5b05e02/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/page-import-2a1a8e2c9bd7/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/page-x-automation-7e9bd8e758b5/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pair-agent-da3f748d9b07/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pair-programming-3ef952bcd285/</loc></url>
-  <url><loc>https://majiayu000.github.io/claude-skill-registry/skills/pair-programming-97d443b63f77/</loc></url>
   <url><loc>https://majiayu000.github.io/claude-skill-registry/guides/code-review.html</loc></url>
 </urlset>
