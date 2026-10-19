@@ -643,6 +643,14 @@
    "name": "agentic-engineering",
    "description": "Operate as an agentic engineer using eval-first execution, decomposition, and cost-aware model routing."
   },
+  "-mhbrzggka6buoqxqr3guuhd_778x31dsciswd9nzf8": {
+   "status": "bundled_files",
+   "archive_path": "data/prisma-client-api-yigityildiz0-universal-ai-skill-l/SKILL.md",
+   "repo": "yigityildiz0/universal-ai-skill-library",
+   "branch": "main",
+   "digest": "sha256:9099c8a9924a5d1d2583c3a5fa7363a2ab66f7d9e0670616f6eed96574c672d7",
+   "checked_at": "2026-10-19T07:52:32+00:00"
+  },
   "-mlnpz0d1h-l0rtd_d11bjoanrsl15hkcfhtesy3sxm": {
    "status": "bundled_files",
    "archive_path": "data/weights-and-biases/SKILL.md",
@@ -1594,14 +1602,6 @@
    "digest": "sha256:f530021da9f377362ee4214e0bc689cbb5404640d2eb88ee272d51d61f530a09",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "0uueioa6tbpy9yv9ciltgehnxyhdpuq3xkb6_ak3rfs": {
-   "status": "bundled_files",
-   "archive_path": "other/oma-search-oliverv-caro/SKILL.md",
-   "repo": "oliverv/caro",
-   "branch": "main",
-   "digest": "sha256:23ad03d8023f9036a2115bc2244a579c416fcdce4422a68d7ad12be6022d9dc4",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "0v-vo2siv5j6h3nzndbljd-pwoj_yhz7pqujnd_vvyu": {
    "status": "pinned",
    "path": "skills/ai-engineer/SKILL.md",
@@ -2351,6 +2351,14 @@
    "commit": "c352090b10b35ddb7a7935186787f62e06e8bf46",
    "name": "using-superpowers",
    "description": "Use when starting any conversation - establishes mandatory workflows for finding and using skills, including using Skill tool before announcing usage, following brainstorming before coding, and creating TodoWrite todos for checklists"
+  },
+  "1rfccfprtfcsiu2arjz1tzxlhytzxd0gnsa4wlr_ihc": {
+   "status": "bundled_files",
+   "archive_path": "design/improve-codebase-architecture-tuliopaim-dotfiles-linux/SKILL.md",
+   "repo": "tuliopaim/dotfiles-linux",
+   "branch": "main",
+   "digest": "sha256:552240a5ab5cec6b67c15dd1ad6e9f6962b1bca6ce870059a8c2713760c20392",
+   "checked_at": "2026-10-19T07:52:32+00:00"
   },
   "1rqhwhkc6ueyyam0gcgkw69xortflre666e8hdx9k9w": {
    "status": "tree_truncated",
@@ -6465,14 +6473,6 @@
    "digest": "sha256:152d5f571436b0cb9814b3f269357f67ae025bfa5ceda046a1579aec31fd450f",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "6eiiojnue7hgykihhvcymjvaux1r7wukp7pfxvn8kqi": {
-   "status": "bundled_files",
-   "archive_path": "product/oma-market-oliverv-caro/SKILL.md",
-   "repo": "oliverv/caro",
-   "branch": "main",
-   "digest": "sha256:827c3a15278482350875c1d50f8e4c5946cefef4c30cbb1ed16c99e5191fb51b",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "6ezczakrv-o9gig_uoh9aqm39ld0-dhbpn0d28e1szy": {
    "status": "bundled_files",
    "archive_path": "integration/mural-automation/SKILL.md",
@@ -6778,6 +6778,14 @@
    "branch": "main",
    "digest": "sha256:c9958bce3b7af252c6ace33b3fc6d7540f7f570ddb3c4e868eeb3bf756968605",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "6p8xixjrdbbij6_pset6ww1lwx6st2e1r9r29qg-1v8": {
+   "status": "bundled_files",
+   "archive_path": "devops/bmad-module-builder-huing7373-catc/SKILL.md",
+   "repo": "huing7373/catc",
+   "branch": "main",
+   "digest": "sha256:344ee5a895878611f0241ad36352d3331871dc204bc6c5efce527927266bf8bc",
+   "checked_at": "2026-10-19T07:52:32+00:00"
   },
   "6pwdrp9sjms-4dephqskhregrtc6d-h8mlvqxhspzwg": {
    "status": "pinned",
@@ -10164,18 +10172,6 @@
    "digest": "sha256:be749992b02b12197c32184673b722f83e1f0ea092baaa93e34749a20ccedcda",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "a-nvlsmkugzk0m7xqjmnmi1pmvdsy2zic5slnfxcduc": {
-   "status": "pinned",
-   "path": ".claude/skills/on-track/SKILL.md",
-   "archive_path": "other/on-track-armanisadeghi-matrx-local/SKILL.md",
-   "repo": "armanisadeghi/matrx-local",
-   "branch": "main",
-   "digest": "sha256:a234db150f70cb8e83f01c2c24aff5e9c27488f4646c55ab2322b65d7d366cd3",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "c92e7ca6faa8f85cc7aed5b926a1e9ae40ba8b4b",
-   "name": "on-track",
-   "description": "Run the full on-track check on a conversation, project, or keyword the owner names: find the sessions, extract exactly what he typed, dispatch independent judges who go to the live product as him and report what was missed, plan the remedy, and return one page — what he will see, what is missing, the plan. Use when told to check whether work is on track, to audit a project that has drifted, on 'run the on-track check on X', or when a long campaign is about to freeze, hand off, or claim done."
-  },
   "a00zndlh7u1rakidbsnnji6al9khd3muokgoh015iio": {
    "status": "pinned",
    "path": ".gemini/skills/assets-shader-get-data/SKILL.md",
@@ -10784,6 +10780,14 @@
    "branch": "main",
    "digest": "sha256:8ac80e75ea0d5b918028eecc4a770f53ae0807daa2c4d8301e1f1c9b037d94fa",
    "checked_at": "2026-10-17T23:14:30+00:00"
+  },
+  "aenqnpvhyyvyqa0m_hi2tlcovfo5ceymsllucnemxtq": {
+   "status": "bundled_files",
+   "archive_path": "other/setup-ts-deep-modules-tt-a1i-matt-skills-with-to-/SKILL.md",
+   "repo": "tt-a1i/matt-skills-with-to-goal",
+   "branch": "main",
+   "digest": "sha256:29acca66ac99d4532e2a6f0370d8125d7cba1e87c9ac66573203c75189d3e6c7",
+   "checked_at": "2026-10-19T07:52:32+00:00"
   },
   "aeo5cupm6buahrrsgwwejy-hun_9bqkdhmskjfzkxlg": {
    "status": "ambiguous",
@@ -13426,6 +13430,18 @@
    "digest": "sha256:eb15efa01cc308a6db0c3d4aef75d7c146cd7c197cbaf6cace760d010e92e50c",
    "checked_at": "2026-10-17T23:14:30+00:00"
   },
+  "c0c4qulmbwokfbwwvnek0irc3ncghe_e7gsg78lfrni": {
+   "status": "pinned",
+   "path": "Skills/Skills/request-refactor-plan/SKILL.md",
+   "archive_path": "development/request-refactor-plan-satyasaibhushan-agents-config/SKILL.md",
+   "repo": "satyasaibhushan/Agents-config",
+   "branch": "main",
+   "digest": "sha256:d59de4ba6cc1fe2dd267e8b9b5a1fd88e3e739e2130bc9dd78061d2a072830b8",
+   "checked_at": "2026-10-19T07:52:32+00:00",
+   "commit": "fe91405d3334ffeeb038ddffe5b6bea13d869b14",
+   "name": "request-refactor-plan",
+   "description": "Create a detailed refactor plan with tiny commits via user interview, then file it as a GitHub issue. Use when user wants to plan a refactor, create a refactoring RFC, or break a refactor into safe incremental steps."
+  },
   "c0cccrydpn5ikpydco27ggt_kwhvu9i4ocrsnevpk9s": {
    "status": "pinned",
    "path": "skills/rowan/SKILL.md",
@@ -14089,6 +14105,18 @@
    "commit": "f5a345024fbd0850ccbd01419c12e84009911cdd",
    "name": "clickhouse-io",
    "description": "ClickHouse database patterns, query optimization, analytics, and data engineering best practices for high-performance analytical workloads."
+  },
+  "ci-f7cejg7bvxy3pupn8_3_agje2r97vwsogr4t1pfg": {
+   "status": "pinned",
+   "path": "skills/tdd/SKILL.md",
+   "archive_path": "testing/tdd-uzairansaruzi-p3-stack/SKILL.md",
+   "repo": "uzairansaruzi/p3-stack",
+   "branch": "main",
+   "digest": "sha256:eeb868e2dfebee528d730a67d7b17498fac4bb85dec2e38bc5c5176aca4d5d2f",
+   "checked_at": "2026-10-19T07:52:32+00:00",
+   "commit": "09909ebb5c0125e27fad3e57d96b81e832696d69",
+   "name": "tdd",
+   "description": "Use only when the user explicitly asks for TDD, a failing test, or a regression test, OR when the bug has an obvious cheap local test target. Skip when the test path is unclear, expensive, integration-heavy, or not requested."
   },
   "cig54r4cdxsu6w9s9fvyqdwcdbbeasaei-aybxidshq": {
    "status": "upstream_changed",
@@ -14828,14 +14856,6 @@
    "commit": "ba021c0846a53566a3bfde95009077974d2da535",
    "name": "autoresearch",
    "description": "Autonomous iterative experimentation loop for any programming task. Guides the user through defining goals, measurable metrics, and scope constraints, then runs an autonomous loop of code changes, testing, measuring, and keeping/discarding results. Inspired by Karpathy's autoresearch. USE FOR: autonomous improvement, iterative optimization, experiment loop, auto research, performance tuning, automated experimentation, hill climbing, try things automatically, optimize code, run experiments, autonomous coding loop. DO NOT USE FOR: one-shot tasks, simple bug fixes, code review, or tasks without a measurable metric."
-  },
-  "cvytrjmy8mz9qbphvs3kloaqbyqmbslzbal3kizxiq4": {
-   "status": "bundled_files",
-   "archive_path": "other/oma-mobile-oliverv-caro/SKILL.md",
-   "repo": "oliverv/caro",
-   "branch": "main",
-   "digest": "sha256:499ff0ee5388ab498bdf8aaa8170cbe471ea0a875981def50836858527c55909",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "cwairmkakoqihdmkxuec3o84htyp8bragrhgdwi2o2e": {
    "status": "upstream_unavailable",
@@ -16923,6 +16943,14 @@
    "branch": "main",
    "digest": "sha256:d2ff3f9eed2cb8e15cb98e8e2398ca359325a32fd5d16ebfe0d115d7624583af",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "e920lyu51nupv4r-h2qqfx8aep4kfz6q_mz82j58ste": {
+   "status": "bundled_files",
+   "archive_path": "testing/ask-matt-tuliopaim-dotfiles-linux/SKILL.md",
+   "repo": "tuliopaim/dotfiles-linux",
+   "branch": "main",
+   "digest": "sha256:1371f5ce005de0992a44b137748bfb960a56948aa9871b405fe9d90b24332e3c",
+   "checked_at": "2026-10-19T07:52:32+00:00"
   },
   "e9dofn-ucmxpmg_lq6due1mwzfqprh_hdrctg7gio8w": {
    "status": "upstream_changed",
@@ -19990,6 +20018,14 @@
    "branch": "main",
    "digest": "sha256:2aa5d9b86377c552d6bcf352bed70fb8ed0a4c15e0eef83296ceaf143a28a326",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "fy_zexavi3mrxpfj0sq5oaeg7h9j4ens4tjoujijbmi": {
+   "status": "bundled_files",
+   "archive_path": "other/git-sync-nicanac-blanmont/SKILL.md",
+   "repo": "nicanac/blanmont",
+   "branch": "master",
+   "digest": "sha256:7a92e9777c96424ae5d85db792199ef20bc89c3e48bab271091b0ecf0f10a2fe",
+   "checked_at": "2026-10-19T07:52:32+00:00"
   },
   "fyjr-t3k-ggvgnwiug-jhoxp2cw8pajkeaetnqeyzsy": {
    "status": "upstream_changed",
@@ -24631,14 +24667,6 @@
    "name": "knowledge-ops",
    "description": "Knowledge base management, ingestion, sync, and retrieval across multiple storage layers (local files, MCP memory, vector stores, Git repos). Use when the user wants to save, organize, sync, deduplicate, or search across their knowledge systems."
   },
-  "iy-udpzfev988g573o_hbpurmuo_ihbzgrtp08zywuo": {
-   "status": "upstream_changed",
-   "archive_path": "devops/ollama-setup/SKILL.md",
-   "repo": "jeremylongshore/claude-code-plugins-plus-skills",
-   "branch": "main",
-   "digest": "sha256:7a7867a25ffd561e8e297d2931c4091f40da420f514125f00d89b148187a8e04",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "iy7eib4fa2itsgqrtrv06xujgqqxxkbclygl8j55qwo": {
    "status": "pinned",
    "path": ".agent/javascript-typescript/skills/javascript-testing-patterns/SKILL.md",
@@ -26419,14 +26447,6 @@
    "commit": "c61c25e173e1922ea33906bb6d3b1d08c7d0c624",
    "name": "tailwind-patterns",
    "description": "Tailwind CSS v4 principles. CSS-first configuration, container queries, modern patterns, design token architecture."
-  },
-  "k3pe_61ghz5epwwizdxze1vq-i3w-05lnl3ich1iazo": {
-   "status": "bundled_files",
-   "archive_path": "design/oma-design-oliverv-caro/SKILL.md",
-   "repo": "oliverv/caro",
-   "branch": "main",
-   "digest": "sha256:ad45d53773b38f3bdaabd9d2e6adc011e5a7f9cad7ef2aa73d17d6545a9db0f9",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "k3xtainyjd4n9qlehbr-dcdhue9nj1cmch5clxiquvs": {
    "status": "upstream_changed",
@@ -39194,14 +39214,6 @@
    "digest": "sha256:f50518c0399e03595ba7ba15384571a67c9c0d4279182de0f8ed7619491aeb7d",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "rzhcsxsqle05sapodc4marulsytssexwspe94p7pfni": {
-   "status": "bundled_files",
-   "archive_path": "other/omc-jyjeanne-ai-setup-forge/SKILL.md",
-   "repo": "jyjeanne/ai-setup-forge",
-   "branch": "main",
-   "digest": "sha256:e7141309d122ba5a0313222f71ee2909b3da6afcda42e407e34a454846b08c39",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "rzppkqcpdbynqhfsch2gk7x9xne6ewlitbp_qf8dvy0": {
    "status": "bundled_files",
    "archive_path": "design/ui-ux-pro-max-xenodeve-xeno-skills/SKILL.md",
@@ -39221,14 +39233,6 @@
    "commit": "2fca246d93eb2b643eb88fb2a91a1d3b0071ae02",
    "name": "api-contract",
    "description": "Configure this skill should be used when the user asks about \"API contract\", \"api-contract.md\", \"shared interface\", \"TypeScript interfaces\", \"request response schemas\", \"endpoint design\", or needs guidance on designing contracts that coordinate backend and frontend agents. Use when building or modifying API endpoints. Trigger with phrases like 'create API', 'design endpoint', or 'API scaffold'."
-  },
-  "s-bkvwpvh_4dxhr9fd49w45diazx0wagpkltbpqeh6a": {
-   "status": "bundled_files",
-   "archive_path": "documents/oma-pdf-oliverv-caro/SKILL.md",
-   "repo": "oliverv/caro",
-   "branch": "main",
-   "digest": "sha256:b9c96e18520b4b1c071cc5f5431f96495310c43996539660c3df39447eca062d",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "s0lyinxcdf2egimcmpx0bcu66relfwmguwyzc_extj8": {
    "status": "upstream_changed",
@@ -46680,6 +46684,14 @@
    "digest": "sha256:9e7d15a9ae274dcacc2bb89f2276fc10dbdc4166b95cc3c106856feaab046a3f",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "whiu-iaouidsxvknzkx9kcqbnz9wkctxdkln-b14z4s": {
+   "status": "bundled_files",
+   "archive_path": "development/domain-modeling-tuliopaim-dotfiles-linux/SKILL.md",
+   "repo": "tuliopaim/dotfiles-linux",
+   "branch": "main",
+   "digest": "sha256:7b925d7b1e341a2eeae33ad68a8a8c0ab889a38ddd22a7598e4c240e5a7556a3",
+   "checked_at": "2026-10-19T07:52:32+00:00"
+  },
   "whzjcffyg8yb4ntnluyvv9gp7aavtgc5_35twgdt0hy": {
    "status": "upstream_changed",
    "archive_path": "gaming/unity-developer/SKILL.md",
@@ -47997,14 +48009,6 @@
    "repo": "yunaamelia/vps-rdp-workstation",
    "branch": "main",
    "digest": "sha256:739b464843a6fc6a6f86baa78560717f59864503eb8e07317bacd054ae2426b9",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "xfcxm5kvyp_edaerttoxerdvxjs2abjeoccvqzzkyda": {
-   "status": "upstream_changed",
-   "archive_path": "devops/on-call-handoff-patterns-sickn33-antigravity-awesome/SKILL.md",
-   "repo": "sickn33/antigravity-awesome-skills",
-   "branch": "main",
-   "digest": "sha256:d280d2ebe3d3e72fe160e7d898afe698b09ec0dd97edf861767a75d8d15084e3",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "xfdt5ix4ugzz1pt6wdezqagpwcjch063ruvnpusmgfk": {
