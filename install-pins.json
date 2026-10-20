@@ -163,18 +163,6 @@
    "name": "effect-config-schema",
    "description": "Config loading and Schema validation/transform. Use when defining configuration or validating inputs."
   },
-  "-8xurvuynxlan5spizofjlznj8-qemywje4shjve4os": {
-   "status": "pinned",
-   "path": "skills/web/offensive-jwt/SKILL.md",
-   "archive_path": "security/offensive-jwt-ajtazer-heckit/SKILL.md",
-   "repo": "ajtazer/heckit",
-   "branch": "main",
-   "digest": "sha256:f4062ca66c1241fbeb772e1671d0d86d3683e27f33744fee6723b13a934a3fb9",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "f82481acf60da8b636a5af97df17d3c46f0939aa",
-   "name": "offensive-jwt",
-   "description": "JWT attack methodology for penetration testers. Covers algorithm confusion (alg:none, RS256→HS256), weak HMAC secret brute force, kid parameter injection (SQLi, path traversal), jku/x5u/jwk header injection, JWKS cache poisoning, JWS/JWE confusion, timing attacks, and mobile JWT storage extraction. Use when testing JWT-based authentication, hunting auth bypass via token manipulation, or evaluating JWT implementation security in web or mobile apps."
-  },
   "-9bgjgl8dwle9y509mwoptq_7dm4enjw9smmltikog0": {
    "status": "upstream_changed",
    "archive_path": "data/drone-inspection-specialist/SKILL.md",
@@ -591,18 +579,6 @@
    "digest": "sha256:83c4f9c31ba707c4729f20479d289b17cd217b75d90cb9dbc6f41a15801dd3dc",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "-k9p90dh4donuiuyeurdck2tvtxuwmucxkw6dlaauvm": {
-   "status": "pinned",
-   "path": "skills-db/legal/ocr/SKILL.md",
-   "archive_path": "documents/ocr-lev-os-agents/SKILL.md",
-   "repo": "lev-os/agents",
-   "branch": "main",
-   "digest": "sha256:a69aca647de45b9b7065de760c714fd92484e324828324c2ecfa26b37e805567",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "b2bfc7a5a0b08d23788fec9696714bfcd742ac8c",
-   "name": "ocr",
-   "description": "Processes documents through case.dev OCR for text and table extraction. Supports PDF and image files up to 500MB with page-level and word-level output. Use when the user mentions \"OCR\", \"text extraction\", \"scan document\", \"digitize\", \"extract text from PDF\", or needs word-level positional data from documents."
-  },
   "-kcjrx-mxu874xe-zhkbnmorkw1knqoo1-pqtygqi7c": {
    "status": "bundled_files",
    "archive_path": "other/scientific-writing-tobiasblask-open-paper-machine/SKILL.md",
@@ -673,14 +649,6 @@
    "repo": "nicanac/blanmont",
    "branch": "master",
    "digest": "sha256:144077cd9f7a7bc25f2a04279f02e159ae40d6a9c5d8f7fb1d82d5ebd99ad3d7",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "-nsgfitvn-zsrrzdph17sa9tzoyztppwdpj-ddmtvgc": {
-   "status": "ambiguous",
-   "archive_path": "other/receiving-code-review-tfaracicolbert59-kitduvoyageur-178395/SKILL.md",
-   "repo": "TFaraciColbert59/kitduvoyageur_1783951966810",
-   "branch": "main",
-   "digest": "sha256:091df1629510af1b92fc4abd6f96732ebedb4cb2c0f3457e8f2740b0504a2438",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "-ntncp-ld1icnnjs6hmxs41mu1b6yt56rwsae4xtbnw": {
@@ -3495,14 +3463,6 @@
    "name": "caveman",
    "description": "Ultra-compressed communication mode. Cuts token usage ~75% by speaking like caveman while keeping full technical accuracy. Supports intensity levels: lite, full (default), ultra, wenyan-lite, wenyan-full, wenyan-ultra. Use when user says \"caveman mode\", \"talk like caveman\", \"use caveman\", \"less tokens\", \"be brief\", or invokes /caveman. Also auto-triggers when token efficiency is requested."
   },
-  "39gqhsfwehix3syhkofo4hpuxjt8uh4vnjgl2yp6p4g": {
-   "status": "upstream_changed",
-   "archive_path": "documents/ocaml-tutorials/SKILL.md",
-   "repo": "avsm/ocaml-claude-marketplace",
-   "branch": "main",
-   "digest": "sha256:824ef1705a1b8fe7f21a55bb32ad0953bc653fb8708ff12a61cb8126ff9aa225",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "39ygz-upqgwweygtyht2jl13ws4rkzntfi_ls5p__us": {
    "status": "ambiguous",
    "archive_path": "other/reversa-plan-tjsasakifln-extra-cli/SKILL.md",
@@ -4153,14 +4113,6 @@
    "name": "gitlab-ci-patterns",
    "description": "Build GitLab CI/CD pipelines with multi-stage workflows, caching, and distributed runners for scalable automation. Use when implementing GitLab CI/CD, optimizing pipeline performance, or setting up automated testing and deployment."
   },
-  "3y9wulw1ysyyqiqap_bifummg5sgtroueenli8r6kae": {
-   "status": "upstream_changed",
-   "archive_path": "development/ocaml-testing/SKILL.md",
-   "repo": "avsm/ocaml-claude-marketplace",
-   "branch": "main",
-   "digest": "sha256:82e3b55d69486b3eece4b62716bb218c592f1ea8495393379ccd8957ac36262a",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "3ymtqfa7uoedfswi6qxagz0h54jolcnd1zuy8b3b2eo": {
    "status": "upstream_changed",
    "archive_path": "marketing/onboarding-cro/SKILL.md",
@@ -4452,6 +4404,18 @@
    "name": "finishing-a-development-branch",
    "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup"
   },
+  "4e9rgdvttm16mjg3r91qg4ayy2hqigeprbcl5x-xg5a": {
+   "status": "pinned",
+   "path": "skills/dispatching-parallel-agents/SKILL.md",
+   "archive_path": "other/dispatching-parallel-agents-darrrkkk-crypto-opencode-v2-skills-a/SKILL.md",
+   "repo": "darrrkkk-crypto/Opencode-V2-Skills-Agents",
+   "branch": "main",
+   "digest": "sha256:3c448f16d37e83b6cd58aaa90080829a42a5c703c207972e77bc70bf14136b2d",
+   "checked_at": "2026-10-20T09:04:56+00:00",
+   "commit": "b2c61b692842ebada7510b598630a6aee1db24c1",
+   "name": "dispatching-parallel-agents",
+   "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies"
+  },
   "4easux9qciutkhkslalhouoykngsqttgod_xuamxkts": {
    "status": "bundled_files",
    "archive_path": "other/copy-editing-multiplex-ai-muggle-ai-teams/SKILL.md",
@@ -4687,6 +4651,14 @@
    "branch": "main",
    "digest": "sha256:61d7a9750374cbb7b7d4572b36d35ae92e99f1002b996eb56ea47469f95f4eca",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "4mpswcv4bznb2io3intf1oowi2orfqeia_ziseij5ya": {
+   "status": "bundled_files",
+   "archive_path": "integration/make-bot-ui-bughunt8-skills/SKILL.md",
+   "repo": "bughunt8/skills",
+   "branch": "main",
+   "digest": "sha256:3624c8ef16cf2e48deb2a4049e72c6962a9431c8d6c6af90e7bd7ea0375224ec",
+   "checked_at": "2026-10-20T09:04:56+00:00"
   },
   "4mvka-parmwj7ossf2-iuyo528vaqdlsvtqr-f3mu2k": {
    "status": "pinned",
@@ -9219,6 +9191,14 @@
    "name": "seo-content-refresher",
    "description": "Identifies outdated elements in provided content and suggests updates to maintain freshness. Finds statistics, dates, and examples that need updating. Use PROACTIVELY for older content."
   },
+  "9to4-2e25kffcyxrmumhewchgo4ndxaudaxelmk6ssu": {
+   "status": "upstream_changed",
+   "archive_path": "ai-llm/mmx-cli-sickn33-antigravity-awesome-/SKILL.md",
+   "repo": "sickn33/antigravity-awesome-skills",
+   "branch": "main",
+   "digest": "sha256:10a4e4d29633db3e7df2a5c0c1ccae3946ce984c40b3382b520d9d04ffee3093",
+   "checked_at": "2026-10-20T09:04:56+00:00"
+  },
   "9ttgp2tmncetta2oc56br4ct09luvsykt5bkv1y_8bw": {
    "status": "bundled_files",
    "archive_path": "design/cafe-karanmrn-karanagentskills/SKILL.md",
@@ -11222,6 +11202,14 @@
    "digest": "sha256:ecc789535014b3de0351bcf3d915f04789c83fab8c6de9af67cbddf0d619d220",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "amvzyhz3up-thd8alwiz8lalvebcluzbir4vzmc2j9q": {
+   "status": "bundled_files",
+   "archive_path": "other/handoff-tuliopaim-dotfiles-linux/SKILL.md",
+   "repo": "tuliopaim/dotfiles-linux",
+   "branch": "main",
+   "digest": "sha256:4cbb043950dad2ffd3662ff1a5a0b51ae676004b5cae10e3787e8ee7a4ee69d3",
+   "checked_at": "2026-10-20T09:04:56+00:00"
+  },
   "amyup5h6labvsx8c5kwxkguug4r4o5umxnbt3s5rq58": {
    "status": "pinned",
    "path": "investigate/SKILL.md",
@@ -12076,14 +12064,6 @@
    "repo": "yigityildiz0/universal-ai-skill-library",
    "branch": "main",
    "digest": "sha256:c363ca5334339e74a63076e60c428a6824b2eb57a8f814f11b03a6ace384be53",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "b9rkh-q2dvxcrn3kge0e-khwzyf7gfjwexkd4c1dklm": {
-   "status": "upstream_changed",
-   "archive_path": "development/ocaml-code-style/SKILL.md",
-   "repo": "avsm/ocaml-claude-marketplace",
-   "branch": "main",
-   "digest": "sha256:b7028d570a95881d0b6fe6876d63ca2547dd3769e12b4294ccec76bde362b467",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "b_ffjusgxsnku26tvfu81lwrwcf6w_9tv-cz1n4vrkw": {
@@ -13490,6 +13470,14 @@
    "digest": "sha256:3af06e403c3b00521c99b28d600a2827782dce2b3cd9867b0556c749cbf441f0",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "c2vdh2qudyyymoygk0cb879hrv97wkhu0jvzgol1ef4": {
+   "status": "bundled_files",
+   "archive_path": "api/gemini-api/SKILL.md",
+   "repo": "dmavridi6478/business",
+   "branch": "main",
+   "digest": "sha256:4154cbf72523a459c152704f262bbbbc4256e104232e254a82dbe6f71bd323b7",
+   "checked_at": "2026-10-20T09:04:56+00:00"
+  },
   "c37qgewxepndygjrgwaq9mjb66kkywrspoi4fna0nbw": {
    "status": "upstream_changed",
    "archive_path": "bash/jev-use-suphiozdedee-projenicdesign-com/SKILL.md",
@@ -13941,14 +13929,6 @@
    "repo": "ibragimov-oasis/vibe-coder",
    "branch": "main",
    "digest": "sha256:4fadafb84f0e775f502758283ff7ae9cd1ed6bb443f73c95ad23249bf21982e7",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "cfccn6ekglb1wuevbjwlehk0oclif9n-ertk5jazhbm": {
-   "status": "bundled_files",
-   "archive_path": "data/obsidian-clipper-template-creator/SKILL.md",
-   "repo": "cgyudistira/code-agents",
-   "branch": "main",
-   "digest": "sha256:508b676d7e75d6771a58341c6ec86fc370420e310f34624b84ebcb621a783c27",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "cfgzgxpjp5bhudzbykhjh1eljbnzhoqywiigtvg6lsk": {
@@ -14551,6 +14531,14 @@
    "archive_path": "data/moai-lang-java/SKILL.md",
    "digest": "sha256:e42806f294db68581e348d6ce1d9f83e801ecbaa4819543fd1f9ec14cd3ec7f6",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "cpxjphottacaypxx-2mwousbbazdxmvc9hmi6cd_hrw": {
+   "status": "bundled_files",
+   "archive_path": "development/architecture-patterns-wshobson-agents/SKILL.md",
+   "repo": "wshobson/agents",
+   "branch": "main",
+   "digest": "sha256:350caf22b856b7d2908a10a69a8cc13e743c757ba9838716051b4e29fc1d7595",
+   "checked_at": "2026-10-20T09:04:56+00:00"
   },
   "cq3gptemud16gqcy_tfssoi3uheprrgjnfvejgep-so": {
    "status": "upstream_unavailable",
@@ -15231,6 +15219,18 @@
    "digest": "sha256:7fa9a57248fc5025ccf408d9ec28329fbaf714f17a4be2b99fedeb57c471bcd9",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "d8uksf7z9mvoppzz-hutlp72qmy6invr8jnjnvk0u8s": {
+   "status": "pinned",
+   "path": "skills/correct/SKILL.md",
+   "archive_path": "other/correct-uzairansaruzi-p3-stack/SKILL.md",
+   "repo": "uzairansaruzi/p3-stack",
+   "branch": "main",
+   "digest": "sha256:bf482bacc972b3f124a4af8bf9364b4b3e280cb5845e44c326ea4f4565e5c904",
+   "checked_at": "2026-10-20T09:04:56+00:00",
+   "commit": "09909ebb5c0125e27fad3e57d96b81e832696d69",
+   "name": "correct",
+   "description": "Find the mistakes agents keep repeating in this repo and make each one impossible. Try architecture first, then types, then a lint whose error names the fix, then a test, and write docs last. Prove each check fails on a real past mistake. Repeat this each time the operator corrects you. Use for /correct."
+  },
   "d9pij4pgqow0yrfphvpuuujtkh6ztk-_nhfgwxkd5mq": {
    "status": "pinned",
    "path": "skills/fp-react/SKILL.md",
@@ -15460,14 +15460,6 @@
    "repo": "sickn33/antigravity-awesome-skills",
    "branch": "main",
    "digest": "sha256:f65510f33c1d9e59d8a8431ff2dfcd4e93d275d57687150f854ac9bfbc8ce608",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "dfmhgsd_nxcwk-vb56ebbmj22pyrxfzy4zo1hlsxuue": {
-   "status": "upstream_changed",
-   "archive_path": "other/odw-suphiozdedee-projenicdesign-com/SKILL.md",
-   "repo": "suphiozdedee/projenicdesign.com",
-   "branch": "main",
-   "digest": "sha256:92cee3314b04894fbbea0a5724f913c92cd5613dc50cffdd39a24d882da1ccab",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "dfseqqxg_nrm7gpnfspv9fvghm9xdfldvzsmkwigtti": {
@@ -16208,6 +16200,14 @@
    "digest": "sha256:ce19de416afa03a0e6a764c9cb8b8ba9a0b94812b9de1ad5a0c2cb2932009f28",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "drkuclvkib5cz9cf-dxytbxtpuiyp4w_nu9lpy5mfj0": {
+   "status": "bundled_files",
+   "archive_path": "other/tdd-tuliopaim-dotfiles-linux/SKILL.md",
+   "repo": "tuliopaim/dotfiles-linux",
+   "branch": "main",
+   "digest": "sha256:5505d25bbaa8fc14a79e4d20163936958992a2995b7f1dd1d6197edc9ed722e0",
+   "checked_at": "2026-10-20T09:04:56+00:00"
+  },
   "drledk79koxpn2eqeonatk3a0dubgbjwmfrbza_uzpa": {
    "status": "pinned",
    "path": "skills/labclaw-bio-matchms/SKILL.md",
@@ -16829,6 +16829,14 @@
    "name": "upstash-qstash",
    "description": "Upstash QStash expert for serverless message queues, scheduled jobs, and reliable HTTP-based task delivery without managing infrastructure. Use when: qstash, upstash queue, serverless cron, scheduled http, message queue serverless."
   },
+  "e5cm7zgqsmztxcggdrtvvkj6hcdy9ul47uxmt0njiyu": {
+   "status": "bundled_files",
+   "archive_path": "other/diagnosing-bugs-tuliopaim-dotfiles-linux/SKILL.md",
+   "repo": "tuliopaim/dotfiles-linux",
+   "branch": "main",
+   "digest": "sha256:849198df88cdb65fd0d97236604c1fca7ff2f22d2f705f9724a800d0266b118d",
+   "checked_at": "2026-10-20T09:04:56+00:00"
+  },
   "e5iiuywenipjqvjg8zn-yqyj55yld8xmyr9-awbg3pa": {
    "status": "pinned",
    "path": "google/gws-calendar-agenda/SKILL.md",
@@ -16991,6 +16999,14 @@
    "branch": "main",
    "digest": "sha256:a45cddd4511f8262df05b20506f4d52be8210a9ee05a13d9e36d4ee321bab593",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "e_xrqvkhauaj71ni1nbpgdohj6ejparnwulnkf-xvjg": {
+   "status": "bundled_files",
+   "archive_path": "agent/agent-development-thevibeworks-claude-code-docs/SKILL.md",
+   "repo": "thevibeworks/claude-code-docs",
+   "branch": "main",
+   "digest": "sha256:6a2826571320828cc6f8f21ccd8e6eefd2bced62000c8c5e43a712c12e2d83a1",
+   "checked_at": "2026-10-20T09:04:56+00:00"
   },
   "eayy41iubpuojor5uohmavw-3wllqo5fdoy7xpvo56s": {
    "status": "pinned",
@@ -20105,18 +20121,6 @@
    "archive_path": "development/godot-4-migration-brunolimaff-jpg-novo-app/SKILL.md",
    "digest": "sha256:851c46ae872ae7dc6415693ce80aa98b80150d8d0b58dffcf12b7e062b92260c",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "fzvjm_mitumbyqx2po92pvk7zbolf2hckwiywdp56ik": {
-   "status": "pinned",
-   "path": "skills/mobile/offensive-mobile/SKILL.md",
-   "archive_path": "other/offensive-mobile-ajtazer-heckit/SKILL.md",
-   "repo": "ajtazer/heckit",
-   "branch": "main",
-   "digest": "sha256:16efaba6203ac752b5d266534fa6a488d5b2c00f11f5a1ccd89fc75bead122c1",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "f82481acf60da8b636a5af97df17d3c46f0939aa",
-   "name": "offensive-mobile",
-   "description": "Mobile (Android + iOS) application penetration testing methodology. Covers static analysis (apktool/jadx for Android, class-dump/Hopper/IDA for iOS), dynamic instrumentation with Frida and Objection, SSL pinning bypass strategies, root/jailbreak detection bypass, deep-link / URL-scheme abuse, exported component attacks (Android activities, services, providers, receivers; iOS XPC, URL schemes, universal links), insecure data storage (SharedPrefs, KeyStore misuse, NSUserDefaults, Keychain ACL bypass), IPC / Intent redirection, WebView vulnerabilities (JavaScriptInterface, file:// access), Firebase/AWS/Azure misconfiguration leakage, mobile API testing, biometric/Face ID/Touch ID bypass, app-cloning and runtime patching, and mobile malware/RAT analysis primitives. Use for mobile pentest, bug bounty mobile triage, or app-store reconnaissance."
   },
   "fzxeh11xvlzzxoolfrwwipw-yo5-fai3uydckz-amyg": {
    "status": "bundled_files",
@@ -25499,14 +25503,6 @@
    "digest": "sha256:d34cfc7114b4479cac2b802f2463c39312cbab4a509313128cb83ac12a1b1eb6",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "jhtbickwjdfrpq554gfxfreao40xmttns2ds-i3nolc": {
-   "status": "upstream_changed",
-   "archive_path": "other/object-modify-punkouter26-posumo/SKILL.md",
-   "repo": "punkouter26/PoSumo",
-   "branch": "master",
-   "digest": "sha256:7d81a21fcca5acae54401cf79c1533900fd9a2974a66d5fbf9e4288c7179f146",
-   "checked_at": "2026-10-17T23:14:30+00:00"
-  },
   "jhvd_4msnehrbeqvs6ufkbebhag9gwdfgrqhclxx6ge": {
    "status": "bundled_files",
    "archive_path": "security/performing-red-team-with-covenant-xtofuub-openrecon-ios/SKILL.md",
@@ -25796,6 +25792,14 @@
    "branch": "main",
    "digest": "sha256:d37478268d979001cf3382ab3322c04ed329e47f4c06b8f2af16ece5b989f0be",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "jnjb2ibrfmcrlj4d7rx3yi8s_nqlf1zemwghqa-l4ce": {
+   "status": "bundled_files",
+   "archive_path": "other/muapi-social-media-video-darrrkkk-crypto-opencode-v2-skills-a/SKILL.md",
+   "repo": "darrrkkk-crypto/Opencode-V2-Skills-Agents",
+   "branch": "main",
+   "digest": "sha256:d72477ddedc6c3a569ab6a925a67ba78eca47cdd67bc31bbc73b2dd72b134a67",
+   "checked_at": "2026-10-20T09:04:56+00:00"
   },
   "jnp6c6fav2oogxzjb7leqfmoe77jw14ci5ypasyehyo": {
    "status": "ambiguous",
@@ -26170,6 +26174,18 @@
    "branch": "main",
    "digest": "sha256:2a1f2e63506fded1d67124541102b1e4d4c8cdfdbcb03179e5efcb025dd6e451",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "jwzidijzwe35eslheguzemlyvsyx37nncqm1bfsqoka": {
+   "status": "pinned",
+   "path": ".agents/skills/receiving-code-review/SKILL.md",
+   "archive_path": "other/receiving-code-review-b-mendoza-agent-skills/SKILL.md",
+   "repo": "b-mendoza/agent-skills",
+   "branch": "main",
+   "digest": "sha256:091df1629510af1b92fc4abd6f96732ebedb4cb2c0f3457e8f2740b0504a2438",
+   "checked_at": "2026-10-20T09:04:56+00:00",
+   "commit": "6ff16fc5d4fb3bb6f648a7a737809d71964e08f3",
+   "name": "receiving-code-review",
+   "description": "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation"
   },
   "jx7endrc0i0qyy8ja7fztn3ahreuvpgzmnm55lyqnhi": {
    "status": "ambiguous",
@@ -30234,14 +30250,6 @@
    "digest": "sha256:2b4583b296a3a043b9002cd74e3ca5407fce832598dcd428272da08a9839f64b",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "mgkmgwifvwmugryd6hy6y7qfu8thrvshcr3ce6rgdn8": {
-   "status": "upstream_changed",
-   "archive_path": "data/ocaml-npm-publishing/SKILL.md",
-   "repo": "avsm/ocaml-claude-marketplace",
-   "branch": "main",
-   "digest": "sha256:11ad916a99541584c4542e5b5d7af2adb593e48dde72ef4db14fa5872b9e0900",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "mguyflrxr5s_gs5ukdqu8mtwaq7phs4vwowaxdosioq": {
    "status": "upstream_changed",
    "archive_path": "development/code-review-pro/SKILL.md",
@@ -33621,6 +33629,18 @@
    "digest": "sha256:ff3324078bbeef3e214157391795360e148892e9c6735f1fc049f397aa939c80",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "oi46mzybclhvl17_bidaz-dil-7myo5g-npy_mpit9u": {
+   "status": "pinned",
+   "path": "plugins/pstack/skills/in-your-own-words/SKILL.md",
+   "archive_path": "other/in-your-own-words/SKILL.md",
+   "repo": "michael-denyer/pstack-claude",
+   "branch": "main",
+   "digest": "sha256:292b1f5b008a78be49830f02f8bc04be7bf0df50e66d0143138f244f2b47a38a",
+   "checked_at": "2026-10-20T09:04:56+00:00",
+   "commit": "49b68501b075ec1eb2755dd0d22fbf2492d67e97",
+   "name": "in-your-own-words",
+   "description": "Restate in your own words what you think the user's goals are and what problem they're trying to solve. Use for /in-your-own-words."
+  },
   "oieoyu_6iwirxjrq1v6jz5-pyuxrvzdpxb1gqvxsgyg": {
    "status": "pinned",
    "path": "templates/skills/paywall-upgrade-cro/SKILL.md",
@@ -34671,18 +34691,6 @@
    "branch": "main",
    "digest": "sha256:3f5b405f4058a7d4beacfef8c981ffe12dc9ecb965f6f6d121c4e762f0353cf2",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "p5pu1ya10j6pezdy4r3owm1utjfcjmnfxfftgvvxw9k": {
-   "status": "pinned",
-   "path": "skills/web/offensive-toctou/SKILL.md",
-   "archive_path": "development/offensive-toctou-ajtazer-heckit/SKILL.md",
-   "repo": "ajtazer/heckit",
-   "branch": "main",
-   "digest": "sha256:8c7fb9790b1853ecf5dfa23fe85b8fa0d1967c20a7ffe04752a6ac4c2253636f",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "f82481acf60da8b636a5af97df17d3c46f0939aa",
-   "name": "offensive-toctou",
-   "description": "Time-of-Check / Time-of-Use (TOCTOU) race condition exploitation methodology across binary, kernel, filesystem, web, and container layers. Covers symbolic-link races (open/access/stat split), file-descriptor races, fopen/realpath traversal races, /proc and procfs races, FUSE-backed slow-fs races to widen the window, ptrace and signal races, kernel double-fetch / userspace pointer races, container/runc/symlink escape primitives, kubernetes admission/authz TOCTOU, web auth-vs-authz TOCTOU, JWT-claim TOCTOU at gateway vs service, payment/idempotency races, and modern race-amplification techniques (single-packet attack, slow loris, FUSE pause, cgroup freeze, scheduler shaping). Use when you've identified a 'check then act' pattern in code, when fuzzing for race conditions, or when exploiting concurrency bugs in privileged binaries / kernel / orchestrators."
   },
   "p69luxueazmxdsvae8wfo0ytvcsc6dhm6_pjv5u9cxk": {
    "status": "bundled_files",
@@ -36174,6 +36182,14 @@
    "digest": "sha256:05f7eee0d78735f3076fc02c732e4c660f55e2f058922e1ef46280a414294fa5",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "q0j2-6p46l5uiaocxbgtggav6sv7sf6xs2sywacd608": {
+   "status": "upstream_changed",
+   "archive_path": "quality/ui-score/SKILL.md",
+   "repo": "sickn33/antigravity-awesome-skills",
+   "branch": "main",
+   "digest": "sha256:1a8faf77593fdfe09a523bc66fe9ca80eabceec417a5f96c0bd5088728614c5a",
+   "checked_at": "2026-10-20T09:04:56+00:00"
+  },
   "q1bafrrxi8q-wgcbctpkiozhcqyf3mlfkl3qqelcpsw": {
    "status": "upstream_unavailable",
    "error": "GitHub API 404: {\"message\":\"Branch not found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
@@ -36219,14 +36235,6 @@
    "repo": "whd4/expert-ai-skills",
    "branch": "main",
    "digest": "sha256:b97f241442802396f5dd5b1a0990611ac1327759fd2e48b45463e162f9da4248",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "q28zjqrxrw3cuq_0kk851sbz0ozyrvz1hrrqg-m4ygg": {
-   "status": "upstream_changed",
-   "archive_path": "documents/office-jezweb-claude-skills-3/SKILL.md",
-   "repo": "jezweb/claude-skills",
-   "branch": "main",
-   "digest": "sha256:140be338df16f25d900a04820547e158649ad7fc5ce3093f0c1c003ba17e9d53",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "q2u3e3hjocfc2a4nntpvz4qwrmegybp6jqd52r7vwh8": {
@@ -36855,14 +36863,6 @@
    "repo": "hotriluan/alkana_kpi",
    "branch": "main",
    "digest": "sha256:10c53b6f368cc410c0834484d64ba97e5a251eaa2a2eabb652b9c2c770777f16",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "qif1j9qf0od7pe7f37nl9rz6zmo-iztli2o-oh76iia": {
-   "status": "upstream_changed",
-   "archive_path": "other/odw/SKILL.md",
-   "repo": "sickn33/antigravity-awesome-skills",
-   "branch": "main",
-   "digest": "sha256:9e444b39b1c5da4fa3064c4daf5f43a75f64e31ea4271b29671723aa986b5b66",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "qisdxork9cza35sjt8_fxdvjg5nwetb_fp7ucttbuqs": {
@@ -38648,6 +38648,14 @@
    "digest": "sha256:eb4e6a2417720214c8c9c46b99f04228f1c3e507e5f0c1ae950b33a5104c79b6",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "rpwnlj0nhih702sdntzg2wxtdji398jv2mt6akrmbyo": {
+   "status": "bundled_files",
+   "archive_path": "other/codex-web-request-armanisadeghi-matrx-local/SKILL.md",
+   "repo": "armanisadeghi/matrx-local",
+   "branch": "main",
+   "digest": "sha256:f2a798fcae90b456ebba32f7dd26e9512d7a1c98738fc6fb163e4eeefb1e5757",
+   "checked_at": "2026-10-20T09:04:56+00:00"
+  },
   "rq2xsrpkchchoykscg6retsyl5knaq4vjwv_cjphu9e": {
    "status": "bundled_files",
    "archive_path": "other/tdd-karanmrn-karanagentskills/SKILL.md",
@@ -39357,14 +39365,6 @@
    "digest": "sha256:a56954d8d037f41c299480bce36083d3e09c0369d07166a0b4825ccbc5be04ed",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "s4fwfsfiro9qljmkm29outirzjssuqd7ue19ovvbvn0": {
-   "status": "bundled_files",
-   "archive_path": "other/ohmg-jyjeanne-ai-setup-forge/SKILL.md",
-   "repo": "jyjeanne/ai-setup-forge",
-   "branch": "main",
-   "digest": "sha256:335c761135fda0da24cf457d358e2ee668bf4c4fb7e1250c3bf2b1cd64d3ca91",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "s5dip4h_g8nys_ago_7zpfvlp998mi0ots4h9cjujhg": {
    "status": "bundled_files",
    "archive_path": "performance/miles-tianhao909-ai-research-skills-c/SKILL.md",
@@ -39917,14 +39917,6 @@
    "repo": "lxyeternal/MalSkillBench",
    "branch": "main",
    "digest": "sha256:ec253d5044dc0227bd1b28c0fe695b31d8f55426df1173a7c2335e1d7b03f0ed",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "shfeawx1j3rnuoqjul8kf3dyc4g9a5h2rxqmyfn0idm": {
-   "status": "bundled_files",
-   "archive_path": "other/okta-kbarbel640-del-skills/SKILL.md",
-   "repo": "kbarbel640-del/skills",
-   "branch": "main",
-   "digest": "sha256:e6fb907d0f928487cd3e05a6c05c8e5df3e15b1d2ece2c62fbdf285868a4f4f7",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "shkccy4j-fm6i61mm4hkciejb5kpgp-awle2sh0hjgc": {
@@ -42646,18 +42638,6 @@
    "name": "ilit",
    "description": "Drafts an Irrevocable Life Insurance Trust (ILIT) compliant with IRC § 2042 and state trust laws to exclude life insurance from the grantor's taxable estate. Covers Crummey withdrawal rights, trustee powers, distributions, and execution formalities. Use when drafting ILITs, life insurance trusts, estate tax exclusion trusts, or Crummey trusts."
   },
-  "u3ax0a4f989ufoe-gr48dfpe8jduzszivwaqwmyiefg": {
-   "status": "pinned",
-   "path": ".agents/skills/obsidian/SKILL.md",
-   "archive_path": "other/obsidian-vic868-deliberate/SKILL.md",
-   "repo": "vic868/Deliberate",
-   "branch": "main",
-   "digest": "sha256:d4ed3ce53146bd6538c47f81da2382fc790598ec1400d34b7d1f73a8839053b4",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "8d8dbc87e343b1c350ac75942063db7b461806e2",
-   "name": "obsidian",
-   "description": "Work with Obsidian vaults using the official obsidian CLI: read/search/create/edit notes, tasks, links, properties, plugins."
-  },
   "u42zgqpdgy8zuo93eq8kfzenmlhe35yvgx5nzbxfee8": {
    "status": "bundled_files",
    "archive_path": "bash/tmux-charlie-818-clawd/SKILL.md",
@@ -43966,6 +43946,14 @@
    "branch": "main",
    "digest": "sha256:d010d2f9bb19b6aca7c51f460fb9b32564dbebc09610ea873abb636232d2fe26",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "ut_ha_zsaqt7avi7nycei5kad9kfm5cjaor_k0mp83u": {
+   "status": "bundled_files",
+   "archive_path": "other/code-review-tuliopaim-dotfiles-linux/SKILL.md",
+   "repo": "tuliopaim/dotfiles-linux",
+   "branch": "main",
+   "digest": "sha256:09eb147f793e4647949edd32dbad278f0554dfb56e0d46b699cd4c2c55bf0357",
+   "checked_at": "2026-10-20T09:04:56+00:00"
   },
   "utccxq_exdgavxhwgg7xwjbuk5-j5fpat2bd-jg67su": {
    "status": "bundled_files",
@@ -45350,14 +45338,6 @@
    "repo": "patrickserrano/lacquer",
    "branch": "main",
    "digest": "sha256:609158ee26c6005cf6138635a1a8ac4928322651c82ba13584db19d610d61e6b",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "vmyfzckjx07w_4mwuzn2jvvgzqsb7vfi8tnjn2juula": {
-   "status": "ambiguous",
-   "archive_path": "writing/offers-mashharuki-revenuecat-sample-2/SKILL.md",
-   "repo": "mashharuki/RevenueCat-Sample",
-   "branch": "main",
-   "digest": "sha256:cdc291bdf93b9ce135c39f034283acaee136b453239b7fe712823fae4f2d5a12",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "vn-ryafr6rpk2zgm6mu1j9gud-5vlooc1bc8e1za5uc": {
@@ -48821,6 +48801,14 @@
    "name": "ai-product",
    "description": "Every product will be AI-powered. The question is whether you'll build it right or ship a demo that falls apart in production.  This skill covers LLM integration patterns, RAG architecture, prompt ..."
   },
+  "xvzoihh6fs6yexutqbelapmwec6qhzav1bwnbqkxpek": {
+   "status": "bundled_files",
+   "archive_path": "agent/grilling-tuliopaim-dotfiles-linux/SKILL.md",
+   "repo": "tuliopaim/dotfiles-linux",
+   "branch": "main",
+   "digest": "sha256:befdff1e27a1dfe2a294d5871169ac1afe16d983911daa4f32627514a48c1e15",
+   "checked_at": "2026-10-20T09:04:56+00:00"
+  },
   "xwlultluph3ydn2rhguenkjzk5crnwbbrobp8mkyfn0": {
    "status": "upstream_unavailable",
    "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
@@ -49245,6 +49233,14 @@
    "branch": "main",
    "digest": "sha256:6b9139ff629e51dba527f55d70ed9a168c85caf997bb50b7ec52df2e6a5e1a62",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "y7hc5hjxpczli-g6wqulmwdc1sz1cbxycsyfebb_gvi": {
+   "status": "bundled_files",
+   "archive_path": "data/data-context-extractor/SKILL.md",
+   "repo": "myl7/knowledge-work-plugins-for-codex",
+   "branch": "main",
+   "digest": "sha256:6d05dec52ac3667b551898b9eb943f5ee08141bc8d2fabb69a8e39bb9ce7c754",
+   "checked_at": "2026-10-20T09:04:56+00:00"
   },
   "y7iybibq3p8_xipfhfa6yxbbqm390mydpczfjyiksvo": {
    "status": "pinned",
@@ -50355,6 +50351,14 @@
    "branch": "main",
    "digest": "sha256:158f42a00846d9e4bb2a27c0ecf8c10745891a45916dc3de9127a124c0a6dcfc",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "ytydehqhjbv5aj9juqj55pukyqdflbreoszvikezmmk": {
+   "status": "bundled_files",
+   "archive_path": "other/muapi-ui-design-darrrkkk-crypto-opencode-v2-skills-a/SKILL.md",
+   "repo": "darrrkkk-crypto/Opencode-V2-Skills-Agents",
+   "branch": "main",
+   "digest": "sha256:9289005e1090442403629bfab6b27bff795b146d7daebb5d0bc040465218b2fc",
+   "checked_at": "2026-10-20T09:04:56+00:00"
   },
   "yu0a0kjjbl8-lptkgozrrcbi7t0wrbbgofrb4llvgbe": {
    "status": "pinned",
@@ -51648,14 +51652,6 @@
    "commit": "989a2f52e1aaa4a10f54297cdad50aeef75e8cd4",
    "name": "nasa-automation",
    "description": "Automate Nasa tasks via Rube MCP (Composio). Always search tools first for current schemas."
-  },
-  "zm-rlvtsfzywtwg09ewiaboaev6waeiqggklapzaysc": {
-   "status": "upstream_changed",
-   "archive_path": "development/ocaml-dune-migration-avsm-ocaml-claude-marketp/SKILL.md",
-   "repo": "avsm/ocaml-claude-marketplace",
-   "branch": "main",
-   "digest": "sha256:14769c670ec6c32006e5a570aa727d3644f9d10f775b34284518ac2406e7e5d6",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "zm8vbw0xrjgzbnrzl3ulxabuncypxru7rzbkroqsf9e": {
    "status": "bundled_files",
