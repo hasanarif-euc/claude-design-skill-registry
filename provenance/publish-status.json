@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "status": "passed",
-  "generated_at": "2026-10-21T14:05:17Z",
+  "generated_at": "2026-10-21T16:01:48Z",
   "core_repo": "majiayu000/claude-skill-registry-core",
-  "core_sha": "2e5e3caf35f31c2e3e55a435675a8f6a654a194e",
+  "core_sha": "e4b3784d252b7c30e3fd354c791d3a1ef962a1d4",
   "data_repo": "majiayu000/claude-skill-registry-data",
   "data_sha": "446e36ba953aa793559633f97beca95c00f9bb3b",
-  "github_run_id": "39594545504",
+  "github_run_id": "39623427498",
   "github_run_attempt": "1",
-  "github_run_url": "https://github.com/majiayu000/claude-skill-registry/actions/runs/39594545504",
+  "github_run_url": "https://github.com/majiayu000/claude-skill-registry/actions/runs/39623427498",
   "promotion_gate": {
     "mode": "pre-commit canary validation",
     "result": "allowed"
@@ -63,9 +63,9 @@
       "detail": "largest_generated_file_bytes=9496419"
     },
     {
-      "name": "archive source counts and no main mirror",
+      "name": "archive source counts",
       "status": "passed",
-      "detail": "336838 SKILL.md and 336836 metadata files in the data archive match stats; main carries no skills/ mirror"
+      "detail": "336838 SKILL.md and 336836 metadata files in the data archive match stats"
     }
   ]
 }
