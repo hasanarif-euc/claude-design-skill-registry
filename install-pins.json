@@ -76,18 +76,6 @@
    "digest": "sha256:be9e97e1e4ca564b99691087aefe5693544570c67ca2252027210f8cf0177113",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "-4hpqatxtssoeqb4rjrv73a6dmrmzpewa0xrisq3_sk": {
-   "status": "pinned",
-   "path": "skills/normalize/SKILL.md",
-   "archive_path": "design/normalize-shengdabai-tony-claude-code-ski/SKILL.md",
-   "repo": "shengdabai/Tony-Claude-Code-Skills",
-   "branch": "main",
-   "digest": "sha256:1321fb31e5b3f9ffe42039193927d2c72117f6968645a2c2fa6934211e60552b",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "c6a7eafbddeb48b7aa48647623883a994d113900",
-   "name": "normalize",
-   "description": "Audits and realigns UI to match design system standards, spacing, tokens, and patterns. Use when the user mentions consistency, design drift, mismatched styles, tokens, or wants to bring a feature back in line with the system."
-  },
   "-574k_7ryxdb6yeib6apfxgfjolf77v7o-prbu99p_o": {
    "status": "bundled_files",
    "archive_path": "data/biopython-raktim-mondol-hermes-plugin-resear/SKILL.md",
@@ -322,14 +310,6 @@
    "digest": "sha256:2b4d18619fa6fe670d2fd2435d3bf2dc48c21604bd7eb9bc03e26e9389bdf7be",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "-cjw5avhgzyao_z_q64lyzizfdkpacd9monk6eus_j0": {
-   "status": "ambiguous",
-   "archive_path": "other/modular-design-principles-hellyaxs-case-cell-shop-2/SKILL.md",
-   "repo": "hellyaxs/case-cell-shop",
-   "branch": "main",
-   "digest": "sha256:52fe4ca680c80de2abd52773f47ba8014ff753030da6ccaa4cc1fe48d4e400f7",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "-ctpobzhniqhwiuzxfjmnor-ywk420oj0al7yr-ccg4": {
    "status": "ambiguous",
    "archive_path": "testing/bmad-testarch-automate-alexoviedo999-my-personal-website/SKILL.md",
@@ -427,18 +407,6 @@
    "branch": "main",
    "digest": "sha256:3269ff9d569f23a2f6b62cbb1b0b531ce9c9bc11b13047b2bb39d9523e81671c",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "-ffyvjnwdyh4x27v7fnd5si2_yra0wyifddcszuravm": {
-   "status": "pinned",
-   "path": "skills/nanobanana-ppt/SKILL.md",
-   "archive_path": "other/nanobanana-ppt-mrglennc64-new-ac/SKILL.md",
-   "repo": "mrglennc64/new-ac",
-   "branch": "main",
-   "digest": "sha256:200effe104c84b9b0110cf82ee0914928aec879c30dca3c5703e9fde57b1d489",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "026d0842ca42ec6ce67e17117b281429181e845a",
-   "name": "nanobanana-ppt",
-   "description": "AI-powered PPT generation with document analysis and styled images via the NanoBanana stack. Combines image generation with structured deck output."
   },
   "-fnt8h-iha68z9et4bhp2wtgjf7qikgtjnhrl7iesdy": {
    "status": "bundled_files",
@@ -1102,14 +1070,6 @@
    "digest": "sha256:101464dab8917c3796b2924d5bd9d9cfdbb523545ea385de198286dabed86c6e",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "084c6sggvtmuz45oqf1o_-u0anefxykflfsyagntb1c": {
-   "status": "bundled_files",
-   "archive_path": "bash/namecheap-praxstack-markdown-viewer-app/SKILL.md",
-   "repo": "praxstack/markdown-viewer-app",
-   "branch": "main",
-   "digest": "sha256:5023cc6052e48e32c5f93a076cf88d67ea7fd2ed20e67e5a1d0f78daa0457ca6",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "08deetjmujzirkcnthrs0oc29amdpd9grtkqycqk6he": {
    "status": "upstream_changed",
    "archive_path": "quality/code-review-ai-ai-review-claude-code-communit-claude-code-resour/SKILL.md",
@@ -1499,6 +1459,14 @@
    "name": "demio-automation",
    "description": "Automate Demio tasks via Rube MCP (Composio). Always search tools first for current schemas."
   },
+  "0r80qbi1lad0vdvvh5h8_f0ipablsg3xqpunxpqt-lk": {
+   "status": "bundled_files",
+   "archive_path": "other/graphql-nguyen-thanh-1-askills/SKILL.md",
+   "repo": "nguyen-thanh-1/ASkills",
+   "branch": "main",
+   "digest": "sha256:154b54ded3b088e8b6e6a5cd38a811747015286d3d622b67457f2b4fb67d9b99",
+   "checked_at": "2026-10-21T08:51:20+00:00"
+  },
   "0rabl8lsnihciwwxybihzapa4utmpjbwxwkhz7oaxe8": {
    "status": "upstream_unavailable",
    "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
@@ -1569,6 +1537,18 @@
    "branch": "main",
    "digest": "sha256:f530021da9f377362ee4214e0bc689cbb5404640d2eb88ee272d51d61f530a09",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "0uqitck79bfj3xoeov2rdj_y104gvuslwsys9vbkdcy": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-code-generation/SKILL.md",
+   "archive_path": "other/aidlc-code-generation-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:77c291453bddad9e86cb3f0776cbf1ce8a88472a072b1bb11ab2053d9d388888",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-code-generation",
+   "description": "Run the AI-DLC `code-generation` stage (construction phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage code-generation --single`: the engine emits one run-stage directive for code-generation and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
   },
   "0v-vo2siv5j6h3nzndbljd-pwoj_yhz7pqujnd_vvyu": {
    "status": "pinned",
@@ -1662,14 +1642,6 @@
    "name": "vector-index-tuning",
    "description": "Optimize vector index performance for latency, recall, and memory. Use when tuning HNSW parameters, selecting quantization strategies, or scaling vector search infrastructure."
   },
-  "0xol_j8hwdlsbbxxjjskzd4cli9u-wfva2teamf71ha": {
-   "status": "bundled_files",
-   "archive_path": "bash/noob-mode-trumedia-creative-live-events-dashboar/SKILL.md",
-   "repo": "TruMedia-Creative/live-events-dashboard",
-   "branch": "main",
-   "digest": "sha256:6704acd60bb56a11fc56f1738680324959ee6279f1b44e5e2c60a92dab42ac53",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "0y0att86omiviirk2vbkm2jpjkhctyklu44cdbrev1m": {
    "status": "upstream_changed",
    "archive_path": "development/ruby-pro/SKILL.md",
@@ -1743,14 +1715,6 @@
    "repo": "adaptyvbio/protein-design-skills",
    "branch": "main",
    "digest": "sha256:65a39675c2600333e68bef2b23f57f419935ba099d1a215b74ce374c7a876c28",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "133xuf92aosuzwvxygasogto4ewfzq45q5lo5fgr9yy": {
-   "status": "bundled_files",
-   "archive_path": "design/nuxt-ui-trumedia-creative-live-events-dashboar/SKILL.md",
-   "repo": "TruMedia-Creative/live-events-dashboard",
-   "branch": "main",
-   "digest": "sha256:db515c491a428d3b6ca4ee61ad4d421e800657ba0df8473327867d79cd057db9",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "13iodhojw-l2pkwel8js3tjregil3wss6qtuodwu3yk": {
@@ -2235,18 +2199,6 @@
    "commit": "997dceb6b804283b8f820dcc5d6ed0922a70af21",
    "name": "spec",
    "description": "Turn vague intent into a precise, executable spec in five phases. (gstack)"
-  },
-  "1ob6y_q3-nvzxx6asbqlr6hsw5_ivu3pnv-rqhycniu": {
-   "status": "pinned",
-   "path": ".cursor/skills/nx-workspace/SKILL.md",
-   "archive_path": "development/nx-workspace/SKILL.md",
-   "repo": "nrwl/nx",
-   "branch": "master",
-   "digest": "sha256:9b213d1d07a1307cc3c0147970ef61dec63a211d355563dc67b720dabff8a17f",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "eecef0cf01509176dc5ebac1a48295c565e31f53",
-   "name": "nx-workspace",
-   "description": "Explore and understand Nx workspaces. USE WHEN answering any questions about the nx workspace, the projects in it or tasks to run. EXAMPLES: 'What projects are in this workspace?', 'How is project X configured?', 'What targets can I run?', 'What's affected by my changes?', 'Which projects depend on library Y?', or any questions about Nx workspace structure, project configuration, or available tasks."
   },
   "1pmmje0tqtemw03nzfi7sivvmhhh7mwnihayao67_qi": {
    "status": "upstream_changed",
@@ -2776,6 +2728,14 @@
    "branch": "main",
    "digest": "sha256:6d3ab77b2d098eff9c0b53e001feaf508119f646ba55d1163f4f1dec39a42cf0",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "2ddffu1a7rbqqmfmiuuph1g0dodggy9tmvestqcucho": {
+   "status": "ambiguous",
+   "archive_path": "other/source-42a34f5f704a66bf1ea71990/SKILL.md",
+   "repo": "gutsofpratik/OpenClaude-Skills",
+   "branch": "main",
+   "digest": "sha256:681e456d00509f1ddc87830b595b1a3667913fa4307cbdb6b5d652e042b6d18a",
+   "checked_at": "2026-10-21T08:51:20+00:00"
   },
   "2dok6njb0qwdu5xotyixkvnluq648x4vzq5x693thpw": {
    "status": "upstream_unavailable",
@@ -3518,6 +3478,14 @@
    "digest": "sha256:959ac7e16c548ea6fe2463d781da9a125febe6d2478a2a83886bd60beebb083c",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "3bf_0iemqbqvwiklkstszjxpaqqiqcleyxrffwjppfk": {
+   "status": "bundled_files",
+   "archive_path": "design/webapp-testing-ggogogohub-portfolio/SKILL.md",
+   "repo": "ggogogohub/portfolio",
+   "branch": "main",
+   "digest": "sha256:c4629221463d79c84555721ae2a30a6c345dd4d16c38cf6dbe735126e2426044",
+   "checked_at": "2026-10-21T08:51:20+00:00"
+  },
   "3bpmrvzljhiul4fjugfnsimgqqwbq2js5wsl4rwphcw": {
    "status": "bundled_files",
    "archive_path": "security/exploiting-http-request-smuggling-xtofuub-openrecon-ios/SKILL.md",
@@ -3815,14 +3783,6 @@
    "repo": "rysweet/AzureHayMaker",
    "branch": "main",
    "digest": "sha256:efd91f287ec46ab2a5025246496ea8e0fc870c10a56741f00a978abea973635d",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "3may2mtjkw0qqfxlymohbulg4u4xjngxraiovsws1f0": {
-   "status": "bundled_files",
-   "archive_path": "data/moonshot-decide-sequence/SKILL.md",
-   "repo": "munlucky/moon-bot",
-   "branch": "main",
-   "digest": "sha256:4525b769b5948d6662d27dedc3f41ca8695cc2d0dba319fbd70ad836559f3099",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "3mexvbiu3edk0dhbzculnh9jjjskq9eocy6duqdawuk": {
@@ -4157,18 +4117,6 @@
    "digest": "sha256:20d370bbfb5c6c7efbdfe5d86ca42f5c49ef968b7b84821abc85089a96aa6bb9",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "3zr5h7j9pzjl-rqikdzxzxxngfbfikfbdkiztcl6aju": {
-   "status": "pinned",
-   "path": "nano-banana-2/SKILL.md",
-   "archive_path": "performance/nano-banana-2-prime-skills-runcomfy-agent-skill/SKILL.md",
-   "repo": "prime-skills/runcomfy-agent-skills",
-   "branch": "main",
-   "digest": "sha256:794b82e5f8cc0dcac5c350127ac44b3134c1f1af6d83a46b2dc1cf00f2dc8db3",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "fca19ae084c2ae4667f5c8affbb99da5103d5832",
-   "name": "nano-banana-2",
-   "description": "Generate images with Google Nano Banana 2 (Gemini-family flash-tier text-to-image) on RunComfy — bundled with the model's documented prompting patterns so the skill gets sharper output than naive prompting against the same model. Documents Nano Banana 2's strengths (rapid iteration, in-image typography rendering, predictable framing, optional web-grounded context), the resolution-tier pricing, the safety-tolerance dial, and when to route to Nano Banana Pro / GPT Image 2 / Flux 2 / Seedream instead. Calls `runcomfy run google/nano-banana-2/text-to-image` through the local RunComfy CLI. Triggers on \"nano banana\", \"nano-banana-2\", \"nano banana 2\", \"google image gen\", \"gemini image\", or any explicit ask to generate with this model."
-  },
   "4-vlxogvj8fhzptmyucox3bkbrubqy0mbi7tfkkudeu": {
    "status": "tree_truncated",
    "archive_path": "other/csharp-reviewer-domehahn-skrun/SKILL.md",
@@ -4192,18 +4140,6 @@
    "branch": "main",
    "digest": "sha256:b7ef6b62ecc68f231b777d1b1e8ac7a47832b9e7fa33d6ffef7dc2222eb4b1ba",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "41llggsyihd-oknxat3u15-xsue21cb0jqzfq--wn00": {
-   "status": "pinned",
-   "path": "06-legal-compliance/nda-triage/SKILL.md",
-   "archive_path": "workflow/nda-triage/SKILL.md",
-   "repo": "w95/awesome-claude-corporate-skills",
-   "branch": "main",
-   "digest": "sha256:01c4636b30c6f6f0ae06f0a8bdb504a8a7b0a0763836deada48ea705a63e0710",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "78dbc7c719920610d5b1c60bd13d9bb52d711c7a",
-   "name": "nda-triage",
-   "description": "Screen incoming NDAs and classify them as GREEN (standard), YELLOW (needs review), or RED (significant issues). Use when a new NDA comes in from sales or business development, when assessing NDA risk level, or when deciding whether an NDA needs full counsel review."
   },
   "41mdmw10uclehr4pw_0yqui-fvjcvmwsbgr6byy3t98": {
    "status": "pinned",
@@ -4404,18 +4340,6 @@
    "name": "finishing-a-development-branch",
    "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup"
   },
-  "4e9rgdvttm16mjg3r91qg4ayy2hqigeprbcl5x-xg5a": {
-   "status": "pinned",
-   "path": "skills/dispatching-parallel-agents/SKILL.md",
-   "archive_path": "other/dispatching-parallel-agents-darrrkkk-crypto-opencode-v2-skills-a/SKILL.md",
-   "repo": "darrrkkk-crypto/Opencode-V2-Skills-Agents",
-   "branch": "main",
-   "digest": "sha256:3c448f16d37e83b6cd58aaa90080829a42a5c703c207972e77bc70bf14136b2d",
-   "checked_at": "2026-10-20T09:04:56+00:00",
-   "commit": "b2c61b692842ebada7510b598630a6aee1db24c1",
-   "name": "dispatching-parallel-agents",
-   "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies"
-  },
   "4easux9qciutkhkslalhouoykngsqttgod_xuamxkts": {
    "status": "bundled_files",
    "archive_path": "other/copy-editing-multiplex-ai-muggle-ai-teams/SKILL.md",
@@ -4564,14 +4488,6 @@
    "name": "gog",
    "description": "Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs."
   },
-  "4hp7jmtx-b5qin5boqlam9rtfs8grqkagccv4zbmk5u": {
-   "status": "bundled_files",
-   "archive_path": "development/systematic-debugging-grijalva10-oc-seller-finder/SKILL.md",
-   "repo": "grijalva10/oc-seller-finder",
-   "branch": "main",
-   "digest": "sha256:808fc5717aa88ad65efff312b11c186294d3e6ee301afb584e2f86599b137787",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "4iehp0q_j5szrfz5ndus-hfsgxojyvjqw5lunsksbau": {
    "status": "bundled_files",
    "archive_path": "performance/nowait-xuyinfor-crypto-claude-agent-enginee/SKILL.md",
@@ -4611,6 +4527,18 @@
    "commit": "6a2debd152a2a8850bdb14c09a678e0c9ae5c792",
    "name": "template-skill",
    "description": "Replace with description of the skill and when Claude should use it."
+  },
+  "4kwfxvdg9aefcksojucphrtzmjsyddjxgt5elaxuhe8": {
+   "status": "pinned",
+   "path": ".grok/skills/speckit-tasks/SKILL.md",
+   "archive_path": "productivity/speckit-tasks-tjsasakifln-extra-cli/SKILL.md",
+   "repo": "tjsasakifln/extra-cli",
+   "branch": "main",
+   "digest": "sha256:2dceed4345af65dbc6625157be8817dc35f2b0943b5896815ef1bc4d3421efba",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "c25939e9b7806c7d646fa5f4dfddf6ce740c79af",
+   "name": "speckit-tasks",
+   "description": "Generate an actionable, dependency-ordered tasks.md for the feature based on available design artifacts."
   },
   "4ky0hyjssw4u8izrbzcqpnb2og9rsa8wg5rtvoa03i8": {
    "status": "bundled_files",
@@ -4965,18 +4893,6 @@
    "branch": "main",
    "digest": "sha256:750852f6d7805800c51ac27bd066794457764e6babbbaa355aee5490d83bf2e2",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "4xtfypx8g-low1bwimlkvaomn-w2pzzryu5mzv60v3a": {
-   "status": "pinned",
-   "path": ".agents/skills/nx/SKILL.md",
-   "archive_path": "testing/nx-ziyabicilecommerce-h-ai-cash-machine/SKILL.md",
-   "repo": "ziyabicilecommerce-hub/ai-cash-machine",
-   "branch": "main",
-   "digest": "sha256:6219a3857b0a6008fc98e5a7d8479c3840605e2a4d134e323145ededd4783ced",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "aff97fefd2dcaf163e12f2c443a0744dbc977347",
-   "name": "nx",
-   "description": "Best practices for Nx monorepo development, project configuration, and code generation"
   },
   "4xtzdne0fcxmzsjn9dxqavcj_g9lxjst1uatr856t4s": {
    "status": "upstream_changed",
@@ -5602,6 +5518,14 @@
    "digest": "sha256:d9727aac6503981bf69bdd8b37e0d85b32b8fbd353a57528c252dac1337ab761",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "5jkhkxd4oz-fu-7zdph-7xeunzodccsszutykm_blli": {
+   "status": "ambiguous",
+   "archive_path": "other/adhx-ibrdot-swe-re-expert/SKILL.md",
+   "repo": "ibrdot/swe-re-expert",
+   "branch": "main",
+   "digest": "sha256:017b30ffdd72c5c592fb0900ec437af6d61a0fa87edd8172ecf62e92ea3ddf26",
+   "checked_at": "2026-10-21T08:51:20+00:00"
+  },
   "5jontzlvqz63bt9anz-e16lbh28qgpfw6shihqihubk": {
    "status": "ambiguous",
    "archive_path": "other/openspec-update-change-rshade-finfocus-plugin-azur/SKILL.md",
@@ -5861,14 +5785,6 @@
    "name": "neon-async-db",
    "description": "This skill should be used when setting up and managing reliable, high-performance asynchronous database connections for Neon Serverless PostgreSQL using SQLModel and SQLAlchemy's async capabilities."
   },
-  "5sufxbdlr5gwxks4m_3xrv2satzhb52zak0jvvu_gis": {
-   "status": "bundled_files",
-   "archive_path": "data/moonshot-evaluate-complexity/SKILL.md",
-   "repo": "munlucky/moon-bot",
-   "branch": "main",
-   "digest": "sha256:8cd5679cf285ae1b224e74d01a5637ee8638a6c01686f7531f125a96cefb7a95",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "5sxnzzktj7sq1xnm12h-ag8nnjwvjia4rymnn3qm0gy": {
    "status": "pinned",
    "path": "skills/common/next-cache-components/SKILL.md",
@@ -5903,6 +5819,18 @@
    "branch": "main",
    "digest": "sha256:b9d8f1354c49b41289a00ae9b8809a9e804b47849ff3d21884f1f90085e50b1f",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "5tco6fpqy8wxiq0dw0ephzj7xzq6om0deimj8scx0v0": {
+   "status": "pinned",
+   "path": "skills/sponsor-finder/SKILL.md",
+   "archive_path": "workflow/sponsor-finder-github-awesome-copilot/SKILL.md",
+   "repo": "github/awesome-copilot",
+   "branch": "main",
+   "digest": "sha256:f150e859624fec421a0c93d582a154891dab14c052ce67399c8df0ff12f93aee",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "613efc8c21d9b3ce642dff361d17006cd9967e28",
+   "name": "sponsor-finder",
+   "description": "Find which of a GitHub repository's dependencies are sponsorable via GitHub Sponsors. Uses deps.dev API for dependency resolution across npm, PyPI, Cargo, Go, RubyGems, Maven, and NuGet. Checks npm funding metadata, FUNDING.yml files, and web search. Verifies every link. Shows direct and transitive dependencies with OSSF Scorecard health data. Invoke with /sponsor followed by a GitHub owner/repo (e.g. \"/sponsor expressjs/express\")."
   },
   "5tcvo_badus3mitpea3yqfwgwhsmigskm3itzwbabsk": {
    "status": "pinned",
@@ -6023,6 +5951,18 @@
    "name": "async-python-patterns",
    "description": "Master Python asyncio, concurrent programming, and async/await patterns for high-performance applications. Use when building async APIs, concurrent systems, or I/O-bound applications requiring non-blocking operations."
   },
+  "5weaouens_bj84tu7_uamtwu3a4ycpfnq0mupp9mt4y": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-bugfix/SKILL.md",
+   "archive_path": "ai-ml/aidlc-bugfix-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:bfc88f6980e12f74a61fbbcba513a4b679e7f9c33f845df09ebf8fa01ec4190b",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-bugfix",
+   "description": "Run the AI-DLC workflow with the bugfix scope baked in — no scope detection. Fix a specific bug. Packaging over `/aidlc --scope bugfix`, which works without this skill."
+  },
   "5xhmiav6oa5eucqnltekgxw_6ebo5fqjy_h4nwusqmq": {
    "status": "pinned",
    "path": "docs/repos/pi-mono/packages/coding-agent/test/fixtures/skills/unknown-field/SKILL.md",
@@ -6058,18 +5998,6 @@
    "branch": "master",
    "digest": "sha256:0b3ae829eb42e98ead9814548574dee66c270b2c82920f128adec1fc5e16ac89",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "5yyhuv-hu9kuujyakwvyfl-0kmc3sj16gqk9707s9ju": {
-   "status": "pinned",
-   "path": "data/skills/mcollina-skills/node/skills/node/SKILL.md",
-   "archive_path": "other/node/SKILL.md",
-   "repo": "om-scogo/skillsh-scraper",
-   "branch": "main",
-   "digest": "sha256:fa2888f4a2200985df1802469a2eea8652510276c188fa31878047bf9c63957e",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "8859218955d9504cd18b59e7892100718039d3b4",
-   "name": "node",
-   "description": "Provides domain-specific best practices for Node.js development with TypeScript, covering type stripping, async patterns, error handling, streams, modules, testing, performance, caching, logging, and more. Use when setting up Node.js projects with native TypeScript support, configuring type stripping (--experimental-strip-types), writing Node 22+ TypeScript without a build step, or when the user mentions 'native TypeScript in Node', 'strip types', 'Node 22 TypeScript', '.ts files without compilation', 'ts-node alternative', or needs guidance on error handling, graceful shutdown, flaky tests, profiling, or environment configuration in Node.js. Helps configure tsconfig.json for type stripping, set up package.json scripts, handle module resolution and import extensions, and apply robust patterns across the full Node.js stack."
   },
   "5z6dsxyfwuwk0elr6ixhmxzz4smgxgvnamiwbbd1-ma": {
    "status": "upstream_changed",
@@ -6445,14 +6373,6 @@
    "digest": "sha256:152d5f571436b0cb9814b3f269357f67ae025bfa5ceda046a1579aec31fd450f",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "6ezczakrv-o9gig_uoh9aqm39ld0-dhbpn0d28e1szy": {
-   "status": "bundled_files",
-   "archive_path": "integration/mural-automation/SKILL.md",
-   "repo": "diegosouzapw/awesome-omni-skill",
-   "branch": "main",
-   "digest": "sha256:693cd46834c0ea559c7963332bc9c9cec4ec000aa8468b365c139acfbe5830b7",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "6fexjimu3jzofox-abmrndzesx_vsdvnskdod9fzp5c": {
    "status": "tree_truncated",
    "archive_path": "other/orf-lxyeternal-malskillbench/SKILL.md",
@@ -6803,14 +6723,6 @@
    "digest": "sha256:b921e11a58a987b5ded98987c8f589b815de0db9ba2332d09d7f7c23b0b81b8c",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "6rf_pvuu2d9h7xy8uqahtajtkpxxzwf2f1q5wajmgqk": {
-   "status": "upstream_changed",
-   "archive_path": "domains/national-expungement-expert/SKILL.md",
-   "repo": "erichowens/some_claude_skills",
-   "branch": "main",
-   "digest": "sha256:31a1e7bb80d5ed9a39a6093ea6f2de23efa9e4e87522bcfbfcd18c2ee37e770f",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "6rmyex6ntmnvlkox5nfsusv6t3q4ydqgzmtab3sisjy": {
    "status": "tree_truncated",
    "archive_path": "other/angular-reviewer-domehahn-skrun/SKILL.md",
@@ -7085,14 +6997,6 @@
    "repo": "diegosouzapw/awesome-omni-skill",
    "branch": "main",
    "digest": "sha256:01cb3e25a35036b999d92b8f830ef24aee4653e4fd049cdaa9c7b73ac289df27",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "75maa9thpvjvnxoojxvy2shxea47vcyxijoyl96ttpa": {
-   "status": "ambiguous",
-   "archive_path": "other/archive-news-summary/SKILL.md",
-   "repo": "egbertie/satisficing-institute",
-   "branch": "main",
-   "digest": "sha256:1b4c45b56f5675670df484445f9b021b05ba1b2e688c202ac962f22c9812f23b",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "77e8eheyd1lh6q5pcvr0maeodxhhyweqvl04qwkkigy": {
@@ -7939,14 +7843,6 @@
    "digest": "sha256:1cbfb6b1cf98f48a7c6938e113869a229cd5a59037712072fe11f21a47c6df0e",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "8abdsobw-dfb-di1gog6veepagcdnpssjgn_lrzax0e": {
-   "status": "upstream_changed",
-   "archive_path": "design/liquid-glass-design-throokie-claude-code-skills/SKILL.md",
-   "repo": "Throokie/claude-code-skills",
-   "branch": "main",
-   "digest": "sha256:024aa207eb3d4d31d868954a7352a40b78c61f2fd007ab8b452afb6217070f84",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "8amgrysryzdqwr6asdxkj3rxj9epcqd0rz9vfrifg9c": {
    "status": "pinned",
    "path": ".claude/skills/brag-sheet/SKILL.md",
@@ -7998,6 +7894,18 @@
    "branch": "main",
    "digest": "sha256:91a4aaa4d210ccfc1febe39de55f6920f0645d2e19c086f2430e1cba1c7bf988",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "8ckbywjyoublzqm74ulgtrlg5c06fjrxfjlgiayasz4": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-deployment-pipeline/SKILL.md",
+   "archive_path": "other/aidlc-deployment-pipeline-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:63d4e87b7b3c1189f2244298ca0e7ff2ce1a03923623e6e36bb656e2f25fbba5",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-deployment-pipeline",
+   "description": "Run the AI-DLC `deployment-pipeline` stage (operation phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage deployment-pipeline --single`: the engine emits one run-stage directive for deployment-pipeline and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
   },
   "8cy48lsftzz0sne2hwnj1emyty3rijnzzz43itgc7k0": {
    "status": "ambiguous",
@@ -8365,6 +8273,14 @@
    "branch": "main",
    "digest": "sha256:1e44e392793d4364a221c08989bd52c2d5ee1c2729053d806dbb181c43d0fe04",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "8qhfga2dkct3gl4llgieyf-zv-m26ibpx1rdfcovibs": {
+   "status": "upstream_changed",
+   "archive_path": "quality/sql-code-review/SKILL.md",
+   "repo": "github/awesome-copilot",
+   "branch": "main",
+   "digest": "sha256:2e67c2fa2875f299d5f839942a72822d30981d4e19052dfe32455a0482a9267d",
+   "checked_at": "2026-10-21T08:51:20+00:00"
   },
   "8rk-otpn2rdpardnvjgzaxzyqjelwwa121dvwdui-0q": {
    "status": "pinned",
@@ -8779,6 +8695,14 @@
    "commit": "07b34f64ee828df08953f505b7f747aef85ae7c6",
    "name": "beachhead-segment",
    "description": "Identify the first beachhead market segment for a product launch. Evaluates segments against burning pain, willingness to pay, winnable market share, and referral potential. Use when choosing a first market, targeting an initial customer segment, or planning market entry strategy."
+  },
+  "9cmdozcefdih67bhbepeijfoltw6jqzwduroj5lw68c": {
+   "status": "ambiguous",
+   "archive_path": "workflow/cirq-ibrdot-swe-re-expert/SKILL.md",
+   "repo": "ibrdot/swe-re-expert",
+   "branch": "main",
+   "digest": "sha256:347b515d987b53337dcc67be92914a8b1c7712adfb14fab9a765e1d3b3ace56f",
+   "checked_at": "2026-10-21T08:51:20+00:00"
   },
   "9d23kfivbots5jjss3r6be8enol17p6nftlfgewyfjw": {
    "status": "pinned",
@@ -9751,6 +9675,14 @@
    "digest": "sha256:893cdd0da9c35c682342d94c68ef384a74524505d0fa9b213c56ec923c7796d6",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "_kxib892dejoy5h8nlgn-pynwn0n5m5lybk1mnbav_w": {
+   "status": "ambiguous",
+   "archive_path": "other/hooked-ux-wondelai-skills/SKILL.md",
+   "repo": "wondelai/skills",
+   "branch": "main",
+   "digest": "sha256:775ae946b15f03d787077c35d166a9addb1e241cb9ffea03ceee3a1be198175e",
+   "checked_at": "2026-10-21T08:51:20+00:00"
+  },
   "_loircyyw6k6svho1ybl7yjszuks8ed_mvwjtyehggu": {
    "status": "upstream_changed",
    "archive_path": "data/pci-compliance/SKILL.md",
@@ -10343,13 +10275,6 @@
    "name": "assets-prefab-open",
    "description": "Open the prefab edit stage for a prefab instance or prefab asset GameObject. Modifications inside the edit stage propagate to all instances. Pair with 'assets-prefab-close' to exit the stage when done."
   },
-  "a6n5cm5mjlvxaylh3ogyitrwrpiyjt0dmtcdhtxkxvw": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest\",\"status\":\"404\"}",
-   "archive_path": "ai-llm/semantic-kernel-beel-collab-presets/SKILL.md",
-   "digest": "sha256:0f93924c9e99ab2a7de7820f5202a39fc30afe71aa09eb5e3e0442a6ffa6574f",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "a6u7ebyhgyjviad0a8epkztb1syr4kwbrx8fdbtrk5k": {
    "status": "pinned",
    "path": ".agents/skills/html/SKILL.md",
@@ -10878,6 +10803,18 @@
    "digest": "sha256:cd33d9687f5903283b167950261f559946d891399197a5edc9fa5e18282e8bac",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "ahcfc7ogsykhzkzpahvqlmgqct-f77etuvh_t6g7-1y": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-knowledge/SKILL.md",
+   "archive_path": "documents/aidlc-knowledge-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:aa2ae0ef9b0dab4b000bd95eef5a6cc26e08f7f77effea7011166ea6fef045d0",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-knowledge",
+   "description": "Index the team's own documents — PDFs, Word files, Markdown, plain text — into a per-space catalog the AI-DLC agents can cite. Wraps `aidlc-knowledge.ts`: onboard, sync, list, show, associate, dissociate, rebind, summarize. Every catalog row is written by the tool under a workspace lock; this skill never edits the catalog by hand and never advances workflow state."
+  },
   "ahpvaa_irmypej0zgfinocasfahf5n4mss37renxvta": {
    "status": "bundled_files",
    "archive_path": "other/imagegen-vikasvardhanv-jerry-skills/SKILL.md",
@@ -11258,6 +11195,18 @@
    "digest": "sha256:746cc57c51afc93da2d2f4f06e1270b3a4360ef8b3b49d1e416bf2c0c49bb454",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "aoltlgdsmdaoju_f6czv9sxqs6pazocyjdo5ncyjxzo": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-ci-pipeline/SKILL.md",
+   "archive_path": "other/aidlc-ci-pipeline-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:6736d6f410e64f0a77989a48ab2a38332dddd9732b04a5f0f30ad04bb9f61239",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-ci-pipeline",
+   "description": "Run the AI-DLC `ci-pipeline` stage (construction phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage ci-pipeline --single`: the engine emits one run-stage directive for ci-pipeline and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
+  },
   "aopr1xo-828hrprdvvzbeqghpwfus7pvwy1wu9t1vkw": {
    "status": "upstream_changed",
    "archive_path": "planning/writing-plans/SKILL.md",
@@ -11552,6 +11501,18 @@
    "digest": "sha256:41a53ea59316a8267030c4b7b49a34bd7f5ea401b90d5a7a838fd2e4c045850d",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "aup6v-hk6dzt83qz2nu4qqd4itexbi_ukn-ix0q9x88": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-team-formation/SKILL.md",
+   "archive_path": "other/aidlc-team-formation-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:ab94676c196d6a782f6e64d0996253830ab5e294a377e0c1c4ac001aca3155b1",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-team-formation",
+   "description": "Run the AI-DLC `team-formation` stage (ideation phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage team-formation --single`: the engine emits one run-stage directive for team-formation and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
+  },
   "ausg8k_pmmylo-nockxfh7vfdrvx1r2jh0v81m_j7bk": {
    "status": "bundled_files",
    "archive_path": "platform/cloudflare-r2/SKILL.md",
@@ -11747,14 +11708,6 @@
    "name": "seo-sitemap",
    "description": "Analyze existing XML sitemaps or generate new ones with industry templates. Validates format, URLs, and structure. Use when user says \"sitemap\", \"generate sitemap\", \"sitemap issues\", or \"XML sitemap\"."
   },
-  "ay8guhapjqrgwtpm00ch1zdo2tc73lyy8i3fzohcifo": {
-   "status": "bundled_files",
-   "archive_path": "development/modern-javascript-patterns-ratnesh-maurya-tracker-ratnesh-maur/SKILL.md",
-   "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
-   "branch": "main",
-   "digest": "sha256:b871e25f86d37f0d6f31347e819c34bc54a0ffecdcca7d65b4c3db0b87b32ce4",
-   "checked_at": "2026-10-17T23:14:30+00:00"
-  },
   "ayb1ovzzjnbc75pjhjssah5odwdi1odh9g78udq1bq8": {
    "status": "invalid_frontmatter",
    "archive_path": "security/idor-testing-cgyudistira-code-agents/SKILL.md",
@@ -11854,6 +11807,18 @@
    "commit": "df3d7d789e2f1928177b50829e023a4af15bf365",
    "name": "chrome-devtools",
    "description": "Expert-level browser automation, debugging, and performance analysis using Chrome DevTools MCP. Use for interacting with web pages, capturing screenshots."
+  },
+  "azx6ud8vesfbyjonytrmefkh8pebmvfrdrbbtbfhtni": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-approval-handoff/SKILL.md",
+   "archive_path": "other/aidlc-approval-handoff-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:b932d0e655da454a88088989d6e1366d8620c4cdd2a0473c0b9539046b9d20b3",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-approval-handoff",
+   "description": "Run the AI-DLC `approval-handoff` stage (ideation phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage approval-handoff --single`: the engine emits one run-stage directive for approval-handoff and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
   },
   "b-kqxlcil7mbfxfhtkw7qggqkpxljivsc9fdp9jf4nk": {
    "status": "pinned",
@@ -12080,14 +12045,6 @@
    "repo": "softaworks/agent-toolkit",
    "branch": "main",
    "digest": "sha256:f20e68b59875ba43cd2680519cf5e77f6c55b51330b927394291f8f11478c21e",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "b_pstxfd0voelwwm23tdcbkubctbalro43zabcfj4ii": {
-   "status": "tree_truncated",
-   "archive_path": "other/mvp-modbender-skill-library-mcp/SKILL.md",
-   "repo": "modbender/skill-library-mcp",
-   "branch": "main",
-   "digest": "sha256:a39cb349784311fed6d721752bd417503f9b4a04c632cafa540d91c32249230a",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "ba0u4ka71-93ly0z6i4jg8fytk4xrb7zlts3zwbupoc": {
@@ -12547,6 +12504,18 @@
    "digest": "sha256:40b308cd2107804692a872b485006b597c0fe513666cc05f842970a63e57d6f7",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "bjeoxa1ymuhqexkvponhpzxzon7wc4_tztmnthm0ggy": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-refined-mockups/SKILL.md",
+   "archive_path": "other/aidlc-refined-mockups-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:16bc0ab9df8dc5d7ee36984afa46b948c4017399b1a2e7669df7dbcf41221950",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-refined-mockups",
+   "description": "Run the AI-DLC `refined-mockups` stage (inception phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage refined-mockups --single`: the engine emits one run-stage directive for refined-mockups and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
+  },
   "bjlxht9uvtf2nc7xf_jl8jkz8gutvccc4kvsqfdvuc8": {
    "status": "pinned",
    "path": ".claude/skills/task-search/SKILL.md",
@@ -12578,6 +12547,14 @@
    "branch": "main",
    "digest": "sha256:fe774a50566508203ee5c385b6f0cc19df4311ed0765ac522ba015ab083b236f",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "bkhgwhdl5spfflzspkitr9kkfiz8ldsa5apohuhbmju": {
+   "status": "ambiguous",
+   "archive_path": "development/ai-loop-ibrdot-swe-re-expert/SKILL.md",
+   "repo": "ibrdot/swe-re-expert",
+   "branch": "main",
+   "digest": "sha256:44ad015dc7e8861fedf24a94c1531e9e22fc2e11df8e2c798ab19222bd1fb9d0",
+   "checked_at": "2026-10-21T08:51:20+00:00"
   },
   "bkjxjkure9ubybuo2dw05edn3ggy14e6eepjbbvamue": {
    "status": "upstream_changed",
@@ -13564,6 +13541,18 @@
    "digest": "sha256:6ec7bfa0a1d0c8119678542b6cd5e3cc38a1f06de5b04af242028ea0b1a5b374",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "c64ggrafqj_hp6wxeymhxkoboxqerh2nwhejsctwqcq": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-compose/SKILL.md",
+   "archive_path": "other/aidlc-compose-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:c877ab2854c29e59f56762ec9e5ceb8898eeb66daa8ebe2390d8630eb59e7c6e",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-compose",
+   "description": "Compose a tailored AI-DLC workflow plan - the adaptive composer reads your task (or a scan report), proposes the EXECUTE/SKIP stage grid that fits, and after your approval authors it as a scope and runs it. A typeable shortcut for `/aidlc compose`; the same one door, forced to the full composer even when a stock scope would match."
+  },
   "c6ezutd5gvabhq73ht6wi01kalrdeexttsqkmk3_ui8": {
    "status": "pinned",
    "path": "skills/labclaw-pharma-adaptyv/SKILL.md",
@@ -14026,14 +14015,6 @@
    "digest": "sha256:08b159a1dc64ea0cb639ab17ea8f313c04c45212d1085dde5ee6378150720e7b",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "cgxt9pavgwh5rkvdoqxuad9udiwep4ntbl4_jezh9-k": {
-   "status": "bundled_files",
-   "archive_path": "other/msgraph-sdk-praxstack-markdown-viewer-app/SKILL.md",
-   "repo": "praxstack/markdown-viewer-app",
-   "branch": "main",
-   "digest": "sha256:cafac367eb3fdc99e05aedc76d46ad77f49e6c3fbc549e3cc6ec86d657638d8b",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "ch1jqtz5cl22ndyem5cazital_htu_2ayr9yo4jdfis": {
    "status": "upstream_changed",
    "archive_path": "data/azure-data-tables-py/SKILL.md",
@@ -14057,6 +14038,18 @@
    "branch": "main",
    "digest": "sha256:54f05b96e4e21ba24009a61d9a12dfdbf04f608a2f8a646e22b7cabbfe498239",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "chmmwwcr-iawhuq5hztd2sa43ahvx8ldugikgyqyqxs": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-market-research/SKILL.md",
+   "archive_path": "other/aidlc-market-research-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:7757c262d8e19992a76f64b0b0ce7f7e1e449763d66ff5faff61664e1fd3fb72",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-market-research",
+   "description": "Run the AI-DLC `market-research` stage (ideation phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage market-research --single`: the engine emits one run-stage directive for market-research and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
   },
   "chqsm3k7kkhnueo-6qngmknli4q6dn5uxmx2rbm8bgw": {
    "status": "upstream_changed",
@@ -14469,18 +14462,6 @@
    "name": "team-builder",
    "description": "Interactive agent picker for composing and dispatching parallel teams"
   },
-  "cp2tgvt6kfgwlzi1axsypegpjsrdc0od7qj3wswlwwq": {
-   "status": "pinned",
-   "path": ".claude/skills/nnews-guide/SKILL.md",
-   "archive_path": "integration/nnews-guide-emaginebr-nnews-react/SKILL.md",
-   "repo": "emaginebr/nnews-react",
-   "branch": "main",
-   "digest": "sha256:a3e7b9e8f669b5c2529fad015558e4d1235f4ad9f9ba0b7bd8645a6536bd0aad",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "544fd69f33031d20058cb9e3402af090dcad2319",
-   "name": "nnews-guide",
-   "description": "Guides how to integrate the NNews NuGet package for consuming the NNews CMS API in a .NET 8 project. Use when the user wants to consume articles, categories, tags, images, or AI-powered content generation from the NNews API."
-  },
   "cpel5vxysl1bcwjwhkqjicoahvuv2dyx5jowgyvsz1a": {
    "status": "bundled_files",
    "archive_path": "security/cso-sadie100-claude-dotfiles/SKILL.md",
@@ -14778,6 +14759,14 @@
    "digest": "sha256:febbbfb8806a9286a7e1a0a72f6ec76346c2118f7671b4b394505a217d30a914",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "cuy75u9eukdlgupz-_cp7lhagmfuc0rrwryb3kpo21m": {
+   "status": "bundled_files",
+   "archive_path": "data/dotnet-timezone-ggogogohub-portfolio/SKILL.md",
+   "repo": "ggogogohub/portfolio",
+   "branch": "main",
+   "digest": "sha256:9514bd6f6e227171ae762460697e19ac545d88be6400171bfd085819717c093c",
+   "checked_at": "2026-10-21T08:51:20+00:00"
+  },
   "cv7p1q0j5exdrzurdoi0qzvybahm34jgxhvpkwffbm0": {
    "status": "pinned",
    "path": ".claude/skills/cloudflare/SKILL.md",
@@ -14844,13 +14833,6 @@
    "commit": "ba021c0846a53566a3bfde95009077974d2da535",
    "name": "autoresearch",
    "description": "Autonomous iterative experimentation loop for any programming task. Guides the user through defining goals, measurable metrics, and scope constraints, then runs an autonomous loop of code changes, testing, measuring, and keeping/discarding results. Inspired by Karpathy's autoresearch. USE FOR: autonomous improvement, iterative optimization, experiment loop, auto research, performance tuning, automated experimentation, hill climbing, try things automatically, optimize code, run experiments, autonomous coding loop. DO NOT USE FOR: one-shot tasks, simple bug fixes, code review, or tasks without a measurable metric."
-  },
-  "cwairmkakoqihdmkxuec3o84htyp8bragrhgdwi2o2e": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "data/new-component/SKILL.md",
-   "digest": "sha256:43e34f5f5e98b44ea8bb2f636e6c8b97809155b1658e74c88340f529e1ff9d51",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "cwakgeznnzz9i4m7omv_bsp8gte6w89hlousyy1pbyy": {
    "status": "upstream_changed",
@@ -14929,14 +14911,6 @@
    "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
    "archive_path": "data/bash-defensive-patterns/SKILL.md",
    "digest": "sha256:2d999e911d49903368e7a25e0ca2acfb0f6ccb799113b32c6917cf4e13f8798a",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "cxjqzvsvx2fagcxqtpaiyobwtnwv8fjak-mui4tkxcw": {
-   "status": "bundled_files",
-   "archive_path": "workflow/n8n-node-configuration-waseemnasir2k26-skynetlabs-all-claud/SKILL.md",
-   "repo": "waseemnasir2k26/skynetlabs-all-claude-code",
-   "branch": "main",
-   "digest": "sha256:d97fee27ece97bf1bd1e9feae8c26acc834ce07be8752fcf490699176b87d6a0",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "cxmrlafvhiqs-zbr1oqe0fljxjomh6qmcc6l0uubcco": {
@@ -15019,13 +14993,13 @@
    "name": "openspec-archive-change",
    "description": "Archive a completed change in the experimental workflow. Use when the user wants to finalize and archive a change after implementation is complete."
   },
-  "czc_mvgugsand3umi5uvk1jdj_jyx2vns4g1jhpkzug": {
-   "status": "bundled_files",
-   "archive_path": "data/novelist-analyst-rysweet-azurehaymaker/SKILL.md",
-   "repo": "rysweet/AzureHayMaker",
+  "czcjbow0ordmc8cicyrby1fdj7tzgi42ydm8swjkots": {
+   "status": "ambiguous",
+   "archive_path": "devops/azure-kubernetes-app-deploy-microsoft-azure-skills/SKILL.md",
+   "repo": "microsoft/azure-skills",
    "branch": "main",
-   "digest": "sha256:e5d5f132efcd5cb0ed18caf38060f8e3b470e2e51f1de2933dde447859875ca6",
-   "checked_at": "2026-10-17T18:43:47+00:00"
+   "digest": "sha256:d29b307591886cde7841ff3cdb5509fbee2f66ffeb8c14dc88fd2e9a0a6f8dbe",
+   "checked_at": "2026-10-21T08:51:20+00:00"
   },
   "czcnwontkz-vyi6t1knuppmhzhttdg60jj-pjcyx2ma": {
    "status": "upstream_changed",
@@ -15251,6 +15225,14 @@
    "digest": "sha256:55717c0d50b7600eba3ab475f62c06c5bfc2db9728b731e9f67db648d4477f74",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "d_hcszrlvqrutv4snn1pjz-sedudj-ewwkwma7cbevy": {
+   "status": "ambiguous",
+   "archive_path": "productivity/build-ibrdot-swe-re-expert/SKILL.md",
+   "repo": "ibrdot/swe-re-expert",
+   "branch": "main",
+   "digest": "sha256:61779c57fb5130379e62bbffa0ff6adc0086d612c14186b4053731d49d8e8f3e",
+   "checked_at": "2026-10-21T08:51:20+00:00"
+  },
   "d_redhfruz4ptji3sqacvjnshcsewdqgjkpp3vw13o4": {
    "status": "bundled_files",
    "archive_path": "bash/git-guardrails-claude-code-tt-a1i-matt-skills-with-to-/SKILL.md",
@@ -15305,14 +15287,6 @@
    "repo": "waynesutton/convexskills",
    "branch": "main",
    "digest": "sha256:59f65bc1a1d86a778273c70a3da987ba01f448f122d59fb9a0ba6f20efc305a5",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "dbm5lz_xzpfkbh6isfemdfkfb9aqokkb8tx8plawmz8": {
-   "status": "upstream_changed",
-   "archive_path": "development/nx-workspace-patterns/SKILL.md",
-   "repo": "wshobson/agents",
-   "branch": "main",
-   "digest": "sha256:00b5887b940ed5c1d418d349eca3c435bfd94dc539fa41a03529af2d33a12df0",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "dbw85firz5ujtk9f5izq0hppvgyhprzx-depsumq1he": {
@@ -15716,6 +15690,18 @@
    "branch": "main",
    "digest": "sha256:075bcc90295ffb889983451a906e0a0e92c052e0a2ea56cc7a37e46ed853f29a",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "dkemh-uzppumrrotqa_sp2mrdq1gd7h_gpbss_9y0gs": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-scope-definition/SKILL.md",
+   "archive_path": "other/aidlc-scope-definition-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:a5422c3730ca1dac9efe6fad8bff3ecdf9b24bb9961642a69f0fef37e23b8fe5",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-scope-definition",
+   "description": "Run the AI-DLC `scope-definition` stage (ideation phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage scope-definition --single`: the engine emits one run-stage directive for scope-definition and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
   },
   "dknfln-07e2i2zra1ren2iqsw5xjkbbtrrwuqnmrok4": {
    "status": "pinned",
@@ -16272,6 +16258,14 @@
    "name": "things-mac",
    "description": "Manage Things 3 via the `things` CLI on macOS (add/update projects+todos via URL scheme; read/search/list from the local Things database). Use when a user asks OpenClaw to add a task to Things, list inbox/today/upcoming, search tasks, or inspect projects/areas/tags."
   },
+  "dsh10gadd3_cazsfhll3nuz13kuhcy6fwxrllcth1qg": {
+   "status": "ambiguous",
+   "archive_path": "development/re-create/SKILL.md",
+   "repo": "sickn33/antigravity-awesome-skills",
+   "branch": "main",
+   "digest": "sha256:b709ab46803bba1b01f53757da8898ac3a6938ddd60e88abf7b9625f5910eef2",
+   "checked_at": "2026-10-21T08:51:20+00:00"
+  },
   "dsoj-3lj6mzejdr2psdfzbobrkr85wkd-ngekngi7vw": {
    "status": "upstream_changed",
    "archive_path": "business/sales-automator-rmyndharis-antigravity-skills-afaf7f38/SKILL.md",
@@ -16448,6 +16442,14 @@
    "archive_path": "data/moai-platform-vercel/SKILL.md",
    "digest": "sha256:c2922b4e9a9e672a61b893e0f1930c5c9d6c3cc8cf19dedd184cfdac283bc78f",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "dwv5mrxdmscdlqm-mbdghvtuncumawlhoodixmptbl8": {
+   "status": "ambiguous",
+   "archive_path": "documents/bmad-shard-doc-gednt-controleasy-3/SKILL.md",
+   "repo": "gednt/ControlEasy",
+   "branch": "main",
+   "digest": "sha256:3a1538536514725fd4f31aded280ee56b9645fc61d114fd94aacb3ac52304e52",
+   "checked_at": "2026-10-21T08:51:20+00:00"
   },
   "dx-wzo9nzuzan0m4izfthbdmhew6oqui5k2cz5j6lsa": {
    "status": "pinned",
@@ -16885,18 +16887,6 @@
    "name": "pm2",
    "description": "Manage Node.js applications with PM2 process manager. Use for deploying, monitoring, and auto-restarting Node apps in production. Covers starting apps, viewing logs, setting up auto-start on boot, and managing multiple processes."
   },
-  "e6c8hoypg9xjdrllhqpcawws15un1nsqwnlayjcgm5a": {
-   "status": "pinned",
-   "path": "skills/mobile-security-coder/SKILL.md",
-   "archive_path": "security/mobile-security-coder-agent-skills-hub-agent-skills-hub/SKILL.md",
-   "repo": "agent-skills-hub/agent-skills-hub",
-   "branch": "main",
-   "digest": "sha256:cd0399aefc2e33dfb25687a7454ced53269f937e1e0c1a18fd641d8de517b7bc",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "efc0b9639b83cf19aa73cc1b74844a6f302fe7ca",
-   "name": "mobile-security-coder",
-   "description": "Expert in secure mobile coding practices specializing in input validation, WebView security, and mobile-specific security patterns. Use PROACTIVELY for mobile security implementations or mobile security code reviews."
-  },
   "e6hus4mnurnoowyiqiq3udosrbocfepcuimkey3irwk": {
    "status": "ambiguous",
    "archive_path": "productivity/ito-compute-wasdqwerty81972-stai-project/SKILL.md",
@@ -17076,14 +17066,6 @@
    "name": "busybox-on-windows",
    "description": "How to use a Win32 build of BusyBox to run many of the standard UNIX command line tools on Windows."
   },
-  "ebsn0znsbfro_l6elbpq54kfmj06ibsz7y2hurpox8s": {
-   "status": "bundled_files",
-   "archive_path": "development/nestjs-best-practices-belos-street-skill-kit/SKILL.md",
-   "repo": "belos-street/skill-kit",
-   "branch": "main",
-   "digest": "sha256:b699d2245ddc6b6cdd08d86db0a89903556dc33138acb2d34645b5c2fb319219",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "ebuiwpewbwrhu0gfrmtns7iaabat8sud2xt5fx5uy_u": {
    "status": "pinned",
    "path": "skills/popup-cro/SKILL.md",
@@ -17122,13 +17104,6 @@
    "repo": "mxyhi/ok-skills",
    "branch": "main",
    "digest": "sha256:877a126d91e1f72137ea94309282beca2fc756167aa38d27fd8e8eac70dc79d6",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "ed4azv7x_svyvhzxxv44yvysgku3uwvri2kvmp48s8i": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "testing/nextjs-server-side-error-debugging-aresbit-matebot/SKILL.md",
-   "digest": "sha256:3e317bc7eb1c701a0187cbbeeaaad939ce758afb7447bd1502a8e33e228c4ff4",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "edz8u1xs_wsbgw73ks3r-_hyhhpebvazfi60lvzmjmm": {
@@ -17652,6 +17627,14 @@
    "digest": "sha256:803f2ef6cb39f9799fb17ea26576dafbd4602d01620578abd0259eaa1c5431f4",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "en3xunvxvaw5puemuam0yrl-1azugoat80cvn2s74iu": {
+   "status": "ambiguous",
+   "archive_path": "other/local-d65d93321cef06483ecf0d56/SKILL.md",
+   "repo": "gutsofpratik/OpenClaude-Skills",
+   "branch": "main",
+   "digest": "sha256:1968923066f3b707eb01d1992cdf4c42284c3855f70253b9cd5000ff45fca13c",
+   "checked_at": "2026-10-21T08:51:20+00:00"
+  },
   "enbfqnohukmfkijzdch9kjcx8x1kf2-xc2g-htbhiag": {
    "status": "ambiguous",
    "archive_path": "design/hig-platforms-endsi3g-uprising-coldoutreac/SKILL.md",
@@ -17998,6 +17981,18 @@
    "name": "prd",
    "description": "Generate a Product Requirements Document (PRD) for a new feature. Use when planning a feature, starting a new project, or when asked to create a PRD. Triggers on: create a prd, write prd for, plan this feature, requirements for, spec out."
   },
+  "etci9yml_vtrbctnicpdn4hayrc_gddmooax-i4kr4q": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-rough-mockups/SKILL.md",
+   "archive_path": "other/aidlc-rough-mockups-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:8b6e05a99f95a8359082f763431986d729d7f1e92b193d9cb1f6a12023aa06bb",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-rough-mockups",
+   "description": "Run the AI-DLC `rough-mockups` stage (ideation phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage rough-mockups --single`: the engine emits one run-stage directive for rough-mockups and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
+  },
   "etth2sc59m1vh6dyvrqc7yv3ovdcemqf0ewxkejbjq8": {
    "status": "upstream_changed",
    "archive_path": "other/claude-handoff-tt-a1i-matt-skills-with-to-/SKILL.md",
@@ -18248,18 +18243,6 @@
    "digest": "sha256:0c0a2ae550df2665a7e5d3a02cac2d64a8c417a53371ad7d00726a25345305bc",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "eytgterv3y0_0n6k84zwdom3kmtfm9kieghdlowrhfc": {
-   "status": "pinned",
-   "path": ".agents/skills/composio-skills/ngrok-automation/SKILL.md",
-   "archive_path": "productivity/ngrok-automation-hellcat123git-tcs-techday/SKILL.md",
-   "repo": "hellcat123git/TCS-TechDay",
-   "branch": "main",
-   "digest": "sha256:ca067737bfa1d199a00dbba273ca8c29f2c9adaf5a5cf80203cfa15a1bcc72e0",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "55a017a12b66b627f765ce29defbf04a5bb56c3a",
-   "name": "ngrok-automation",
-   "description": "Automate Ngrok tasks via Rube MCP (Composio). Always search tools first for current schemas."
-  },
   "eyvrejvonn-c0vtwjbhya3a6k1ry91wqsx2cbc4evz8": {
    "status": "bundled_files",
    "archive_path": "other/pyopenms-zoubaax-gemma-hackathon/SKILL.md",
@@ -18274,14 +18257,6 @@
    "repo": "modbender/skill-library-mcp",
    "branch": "main",
    "digest": "sha256:b03311bf912665dd1b67c5e2c9b41e130509ef0813db10177d3dd4cdcc7873ec",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "ez1dmvhrn5htu5ycq9ujunfy2dltbnntx81rp59tibu": {
-   "status": "upstream_changed",
-   "archive_path": "design/nextjs-app-router-patterns/SKILL.md",
-   "repo": "wshobson/agents",
-   "branch": "main",
-   "digest": "sha256:8e52f03ccb43c6f88b9c8539cd8a8e899054e48e5a5e268910318d45a9ae03ec",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "ezfp5vqcz9ifyhtsqmc_j0qocw4ana3r_nraeabr1ne": {
@@ -18733,6 +18708,30 @@
    "branch": "main",
    "digest": "sha256:8f99946d5aa8e11dae8ba1ade746a6a803efcba63ba8b618dbf7748331c14e47",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "fc20v5mci22sbgxbjlyvp8f_lozoqsqdf9ggrzojrui": {
+   "status": "pinned",
+   "path": "skills/wiki-qa/SKILL.md",
+   "archive_path": "other/wiki-qa-nguyen-thanh-1-askills/SKILL.md",
+   "repo": "nguyen-thanh-1/ASkills",
+   "branch": "main",
+   "digest": "sha256:8b1c83611d132a141823bdbb7d7d200c73f23c4b7da6ad5b5acee3c693ac3fb3",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "17bee03c2b2855921a62d22f798b0fbbd109c938",
+   "name": "wiki-qa",
+   "description": "Answer repository questions grounded entirely in source code evidence. Use when user asks a question about the codebase, user wants to understand a specific file, function, or component, or user asks \"how does X work\" or \"where is Y defined\"."
+  },
+  "fcntbevqzydm40wvfvi4bkqvp2rstj0zhvqrddsxbpo": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-nfr-design/SKILL.md",
+   "archive_path": "other/aidlc-nfr-design-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:d82dbf420387cd220f1af1418f557ccc57dc8a3cc3022b1b512d6be5bdb0eba4",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-nfr-design",
+   "description": "Run the AI-DLC `nfr-design` stage (construction phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage nfr-design --single`: the engine emits one run-stage directive for nfr-design and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
   },
   "fctaylisbdv9fr3ybxgvzcyaqdtmusnwplxh7hw8gcq": {
    "status": "upstream_unavailable",
@@ -19570,6 +19569,18 @@
    "digest": "sha256:2b6da49ed0c44ead63f09a5e672fc168dcc21fdf8dfec38323bd09ea45ce49e1",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "fpxhltjfue44vwuargfrzjqpdym2abyztz9x_uecic8": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-domain-design/SKILL.md",
+   "archive_path": "other/aidlc-domain-design-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:d10a2b330b92177abc60ec08d98ccd7cc1b8c03c4e5b9772cea40b8af4a17fae",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-domain-design",
+   "description": "Run the AI-DLC `domain-design` stage (inception phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage domain-design --single`: the engine emits one run-stage directive for domain-design and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
+  },
   "fq7ued8fhfpcdbm5nn9wit0frivgxytyzhyycrihpz4": {
    "status": "upstream_changed",
    "archive_path": "devops/kubernetes-openhands-skills/SKILL.md",
@@ -19677,6 +19688,18 @@
    "branch": "main",
    "digest": "sha256:509c0abed10d2f7b009948082c69423387b659ca8e07f8f26d0edb47af020ffb",
    "checked_at": "2026-10-17T23:14:30+00:00"
+  },
+  "frzu9oc82-d03oudh3shfwtylubu0gnsjksnv1s65h4": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-delivery-planning/SKILL.md",
+   "archive_path": "productivity/aidlc-delivery-planning-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:aef210bf0e5afe296045729e96bd8e743f47cd4dfec45867a502fe2906f26a87",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-delivery-planning",
+   "description": "Run the AI-DLC `delivery-planning` stage (inception phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage delivery-planning --single`: the engine emits one run-stage directive for delivery-planning and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
   },
   "fs-q2i_rxq0kxqhpsbgmwoghei9okn8zvzqmll42_fe": {
    "status": "bundled_files",
@@ -20420,6 +20443,14 @@
    "digest": "sha256:c451a63f96077f92ef6b40c4310f5a470a5d05103a181af518b115c4e828292c",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "g8wq-i_ljxcbuoflflr_sh4_fserqeovcslced1zsj0": {
+   "status": "ambiguous",
+   "archive_path": "development/c-pro-ibrdot-swe-re-expert/SKILL.md",
+   "repo": "ibrdot/swe-re-expert",
+   "branch": "main",
+   "digest": "sha256:65284a231f9ae8d0d068a2fb52a0333dc920afedb7b191b2a22b1d6e97bec824",
+   "checked_at": "2026-10-21T08:51:20+00:00"
+  },
   "g970b_7ksvsfw7tilxsg_bzscx2r0svhyq5zvbkkcbc": {
    "status": "pinned",
    "path": "pm-go-to-market/skills/gtm-strategy/SKILL.md",
@@ -20845,18 +20876,6 @@
    "digest": "sha256:72fc6248b6a4d827d208729b37370c2693e417bfae5420e55363faee556f98ec",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "gi1p406bcam-a7v3fmbwd3pas4yxjc6uw5eolwlqg24": {
-   "status": "pinned",
-   "path": ".agent/skills/mobile-frontend/SKILL.md",
-   "archive_path": "development/mobile-frontend/SKILL.md",
-   "repo": "netprtony/web-7nhan-cooking",
-   "branch": "master",
-   "digest": "sha256:a335bf25189e59ef29b2f6d492c1d7260da3ddfdf3a3c76832d285ca59e96ef9",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "0da398850582360f4028aa2b8845589e61a8414d",
-   "name": "mobile-frontend",
-   "description": "React Native patterns, NativeWind styling, React Native Reusables components, mobile-specific patterns"
-  },
   "gi6ekzcwsdt48iub3shjo1ge1qtpmklnji6k6ry6uhu": {
    "status": "pinned",
    "path": ".claude/skills/create-pr/SKILL.md",
@@ -20936,6 +20955,14 @@
    "branch": "main",
    "digest": "sha256:9339debc3d729a84c8d6e64384c6546a1e430516bda21b690cb763376a95370a",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "gjhifplhzrbyjy_ccxtvatt98jtslxklzqhrxdb_pd0": {
+   "status": "ambiguous",
+   "archive_path": "other/local-03c97b47cad3902542166460/SKILL.md",
+   "repo": "gutsofpratik/OpenClaude-Skills",
+   "branch": "main",
+   "digest": "sha256:091df1629510af1b92fc4abd6f96732ebedb4cb2c0f3457e8f2740b0504a2438",
+   "checked_at": "2026-10-21T08:51:20+00:00"
   },
   "gjmlaynrex0fxyl0sxptu8u6tskstwk932bkohdbna4": {
    "status": "bundled_files",
@@ -21047,6 +21074,18 @@
    "branch": "main",
    "digest": "sha256:121d625bacad7fbf1c877f292f32936c77b23c385adee4b499cb5b8aa305ea8d",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "gl01q1cy8ruxr-kukipk73gfr09-53wlnynfzzoofkm": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-build-and-test/SKILL.md",
+   "archive_path": "other/aidlc-build-and-test-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:c9dfabcff04e3592324dc42a408cadd7f6de09a1fd78e3b718e9ece901a8772b",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-build-and-test",
+   "description": "Run the AI-DLC `build-and-test` stage (construction phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage build-and-test --single`: the engine emits one run-stage directive for build-and-test and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
   },
   "gl2dpne7hcfmd3hukuq-pc5pbmw5mlm_mnuyvtat9wu": {
    "status": "pinned",
@@ -21274,13 +21313,6 @@
    "repo": "ahonn/dotfiles",
    "branch": "master",
    "digest": "sha256:3a72449d891d3f0c5589ae79bbc806548e1b6931b7196091313bd5f0e7543414",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "gpxqy35desugp1y-bt3bb_g0daibiyy08cwodkobtro": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest\",\"status\":\"404\"}",
-   "archive_path": "integration/netpad-decimasudo-lumoagent/SKILL.md",
-   "digest": "sha256:4b7dbe17ee359a0c5ee75ff75b52bf4ca3988c6d5049f544492ab9be9ecb0a99",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "gq-vq1p2q1tis8mpuoavn8j8qtsr_spdqwmv7agev8c": {
@@ -21704,18 +21736,6 @@
    "digest": "sha256:b543cc6fef72dd548e51828feb4b86fe22753aadca0fc38a169c450b678458c5",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "gzl7yqhxzlm0mvlu4f2y0vnygqi3xknfr3nc-cmiicy": {
-   "status": "pinned",
-   "path": ".github/skills/msstore-cli/SKILL.md",
-   "archive_path": "other/msstore-cli-trumedia-creative-live-events-dashboar/SKILL.md",
-   "repo": "TruMedia-Creative/live-events-dashboard",
-   "branch": "main",
-   "digest": "sha256:c0a99a5ca46ea7fd367696154d6fdd930752f143bc00ab1d4d7fc9cf714bcdf4",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "ba021c0846a53566a3bfde95009077974d2da535",
-   "name": "msstore-cli",
-   "description": "Microsoft Store Developer CLI (msstore) for publishing Windows applications to the Microsoft Store. Use when asked to configure Store credentials, list Store apps, check submission status, publish submissions, manage package flights, set up CI/CD for Store publishing, or integrate with Partner Center. Supports Windows App SDK/WinUI, UWP, .NET MAUI, Flutter, Electron, React Native, and PWA applications."
-  },
   "gzr10l11btzrzhkeoo68y9bca5yi08hzsmml7je7yiu": {
    "status": "invalid_frontmatter",
    "archive_path": "orchestration/swarm-orchestration-proffesor-for-testin-agentic-qe/SKILL.md",
@@ -22005,18 +22025,6 @@
    "digest": "sha256:264854636e92133015cc269f638e8ab16ac3f1c789880fb0d4647d72db9464e6",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "h9eqwc1zuvadgjedfwpv4gtak73fennrb1fyay8-6ji": {
-   "status": "pinned",
-   "path": ".claude/skills/native-data-fetching/SKILL.md",
-   "archive_path": "other/native-data-fetching-ratnesh-maurya-tracker-ratnesh-maur/SKILL.md",
-   "repo": "ratnesh-maurya/tracker.ratnesh-maurya.com",
-   "branch": "main",
-   "digest": "sha256:eaa2f00ceed45e3149a9c6b6e1b989413bd1350fd4a256c76d89a60d9dc00026",
-   "checked_at": "2026-10-17T23:14:30+00:00",
-   "commit": "c61c25e173e1922ea33906bb6d3b1d08c7d0c624",
-   "name": "native-data-fetching",
-   "description": "Use when implementing or debugging ANY network request, API call, or data fetching. Covers fetch API, React Query, SWR, error handling, caching, offline support, and Expo Router data loaders (useLoaderData)."
-  },
   "h9fprfhryj3657u_zdomhnohdgdi-bqezasw1cupytu": {
    "status": "upstream_changed",
    "archive_path": "security/better-auth-jezweb-claude-skills/SKILL.md",
@@ -22276,14 +22284,6 @@
    "digest": "sha256:f0bf068d14ed3d5fcf13961e7e0de78374663e38255253cad13113e5e66c8bd2",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "hggnk-dfae7bf-x3kbmk3owsmrsssyxv1hvmxor5bx4": {
-   "status": "upstream_changed",
-   "archive_path": "ai-llm/model-recommendation/SKILL.md",
-   "repo": "github/awesome-copilot",
-   "branch": "main",
-   "digest": "sha256:a7190dea13853b00f072a1837c702a5f96a163ed8821bd026779f6339a980dce",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "hgmcebqbmrgbz0ycotytldzii3uct3hpqdtt9tr_dny": {
    "status": "pinned",
    "path": "canvas/skills/calendar/SKILL.md",
@@ -22371,6 +22371,14 @@
    "branch": "main",
    "digest": "sha256:6f6770ec540a4e30e4bf32d0e3b045d9d929b0ef4d599047e362756bb701090d",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "hicy_e-wg7om6bkic6kjsppyaaas2qloyk0xopa1g30": {
+   "status": "bundled_files",
+   "archive_path": "development/local-ed0edb1cb2e59472dae382be/SKILL.md",
+   "repo": "gutsofpratik/OpenClaude-Skills",
+   "branch": "main",
+   "digest": "sha256:808fc5717aa88ad65efff312b11c186294d3e6ee301afb584e2f86599b137787",
+   "checked_at": "2026-10-21T08:51:20+00:00"
   },
   "hiv-1bwvlmbl61pzvpl0jtvklx1jx7qvxv9r3rtghsi": {
    "status": "pinned",
@@ -22755,13 +22763,6 @@
    "repo": "rmyndharis/antigravity-skills",
    "branch": "main",
    "digest": "sha256:9e03f3b188c83a1610e8513ecf7089e480c86ff5c4954a824bd9daddff4ce0f6",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "hqbyp0ouyzpadjpynqdidxlb7om-liah9fvrm9um6wg": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Branch not found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "local-ai-infrastructure/modal-hxk622-tokendance-106b82e8/SKILL.md",
-   "digest": "sha256:b53c917f8142446a71573114f19f92341702a8dfc856c1dd659cb52364c6dce0",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "hqcwyeo9hlvrtkv_zur0f--neukx098wukgl9wk8t34": {
@@ -23326,14 +23327,6 @@
    "digest": "sha256:f27992510c051355dfe68c92394d509af730da5298094ec86834ee40bbd31376",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "i4_4-awt-pko-1icvzvoeyafrokezm0wrrvab_y668o": {
-   "status": "bundled_files",
-   "archive_path": "documents/morning-minagayid-innovator/SKILL.md",
-   "repo": "minagayid/innovator",
-   "branch": "main",
-   "digest": "sha256:0baee176dfafd3cc14906ef49cde777d3a661300e0fdd94f897b0ec9d7f72f2a",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "i4cpcapuzbjpqplclznu_76j2wgdbiwl2iylagk92zk": {
    "status": "bundled_files",
    "archive_path": "other/analytics-patrickserrano-lacquer/SKILL.md",
@@ -23381,18 +23374,6 @@
    "digest": "sha256:b09ec7a8da83019f16a8e89b42d0641ccf28060415a475e00e26706ef4906895",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "i6edx3kndv_pqqe-zw02os5-ovyo8oukey3m2sakymw": {
-   "status": "pinned",
-   "path": "skills/labclaw-general-networkx/SKILL.md",
-   "archive_path": "other/labclaw-general-networkx/SKILL.md",
-   "repo": "luokehan/superclaw",
-   "branch": "main",
-   "digest": "sha256:1aac65cf38eeea5ea9a2a64bfcf9d845d20697ecbae0bf623b70e10e85f7af9d",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "02145afd13ba0c20497f16c665345b4d35ce6510",
-   "name": "networkx",
-   "description": "Comprehensive toolkit for creating, analyzing, and visualizing complex networks and graphs in Python. Use when working with network/graph data structures, analyzing relationships between entities, computing graph algorithms (shortest paths, centrality, clustering), detecting communities, generating synthetic networks, or visualizing network topologies. Applicable to social networks, biological networks, transportation systems, citation networks, and any domain involving pairwise relationships."
-  },
   "i7jswxyq6em6qe-dy9ec_x955cx-f-m61ja-z5p3_38": {
    "status": "pinned",
    "path": "skills/core/firecrawl-agent/SKILL.md",
@@ -23404,14 +23385,6 @@
    "commit": "85071566adaf3f47fdec0e00760fa355bb469d71",
    "name": "firecrawl-agent",
    "description": "Autonomously navigate websites and extract structured data across pages. Use when the task requires navigation or no suitable ready-made workflow or data provider covers it."
-  },
-  "i7odeqez1icb2jnxm3t1dxxayd6pdq_4a-4ohqipwqa": {
-   "status": "upstream_changed",
-   "archive_path": "other/object-get-data-punkouter26-posumo/SKILL.md",
-   "repo": "punkouter26/PoSumo",
-   "branch": "master",
-   "digest": "sha256:598d4dd26bc742042d180134432cbb21c39afadb8d84c7b3659b2c64ab7d97eb",
-   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "i8z8rgshejcjwk69rsms60vtkmid4aoaslzvjxr0ogu": {
    "status": "upstream_changed",
@@ -23519,6 +23492,18 @@
    "branch": "main",
    "digest": "sha256:888b7651d66d66dbac4e72b7c554638eb19bd971d686d6cbdf030a5ef3788f55",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "iborw1aaaarjvzs9gcj5mm7bbhgyfno8t1w_gpvfpse": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-units-generation/SKILL.md",
+   "archive_path": "other/aidlc-units-generation-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:3c2a150658ceff0e938c24b6af091a3d8ce9f50b4eb6beda5b42de6aa416f8e4",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-units-generation",
+   "description": "Run the AI-DLC `units-generation` stage (inception phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage units-generation --single`: the engine emits one run-stage directive for units-generation and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
   },
   "ibowhpdxovjjqwyymqtchsezi5k_x3aenny4lgjk7ec": {
    "status": "upstream_changed",
@@ -23855,6 +23840,18 @@
    "name": "gccli",
    "description": "Google Calendar CLI for listing calendars, viewing/creating/updating events, and checking availability."
   },
+  "iibbrcyuzyvmwpbv--lm9ahgbl9cdszhazmhbvy_x7u": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-express/SKILL.md",
+   "archive_path": "ai-ml/aidlc-express-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:14527b2891767b049a951af4ea3181ac66e2781d17bc756a3cf8487cc47235ce",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-express",
+   "description": "Run the AI-DLC workflow with the express scope baked in — no scope detection. Lightest run: requirements to deploy, no design pass, no reviewers. Packaging over `/aidlc --scope express`, which works without this skill."
+  },
   "iil28a8uwaoimfgpxkkcmev9174afmlvxbr9nqelpfu": {
    "status": "upstream_changed",
    "archive_path": "development/shadcn-suphiozdedee-projenicdesign-com/SKILL.md",
@@ -24044,6 +24041,14 @@
    "digest": "sha256:f229085ad979d04c004b01865ad8fc4dcd732f4a917b56af59f600e0a3a26e8d",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "ilqcn6wcrw3-unshqwyfncccx6w8tijv474zm3wb7v0": {
+   "status": "ambiguous",
+   "archive_path": "development/commit-ibrdot-swe-re-expert/SKILL.md",
+   "repo": "ibrdot/swe-re-expert",
+   "branch": "main",
+   "digest": "sha256:cd41d93ac92b0e4c3272c359d95415211e8b0820e7a0026f76f2a5b5aafb1ec1",
+   "checked_at": "2026-10-21T08:51:20+00:00"
+  },
   "ilvysd5dkd7erdxuuctymbprjdm7lsewnzzxjdgjaie": {
    "status": "pinned",
    "path": "cli-tool/components/skills/media/video-downloader/SKILL.md",
@@ -24055,14 +24060,6 @@
    "commit": "cc0752c884183806eefb8122424638464c56dd34",
    "name": "video-downloader",
    "description": "Downloads videos from YouTube and other platforms for offline viewing, editing, or archival. Handles various formats and quality options."
-  },
-  "ilwekglq2fqbyvciytb3xzmw47obbtaqfsffriqx3fs": {
-   "status": "bundled_files",
-   "archive_path": "other/ncc-vikasvardhanv-jerry-skills/SKILL.md",
-   "repo": "vikasvardhanv/jerry_skills",
-   "branch": "main",
-   "digest": "sha256:e37c814ba40e85f0e280a50c78b266a5b4b808f69cfe6231a46d306446cf0dc2",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "ilzw9fxwl9mkd9l-azsfr4yokgcy6gcs8vaqw9nxbeq": {
    "status": "pinned",
@@ -24151,18 +24148,6 @@
    "branch": "main",
    "digest": "sha256:1283c0dd62a8104d9edda4583569b5d8510b4ddaa45120687c999250fd96bad2",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "inctwdjubjfelmfihy3qkbul1yose4zwfcwyyzg6ozw": {
-   "status": "pinned",
-   "path": ".cursor/skills/nx-generate/SKILL.md",
-   "archive_path": "development/nx-generate/SKILL.md",
-   "repo": "nrwl/nx",
-   "branch": "master",
-   "digest": "sha256:22726e8566504b61ce5a332c14517333b5b3dbd009931e84f1584808f5604ccb",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "eecef0cf01509176dc5ebac1a48295c565e31f53",
-   "name": "nx-generate",
-   "description": "Generate code using nx generators. USE WHEN scaffolding code or transforming existing code - for example creating libraries or applications, or anything else that is boilerplate code or automates repetitive tasks. ALWAYS use this first when generating code with Nx instead of calling MCP tools or running nx generate immediately."
   },
   "ins9_hyptoqrcv0ya2a8-dapztq8-zardpgbxeab3yc": {
    "status": "ambiguous",
@@ -24794,6 +24779,18 @@
    "digest": "sha256:35f3d420538ce7e79ce5226a849f3089045a62537058875da0a7c302f603c8b4",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "izyrrwkte6ukbkcrsviwu34d2s055oxakolwrlqxgve": {
+   "status": "pinned",
+   "path": ".grok/skills/speckit-specify/SKILL.md",
+   "archive_path": "integration/speckit-specify-tjsasakifln-extra-cli/SKILL.md",
+   "repo": "tjsasakifln/extra-cli",
+   "branch": "main",
+   "digest": "sha256:6313b902b49bf2ae3582421be21c2453ff98a863974acca3e6a83cdad9d4b70b",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "c25939e9b7806c7d646fa5f4dfddf6ce740c79af",
+   "name": "speckit-specify",
+   "description": "Create or update the feature specification from a natural language feature description."
+  },
   "j03hz2r-rv6yu36pziibj9jb_1jqlddekoxgsghqrhi": {
    "status": "upstream_changed",
    "archive_path": "development/2d-games/SKILL.md",
@@ -24861,6 +24858,18 @@
    "branch": "main",
    "digest": "sha256:abce2ed8263b7fdf22522c790218b650b69356fab25f3a993b68da1d1ea09caa",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "j3fw7o8cllqjmigxm1ujfo9heytojo8vrithb951ln4": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-incident-response/SKILL.md",
+   "archive_path": "other/aidlc-incident-response-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:5ca42b51b0a5e2cc93d532a8ed09fa1808de478f6172010d01e3f8f5cfd7000b",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-incident-response",
+   "description": "Run the AI-DLC `incident-response` stage (operation phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage incident-response --single`: the engine emits one run-stage directive for incident-response and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
   },
   "j3h0eletjzm40ado6c2x5uifudo_39mhgie57t07ome": {
    "status": "upstream_changed",
@@ -24937,6 +24946,18 @@
    "commit": "b5af4f446dcfc3df3e9d0ab28a33a9502c29a15d",
    "name": "imsg",
    "description": "iMessage/SMS CLI for listing chats, history, watch, and sending."
+  },
+  "j6asydezsw-xj3qtm3byruewlde3ydq_hj24jfbfkzu": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-replay/SKILL.md",
+   "archive_path": "other/aidlc-replay-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:7184b462b717da165c5b1cef68b8157e42ed23b3866c1c4aac51e7ca475f96a7",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-replay",
+   "description": "Print a structured session narrative for stakeholders who weren't in the room. Numbers (stage counts, phase rollup, duration) come from `aidlc engine runtime summary`; prose comes from the audit trail and artefacts. Renders to the terminal only — writes no file, never mutates workflow state, never emits audit events."
   },
   "j6gxpf4j0_tdzvch1oz4vfadwxkck_laddjqlsiacbe": {
    "status": "pinned",
@@ -25313,6 +25334,18 @@
    "digest": "sha256:813fa8bc711cd2ebaefd6a4f73fc6093edbf24a48ca80c381b67623b6c0c982b",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "jf7xhozrhebr6sykttdrhvxqzu-1wrhmota1fri0uoq": {
+   "status": "pinned",
+   "path": "skills-db/legal/ecp-manual/SKILL.md",
+   "archive_path": "security/ecp-manual-lev-os-agents/SKILL.md",
+   "repo": "lev-os/agents",
+   "branch": "main",
+   "digest": "sha256:d6c6513541e98e3ad30f0cc7fb2901f5d2511d7f2816e40f5e5c98fa9aeb14e7",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "ce04f52a22ae17f9635eadf1735503efdd6d2bd3",
+   "name": "ecp-manual",
+   "description": "Drafts an audit-ready Export Compliance Program manual covering EAR, ITAR, and OFAC requirements. Use when creating or updating an export compliance policy, international trade compliance program, or preparing enforcement defense documentation for regulatory review."
+  },
   "jfa8-flbavdogsezluwy2we2g9hgzxacoc7k_vqpbog": {
    "status": "pinned",
    "path": "skills-db/legal/form-1023/SKILL.md",
@@ -25570,14 +25603,6 @@
    "digest": "sha256:bd72501c173407e2af4d6761688b74a130a5e4326ba9f13daad9beb7d829451b",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "jitwhap5roxeyjhhheduynca9cio_wt-f_xjpjvj3e0": {
-   "status": "upstream_changed",
-   "archive_path": "integration/notion-openhands-skills/SKILL.md",
-   "repo": "OpenHands/skills",
-   "branch": "main",
-   "digest": "sha256:1d1e7b37ddcabcf371ed8460776133226f2e37fc04b332444d5bb820522be5cf",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "jiwvqvaiu_xgihyftncyayybvto9mt1hkxje6sxni9s": {
    "status": "bundled_files",
    "archive_path": "devops/devops-engineer-hainamchung-agent-assistant/SKILL.md",
@@ -25601,6 +25626,18 @@
    "branch": "main",
    "digest": "sha256:79bca3c767a821a28aa7d83a9673010b2066afa4889923ea5946153c8967e824",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "jjeh26wehs0yj6ohrn2gwepxzuelq-vz9hkazhqn_q0": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-intent-capture/SKILL.md",
+   "archive_path": "other/aidlc-intent-capture-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:7904b6c8b2bb8905a24706c6b1a4476a0a1664125d202ba14b094544a0fc2dfb",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-intent-capture",
+   "description": "Run the AI-DLC `intent-capture` stage (ideation phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage intent-capture --single`: the engine emits one run-stage directive for intent-capture and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
   },
   "jjhkq6gfujgss1gk1fzk_exvxzzjpseztfw1cyrx_f8": {
    "status": "pinned",
@@ -25793,14 +25830,6 @@
    "digest": "sha256:d37478268d979001cf3382ab3322c04ed329e47f4c06b8f2af16ece5b989f0be",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "jnjb2ibrfmcrlj4d7rx3yi8s_nqlf1zemwghqa-l4ce": {
-   "status": "bundled_files",
-   "archive_path": "other/muapi-social-media-video-darrrkkk-crypto-opencode-v2-skills-a/SKILL.md",
-   "repo": "darrrkkk-crypto/Opencode-V2-Skills-Agents",
-   "branch": "main",
-   "digest": "sha256:d72477ddedc6c3a569ab6a925a67ba78eca47cdd67bc31bbc73b2dd72b134a67",
-   "checked_at": "2026-10-20T09:04:56+00:00"
-  },
   "jnp6c6fav2oogxzjb7leqfmoe77jw14ci5ypasyehyo": {
    "status": "ambiguous",
    "archive_path": "other/p5js-leejuan99-hermes-sync-2/SKILL.md",
@@ -25852,6 +25881,14 @@
    "branch": "main",
    "digest": "sha256:3ab000774a42c3852b8c30bfd48c49b82a9f5aece0cddd4f20bf1cc1150e86c2",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "jpjsiaegxu-7hl_yl-qkxrh3rurf_9aimcssy1oqche": {
+   "status": "ambiguous",
+   "archive_path": "development/local-f8a4b6e6cf297c9741b3ac6b/SKILL.md",
+   "repo": "gutsofpratik/OpenClaude-Skills",
+   "branch": "main",
+   "digest": "sha256:2befe7fc55bcadaa3d97dd9e8efeb633d2561c0ebe74c5a8b17c4d9e7e4520b3",
+   "checked_at": "2026-10-21T08:51:20+00:00"
   },
   "jptsy-y87sisyht4wo9gmn7ekdwdhx_x-y4-0pde284": {
    "status": "pinned",
@@ -26174,18 +26211,6 @@
    "branch": "main",
    "digest": "sha256:2a1f2e63506fded1d67124541102b1e4d4c8cdfdbcb03179e5efcb025dd6e451",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "jwzidijzwe35eslheguzemlyvsyx37nncqm1bfsqoka": {
-   "status": "pinned",
-   "path": ".agents/skills/receiving-code-review/SKILL.md",
-   "archive_path": "other/receiving-code-review-b-mendoza-agent-skills/SKILL.md",
-   "repo": "b-mendoza/agent-skills",
-   "branch": "main",
-   "digest": "sha256:091df1629510af1b92fc4abd6f96732ebedb4cb2c0f3457e8f2740b0504a2438",
-   "checked_at": "2026-10-20T09:04:56+00:00",
-   "commit": "6ff16fc5d4fb3bb6f648a7a737809d71964e08f3",
-   "name": "receiving-code-review",
-   "description": "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation"
   },
   "jx7endrc0i0qyy8ja7fztn3ahreuvpgzmnm55lyqnhi": {
    "status": "ambiguous",
@@ -27312,14 +27337,6 @@
    "digest": "sha256:893f7e0c1534ad402182443928996f9583313207f0ffb31a09fae897bfc4f44f",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "klna3xbro-dwd2ye_h3_m2hunac1vyzfc2azc5ob9og": {
-   "status": "bundled_files",
-   "archive_path": "other/n8n-superhealth-skills-hub/SKILL.md",
-   "repo": "superhealth/skills-hub",
-   "branch": "master",
-   "digest": "sha256:5fcd568134bf078fd82ca0ce9c72c736e05a57d7bf14f7e7565a96a4e47a8ff3",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "klpydk4xih6cwvejodtmjqcddmm_dfd_nkhaovteupm": {
    "status": "pinned",
    "path": "skills/web-perf/SKILL.md",
@@ -28353,6 +28370,18 @@
    "name": "adapt",
    "description": "Adapt designs to work across different screen sizes, devices, contexts, or platforms. Ensures consistent experience across varied environments."
   },
+  "lb2yg67uscgaqf1wxpfetysge3egasovxbfxg0cg1uc": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-environment-provisioning/SKILL.md",
+   "archive_path": "other/aidlc-environment-provisioning-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:091bb34ff510618e9b1b188fd818f6ce339315ee08e38136b99513ebf41c50c1",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-environment-provisioning",
+   "description": "Run the AI-DLC `environment-provisioning` stage (operation phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage environment-provisioning --single`: the engine emits one run-stage directive for environment-provisioning and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
+  },
   "lcbmqwjkn183q9isw93lejs4las6yyv0irewyawfsmg": {
    "status": "tree_truncated",
    "archive_path": "productivity/ryot-johnalbertini14-glit-openclaw-skills/SKILL.md",
@@ -28593,13 +28622,6 @@
    "digest": "sha256:7e0048fb5808f34f3074764eef24f8e2dd92afd58a8ff5ca111a30329b340b32",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "lff0zttf1zpitkygl3xwmfefdqm2y_2cnlenqjpwdka": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest\",\"status\":\"404\"}",
-   "archive_path": "testing/webapp-testing-beel-collab-presets/SKILL.md",
-   "digest": "sha256:8c4a9a399de09c194becb01b83f6de2caee135ef194180b722002283505e17ee",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "lfnqhzzdsdcmv2xoa4xev1m7mwemzupvgtovgflem3i": {
    "status": "bundled_files",
    "archive_path": "skills/skill-development-tzachbon-smart-ralph/SKILL.md",
@@ -28734,14 +28756,6 @@
    "repo": "smartrickpicks/substrate-bk-airlock-skills-library",
    "branch": "master",
    "digest": "sha256:5bf8cac8bf75d9c7cd145765d93f131804631c526cc61563cb02d50923c40426",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "ljbnz_yxkp9wudhwio2ytupe1kxsdpovb6etvq3krzy": {
-   "status": "tree_truncated",
-   "archive_path": "security/ecp-manual-thomasmoreai-legal-skills-open/SKILL.md",
-   "repo": "ThomasMoreAI/legal-skills-open",
-   "branch": "main",
-   "digest": "sha256:a19f47ec996e4f78bed3754c3588818812d1ddfed09476f8d8e9c0829568e377",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "ljfmzobjwxf8e7uhsbq6klupsyppanl6wyojb4z37l8": {
@@ -28918,6 +28932,18 @@
    "commit": "3843a1227c83a12e7823469a430eb6f73296328a",
    "name": "openspec-verify-change",
    "description": "Verify implementation matches OpenSpec change artifacts. Use when the user wants to validate that implementation is complete, correct, and coherent before archiving. Also use when the user says \"openspec verify\" or \"opsx verify\"."
+  },
+  "lmvxnojzlcynnostyu7u0abjcbruvszbzupv5-imuns": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-feature/SKILL.md",
+   "archive_path": "ai-ml/aidlc-feature-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:fa742c7d93fa7e394673fc02517ba51a459f42dcd8327f445b62659123810efc",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-feature",
+   "description": "Run the AI-DLC workflow with the feature scope baked in — no scope detection. Full lifecycle for new features, practical depth. Packaging over `/aidlc --scope feature`, which works without this skill."
   },
   "lmwd0bjrezd9racb83hdhitxu-w6uzqrvtafckm9b2c": {
    "status": "upstream_changed",
@@ -29132,14 +29158,6 @@
    "repo": "guanyang/antigravity-skills",
    "branch": "main",
    "digest": "sha256:71cfc398ee05221f21fddc797ea5523a59278feb3447c681db92fa9130ad2da3",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "lrjuasp6sxfdfvcqlmrb5y59es4ozkofloobzhywgvg": {
-   "status": "upstream_changed",
-   "archive_path": "personal-development/negotiating-offers-refoundai-lenny-skills/SKILL.md",
-   "repo": "RefoundAI/lenny-skills",
-   "branch": "main",
-   "digest": "sha256:41e5b9a69360bd1f79f3fcfdc70323de9e2fb9540c64b7e4c7f7c60bd63e11fc",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "lrtj7amnzckzpco1cn1vlletcw3dfuaz3zryok7pm6u": {
@@ -30589,6 +30607,14 @@
    "digest": "sha256:a4a5574d4389c3041306a82178a8109572fd3a9a8c28c66e0574c8cf4fd45219",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "mmivt3zgmnnojrmuw8c3b4qul_khrpdv87yakqunrdg": {
+   "status": "ambiguous",
+   "archive_path": "other/local-a7c2ca31e742d64da776713f/SKILL.md",
+   "repo": "gutsofpratik/OpenClaude-Skills",
+   "branch": "main",
+   "digest": "sha256:8cfb86f121269e8f7f12361e6795c4f6738828340e28964c9229d365666c9edd",
+   "checked_at": "2026-10-21T08:51:20+00:00"
+  },
   "mmqz2bafr-hjgvn8d5kg42iottjfuwabpl_skpzrnwo": {
    "status": "upstream_changed",
    "archive_path": "other/to-tickets-jonathoneco-dotfiles/SKILL.md",
@@ -30875,6 +30901,18 @@
    "archive_path": "data/cost-optimization-pelan05-vscode-agents-folder/SKILL.md",
    "digest": "sha256:2a56b05ee1e0f39f55c512d4a8097b50d86efbcc9cf7ccf7368871cfce9d2107",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "mrny5mjzoxelqzgelgqghmowpkonse09fqgqwzihgbe": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-user-stories/SKILL.md",
+   "archive_path": "other/aidlc-user-stories-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:83133641b18eef67f2efdfb4164427c9f41ef1e2498962aa65829e91bc6994bc",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-user-stories",
+   "description": "Run the AI-DLC `user-stories` stage (inception phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage user-stories --single`: the engine emits one run-stage directive for user-stories and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
   },
   "mrzxk1j9sqmqnxpo4dvop5fh6azwnqdkumpwqlje2e8": {
    "status": "ambiguous",
@@ -31369,14 +31407,6 @@
    "digest": "sha256:043ce4c4a4d084cb5ea063fb28236b655f4653a6d18042779484069f71ae0915",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "mzkdpbj4-cldfsg0y7rpj2v-ogbrcq583ojc8hwa3ja": {
-   "status": "bundled_files",
-   "archive_path": "other/mono-karanmrn-karanagentskills/SKILL.md",
-   "repo": "karanmrn/karanagentskills",
-   "branch": "master",
-   "digest": "sha256:0b7355923e5898e85143126124249d6b75bb813a2773d498e788f1e1c8193bd9",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "mzp36rjvy6bu73um2csunytew5lwxilhmsburonyvqi": {
    "status": "upstream_changed",
    "archive_path": "forensics/azure-diagnostics-microsoft-skills/SKILL.md",
@@ -31608,6 +31638,18 @@
    "digest": "sha256:a9b330e107f1d534e09b28e211d8016efb67b9df864de10a756c39c7dbc10b81",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "naaqsxsaqpc6-zppvjdouyon5sl4vjbcdrk-o6omgje": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-practices-discovery/SKILL.md",
+   "archive_path": "other/aidlc-practices-discovery-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:ede7bfc67efedce60f01578556568ed6f78530194076cdeba2939c123ec7540b",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-practices-discovery",
+   "description": "Run the AI-DLC `practices-discovery` stage (inception phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage practices-discovery --single`: the engine emits one run-stage directive for practices-discovery and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
+  },
   "nabpeu9tgskhbfb5qf9wo-jos59y3sltkishzwu7bfw": {
    "status": "pinned",
    "path": "skills/agentic-eval/SKILL.md",
@@ -31634,6 +31676,18 @@
    "branch": "main",
    "digest": "sha256:d32f031ee373cb91618e2cb489e486258b1efa098621f403771b42013f733b03",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "nbenf6eoi8l9pgdaz0r6gpa1atxo2oazjegp_pl9n9u": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-outcomes-pack/SKILL.md",
+   "archive_path": "devops/aidlc-outcomes-pack-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:5aee5be446e5f845f95628b2fd54b3823acfd0c4f73a872ba1bd34e510b7b664",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-outcomes-pack",
+   "description": "Generate a comprehensive handover document at workflow close so the team can own, operate, and continue the system without re-running the workflow. Stage/phase/learning counts come from `aidlc engine runtime summary`; prose comes from the artefacts. Writes OUTCOMES.md but never mutates workflow state or emits audit events."
   },
   "nbiwhekwg6vzja6ne9qz4jrmsetitx42rz95jmpddnq": {
    "status": "bundled_files",
@@ -31669,14 +31723,6 @@
    "repo": "SpillwaveSolutions/code_agent_context_hooks",
    "branch": "main",
    "digest": "sha256:3cb2e039d77927a4d2b0d7b8ea4d6ada58f099db0139ba368748909d0dae7e1f",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "nbvg1u7heju7exq53ptm6pnshde8jqof0onkrcjdk7e": {
-   "status": "upstream_changed",
-   "archive_path": "local-ai-infrastructure/modal-k-dense-ai-scientific-agent-ski/SKILL.md",
-   "repo": "K-Dense-AI/scientific-agent-skills",
-   "branch": "main",
-   "digest": "sha256:2dde37f532b118b69540ce3b2ae8f25af33eea4c963cb4cd0d582b89016a0e8d",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "nc3afjxgbngchlr_qqljozwoljqk68y3a52azbiog9m": {
@@ -32691,6 +32737,14 @@
    "digest": "sha256:63d89eef8cc37b83475a8c6f3f2e6fd2ae4914ef9098c3cadd30cdbed9761ecf",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "nudjrakkzs9kzktifkbi10sutddxtf8hbxlq56f6qjk": {
+   "status": "bundled_files",
+   "archive_path": "other/torchforge-tianhao909-ai-research-skills-c/SKILL.md",
+   "repo": "tianhao909/AI-Research-SKILLs-cn",
+   "branch": "main",
+   "digest": "sha256:809da22c47d5caadbcca9d3db7e82e227c174dbaa98f4a01cf2a678ffaffcbf0",
+   "checked_at": "2026-10-21T08:51:20+00:00"
+  },
   "nufeffe8hmmqjn6ikitp8su468whexmw3o_y6qcwife": {
    "status": "pinned",
    "path": "plugin/skills/design-is/SKILL.md",
@@ -33067,6 +33121,14 @@
    "name": "gpt-image-edit",
    "description": "Edit images with OpenAI GPT Image 2 (the `/edit` endpoint of ChatGPT Images 2.0) on RunComfy — bundled with the model's documented prompting patterns so the skill gets sharper output than naive prompting against the same model. Documents GPT Image Edit's strengths (preservation language, multilingual in-image text editing, multi-reference up to 10 images, layout / typography precision), the schema, and when to route to Nano Banana Edit / Flux Kontext / GPT Image 2 t2i instead. Calls `runcomfy run openai/gpt-image-2/edit` through the local RunComfy CLI. Triggers on \"gpt image edit\", \"gpt-image-edit\", \"chatgpt image edit\", \"edit with gpt image 2\", or any explicit ask to edit with this model."
   },
+  "o2t7whul0q07_j0nwwltga1cx10sjjj2uofyiyhobtu": {
+   "status": "ambiguous",
+   "archive_path": "other/hr-pro-ibrdot-swe-re-expert/SKILL.md",
+   "repo": "ibrdot/swe-re-expert",
+   "branch": "main",
+   "digest": "sha256:f0b398df8d1e42ac5b388dc99b62afc2f65aa9517c2d186346e11923e69af911",
+   "checked_at": "2026-10-21T08:51:20+00:00"
+  },
   "o3gjelyuab_l5ppkulzhyx2jlfw0dlo5ilqszt7qayo": {
    "status": "bundled_files",
    "archive_path": "design/riso-karanmrn-karanagentskills/SKILL.md",
@@ -33138,6 +33200,18 @@
    "commit": "0cfb7e6e974802605b215fa56c4fe7767203d604",
    "name": "microservices-patterns",
    "description": "Design microservices architectures with service boundaries, event-driven communication, and resilience patterns. Use when building distributed systems, decomposing monoliths, or implementing microservices."
+  },
+  "o4zduptdwpxayt7-z7zfepw-nkfwkt_47kifgod3coo": {
+   "status": "pinned",
+   "path": "skills/winapp-cli/SKILL.md",
+   "archive_path": "other/winapp-cli-jyjeanne-ai-setup-forge/SKILL.md",
+   "repo": "jyjeanne/ai-setup-forge",
+   "branch": "main",
+   "digest": "sha256:a06ac80fdda3011776558c56f20cd0f8aad675b98a31d2c09e9fdb3ecd68656a",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "5ddba3cc97bb68f68c0bdcd3112d850461285c19",
+   "name": "winapp-cli",
+   "description": "Windows App Development CLI (winapp) for building, packaging, and deploying Windows applications. Use when asked to initialize Windows app projects, create MSIX packages, generate AppxManifest.xml, manage development certificates, add package identity for debugging, sign packages, publish to the Microsoft Store, create external catalogs, or access Windows SDK build tools. Supports .NET (csproj), C++, Electron, Rust, Tauri, and cross-platform frameworks targeting Windows."
   },
   "o5a0f0rg7dqte-sipjmjkw686bn4mutpqw2ixcthdlw": {
    "status": "pinned",
@@ -33351,6 +33425,18 @@
    "name": "intelligent-routing",
    "description": "Automatic agent selection and intelligent task routing. Analyzes user requests and automatically selects the best specialist agent(s) without requiring explicit user mentions."
   },
+  "oc0im0ana2h8h0orkimva5qk0r8vs7uhaqkuxasthy8": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-observability-setup/SKILL.md",
+   "archive_path": "other/aidlc-observability-setup-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:2d13cb6982afb98350bf0af02e575fa9de55708f8de9cf5ab6dafe5914dcf929",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-observability-setup",
+   "description": "Run the AI-DLC `observability-setup` stage (operation phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage observability-setup --single`: the engine emits one run-stage directive for observability-setup and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
+  },
   "oce-ukuqyxj3wqhh_xqyx68xpjehkxpkuwwy2g5d6ug": {
    "status": "pinned",
    "path": ".agent/skills/bash-linux/SKILL.md",
@@ -33385,6 +33471,14 @@
    "branch": "main",
    "digest": "sha256:f017590869f181d63f69ce459dffae3130eb893e8d120a95f59d5504bd7635a2",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "ocxtc5g7zyhxx0fhmf5wtx9krypayin9wcfashex2hm": {
+   "status": "bundled_files",
+   "archive_path": "other/eval-driven-dev-ggogogohub-portfolio/SKILL.md",
+   "repo": "ggogogohub/portfolio",
+   "branch": "main",
+   "digest": "sha256:26b946fe12485f9d50948dacb8987c19c6fb8798e770486a39705bafa0ca5125",
+   "checked_at": "2026-10-21T08:51:20+00:00"
   },
   "odihzojnhxmy4trm9zjwjqqfm9k4zi4ycmxvvb2oa5o": {
    "status": "ambiguous",
@@ -33775,14 +33869,6 @@
    "digest": "sha256:095f707c83b06d977ac06f9bcfde3bfc02c983be136665f420dc7e96817a2419",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "okbe2gf_yhjvqxagvmpatxxdds7zhaeyludaspsccfm": {
-   "status": "bundled_files",
-   "archive_path": "development/module-spec-generator-rysweet-azurehaymaker/SKILL.md",
-   "repo": "rysweet/AzureHayMaker",
-   "branch": "main",
-   "digest": "sha256:b0fd6569543aab075f355255233cac4a703f0ab7f45faf77173b6bfdd99d1455",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "okv8puwhks5n5eiog5ymkly3ladwfwxlzm2-xwxfno0": {
    "status": "bundled_files",
    "archive_path": "testing/webapp-testing-umairinayat-specter-ai/SKILL.md",
@@ -33829,18 +33915,6 @@
    "branch": "main",
    "digest": "sha256:e4eb1ae43ac13de34b415faf2c0a96609b2cafccadd2d02786f2da2814f2d925",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "olc9ovr9tun6opnw6hingdhiymgywz6x9poqy7kdgfy": {
-   "status": "pinned",
-   "path": "skills/imported/multi-agent-patterns/SKILL.md",
-   "archive_path": "orchestration/multi-agent-patterns-z1439527767-claude-config/SKILL.md",
-   "repo": "z1439527767/claude-config",
-   "branch": "master",
-   "digest": "sha256:8e1d659fe32c68fb4580697ee4110eb895e4a72a43bfde6d4db2cc29bd7d2733",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "72cdb6c436bc48b28547eddeda803f1f3b54ff38",
-   "name": "multi-agent-patterns",
-   "description": "This skill should be used when the user asks to \"design multi-agent system\", \"implement supervisor pattern\", \"create swarm architecture\", \"coordinate multiple agents\", or mentions multi-agent patterns, context isolation, agent handoffs, sub-agents, or parallel agent execution."
   },
   "oliwr2zfyld8qy_anb9wxbqfgxufc7hxeterwwpidi4": {
    "status": "bundled_files",
@@ -33948,6 +34022,18 @@
    "commit": "03aeba8dfec6263564b938c3e99b0d4752d1c189",
    "name": "development",
    "description": "Comprehensive web, mobile, and backend development workflow bundling frontend, backend, full-stack, and mobile development skills for end-to-end application delivery."
+  },
+  "omvnf0kixsv0h9ucuyyxcehtfudljb5zepn3zwfm2tc": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-mvp/SKILL.md",
+   "archive_path": "ai-ml/aidlc-mvp-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:bb757ab196a575c34a1ddda1b04d6aeddcbc8f354bf975bb896a9dbee85baa61",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-mvp",
+   "description": "Run the AI-DLC workflow with the mvp scope baked in — no scope detection. Skip operations, ship the core. Packaging over `/aidlc --scope mvp`, which works without this skill."
   },
   "onyrv2ewleupw20nnjav6oonrc8k26tsn8yw4rnmflw": {
    "status": "pinned",
@@ -34115,14 +34201,6 @@
    "commit": "0f469f5a8b92db04e3f44c2b0cb9865491862d53",
    "name": "commit",
    "description": "ALWAYS use this skill when committing code changes — never commit directly without it. Creates commits following Sentry conventions with proper conventional commit format and issue references. Trigger on any commit, git commit, save changes, or commit message task."
-  },
-  "os-g6ozdbak2j8opvqzb8jk7vgyccqrfj31pxmoywji": {
-   "status": "ambiguous",
-   "archive_path": "security/node-security-review-gonkagate-opencode-setup-2/SKILL.md",
-   "repo": "GonkaGate/opencode-setup",
-   "branch": "main",
-   "digest": "sha256:b5d97ac04ace527e122618dea95098b36d1fd88445f917b12fe6c7a63aed6938",
-   "checked_at": "2026-10-18T11:51:37+00:00"
   },
   "osdex6i8_cnbdtqg-yumdkrnm_9pqmfz2o8irjjgcqa": {
    "status": "bundled_files",
@@ -34377,6 +34455,18 @@
    "digest": "sha256:1d24d5e161d53399be058669832492f571391ff844d14d4e1c3bac0c8763aabf",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "oxmvsu6e4-thsitvci84sfs-txtxd87ge3i3gkcivu0": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-infrastructure-design/SKILL.md",
+   "archive_path": "other/aidlc-infrastructure-design-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:ee67423d062203399da0c05f936866969c9c22ab9dd91b2e4e958c2677c3750d",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-infrastructure-design",
+   "description": "Run the AI-DLC `infrastructure-design` stage (construction phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage infrastructure-design --single`: the engine emits one run-stage directive for infrastructure-design and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
+  },
   "oxpvsmvsy7e7fq8-e05fbbpkv8bmmxgz8wk3v2r2vyo": {
    "status": "ambiguous",
    "archive_path": "development/bmad-quick-dev-new-preview-bino1999-worl-sl-bmad/SKILL.md",
@@ -34405,14 +34495,6 @@
    "name": "code-review-and-quality",
    "description": "Conducts multi-axis code review. Use before merging any change. Use when reviewing code written by yourself, another agent, or a human. Use when you need to assess code quality across multiple dimensions before it enters the main branch. Turkish triggers: kodu incele, PR/diff review, kalite sorunlarını bul, merge öncesi kontrol."
   },
-  "oywg5omus5kmgfo8fhe6-rx-xydaxfoc2ihg0vxbx-4": {
-   "status": "upstream_changed",
-   "archive_path": "ai-ml/monitor-experiment/SKILL.md",
-   "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
-   "branch": "main",
-   "digest": "sha256:c1f4a720b1a7d6629c40c15b4f80bd7783179cf93c078b4c671142a96e741bc4",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "oyyr31g1gdvhb7b_-e_fmx-kvt71tv0qwohyilqx8oq": {
    "status": "upstream_changed",
    "archive_path": "productivity/brainstorming-obra-superpowers-2/SKILL.md",
@@ -34435,6 +34517,18 @@
    "archive_path": "documents/changelog-generator/SKILL.md",
    "digest": "sha256:92da598100d08813bc27aae6d9e4f9b1e9764236d1ff19e94deb2df2b634411e",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "ozfxjykked4vg6lgktivqjc3ua5381ujocuyvjvf3ce": {
+   "status": "pinned",
+   "path": ".grok/skills/speckit-analyze/SKILL.md",
+   "archive_path": "other/speckit-analyze-tjsasakifln-extra-cli/SKILL.md",
+   "repo": "tjsasakifln/extra-cli",
+   "branch": "main",
+   "digest": "sha256:2e89ffed73764eb9d3ee2d9fba7e245a5e73229b809ddec52409ca74c44e585d",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "c25939e9b7806c7d646fa5f4dfddf6ce740c79af",
+   "name": "speckit-analyze",
+   "description": "Perform a non-destructive cross-artifact consistency and quality analysis across spec.md, plan.md, and tasks.md after task generation."
   },
   "ozvugm6ydkcfspepyje6ywx-dzhonvgauwx-_2rsbpe": {
    "status": "bundled_files",
@@ -34908,6 +35002,18 @@
    "digest": "sha256:cb08da1335c174609128be01ff58473569c808d6358f56bd9d789efb763c4d10",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "pdwjpeflcqdqnrpfb0dpgeqok29_9ich8gpv4woiyne": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-contract-design/SKILL.md",
+   "archive_path": "other/aidlc-contract-design-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:f4c86043ea0a731ef025ec3ce8a720a0db2edb1f22034025c258fe597e51b9c9",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-contract-design",
+   "description": "Run the AI-DLC `contract-design` stage (inception phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage contract-design --single`: the engine emits one run-stage directive for contract-design and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
+  },
   "pdyagwhyqcpuwtdtbl8ngqmj4pxz1yqbttkjuim3_8i": {
    "status": "ambiguous",
    "archive_path": "orchestration/chief-of-staff-smartrickpicks-substrate-bk-airlock/SKILL.md",
@@ -35073,14 +35179,6 @@
    "repo": "rysweet/AzureHayMaker",
    "branch": "main",
    "digest": "sha256:3a9d5dd38559a3d09926f739ecf847538947d310e845ae0e4403d95b57d89cef",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "pgrhgem4dw7m4abkmikrhb_7ofnvwtam61focdaekjy": {
-   "status": "upstream_changed",
-   "archive_path": "analysis/novelty-check/SKILL.md",
-   "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
-   "branch": "main",
-   "digest": "sha256:bd871d798d365011f845166f6dfd191b493c52d4b226756f744b5a7f336d5315",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "pgrx0rr3t_ko9t5jfzzpxxtehbqunvpav73q0xkyzt0": {
@@ -35364,6 +35462,18 @@
    "name": "nosql-expert",
    "description": "Expert guidance for distributed NoSQL databases (Cassandra, DynamoDB). Focuses on mental models, query-first modeling, single-table design, and avoiding hot partitions in high-scale systems."
   },
+  "pmoxjdihxqhplllfhaetrnkmhuvi066y3vegvvmos-e": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-reverse-engineering/SKILL.md",
+   "archive_path": "other/aidlc-reverse-engineering-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:5a4fc062abde3394e21774317503a30b45a0b1ce803e1f0d82310446ea630f25",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-reverse-engineering",
+   "description": "Run the AI-DLC `reverse-engineering` stage (inception phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage reverse-engineering --single`: the engine emits one run-stage directive for reverse-engineering and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
+  },
   "pn-5sf_jzxoskg7i1wxn6rp_ktqi78-sgloxqx6d_gy": {
    "status": "ambiguous",
    "archive_path": "security/find-bugs-sinhoneyy-master-skills/SKILL.md",
@@ -35503,14 +35613,6 @@
    "commit": "182f3d9d9836e81cdae213e9b9cec1d9be96eea3",
    "name": "employment-contract-templates",
    "description": "Create employment contracts, offer letters, and HR policy documents following legal best practices. Use when drafting employment agreements, creating HR policies, or standardizing employment documentation."
-  },
-  "ppjfonnf9ywvmphjjor_pstguyb0_lbjuln_js-cepc": {
-   "status": "upstream_changed",
-   "archive_path": "security/oauth-integrations-jezweb-claude-skills/SKILL.md",
-   "repo": "jezweb/claude-skills",
-   "branch": "main",
-   "digest": "sha256:75affa91dcec597c0b04ac93e5d3f91aa4ff91a3e266deacc2d61f8e537021fa",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "ppnef2j34x9linz3j9yifrut1vbifnqenqmt65bwzfe": {
    "status": "upstream_changed",
@@ -35947,18 +36049,6 @@
    "name": "cost-optimization",
    "description": "Optimize cloud costs through resource rightsizing, tagging strategies, reserved instances, and spending analysis. Use when reducing cloud expenses, analyzing infrastructure costs, or implementing cost governance policies."
   },
-  "pxr7iachghcoqixbq95xjwyg_96nvelf-yfupnnk1ke": {
-   "status": "pinned",
-   "path": ".claude/skills/nix-typescript/SKILL.md",
-   "archive_path": "development/nix-typescript-srid-smriti/SKILL.md",
-   "repo": "srid/smriti",
-   "branch": "master",
-   "digest": "sha256:cd771d988edb89b88b233c7b799f3816c9982d669419d75fb409dd38103b1962",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "398d1331e1a06d5ad6e28a035cc47242df3d0636",
-   "name": "nix-typescript",
-   "description": "pnpm + Nix build conventions. Covers fetchPnpmDeps hash management and dependency workflow."
-  },
   "pxy68_v8lfjoatgojcyt-e_ioz_lonyiwbzuaalxqs8": {
    "status": "upstream_changed",
    "archive_path": "context-management/agent-memory-yamadashy-repomix/SKILL.md",
@@ -36085,6 +36175,18 @@
    "branch": "main",
    "digest": "sha256:bfaf5c1a7c492a57a236ef993c21b9858bc57e080d301f3a4e3969d53730d13e",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "pzlnrm4e5dkoigx2uevfimhwu_rfen1dsppj2tacx8c": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-deployment-execution/SKILL.md",
+   "archive_path": "other/aidlc-deployment-execution-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:11a56984b611414ae9fe912fcfa5a32276ba954c037fa91548308cbdcd45423d",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-deployment-execution",
+   "description": "Run the AI-DLC `deployment-execution` stage (operation phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage deployment-execution --single`: the engine emits one run-stage directive for deployment-execution and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
   },
   "pznapiqo36ehl7edcvrvho7xq1tv4udq_57rmrmitq4": {
    "status": "bundled_files",
@@ -36496,6 +36598,18 @@
    "name": "principle-subtract-before-you-add",
    "description": "Apply when sequencing an addition, refactor, or rewrite. Remove dead code, redundant validators, and stub references first, then build on the simpler base."
   },
+  "qajhf1laj4ai91q-3bfze_39ctmrxlmjw9scunmm6cm": {
+   "status": "pinned",
+   "path": ".grok/skills/speckit-clarify/SKILL.md",
+   "archive_path": "productivity/speckit-clarify-tjsasakifln-extra-cli/SKILL.md",
+   "repo": "tjsasakifln/extra-cli",
+   "branch": "main",
+   "digest": "sha256:5095627c89a249d402ad2d0fad425ea0c0bd5e8559e9d6f5b682dea4f513ed54",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "c25939e9b7806c7d646fa5f4dfddf6ce740c79af",
+   "name": "speckit-clarify",
+   "description": "Identify underspecified areas in the current feature spec by asking up to 5 highly targeted clarification questions and encoding answers back into the spec."
+  },
   "qal4uziaibvb2adxc50zx0l2luz-0adv51hm8jowzrq": {
    "status": "bundled_files",
    "archive_path": "other/fixing-metadata-wonecosystem-2300-skills/SKILL.md",
@@ -36600,18 +36714,6 @@
    "name": "fastmcp",
    "description": "Build, test, inspect, install, and deploy MCP servers with FastMCP in Python. Use when creating a new MCP server, wrapping an API or database as MCP tools, exposing resources or prompts, or preparing a FastMCP server for Claude Code, Cursor, or HTTP deployment."
   },
-  "qctqqu42s3j-lntw0bpqwtzc6zekqmlqfl8khgllgve": {
-   "status": "pinned",
-   "path": "nano-banana-edit/SKILL.md",
-   "archive_path": "other/nano-banana-edit-prime-skills-runcomfy-agent-skill/SKILL.md",
-   "repo": "prime-skills/runcomfy-agent-skills",
-   "branch": "main",
-   "digest": "sha256:288b68d636f05f603cb84341e9cfcdc37c9ead143ea55c130667591028586d0c",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "fca19ae084c2ae4667f5c8affbb99da5103d5832",
-   "name": "nano-banana-edit",
-   "description": "Edit images with Google Nano Banana 2 (image-to-image edit endpoint) on RunComfy. Documents Nano Banana Edit's strengths (preserve subject identity, swap background, localize edits with spatial language, multi-image batch edits up to 20 inputs), the schema, and when to route to GPT Image 2 edit / Flux Kontext / Nano Banana 2 t2i instead. Calls `runcomfy run google/nano-banana-2/edit` through the local RunComfy CLI. Triggers on \"nano banana edit\", \"edit with nano banana\", \"image edit nano banana\", or any explicit ask to edit with this model."
-  },
   "qd10k5eipyddzsydow5fhcsmea5cki35vucbwqzqypk": {
    "status": "upstream_changed",
    "archive_path": "development/nodejs-backend-patterns-sickn33-antigravity-awesome/SKILL.md",
@@ -36701,6 +36803,18 @@
    "commit": "3b763b1fb288f57bfa3cce76ef18184b96461a78",
    "name": "reference-sdk",
    "description": "Check reference SDK implementations using btca ask"
+  },
+  "qfd0l6phhfe_ro0w8wqzblwfgk4wfbeompalodspshe": {
+   "status": "pinned",
+   "path": ".claude/skills/liquid-glass-design/SKILL.md",
+   "archive_path": "other/liquid-glass-design-lezfez-ww-points-calculator/SKILL.md",
+   "repo": "lezfez/ww-points-calculator",
+   "branch": "main",
+   "digest": "sha256:024aa207eb3d4d31d868954a7352a40b78c61f2fd007ab8b452afb6217070f84",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "5fabfbf142132c1a36435d6c1beb18b971f80571",
+   "name": "liquid-glass-design",
+   "description": "iOS 26 Liquid Glass design system — dynamic glass material with blur, reflection, and interactive morphing for SwiftUI, UIKit, and WidgetKit."
   },
   "qfn2katrcvy8zttono2loxdltka8v7ynvz4luco9j2a": {
    "status": "bundled_files",
@@ -37264,6 +37378,14 @@
    "name": "tool-design",
    "description": "Build tools that agents can use effectively, including architectural reduction patterns"
   },
+  "qqkvizte1di1pmiec7qiylb2sydkecmvj4bjivx6mbw": {
+   "status": "ambiguous",
+   "archive_path": "other/bash-linux/SKILL.md",
+   "repo": "sickn33/agentic-awesome-skills",
+   "branch": "main",
+   "digest": "sha256:8c2479ab77d4c3fe751cbe4a3de56b388bafc382b4cf1193372566c6778aa4b5",
+   "checked_at": "2026-10-21T08:51:20+00:00"
+  },
   "qqrigqcogwvb_oqatfeutlsw8lfjool6cj0mtv3isfw": {
    "status": "upstream_changed",
    "archive_path": "data/azure-eventgrid-py/SKILL.md",
@@ -37716,14 +37838,6 @@
    "name": "ads-audit",
    "description": "Run a source-grounded paid-advertising audit for one or more of Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, and X. Use for full ad checks, account health reviews, paid-media diagnostics, partial audits after authentication or worker failure, missing-platform weighting, beta-feature eligibility and scoring, spend audits, tracking audits, or prioritized opportunities and risks."
   },
-  "r3flqmjfk8btiifa7drenqt9cdanpq8eufnwoynghii": {
-   "status": "bundled_files",
-   "archive_path": "design/neon-karanmrn-karanagentskills/SKILL.md",
-   "repo": "karanmrn/karanagentskills",
-   "branch": "master",
-   "digest": "sha256:93a4df28615a8fc894d81a1f5f3d8d5896b89286b72ccb7fec56f0e4dd02f998",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "r3uohirqp69cnlcooaptx5kbefuro5tvror_zyz_hry": {
    "status": "bundled_files",
    "archive_path": "other/ship-sadie100-claude-dotfiles/SKILL.md",
@@ -37769,14 +37883,6 @@
    "repo": "tjsasakifln/extra-cli",
    "branch": "main",
    "digest": "sha256:b0dc296271b871ada5b5ab92c7cd36453b9118b55376820f3e2b4bdac2529cc9",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "r5ipw-jkaq3kukqh3g6svv5isrrd76jweyw83hqgw4e": {
-   "status": "bundled_files",
-   "archive_path": "data/moonshot-detect-uncertainty/SKILL.md",
-   "repo": "munlucky/moon-bot",
-   "branch": "main",
-   "digest": "sha256:7de79220036fad29886185736ce0f2160a976b346ca2d718194c40e097a5dcd4",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "r5q8iu6y8jiqjiz_fn8x2ggedbqncmpihtb9-79tcpa": {
@@ -38385,6 +38491,18 @@
    "name": "using-streamlit-session-state",
    "description": "Using st.session_state to manage state across Streamlit reruns. Use when persisting data, handling widget state, implementing callbacks, or debugging state issues. Covers initialization patterns, widget-state association, and common gotchas."
   },
+  "rkvi5xujw6g7qurmakwwfxe_hkow4rpawmmtf9atmmc": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-functional-design/SKILL.md",
+   "archive_path": "other/aidlc-functional-design-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:55648e3135249aa654c265a50669af05b6919faf2bf9408834b51790cfd9b08b",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-functional-design",
+   "description": "Run the AI-DLC `functional-design` stage (construction phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage functional-design --single`: the engine emits one run-stage directive for functional-design and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
+  },
   "rkwbjzegozwa_di6s3jynbsay-x4d4u_nrja9ndgbl0": {
    "status": "bundled_files",
    "archive_path": "development/react-best-practices-northseadl-skillwisp/SKILL.md",
@@ -38675,13 +38793,6 @@
    "commit": "02145afd13ba0c20497f16c665345b4d35ce6510",
    "name": "lamindb",
    "description": "This skill should be used when working with LaminDB, an open-source data framework for biology that makes data queryable, traceable, reproducible, and FAIR. Use when managing biological datasets (scRNA-seq, spatial, flow cytometry, etc.), tracking computational workflows, curating and validating data with biological ontologies, building data lakehouses, or ensuring data lineage and reproducibility in biological research. Covers data management, annotation, ontologies (genes, cell types, diseases, tissues), schema validation, integrations with workflow managers (Nextflow, Snakemake) and MLOps platforms (W&B, MLflow), and deployment strategies."
-  },
-  "rqfpyz7beik9xolezcy1f5tpqotm8yfqss4rsnt1kig": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "business/notion-template-business-claudiodearaujo-sistema-de-narra-o-d/SKILL.md",
-   "digest": "sha256:1e8fb0c71822f4f80df9739ebaf791ea8a980c52aed58eaba5222cb920f3b85f",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "rqnzxloh0i55q3ineyfv-h4of6bzzo5q72qzfa2mego": {
    "status": "bundled_files",
@@ -39078,6 +39189,14 @@
    "digest": "sha256:60f254763e3e93a6422319bc0afbd503f4eadb1b976acff8511b2bb07e2880d7",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "rx8bkjvttkfpl1g67nsfbllt9zeo8cuo6z8-mymhibg": {
+   "status": "bundled_files",
+   "archive_path": "design/impeccable-t0ddharris-compound-marketing/SKILL.md",
+   "repo": "t0ddharris/compound-marketing",
+   "branch": "main",
+   "digest": "sha256:3895765e9434400dfc1b30e364be002cf499c1718fb2431e65b907c14ae2cb27",
+   "checked_at": "2026-10-21T08:51:20+00:00"
+  },
   "rxc3pqpksvjsoranur54_5mquf1kpkf09wakr8yrkyy": {
    "status": "upstream_changed",
    "archive_path": "agent/crypto-bd-agent/SKILL.md",
@@ -39122,6 +39241,14 @@
    "name": "gitlab",
    "description": "Interact with GitLab repositories, merge requests, and APIs using the GITLAB_TOKEN environment variable. Use when working with code hosted on GitLab or managing GitLab resources."
   },
+  "rxq0dynilrus3qc9uijhqcq3oggotduplpdzmxs0c4u": {
+   "status": "bundled_files",
+   "archive_path": "other/semantic-kernel-ggogogohub-portfolio/SKILL.md",
+   "repo": "ggogogohub/portfolio",
+   "branch": "main",
+   "digest": "sha256:cf85400071b8b052618541a2a450e7d3299d7af08ae9db08108f1d4d5111c11e",
+   "checked_at": "2026-10-21T08:51:20+00:00"
+  },
   "rxvfsukicpn0vytskhntbjmbgfsm4c0wwi-v-glhmeo": {
    "status": "pinned",
    "path": "skills/ag-daily/SKILL.md",
@@ -39148,22 +39275,6 @@
    "repo": "nowork-studio/toprank",
    "branch": "main",
    "digest": "sha256:65d346b2ac33d654121d84cf09301f0cccbda5bb5fc7a32c34d2c8a3d406e857",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "ry5fvyaulmoirdvqjekmcz1lsm21adhoykofcuop6ay": {
-   "status": "ambiguous",
-   "archive_path": "other/oban-kbarbel640-del-skills/SKILL.md",
-   "repo": "kbarbel640-del/skills",
-   "branch": "main",
-   "digest": "sha256:1923621326583f9228c6047008ef4d7059a87bf10dbcb7b913ebffc6592c3313",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "rylorcm-56eccad-vln1myu_hmbvgzu4ry_demhlp0g": {
-   "status": "bundled_files",
-   "archive_path": "integration/moosend-automation-diegosouzapw-awesome-omni-skill/SKILL.md",
-   "repo": "diegosouzapw/awesome-omni-skill",
-   "branch": "main",
-   "digest": "sha256:4e5eaf0eefa32eb3d57d030dd454f7317dc15a8fb8322a6a33e87cef9f7d2bc0",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "ryng6gruq6i2p4d_b_ohoe6e4dqyeecskpxdvqrkubo": {
@@ -39553,18 +39664,6 @@
    "digest": "sha256:03f01edab62fe507c82a1a4de48fa848c8c75cac49a6d4645ba8bfb655378008",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "saox2s4gfe7swyvlnkisqtjlqzbnmzxcwhhla4j_cdk": {
-   "status": "pinned",
-   "path": "skills/nft-standards/SKILL.md",
-   "archive_path": "gaming/nft-standards/SKILL.md",
-   "repo": "abdellaziz-ali/AI-Skills",
-   "branch": "main",
-   "digest": "sha256:9d0b390bad2d633094863c81a28e701545817f629d4483e6f3dab064d6e5679c",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "4f43a35f8bcb21c0e9338a8267a809efc1fe543e",
-   "name": "nft-standards",
-   "description": "Implement NFT standards (ERC-721, ERC-1155) with proper metadata handling, minting strategies, and marketplace integration. Use when creating NFT contracts, building NFT marketplaces, or implementing digital asset systems."
-  },
   "sb4zb_hqppxmfuwo6zghzkoq1pmcvjwcnlxaln-h3ae": {
    "status": "bundled_files",
    "archive_path": "other/executing-red-team-exercise-xtofuub-openrecon-ios/SKILL.md",
@@ -39775,18 +39874,6 @@
    "branch": "main",
    "digest": "sha256:78a806303f70f830451342e9591de6cd1cbe0e0d512e86c03a4786fbb0a8cf1b",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "sejxpv-hcf8c1dcj1opuglknyv-zl6tdo-hzv8kviqi": {
-   "status": "pinned",
-   "path": ".claude/skills/notification-ui/SKILL.md",
-   "archive_path": "data/notification-ui/SKILL.md",
-   "repo": "SOFIA-ASIF/TaskFlow-ToDo-APP",
-   "branch": "main",
-   "digest": "sha256:b1470954596364db57b123d0b13f4d053961314448b77eb12a1c68d7bf378715",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "fc6d794f8311daea40f42ba7e2c9ec8b08019f94",
-   "name": "notification-ui",
-   "description": "Renders notification bell icon with unread count badge, pulse animations for new notifications, and dropdown panel (320px × max 400px) displaying notification items with purple theme for VERY IMPORTANT tasks. Includes mark-as-read interaction and empty state handling."
   },
   "sf4blazijebbevlyxeziprbdnuorwnr2bzwfuqnglvk": {
    "status": "upstream_unavailable",
@@ -40035,6 +40122,18 @@
    "name": "fal-ai-media",
    "description": "Unified media generation via fal.ai MCP — image, video, and audio. Covers text-to-image (Nano Banana), text/image-to-video (Seedance, Kling, Veo 3), text-to-speech (CSM-1B), and video-to-audio (ThinkSound). Use when the user wants to generate images, videos, or audio with AI."
   },
+  "sji7hopu5k3bxnk2kpw4k-asor20ac7fj8x3jeceems": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-performance-validation/SKILL.md",
+   "archive_path": "other/aidlc-performance-validation-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:60d63742f37fde55b626f36e051d9676488616b591977f74d07df282cd20a9ff",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-performance-validation",
+   "description": "Run the AI-DLC `performance-validation` stage (operation phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage performance-validation --single`: the engine emits one run-stage directive for performance-validation and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
+  },
   "sjtpwk2xjzrkgxc868ekjsvhaepqp3qvqp5dgfcc7wa": {
    "status": "pinned",
    "path": "skills/brainstorming/SKILL.md",
@@ -40081,22 +40180,6 @@
    "repo": "sickn33/antigravity-awesome-skills",
    "branch": "main",
    "digest": "sha256:ea4ac2ac8400f1853ae386785f63a0a9c445e1c08c981a9f6b734bc7c810cfc9",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "skfiwxv75yv21ntdtxmpur95q0amee1brmwj5zgq-pe": {
-   "status": "upstream_changed",
-   "archive_path": "domains/modern-drug-rehab-computer-erichowens-some-claude-skills/SKILL.md",
-   "repo": "erichowens/some_claude_skills",
-   "branch": "main",
-   "digest": "sha256:59926cf34596af39ee5a3eff739408d8d6dbc5c5bfcd37a355be86b719b438ec",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "skpxtlreojfwrywhwscwfrypt3rzvrqsdbrpdpqpbhq": {
-   "status": "upstream_changed",
-   "archive_path": "development/nextjs-best-practices-sickn33-antigravity-awesome/SKILL.md",
-   "repo": "sickn33/antigravity-awesome-skills",
-   "branch": "main",
-   "digest": "sha256:6488e1e2e001d737d688957c19264d42b29e558a8b2b9daff1d18863674e6106",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "sksyjh5v0po62kkl-utpei9rbrd4f2ibuiuntnf4-h0": {
@@ -40516,6 +40599,14 @@
    "digest": "sha256:9d0f14f2e5b7949b09334fcb9ac30667a104451832e007b1a55be4e23031a23e",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "sszra2tswz3em7qeonkhke1via_p2e41pogihzgmjjq": {
+   "status": "bundled_files",
+   "archive_path": "devops/gdpr-compliant-github-awesome-copilot/SKILL.md",
+   "repo": "github/awesome-copilot",
+   "branch": "main",
+   "digest": "sha256:e1f33a817a1d0f7165f4f6652cfeb52632ba124067c3f46c37f867cde730242e",
+   "checked_at": "2026-10-21T08:51:20+00:00"
+  },
   "st2up2veukzvem2tpqwxvpvicle29br_g1wmuwcfzti": {
    "status": "bundled_files",
    "archive_path": "documents/azure-local-microsoft-skills/SKILL.md",
@@ -40570,14 +40661,6 @@
    "repo": "charlie-818/CLAWD",
    "branch": "main",
    "digest": "sha256:af85649d885792e8763649914b827451e7e4b3a10f4fa8d038c2fb23cd046c31",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "sulxr-rhixkyadyzkly_s5m5v6r1n5nvuwfltkktghc": {
-   "status": "bundled_files",
-   "archive_path": "other/myjkkn-api-integration-jicate-solutions-arts-tally-roja/SKILL.md",
-   "repo": "Jicate-Solutions/arts_tally_roja",
-   "branch": "main",
-   "digest": "sha256:29f09dbea0c0db05568470ee7fc1a8f5925eca828e59142bdd4eb160802dd8b5",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "suprqrz618sbuyeunshxb7jgtucfsh42pxihgiqlkom": {
@@ -40951,6 +41034,18 @@
    "digest": "sha256:096a6d56e1cf9fe77780b03c38bbacd7824e65383aa2e5b6788305099bd0a426",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "t4zxepemcjirt2c7nefbzyz3wufirpy88nwhb6_3ojc": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-requirements-analysis/SKILL.md",
+   "archive_path": "other/aidlc-requirements-analysis-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:e42ad552da708c1e440d2ff44b8edc743fe367f50dcb0a7c4b70a3a544850413",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-requirements-analysis",
+   "description": "Run the AI-DLC `requirements-analysis` stage (inception phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage requirements-analysis --single`: the engine emits one run-stage directive for requirements-analysis and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
+  },
   "t5appisv2w18dz6old_y-jwnzexzirknsl3qsmqoi7u": {
    "status": "upstream_changed",
    "archive_path": "development/vercel-react-best-practices-petekp-claude-code-setup/SKILL.md",
@@ -41066,18 +41161,6 @@
    "branch": "main",
    "digest": "sha256:0b970c8200971b42a21f214a79d7ef5267255b61d1b8b11c555ccee8ebc718f3",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "t9l6rrvatxxkin4jggpynvhc1uzl6u51p9ylq5rdx9m": {
-   "status": "pinned",
-   "path": ".github/skills/nuget-manager/SKILL.md",
-   "archive_path": "workflow/nuget-manager-trumedia-creative-live-events-dashboar/SKILL.md",
-   "repo": "TruMedia-Creative/live-events-dashboard",
-   "branch": "main",
-   "digest": "sha256:4195c4e71fe9c74d7bedf4ab2fbf8d01904e04dc4d92b0060098c3a5a280e179",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "ba021c0846a53566a3bfde95009077974d2da535",
-   "name": "nuget-manager",
-   "description": "Manage NuGet packages in .NET projects/solutions. Use this skill when adding, removing, or updating NuGet package versions. It enforces using `dotnet` CLI for package management and provides strict procedures for direct file edits only when updating versions."
   },
   "t9pigbfpbplsqzpecfbhywr1org1pgtewnef5nlpxmy": {
    "status": "ambiguous",
@@ -41948,14 +42031,6 @@
    "digest": "sha256:100099568ce8887ccd961aad2aa824a6d6054d4e5e697625815cc6e1b30d54a7",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "tqkzvkopahwsw1sx6hgr9fngcmvkchnp7cqdwbpkvms": {
-   "status": "bundled_files",
-   "archive_path": "data/dotnet-timezone-trumedia-creative-live-events-dashboar/SKILL.md",
-   "repo": "TruMedia-Creative/live-events-dashboard",
-   "branch": "main",
-   "digest": "sha256:f71b6a704fad68004cc6b4c9dcfd0772a446987012844a25c55e0b10bb749eee",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "tqlzvgad7p9zxwuh9g8dszfvjfu6ge-r8bvuekaanwk": {
    "status": "upstream_changed",
    "archive_path": "data/email-composer-erichowens-some-claude-skills/SKILL.md",
@@ -42294,17 +42369,29 @@
    "digest": "sha256:3d32c12cf0af71b9bf0e612e59077c5becf7e1b58af3e72e4d683c7f554ad6a5",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "tvzfrzhlni8yhyzv9duxvk2d2nlei5bb5prgkuhqk0k": {
+  "tvwfhuztluhlphbqfbpu6gdrn2pmsdf4mqyllnczap4": {
    "status": "pinned",
-   "path": ".agents/skills/neural-training/SKILL.md",
-   "archive_path": "ai-ml/neural-training-ruvnet-ruflo/SKILL.md",
-   "repo": "ruvnet/ruflo",
+   "path": ".claude/skills/aidlc-security-patch/SKILL.md",
+   "archive_path": "ai-ml/aidlc-security-patch-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
    "branch": "main",
-   "digest": "sha256:28aa40972ed82ed01cc04af2402a5f5044004abe3dfcb865de76290c0e69c37d",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "961ab6c8795ab6e56851e77bcb423983bbac0258",
-   "name": "neural-training",
-   "description": "Neural pattern training with SONA (Self-Optimizing Neural Architecture), MoE (Mixture of Experts), and EWC++ for knowledge consolidation. Use when: pattern learning, model optimization, knowledge transfer, adaptive routing. Skip when: simple tasks, no learning required, one-off operations."
+   "digest": "sha256:cf86de2914a29869a9877142a717086bf02e04a13d9a37c72215022302af3dc4",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-security-patch",
+   "description": "Run the AI-DLC workflow with the security-patch scope baked in — no scope detection. CVE response. Packaging over `/aidlc --scope security-patch`, which works without this skill."
+  },
+  "tvzynvjf5aa-12ihgxeaeldgrymjhocm2lnxxoh1qu8": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-feedback-optimization/SKILL.md",
+   "archive_path": "other/aidlc-feedback-optimization-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:cfa60f19fe35ab855d223e3dcd049552e014daf92a2ca496421046405c89b023",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-feedback-optimization",
+   "description": "Run the AI-DLC `feedback-optimization` stage (operation phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage feedback-optimization --single`: the engine emits one run-stage directive for feedback-optimization and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
   },
   "twc3rx2gsmytrnmef1z4u0ku7thafksvivu7z6v6ag4": {
    "status": "bundled_files",
@@ -42461,6 +42548,18 @@
    "branch": "main",
    "digest": "sha256:a67bcb20983ae1658db7112c7a2e6573f68571ad8987cfb6b96be3fe7dbe451a",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "tzbcrhghdaeqe025tmnxb9hizil8jbpm-reybu4cbwc": {
+   "status": "pinned",
+   "path": ".grok/skills/speckit-plan/SKILL.md",
+   "archive_path": "productivity/speckit-plan-tjsasakifln-extra-cli/SKILL.md",
+   "repo": "tjsasakifln/extra-cli",
+   "branch": "main",
+   "digest": "sha256:c5522489fd177028e02ff4f1588a06bde811a0146cdc1d3495812694d6ea41b3",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "c25939e9b7806c7d646fa5f4dfddf6ce740c79af",
+   "name": "speckit-plan",
+   "description": "Execute the implementation planning workflow using the plan template to generate design artifacts."
   },
   "tzgeicnzyyprkebkdw_tju_s1txhdamvd6ccfm5rbus": {
    "status": "pinned",
@@ -43819,6 +43918,18 @@
    "digest": "sha256:e94cea7a174f395df02d935065fe05db8ecb637c52e443b6380c703963758d7a",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "uqrsu09tbyiemcruj50ieaq5w59aw_2ggtcvvdkrmzy": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-feasibility/SKILL.md",
+   "archive_path": "other/aidlc-feasibility-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:abd02056dc413dba4192058199ad1547f0dfa55054c6da7c8235af3406a9c4cc",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-feasibility",
+   "description": "Run the AI-DLC `feasibility` stage (ideation phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage feasibility --single`: the engine emits one run-stage directive for feasibility and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
+  },
   "uqtzfv4h0swzbicrykbl3ungthjwptxjidfiazykzq0": {
    "status": "ambiguous",
    "archive_path": "planning/plan-writing/SKILL.md",
@@ -44042,6 +44153,18 @@
    "branch": "main",
    "digest": "sha256:a9a860f7453f33ca3474b5fadff48969271e82733db6479cdfc96d9ce6752214",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "uv1oc8ynbzel2elb6jbyxzzzsxlsf2mfbeknva79yxu": {
+   "status": "pinned",
+   "path": ".github/skills/phoenix-cli/SKILL.md",
+   "archive_path": "ai-llm/phoenix-cli-ggogogohub-portfolio/SKILL.md",
+   "repo": "ggogogohub/portfolio",
+   "branch": "main",
+   "digest": "sha256:23cd9f72acc2da193cd4ddd352e383853a77976eb911fa7b3806368d4ccbcc8b",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "4c38d3fd7b66096b5a3a00689ec6b9a31c1b17cb",
+   "name": "phoenix-cli",
+   "description": "Debug LLM applications using the Phoenix CLI. Fetch traces, analyze errors, review experiments, inspect datasets, and query the GraphQL API. Use when debugging AI/LLM applications, analyzing trace data, working with Phoenix observability, or investigating LLM performance issues."
   },
   "uvbwib0qalqo1unqcbwu7xeyglt7r431dprwngk_jdq": {
    "status": "upstream_changed",
@@ -44413,6 +44536,14 @@
    "name": "firecrawl-interact",
    "description": "Drive a live browser on a scraped page: click, fill forms, log in, paginate, infinite-scroll. Use when content requires interaction or a scrape failed or returned incomplete content."
   },
+  "v51le3idopvw_vjtl5fvf9wggkvq4kvhvmbdrctzn9m": {
+   "status": "upstream_changed",
+   "archive_path": "integration/tavily-web/SKILL.md",
+   "repo": "sickn33/antigravity-awesome-skills",
+   "branch": "main",
+   "digest": "sha256:43cc491355b00492763d2c0ce4b2f60da5baca535d7a8f12193e3e6b398fc903",
+   "checked_at": "2026-10-21T08:51:20+00:00"
+  },
   "v57qrg-so23yugnbklinybxsrefcoma5ovt_q_lx5zc": {
    "status": "upstream_changed",
    "archive_path": "testing/chrome-devtools-hotriluan-alkana-kpi/SKILL.md",
@@ -44683,6 +44814,18 @@
    "branch": "main",
    "digest": "sha256:d01fb35c0077ea3d27a7bd9ec0a218fcecf1f8ab6f8608b4f0208775e64e14e3",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "vb4j6u2ob7lrn_lomaqzapjujuhwd61o3c3ddgj2fie": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-session-cost/SKILL.md",
+   "archive_path": "other/aidlc-session-cost-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:8dcc5b4fa8f4723d9b090f1de2424dcbeca8126a58bf49b1d22907eeafef7a08",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-session-cost",
+   "description": "Read-only session cost view. Prints deterministic aggregates for the current workflow — duration, stage outcomes, memory entries, sensor firings, learnings captured — sourced entirely from `aidlc engine runtime summary`. Never mutates workflow state, never emits audit events, never writes files."
   },
   "vbftyre8i3obbcbt-cvtspaltcupekfqdz_wx1iulpu": {
    "status": "ambiguous",
@@ -45079,14 +45222,6 @@
    "repo": "peterish8/prats-skill-atlas",
    "branch": "main",
    "digest": "sha256:72d3b153712ab641875f1d7424de0f77375af1cec03707935f08fa7d8f17bbf3",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "vicua6dbof0f0fgvn_nehkmmko8im72muw6jn_ziiuk": {
-   "status": "upstream_changed",
-   "archive_path": "planning/model-first-reasoning/SKILL.md",
-   "repo": "petekp/claude-code-setup",
-   "branch": "main",
-   "digest": "sha256:191b522adfbd8ad7b9b231bb7393ac44865e25bc449e44d4239673c1e41f2b02",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "vid_qxajr0l2m2lgsu9zkkm5tv7ddcvxd8bmip6umwu": {
@@ -46474,14 +46609,6 @@
    "digest": "sha256:2b5f3af7d8a5555d330d4d72ba9ad6140e85215d006dd9d7a92ee0dae76bbf82",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "wd1nywhn4mlfuvflv4rluwh0f1qm_bndg9r67w1p3_m": {
-   "status": "tree_truncated",
-   "archive_path": "ai-ml/musik-app-bei-vincentagwu-deutsches-recht-slim/SKILL.md",
-   "repo": "vincentagwu/deutsches-recht-slim",
-   "branch": "main",
-   "digest": "sha256:b192db03b85674d23461c81385ad5ec9d608adf35fe9d7ad6669729e3a4c31a1",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "wd6mr9yopxiqlwvz4wxcswvho5-ca2qd363peawv52y": {
    "status": "bundled_files",
    "archive_path": "ai-ml/nnsight-zechenzhangagi-ai-research-skills/SKILL.md",
@@ -47075,13 +47202,17 @@
    "digest": "sha256:ec6f1d4211d4f5bd5d1a1fbcff341f42f207220c225c7ae78b0d7c6d02990738",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "wqaon6mz9yvpqysc6lf80rclnh6bbiqgyar5joaiz8y": {
-   "status": "bundled_files",
-   "archive_path": "design/modern-web-design-xenodeve-xeno-skills/SKILL.md",
-   "repo": "xenodeve/xeno-skills",
+  "wqbgbf8m6_gzgziwpicelujwsy73fwuekucyakehink": {
+   "status": "pinned",
+   "path": "skills-db/legal/litigation/SKILL.md",
+   "archive_path": "other/litigation-lev-os-agents/SKILL.md",
+   "repo": "lev-os/agents",
    "branch": "main",
-   "digest": "sha256:062b0120b59067744c135ec5d49d71e468b8e16de92ec2dec6fc19c41c4a9a24",
-   "checked_at": "2026-10-18T07:49:20+00:00"
+   "digest": "sha256:642619dc546241938d13c921d4f2b67f56c2df6c3880b1a4263cb54700be9aeb",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "ce04f52a22ae17f9635eadf1735503efdd6d2bd3",
+   "name": "litigation",
+   "description": "Root reference for litigation practice spanning civil, criminal, and administrative proceedings. Provides sub-area taxonomy, core principles, and routing guidance. Use when classifying litigation work, routing to a sub-practice skill, or applying general litigation standards."
   },
   "wqdobdcxkb1irrn9jzf1yvtcxv5-oublyzmujpel_7k": {
    "status": "bundled_files",
@@ -47262,18 +47393,6 @@
    "branch": "main",
    "digest": "sha256:d2f094fb06675efad0bd2ee8c9bdf49e4456aa42570dc50ca8a870721f851376",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "wupatibxpjgvhfgw-69xs6hwhjaknrcvs3xl_itvvx4": {
-   "status": "pinned",
-   "path": ".agent/skills/mtls-configuration/SKILL.md",
-   "archive_path": "product/mtls-configuration-techie829-oss-gn/SKILL.md",
-   "repo": "techie829-oss/gn",
-   "branch": "main",
-   "digest": "sha256:d0a7feb66f55a771886a212b7b077859a98cd406963230d7790ca046a4d097ab",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "1e6c7e3218d4097fcb2cc86a34b2b2f4b0d3908b",
-   "name": "mtls-configuration",
-   "description": "Configure mutual TLS (mTLS) for zero-trust service-to-service communication. Use when implementing zero-trust networking, certificate management, or securing internal service communication."
   },
   "wuudvn0v0kyn3lposv2n8zvzmckbxeyrk5ddyguscoe": {
    "status": "pinned",
@@ -47953,14 +48072,6 @@
    "digest": "sha256:55b07a18f23c8d818c9b3edf374c8a33deb6a5dec8c0121cbb5f77df0137184f",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "xey2iw_5v2kudsxeh56uk5vubh9dpjwlqerxnc6qgga": {
-   "status": "bundled_files",
-   "archive_path": "devops/nemo-evaluator-tianhao909-ai-research-skills-c/SKILL.md",
-   "repo": "tianhao909/AI-Research-SKILLs-cn",
-   "branch": "main",
-   "digest": "sha256:97bc3483974c2b930acf3f46e21c865e1b27e92359e19bdb465515d9e86ff10f",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "xezdduoz8y2dg79ayovsavivfoyiidfv2zbqptldeu0": {
    "status": "bundled_files",
    "archive_path": "performance/skill-creator-zzr2718281828-claude-physics/SKILL.md",
@@ -48066,6 +48177,14 @@
    "branch": "main",
    "digest": "sha256:706d11c495bbcce8c07f70c155ac4e8abd619d35e4250b17e8e64dd69c12d36b",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "xgfybzr6h5av18eudfnogzmzmxzdprtk6nkzolp7ays": {
+   "status": "ambiguous",
+   "archive_path": "ai-ml/ai-ml-ibrdot-swe-re-expert/SKILL.md",
+   "repo": "ibrdot/swe-re-expert",
+   "branch": "main",
+   "digest": "sha256:fbc3584f7e6a59e65b503b197efe461cd00559b84c3d4fe22518d43d8c27451d",
+   "checked_at": "2026-10-21T08:51:20+00:00"
   },
   "xgsoji92uqpvcsfstf_9teungllez7dyqao-spgemwu": {
    "status": "pinned",
@@ -49127,6 +49246,18 @@
    "name": "agent-raft-manager",
    "description": "Agent skill for raft-manager - invoke with $agent-raft-manager"
   },
+  "y3g4icng3flkoh-sqwdmzntexvpx_90r_6cx35kmkdo": {
+   "status": "pinned",
+   "path": ".claude/skills/roundup/SKILL.md",
+   "archive_path": "communication/roundup-praxstack-markdown-viewer-app/SKILL.md",
+   "repo": "praxstack/markdown-viewer-app",
+   "branch": "main",
+   "digest": "sha256:a430c45fba6dac39f2325ee17d9a01e460b4c2f0fc6ff63eba76b688fd12384f",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "8cabe3956984ec47c03560d65caaa8224d263702",
+   "name": "roundup",
+   "description": "Generate personalized status briefings on demand. Pulls from your configured data sources (GitHub, email, Teams, Slack, and more), synthesizes across them, and drafts updates in your own communication style for any audience you define."
+  },
   "y3ijvfyxscphnwh8ussagd7r8lk1sgv2f-ceiu9uuuy": {
    "status": "ambiguous",
    "archive_path": "other/langfuse-welitonevoc-biblia-codex/SKILL.md",
@@ -49224,14 +49355,6 @@
    "repo": "q2805187159/Anvil",
    "branch": "main",
    "digest": "sha256:cfa444cb66223ddc57673a8ff265b36d4fb997a92468c3cf1871e126926f1dd8",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "y7ggqareo9t80cxr0wna7x-anw8rfdkdrvf7azlnbxc": {
-   "status": "upstream_changed",
-   "archive_path": "security/oauth-oidc-implementer/SKILL.md",
-   "repo": "erichowens/some_claude_skills",
-   "branch": "main",
-   "digest": "sha256:6b9139ff629e51dba527f55d70ed9a168c85caf997bb50b7ec52df2e6a5e1a62",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "y7hc5hjxpczli-g6wqulmwdc1sz1cbxycsyfebb_gvi": {
@@ -49425,6 +49548,18 @@
    "branch": "main",
    "digest": "sha256:7ca0ad87218a76ddb9d3891cee039b811676336c229c7b06a52c0c59e9d66d6c",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "y__jxxbfr41ypatpw14w9ymgb11-vofaij_ukikc-9e": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-init/SKILL.md",
+   "archive_path": "other/aidlc-init-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:c7d5dceaa1c60865a908e6852b78426585499a785a95db9248cc067b34c7772d",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-init",
+   "description": "Start an AI-DLC workflow — run the whole Initialization phase (mint the intent, detect the workspace, build state) in one step, without typing a stage. The engine normally auto-creates the first intent; this is opt-in packaging over that move. Pass `--scope <name>` to seed the initial scope. A freeform description without a scope first gets the same plan offer as `/aidlc`, then continues as `/aidlc` does."
   },
   "y_qx3nvywtqizmubktuczvd07oi0mzbdbggh-gf2wl4": {
    "status": "ambiguous",
@@ -49694,14 +49829,6 @@
    "repo": "tuorjp/users-flutter-speckit",
    "branch": "master",
    "digest": "sha256:f4164b8dd784c5dbf74b37257a9a6134130ce617fee025ff132860730d614f59",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "yfavvv0bntodbqegkek0rgjojwlc1ghe1eub-vfajpe": {
-   "status": "bundled_files",
-   "archive_path": "other/eval-driven-dev-trumedia-creative-live-events-dashboar/SKILL.md",
-   "repo": "TruMedia-Creative/live-events-dashboard",
-   "branch": "main",
-   "digest": "sha256:26b946fe12485f9d50948dacb8987c19c6fb8798e770486a39705bafa0ca5125",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "yfrzzeaooyqh-gizkwnp2zqtvqw81x7z5ulz-sjkmve": {
@@ -50351,14 +50478,6 @@
    "branch": "main",
    "digest": "sha256:158f42a00846d9e4bb2a27c0ecf8c10745891a45916dc3de9127a124c0a6dcfc",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "ytydehqhjbv5aj9juqj55pukyqdflbreoszvikezmmk": {
-   "status": "bundled_files",
-   "archive_path": "other/muapi-ui-design-darrrkkk-crypto-opencode-v2-skills-a/SKILL.md",
-   "repo": "darrrkkk-crypto/Opencode-V2-Skills-Agents",
-   "branch": "main",
-   "digest": "sha256:9289005e1090442403629bfab6b27bff795b146d7daebb5d0bc040465218b2fc",
-   "checked_at": "2026-10-20T09:04:56+00:00"
   },
   "yu0a0kjjbl8-lptkgozrrcbi7t0wrbbgofrb4llvgbe": {
    "status": "pinned",
@@ -51305,14 +51424,6 @@
    "digest": "sha256:20ac6875fbbd55715ed0ed1dd0ec624b1dc9e13a731190cb9ceccd1836772787",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "zeylxeign_l9r_ybtwmovcm00ia6fbqe3u6vn0fohia": {
-   "status": "ambiguous",
-   "archive_path": "other/using-git-worktrees-tfaracicolbert59-kitduvoyageur-178395-2/SKILL.md",
-   "repo": "TFaraciColbert59/kitduvoyageur_1783951966810",
-   "branch": "main",
-   "digest": "sha256:8cfb86f121269e8f7f12361e6795c4f6738828340e28964c9229d365666c9edd",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "zezg9q-7l-zqk9t1io-h0bjldhrps7mdvxtz6qclxjm": {
    "status": "pinned",
    "path": ".codex/skills/pr-draft-summary/SKILL.md",
@@ -51652,14 +51763,6 @@
    "commit": "989a2f52e1aaa4a10f54297cdad50aeef75e8cd4",
    "name": "nasa-automation",
    "description": "Automate Nasa tasks via Rube MCP (Composio). Always search tools first for current schemas."
-  },
-  "zm8vbw0xrjgzbnrzl3ulxabuncypxru7rzbkroqsf9e": {
-   "status": "bundled_files",
-   "archive_path": "documents/n8n-mcp-tools-expert-waseemnasir2k26-skynetlabs-all-claud/SKILL.md",
-   "repo": "waseemnasir2k26/skynetlabs-all-claude-code",
-   "branch": "main",
-   "digest": "sha256:abb7737f1ef3e7087c840b8bb8c1e5315414a7fb503c539c6b117e79852c2114",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "zmnwsk-dq_dk-vy-aozcp4upj_hn2ql3173fstjrpy4": {
    "status": "bundled_files",
@@ -52103,6 +52206,14 @@
    "digest": "sha256:9b404438deb17c56ddc08f7b823177687fb4a62f08f40dac8faa5a93f78e374d",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "ztvtqiobfte4lcmneupuqqxj9yzmyoia81zpqo6vxok": {
+   "status": "ambiguous",
+   "archive_path": "documents/bmad-index-docs-gednt-controleasy-3/SKILL.md",
+   "repo": "gednt/ControlEasy",
+   "branch": "main",
+   "digest": "sha256:a855d7060414e73ca4fe8e1a3e1cc4d0f2ce394846e52340bdf5a1317e0d234a",
+   "checked_at": "2026-10-21T08:51:20+00:00"
+  },
   "ztz31bp4ck4s_gkynhgsxwaec35qohhll6nzxn-bam4": {
    "status": "upstream_changed",
    "archive_path": "security/sqlmap-database-pentesting-zebbern-claude-code-guide-3/SKILL.md",
@@ -52362,6 +52473,18 @@
    "commit": "19300aeefedaad850b675155495a498ebeb617d1",
    "name": "gws-script",
    "description": "Manage Google Apps Script projects."
+  },
+  "zzc347ej5j9ifkzfoxhyrt8eiovxnpkmwloufdqcbw4": {
+   "status": "pinned",
+   "path": ".claude/skills/aidlc-nfr-requirements/SKILL.md",
+   "archive_path": "other/aidlc-nfr-requirements-kdnakt-local-sights/SKILL.md",
+   "repo": "kdnakt/local-sights",
+   "branch": "main",
+   "digest": "sha256:ef639f53293ff8776eac512d6f542a661fcc2e63392023eb8f19c8e6397e8cb2",
+   "checked_at": "2026-10-21T08:51:20+00:00",
+   "commit": "3208713208aaecd256146304c857771017cd7097",
+   "name": "aidlc-nfr-requirements",
+   "description": "Run the AI-DLC `nfr-requirements` stage (construction phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage nfr-requirements --single`: the engine emits one run-stage directive for nfr-requirements and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
   },
   "zzcyc8_fi8exti2tkx-huq330-iyu-w4l7gt2xq3jai": {
    "status": "upstream_unavailable",
