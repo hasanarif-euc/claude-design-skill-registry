@@ -76,6 +76,14 @@
    "digest": "sha256:be9e97e1e4ca564b99691087aefe5693544570c67ca2252027210f8cf0177113",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "-4gyux-dejdpetndfzsastbo3ea9e8qpp7zeynciymq": {
+   "status": "tree_truncated",
+   "archive_path": "other/lipidomics-peacezha-trace/SKILL.md",
+   "repo": "peacezha/TRACE",
+   "branch": "main",
+   "digest": "sha256:4c9c026baab1a616f1a0f924f67e2e98ccdbc00a89db12975bcd153dad1c289c",
+   "checked_at": "2026-10-22T08:12:03+00:00"
+  },
   "-574k_7ryxdb6yeib6apfxgfjolf77v7o-prbu99p_o": {
    "status": "bundled_files",
    "archive_path": "data/biopython-raktim-mondol-hermes-plugin-resear/SKILL.md",
@@ -754,6 +762,14 @@
    "digest": "sha256:8a01567022ae51d4cb26a4d36c359b5f1c278055ada8dc1e3568899c2636fdee",
    "checked_at": "2026-10-18T07:49:20+00:00"
   },
+  "-tjeoasvft66m3jari6j8ppa00ddarydij9c4nyxk1w": {
+   "status": "tree_truncated",
+   "archive_path": "development/hrd-scoring-peacezha-trace/SKILL.md",
+   "repo": "peacezha/TRACE",
+   "branch": "main",
+   "digest": "sha256:58e9657864e8ca1731f0dcb7210a5f4903b68d101100a2c9100884f34f311cfb",
+   "checked_at": "2026-10-22T08:12:03+00:00"
+  },
   "-tp8mzkmvl4iunkf3smbiavcpq7hbdh567to-hw6ffa": {
    "status": "bundled_files",
    "archive_path": "generation/baoyu-slide-deck-chengyihua-nanobot-ts/SKILL.md",
@@ -1117,6 +1133,14 @@
    "digest": "sha256:122c5e6573ead167fc58e8064990b582e355d8d891b640562f1e62c3f833d838",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "0aton1wiwoigeizqszesswliwihdgos6wzkymmtgacw": {
+   "status": "bundled_files",
+   "archive_path": "other/emil-design-eng-pedro-gilmora-source-crafter-xzor/SKILL.md",
+   "repo": "pedro-gilmora/source-crafter-xzor",
+   "branch": "main",
+   "digest": "sha256:ffbe68e6007fb42cb8149f089b400a1ca007d59ba23e8948e2be4476f3175939",
+   "checked_at": "2026-10-22T08:12:03+00:00"
+  },
   "0auvzur3x2_ec8g8oukw7zku0zbn_-nux7dpq9usjau": {
    "status": "upstream_changed",
    "archive_path": "integration/ordercli-youjjwal-clawdbot/SKILL.md",
@@ -1256,6 +1280,14 @@
    "commit": "e309afecd889f2d79485b97fc24e83ad270111f5",
    "name": "scene-set-active",
    "description": "Mark an opened scene as the Editor's active scene (the one new GameObjects are added to and that's used as the default for many operations). Use 'scene-list-opened' to enumerate opened scenes first."
+  },
+  "0fye1msf1w-a8gvdxgqugwd1aszg78rpcvlgvtfnzae": {
+   "status": "bundled_files",
+   "archive_path": "other/xlsx-ruwwww-agent-skills/SKILL.md",
+   "repo": "ruwwww/agent-skills",
+   "branch": "main",
+   "digest": "sha256:c7b90295b8cfa168392fd2440c2f2d9e90540e1ae6a498d0d9740658b600abdb",
+   "checked_at": "2026-10-22T08:12:03+00:00"
   },
   "0gfjxt_s_ebsv-of5qwu9pwmuswoy_gfootc6hjslka": {
    "status": "upstream_changed",
@@ -1717,6 +1749,18 @@
    "digest": "sha256:65a39675c2600333e68bef2b23f57f419935ba099d1a215b74ce374c7a876c28",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "134begtxqwjhh4_dlvsgbfpvy0gqdrllauhc6fetck4": {
+   "status": "pinned",
+   "path": "source/upstream/pstack/skills/in-your-own-words/SKILL.md",
+   "archive_path": "other/in-your-own-words-solimancifuentes-pstack-codex-2/SKILL.md",
+   "repo": "solimancifuentes/pstack-codex",
+   "branch": "main",
+   "digest": "sha256:fa8ba74e27d7be371dc270ec78bbf816411477d0dfab185356c861ac8dd413ad",
+   "checked_at": "2026-10-22T08:12:03+00:00",
+   "commit": "93bcde3b0287b629450f74037f1a68a06b0c702b",
+   "name": "in-your-own-words",
+   "description": "Restate in your own words what you think the user's goals are and what problem they're trying to solve. Use for /in-your-own-words."
+  },
   "13iodhojw-l2pkwel8js3tjregil3wss6qtuodwu3yk": {
    "status": "tree_truncated",
    "archive_path": "other/cncf-ko-reviewer-domehahn-skrun-2/SKILL.md",
@@ -2074,14 +2118,6 @@
    "repo": "AbdullahMalik17/Hacathan-2-",
    "branch": "main",
    "digest": "sha256:5f6422ff0397b8a1b9eb9091c56db090a9d081d6f416fd1732f8d9fe09f07cff",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "1kl3lwkmippru5zrcaadr-nawk4fdiipofupjiwyvrs": {
-   "status": "ambiguous",
-   "archive_path": "development/llm-wiki-leejuan99-hermes-sync-2/SKILL.md",
-   "repo": "leejuan99/hermes-sync",
-   "branch": "main",
-   "digest": "sha256:0229e37c1783fcac5b77cfb3242703666cf4aa472d2ae85b6bd5279756b515b6",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "1kzajwhwlsdqtx7a2ph6mlnfag2ncoirign4kmqbdmo": {
@@ -2448,6 +2484,18 @@
    "archive_path": "design/brainstorming-dangkimbao1999-sbsi-product-team-ba/SKILL.md",
    "digest": "sha256:4a54a4858b99807f3155ed1614b2f116e35ea5c1b788e793f565dd837fd3891f",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "1zjf_sqbdcnb542gl3_so0c4jbm-8hsgvyzpru8bm_s": {
+   "status": "pinned",
+   "path": "skills/review/SKILL.md",
+   "archive_path": "other/review-sinhoneyy-master-skills/SKILL.md",
+   "repo": "sinhoneyy/master-skills",
+   "branch": "master",
+   "digest": "sha256:ec0ca2712d7385b16734672755f3f1198c7491483ab84276eff48c4daeaeeef3",
+   "checked_at": "2026-10-22T08:12:03+00:00",
+   "commit": "20c5aaa1cb057bc5e5ca9415d44762441a39e69b",
+   "name": "review",
+   "description": "Analyze auto-memory for promotion candidates, stale entries, consolidation opportunities, and health metrics. Use when the user runs /si:review or asks what has been learned and what should be promoted or pruned."
   },
   "1zmpymc35cuc9xnge5ei-8zhw1gra4akwwr8oqgtyl0": {
    "status": "bundled_files",
@@ -3127,6 +3175,14 @@
    "branch": "main",
    "digest": "sha256:04a3c5dec5eb26ce0f46d87642e92783f8ab938527b92896e3e321932fb3356e",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "2uspvuci8xlm-jckvlaylbix8y1f79xnhktwkfv4t2u": {
+   "status": "bundled_files",
+   "archive_path": "design/android-development-mkandreum-xyonempleados/SKILL.md",
+   "repo": "mkandreum/XyonEmpleados",
+   "branch": "main",
+   "digest": "sha256:beb251137c931969bedc81a9748dcfd90381a3cf0e2f61ae15533e526cfb640a",
+   "checked_at": "2026-10-22T08:12:03+00:00"
   },
   "2uy26inw9garcruarka96gk18mu_mg3vh6fnrlyuhfu": {
    "status": "upstream_changed",
@@ -4372,18 +4428,6 @@
    "digest": "sha256:b12e75f376db6a72d0f5a9971c720c04546d02f0ecf68f40fd0efde22e46aa6d",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "4fltag18p_jqlal7vtituurc111mlwlsgx_ftc6frwm": {
-   "status": "pinned",
-   "path": "skills/apple/apple-notes/SKILL.md",
-   "archive_path": "other/apple-notes-openamer-openamer/SKILL.md",
-   "repo": "openamer/openamer",
-   "branch": "main",
-   "digest": "sha256:6413125d00525e3f86a1c745eb066fc1eb4abee21f986929497db034605acb60",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "368684e452f7dcf40d629967dd9e3c292477584b",
-   "name": "apple-notes",
-   "description": "Manage Apple Notes via memo CLI: create, search, edit."
-  },
   "4fozxblnjdmyrefysgunxd8ytovszuiy715-k7fzmio": {
    "status": "pinned",
    "path": "skills-db/tools/clawdhub/SKILL.md",
@@ -4671,6 +4715,14 @@
    "branch": "main",
    "digest": "sha256:354b8335051b9037e8c23324c33f68b3abbdac5ab9cfa12935c26b53575cf488",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "4pdyp9hfhxctmsam9awltz2ojd5zu5vsvgsz0yu4owe": {
+   "status": "bundled_files",
+   "archive_path": "development/interrogate-solimancifuentes-pstack-codex-3/SKILL.md",
+   "repo": "solimancifuentes/pstack-codex",
+   "branch": "main",
+   "digest": "sha256:a16dfe179005abc22a4651b82f25b0c8ab953284276efe4e6dc341958fb63647",
+   "checked_at": "2026-10-22T08:12:03+00:00"
   },
   "4pfhnhptcmboqo9nqytovfudtg3o8tj6wb8x0z2unqe": {
    "status": "bundled_files",
@@ -6521,6 +6573,14 @@
    "name": "clean-code",
    "description": "Pragmatic coding standards - concise, direct, no over-engineering, no unnecessary comments"
   },
+  "6knzwf3gcs0sxcohwxwsjf0qkkpvix64dq9dwlh3qno": {
+   "status": "bundled_files",
+   "archive_path": "other/beautify-github-readme-oil-oil-beautify-github-read/SKILL.md",
+   "repo": "oil-oil/beautify-github-readme",
+   "branch": "main",
+   "digest": "sha256:f3854a1ff509d26f44e5e6a7547a3670e1d2733987d6b300ddcc68c1a17aa14b",
+   "checked_at": "2026-10-22T08:12:03+00:00"
+  },
   "6kqbshdfrbt4uhqm66b4usuwn-znuczjmdzb-9_qesi": {
    "status": "invalid_frontmatter",
    "archive_path": "other/network-101-whd4-expert-ai-skills/SKILL.md",
@@ -7218,6 +7278,14 @@
    "digest": "sha256:5bcd3bb5f4e84367483a3a128bb1ccd822eee9711dbfafc04b7e6873ee5fa986",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "7g8jn0tyzqlynbye2lpwuyqra7kzlm39gbgmih6xrmw": {
+   "status": "bundled_files",
+   "archive_path": "integration/box-ruwwww-agent-skills/SKILL.md",
+   "repo": "ruwwww/agent-skills",
+   "branch": "main",
+   "digest": "sha256:e9672412333de4feff348e6dc387d9022d32005247360347a10a7131fb87eb13",
+   "checked_at": "2026-10-22T08:12:03+00:00"
+  },
   "7gqpcjhbfrrbfaqxqvlxhexjmkjqpj5we28lacc_4ho": {
    "status": "upstream_changed",
    "archive_path": "skills/aget-propose-skill-aget-framework-template-worker-aget/SKILL.md",
@@ -7906,6 +7974,14 @@
    "commit": "3208713208aaecd256146304c857771017cd7097",
    "name": "aidlc-deployment-pipeline",
    "description": "Run the AI-DLC `deployment-pipeline` stage (operation phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage deployment-pipeline --single`: the engine emits one run-stage directive for deployment-pipeline and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
+  },
+  "8ctmt3q1agexeqqxv52tbao-1lxqgtv2zmtfmbxdugg": {
+   "status": "bundled_files",
+   "archive_path": "other/pixel-art/SKILL.md",
+   "repo": "AyaSakura-comp/hermes-skills",
+   "branch": "main",
+   "digest": "sha256:2105a6096c9e34b135c9f48797f06f3a2c33997be152ed8c0ad63b077ba2c0ac",
+   "checked_at": "2026-10-22T08:12:03+00:00"
   },
   "8cy48lsftzz0sne2hwnj1emyty3rijnzzz43itgc7k0": {
    "status": "ambiguous",
@@ -9445,6 +9521,18 @@
    "digest": "sha256:544eb76fe694f8ab863df1d214e2bf6a61af677bde8a894b9c156d1ff95dda87",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "_aqzyuauael-j4p534-a5huhghij1oixvxyc5fov0ok": {
+   "status": "pinned",
+   "path": "source/upstream/pstack/skills/figure-it-out/SKILL.md",
+   "archive_path": "other/figure-it-out-solimancifuentes-pstack-codex-3/SKILL.md",
+   "repo": "solimancifuentes/pstack-codex",
+   "branch": "main",
+   "digest": "sha256:bdb23cdbd82a1e6af094b495691c832a6f7f3ab9706ba9edbeb664ef51a726e1",
+   "checked_at": "2026-10-22T08:12:03+00:00",
+   "commit": "93bcde3b0287b629450f74037f1a68a06b0c702b",
+   "name": "figure-it-out",
+   "description": "Design an auditable playbook when no narrower one fits: a large migration, an ambitious multi-part change, or work a human reviews after stepping away. Scales rigor to the task, runs a hypothesis loop, and logs decisions. Use for /figure-it-out or 'figure it out'."
+  },
   "_bpdouwpbcpgxchu_zeshh4h0qhogsesoy9cbtdn3oc": {
    "status": "bundled_files",
    "archive_path": "other/cost-analysis-microsoft-skills/SKILL.md",
@@ -10295,14 +10383,6 @@
    "digest": "sha256:f8f61e0b0c215988b3199ae4b1f9e16c9443e5580906594feb23d48b12d3dafe",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "a7cov3n3txl7kousbp5dl5xtykh9s1cpejf0r5xgctq": {
-   "status": "upstream_changed",
-   "archive_path": "design/moai-platform-stitch/SKILL.md",
-   "repo": "seo-jinseok/regulation_manager",
-   "branch": "main",
-   "digest": "sha256:2738d60307014a9a4435f34a00806e6698efb084287e1a1189581ec62f4b708d",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "a7k8kkgck0ochrztuw4fessixknfkefvnmekrzstpj8": {
    "status": "ambiguous",
    "archive_path": "other/journal-haidonglethqb-cloudschool-3/SKILL.md",
@@ -10594,18 +10674,6 @@
    "branch": "main",
    "digest": "sha256:86c07f19ec09f79441d3837e909cfcd51034b83bdcc88094c15e652be1e765cb",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "addwwjbf5vliuffsg0j1lmjnpyiaqc-7wobb53fu0yo": {
-   "status": "pinned",
-   "path": "optional-skills/yuanbao/SKILL.md",
-   "archive_path": "communication/yuanbao-openamer-openamer/SKILL.md",
-   "repo": "openamer/openamer",
-   "branch": "main",
-   "digest": "sha256:a24dcf13af2281de5f6fc102c9a605ce8458e040a3808afae04fe0b4be59b819",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "368684e452f7dcf40d629967dd9e3c292477584b",
-   "name": "yuanbao",
-   "description": "Yuanbao (元宝) groups: @mention users, query info/members."
   },
   "adjdkz6wsuap8swven9x-zoxa8obj0mhdep3ag5kudw": {
    "status": "pinned",
@@ -11576,14 +11644,6 @@
    "digest": "sha256:0e534bcf397cd22b2218de6f9c065f56f96773dac8a900e5eddcb28e262f3206",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "avtalry_sv1vewkvhmk6ea6ka1ca7bqxnz5o6w318us": {
-   "status": "upstream_changed",
-   "archive_path": "development/moai-lang-go-modu-ai-moai-rank/SKILL.md",
-   "repo": "modu-ai/moai-rank",
-   "branch": "main",
-   "digest": "sha256:754ea14acc8521d31c78cd462b08f40154b1a355b1a04ff323f0fd6bc067046b",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "avthxtra3ifsy55wthbfrlqjt1ydspe5axfyvrp7_uo": {
    "status": "tree_truncated",
    "archive_path": "other/cv-modbender-skill-library-mcp/SKILL.md",
@@ -12186,6 +12246,14 @@
    "name": "fal-tryon",
    "description": "Virtual try-on — see how clothes look on a person via fal.ai's hosted try-on models. Useful for ecommerce, lookbooks, and styling experiments."
   },
+  "bcxwr-py9bgucbcuo0vqhqph2ikrox8agol21d12sw0": {
+   "status": "bundled_files",
+   "archive_path": "bash/himalaya-ruwwww-agent-skills/SKILL.md",
+   "repo": "ruwwww/agent-skills",
+   "branch": "main",
+   "digest": "sha256:0f6c9bb4c0a5c4f4627e139b6beb2b1ba0addd7145895196528b8125929e3837",
+   "checked_at": "2026-10-22T08:12:03+00:00"
+  },
   "bd9rfbl_mtb7hyj_imvrpzxr_k3cbtjou4dyrb2iipq": {
    "status": "bundled_files",
    "archive_path": "documents/liteparse-raktim-mondol-hermes-plugin-resear/SKILL.md",
@@ -12232,14 +12300,6 @@
    "repo": "northseadl/skillwisp",
    "branch": "main",
    "digest": "sha256:5747397973a0440e906b7af79b577a31f95bf82e0830d244e15ac95807a63efe",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "bdqivx_g2keo5urvx2uhu-4toy3s4siknsl794wbzp8": {
-   "status": "upstream_changed",
-   "archive_path": "development/mobile-developer-rmyndharis-antigravity-skills/SKILL.md",
-   "repo": "rmyndharis/antigravity-skills",
-   "branch": "main",
-   "digest": "sha256:6204ff19062aa46399f8cb0d22c8c4ad45fd81ed647f1ec62244334db2abf6bd",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "bduobcqvnt7mmkn87aelpikw3bwd31hkifret8hucqk": {
@@ -12527,6 +12587,18 @@
    "commit": "fc6d794f8311daea40f42ba7e2c9ec8b08019f94",
    "name": "task-search",
    "description": "Provides fast, case-insensitive text search across task titles, descriptions, and tags with debounced input, relevance ranking, and highlighted matching text. Uses AND logic for multi-token queries and limits results to top 50 for performance."
+  },
+  "bjtja0-o9ularbt4bbjbonpgaqilkvwusonawnji61k": {
+   "status": "pinned",
+   "path": "hermes-skills/devops/sdlc-review/SKILL.md",
+   "archive_path": "other/sdlc-review-ruwwww-agent-skills/SKILL.md",
+   "repo": "ruwwww/agent-skills",
+   "branch": "main",
+   "digest": "sha256:ce90e8a3e145cce69c62880dc85921700110879f9290952d6cec28218503155f",
+   "checked_at": "2026-10-22T08:12:03+00:00",
+   "commit": "4d537c5366139e4834e895a61326048cfc451a33",
+   "name": "sdlc-review",
+   "description": "Review Kanban handoffs and route verified outcomes."
   },
   "bk18jwa7un2nkgqw-0dft9i372welut22qqvf-31z_o": {
    "status": "pinned",
@@ -13429,14 +13501,6 @@
    "repo": "wshobson/agents",
    "branch": "main",
    "digest": "sha256:86653a22d0b492af57d7f6a268ec7b93b225b96b4f904eedeef663565251bc40",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "c1rct4zyqfjave8junkslsfc9zm2k4nmgroxazjsfw4": {
-   "status": "bundled_files",
-   "archive_path": "other/onekgpd-nikhilesh-s-claude-toolkit/SKILL.md",
-   "repo": "nikhilesh-s/claude-toolkit",
-   "branch": "main",
-   "digest": "sha256:918797c80e98570537addc7d5c5a694f39e370592dc5d0b62092b8f421620444",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "c2ugdqse-7_lzge6xh8lv-yfwkhnhynddjl3js-dtaq": {
@@ -14624,6 +14688,18 @@
    "name": "issue-publish",
    "description": "Create or edit a GitHub issue with `gh` from the reviewed draft at `.github/drafts/issue-draft.md`. Use only when that draft exists and the user asks to publish, open, or file it — typically handed off from `github-issue-creator`. Assigns the issue to the user; never comments, closes, or reopens."
   },
+  "crxwyevfjx8qebmir9rpswqamfdtmfbvr6sagtjubhc": {
+   "status": "pinned",
+   "path": "hermes-skills/apple/apple-notes/SKILL.md",
+   "archive_path": "other/apple-notes-ruwwww-agent-skills/SKILL.md",
+   "repo": "ruwwww/agent-skills",
+   "branch": "main",
+   "digest": "sha256:1ba042cb17e3aca06a68415526e926ada464bf873c8592c3326125cd72cb397f",
+   "checked_at": "2026-10-22T08:12:03+00:00",
+   "commit": "4d537c5366139e4834e895a61326048cfc451a33",
+   "name": "apple-notes",
+   "description": "Manage Apple Notes via memo CLI: create, search, edit."
+  },
   "cs3d88hgmwg28iy1xtqm4cofsxwypyu2gjdusbtf1gc": {
    "status": "pinned",
    "path": "skills/labclaw-general-aeon/SKILL.md",
@@ -14675,14 +14751,6 @@
    "branch": "main",
    "digest": "sha256:d52a377819b84a71930f0c822cfe2849f40301605a2d5c7eccbfa3b257700df2",
    "checked_at": "2026-10-17T23:14:30+00:00"
-  },
-  "ct8an_q6l868h3sj9r_w2jzicvlsyfhbrvgz3_o2c-y": {
-   "status": "ambiguous",
-   "archive_path": "other/gif-search-leejuan99-hermes-sync/SKILL.md",
-   "repo": "leejuan99/hermes-sync",
-   "branch": "main",
-   "digest": "sha256:a8349043740a8805d4ebfeb3a21f67ec0e9a9733a84f96403ca142c88a312b5d",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "ct_9e5ccys2m18efr1fwfllar0dmc7qilwdo0zx2th8": {
    "status": "upstream_changed",
@@ -14803,13 +14871,6 @@
    "digest": "sha256:435de4ff2d2f388cb3d33241094fd7a654c172ef46143866df3226e263b0a789",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "cvtnfy1de_aaxxccbx_cealuoh1whmhocbr9rvuw008": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "data/moai-lang-r/SKILL.md",
-   "digest": "sha256:5298eb4f821ccb81884b95b508e815e1a8b30988fdd30c20c0fc894da911a910",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "cvulihqzedthe48k5a4ko6qwmwjbjlvaiyepgcsjaam": {
    "status": "pinned",
    "path": ".agents/skills/agents-md/SKILL.md",
@@ -14842,13 +14903,17 @@
    "digest": "sha256:eb3ce49755911a4137d813b67058c9e5829b8d075e75a0a633a4032ccf68a493",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "cwkyaxbvuhgqfedl8pvau1vuqrqc1m0sqzs9-ez70jo": {
-   "status": "bundled_files",
-   "archive_path": "integration/box-publieople-hermes-config-kit/SKILL.md",
-   "repo": "publieople/hermes-config-kit",
-   "branch": "master",
-   "digest": "sha256:e9672412333de4feff348e6dc387d9022d32005247360347a10a7131fb87eb13",
-   "checked_at": "2026-10-17T18:43:47+00:00"
+  "cwobxxd1vnyczwpas1f7ipgtar6hv-serb_5zinlyny": {
+   "status": "pinned",
+   "path": ".claude/skills/database-migrations/SKILL.md",
+   "archive_path": "data/database-migrations-skateddu-claude-code-python-s/SKILL.md",
+   "repo": "skateddu/claude-code-python-setup",
+   "branch": "main",
+   "digest": "sha256:9fb97a3a160b3cd2d831811e73b4ed63bfc0e964900245a6dce3e48d5d2dc6e0",
+   "checked_at": "2026-10-22T08:12:03+00:00",
+   "commit": "5d0650c528b0284fe4272e1c18b963f4dfd7765f",
+   "name": "database-migrations",
+   "description": "Safe, reversible database migration patterns: forward-only production changes, expand-contract zero-downtime renames, concurrent indexes, batched backfills, and per-tool workflows for PostgreSQL, Prisma, Drizzle, Django, and golang-migrate. Use when writing a schema or data migration, adding a column or index to a large table, planning a rollback, or preparing a zero-downtime deploy."
   },
   "cwqbw2i0h0pwwnd37esmivml70mfnfiab9r4newqvfi": {
    "status": "pinned",
@@ -15613,6 +15678,18 @@
    "branch": "main",
    "digest": "sha256:bcbb49e47b76620b6303f508c323bd12897a730b80a29f7a760bbaed9a6002f2",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "diz2r0uvjpx8t4ao8my9b_hpzftpj2zb_-ks80x_vko": {
+   "status": "pinned",
+   "path": ".github/skills/verification-before-completion/SKILL.md",
+   "archive_path": "development/verification-before-completion-pedro-gilmora-source-crafter-xzor/SKILL.md",
+   "repo": "pedro-gilmora/source-crafter-xzor",
+   "branch": "main",
+   "digest": "sha256:2befe7fc55bcadaa3d97dd9e8efeb633d2561c0ebe74c5a8b17c4d9e7e4520b3",
+   "checked_at": "2026-10-22T08:12:03+00:00",
+   "commit": "f89044691b83af42a5457f3e2fb124011c3b6964",
+   "name": "verification-before-completion",
+   "description": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always"
   },
   "djg6lwuov7hyystvllg8f-8wmqwpr-jrlgypg9oooq4": {
    "status": "upstream_changed",
@@ -16422,13 +16499,6 @@
    "name": "fp-async",
    "description": "Practical async patterns using TaskEither - clean pipelines instead of try/catch hell, with real API examples"
   },
-  "dwbry0rp4dwpsnokxi5agnmysparvzoyb9qreqjczic": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "data/moai-lang-elixir/SKILL.md",
-   "digest": "sha256:06fb2ff202b6f58bf610c1d0241afda666a021c96117acde1062856961369ec2",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "dwm3zsh75bfds3eboq1bmyxqfzi-ybkti6pqi72gnby": {
    "status": "upstream_unavailable",
    "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
@@ -16772,13 +16842,6 @@
    "commit": "143ea22157f77c1f5fc67fd2d773b3ff53d55d79",
    "name": "huggingface-papers",
    "description": "Look up and read Hugging Face paper pages in markdown, and use the papers API for structured metadata such as authors, linked models/datasets/spaces, Github repo and project page. Use when the user shares a Hugging Face paper page URL, an arXiv URL or ID, or asks to summarize, explain, or analyze an AI research paper."
-  },
-  "e2oq7faetpxwnnlu64yi26kt_vhmd89juhf27olfg90": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "data/moai-foundation-quality/SKILL.md",
-   "digest": "sha256:89a5b99be2c8a24b9067fbe3a738b4414dbae7b30b6e6f2d139885e0b5ec5c77",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "e2se7wnybu8tp4kpbivw9roexxmt_ws9i1fiaq6o1o8": {
    "status": "upstream_changed",
@@ -17217,13 +17280,6 @@
    "digest": "sha256:e9033592fa427f736ac3a3b96b9bccc40045786ae5d9be4ef0f29f51d9c9ce42",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "efuzjpridzqy-vvqywqquihktc4mbhiqmzcthp8hg5s": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "data/moai-lang-php/SKILL.md",
-   "digest": "sha256:cad11c0fea593969aff476710fc3b1510435616be86c4bde92bd4012f35ea973",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "efyqexqgho_18db5ioe2rigfru-p_dmwpfd-jfeoty0": {
    "status": "pinned",
    "path": "skills/imported/autonomous-agents/SKILL.md",
@@ -17462,13 +17518,6 @@
    "name": "canned-responses",
    "description": "Generate templated responses for common legal inquiries and identify when situations require individualized attention. Use when responding to routine legal questions — data subject requests, vendor inquiries, NDA requests, discovery holds — or when managing response templates."
   },
-  "ek4508leqzs5vzkjledkoefpk-8zaojojdgwl3k7600": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "data/moai-lang-javascript/SKILL.md",
-   "digest": "sha256:bf8269458fe13345c1335cf3d4d9f097ef910b99ece846aad6829305fc78c3db",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "ek_uugg4rtascbtarkbvmoyflqkpnpej5bcmiih2n1c": {
    "status": "bundled_files",
    "archive_path": "design/aesthetic/SKILL.md",
@@ -17627,14 +17676,6 @@
    "digest": "sha256:803f2ef6cb39f9799fb17ea26576dafbd4602d01620578abd0259eaa1c5431f4",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "en3xunvxvaw5puemuam0yrl-1azugoat80cvn2s74iu": {
-   "status": "ambiguous",
-   "archive_path": "other/local-d65d93321cef06483ecf0d56/SKILL.md",
-   "repo": "gutsofpratik/OpenClaude-Skills",
-   "branch": "main",
-   "digest": "sha256:1968923066f3b707eb01d1992cdf4c42284c3855f70253b9cd5000ff45fca13c",
-   "checked_at": "2026-10-21T08:51:20+00:00"
-  },
   "enbfqnohukmfkijzdch9kjcx8x1kf2-xc2g-htbhiag": {
    "status": "ambiguous",
    "archive_path": "design/hig-platforms-endsi3g-uprising-coldoutreac/SKILL.md",
@@ -17748,14 +17789,6 @@
    "repo": "hotriluan/alkana_kpi",
    "branch": "main",
    "digest": "sha256:0413239dc2e608567939a7492a843cf3fa27039dfdd1e511ebd132cad6b0a81a",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "epynr8tqm8jrxxtecjbth8coekd3cl-232yvzsmjfw8": {
-   "status": "bundled_files",
-   "archive_path": "bash/himalaya-publieople-hermes-config-kit/SKILL.md",
-   "repo": "publieople/hermes-config-kit",
-   "branch": "master",
-   "digest": "sha256:0f6c9bb4c0a5c4f4627e139b6beb2b1ba0addd7145895196528b8125929e3837",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "epynw0zi01w2newudyi2b-glror99akgvj72esjcekc": {
@@ -17907,14 +17940,6 @@
    "repo": "davila7/claude-code-templates",
    "branch": "main",
    "digest": "sha256:1823dbd92e64acb2077a8c0262e3fe7045d1563035187b8d0023575a71a967ae",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "esrfglc8chteq9ewpr_adncaqkabqsoztb9xtnx1hx0": {
-   "status": "ambiguous",
-   "archive_path": "other/arxiv-leejuan99-hermes-sync/SKILL.md",
-   "repo": "leejuan99/hermes-sync",
-   "branch": "main",
-   "digest": "sha256:9b41877bcb64166dc2355a43aedd3198c3e5214af67f09e1d1b717a989d92f72",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "esstjps6s0psdifka5f7gw9wdyqrnwwl5jyx4aancuy": {
@@ -19147,14 +19172,6 @@
    "name": "gws-events-subscribe",
    "description": "Google Workspace Events: Subscribe to Workspace events and stream them as NDJSON."
   },
-  "fjhg7d34mpjva9v4nmjw4uajcw48hzuezb4oscwtkk8": {
-   "status": "bundled_files",
-   "archive_path": "design/design-md-openamer-openamer/SKILL.md",
-   "repo": "openamer/openamer",
-   "branch": "main",
-   "digest": "sha256:88353b199a5af49a05944ad734ff370a0ff3beee4cca3361d1e8bcccdb970c33",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "fjscmpbp12_zsnt6isitrjatpem6gsq7esstbuix6uu": {
    "status": "pinned",
    "path": ".agent/skills/postgresql/SKILL.md",
@@ -19441,13 +19458,6 @@
    "repo": "proffesor-for-testing/agentic-qe",
    "branch": "main",
    "digest": "sha256:ebf116d738448085c6a51a8980dfe0f2768ec827a0bb4c832dacf6c3ad93957d",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "fofalqe9pgufnztbox5zwg_bfiit9_tnq075xfujjcy": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "data/moai-lang-go/SKILL.md",
-   "digest": "sha256:616096607ad20309539788f58d5569207b6958534cebbfacf19d0022ba1465b7",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "fohuocn9kgicn8o3rubtgpplpzehctjnqfi-xj18zj0": {
@@ -20740,14 +20750,6 @@
    "digest": "sha256:8893d8dd5b7ba4ae3219497e26d33fc9565e6bbf0d6aa4d6c1c3ee05003468c3",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "gelw96xnegdaarnsu7hpti4_-kwzbn4ij6gqc87o79q": {
-   "status": "ambiguous",
-   "archive_path": "documents/humanizer-leejuan99-hermes-sync-2/SKILL.md",
-   "repo": "leejuan99/hermes-sync",
-   "branch": "main",
-   "digest": "sha256:887d5e3467a682da9b166e5293007f8bbbc299f8a6718ae00f26161b7d062b04",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "getdrwz7iq_ysnv_hedm3a0-jiopli2ias5uiuths_i": {
    "status": "upstream_changed",
    "archive_path": "devops/multi-cloud-architecture/SKILL.md",
@@ -20956,14 +20958,6 @@
    "digest": "sha256:9339debc3d729a84c8d6e64384c6546a1e430516bda21b690cb763376a95370a",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "gjhifplhzrbyjy_ccxtvatt98jtslxklzqhrxdb_pd0": {
-   "status": "ambiguous",
-   "archive_path": "other/local-03c97b47cad3902542166460/SKILL.md",
-   "repo": "gutsofpratik/OpenClaude-Skills",
-   "branch": "main",
-   "digest": "sha256:091df1629510af1b92fc4abd6f96732ebedb4cb2c0f3457e8f2740b0504a2438",
-   "checked_at": "2026-10-21T08:51:20+00:00"
-  },
   "gjmlaynrex0fxyl0sxptu8u6tskstwk932bkohdbna4": {
    "status": "bundled_files",
    "archive_path": "data/banana-shenxingy-clade/SKILL.md",
@@ -21043,14 +21037,6 @@
    "commit": "94ddc1731e8287de7a3b58cab5bc017f365c63a9",
    "name": "review",
    "description": "Review the changes since a fixed point (commit, branch, tag, or merge-base) along two axes — Standards (does the code follow this repo's documented coding standards?) and Spec (does the code match what the originating issue/PRD asked for?). Runs both reviews in parallel sub-agents and reports them side by side. Use when the user wants to review a branch, a PR, work-in-progress changes, or asks to \"review since X\"."
-  },
-  "gkrisa5bo6eeecbuhkfskxfd9gpyetlbebtn8ahvxma": {
-   "status": "bundled_files",
-   "archive_path": "documents/xlsx-publieople-hermes-config-kit/SKILL.md",
-   "repo": "publieople/hermes-config-kit",
-   "branch": "master",
-   "digest": "sha256:b302d7ac997843a757ab3c11513ea012889ebdae32f842edb44faa9a4485f19b",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "gktbt99xur3mzmhh9c0bnvncdakuxec4agyr34dhtee": {
    "status": "upstream_unavailable",
@@ -21275,6 +21261,14 @@
    "name": "csharp-nunit",
    "description": "Get best practices for NUnit unit testing, including data-driven tests"
   },
+  "gowjfhso9g_8uzpj-dspuxne6uttxmvq3bprtnxvoxi": {
+   "status": "bundled_files",
+   "archive_path": "documents/xlsx-ruwwww-agent-skills/SKILL.md",
+   "repo": "ruwwww/agent-skills",
+   "branch": "main",
+   "digest": "sha256:b302d7ac997843a757ab3c11513ea012889ebdae32f842edb44faa9a4485f19b",
+   "checked_at": "2026-10-22T08:12:03+00:00"
+  },
   "goxmpcle1mrdxfhjnqdrgadvdhkabdzvjvjrvarwgdq": {
    "status": "bundled_files",
    "archive_path": "design/banner-design-petersonsenadevs-senzu/SKILL.md",
@@ -21306,6 +21300,18 @@
    "branch": "main",
    "digest": "sha256:d747e39ee838772c4e2f635fbb1857a49a03102c11b0988e98c92bc5f497d396",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "gpt6hkjmymoutechxxn0nhisduwsjfbcvhcuypnfs0k": {
+   "status": "pinned",
+   "path": ".github/skills/finishing-a-development-branch/SKILL.md",
+   "archive_path": "testing/finishing-a-development-branch-pedro-gilmora-source-crafter-xzor/SKILL.md",
+   "repo": "pedro-gilmora/source-crafter-xzor",
+   "branch": "main",
+   "digest": "sha256:8db5a922b242dd4e1bf824cb91c13b3e8d8e8a86d6ceaf7f0774eb9cce909d65",
+   "checked_at": "2026-10-22T08:12:03+00:00",
+   "commit": "f89044691b83af42a5457f3e2fb124011c3b6964",
+   "name": "finishing-a-development-branch",
+   "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work"
   },
   "gpwq3jjj6fjrkhyrvneh-k7deiyfop8l8zf93orbnle": {
    "status": "bundled_files",
@@ -21935,14 +21941,6 @@
    "name": "apple-notes",
    "description": "Manage Apple Notes via the `memo` CLI on macOS (create, view, edit, delete, search, move, and export notes). Use when a user asks OpenClaw to add a note, list notes, search notes, or manage note folders."
   },
-  "h4gcaglv2uu-s-7vqgillwpcwc_dfwysfeguofvivmi": {
-   "status": "upstream_changed",
-   "archive_path": "testing/mobile-app-testing-aj-geddes-useful-ai-prompts/SKILL.md",
-   "repo": "aj-geddes/useful-ai-prompts",
-   "branch": "main",
-   "digest": "sha256:656add9094129451d3606c2712db0a052093d74d43053bb4450ba277a39118f7",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "h54oqdjqdnlwb-5bgb8s_wxwhrlakxtpp4jnwdqm9jg": {
    "status": "pinned",
    "path": ".claude/skills/effect-errors-retries/SKILL.md",
@@ -22444,6 +22442,18 @@
    "digest": "sha256:fc9514a3b888b35226a3d2276955bfcf1778fd1e61f4000d79c8c0c53e7905c3",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "hjsxulspahaq2i4geofgfl_t3tsv7c0fv1mgxelibom": {
+   "status": "pinned",
+   "path": "skills/principle-prove-it-works/SKILL.md",
+   "archive_path": "other/principle-prove-it-works-uzairansaruzi-p3-stack/SKILL.md",
+   "repo": "uzairansaruzi/p3-stack",
+   "branch": "main",
+   "digest": "sha256:ec79a15025bac8d33d62011c54f3b612733fd2a024e623b531b3637aa75070e2",
+   "checked_at": "2026-10-22T08:12:03+00:00",
+   "commit": "09909ebb5c0125e27fad3e57d96b81e832696d69",
+   "name": "principle-prove-it-works",
+   "description": "Apply after completing a task, before declaring done. Verify against the real artifact (run the feature, read the actual value, inspect the diff), not a proxy, self-report, or 'it compiles.'"
+  },
   "hjvl3xomnimcxvfjtvnt8jopebo55lidd1ubklvdbmw": {
    "status": "pinned",
    "path": "skills/design-review/SKILL.md",
@@ -22689,6 +22699,14 @@
    "digest": "sha256:9a875e53113c11b00ab417fc393eb504f8be97d50c2e6901c762b991388bf717",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "hp_p1k5sbjekpsok5lyxspouclvwmizg0rv6nqo6n1k": {
+   "status": "bundled_files",
+   "archive_path": "documents/docx-ruwwww-agent-skills-2/SKILL.md",
+   "repo": "ruwwww/agent-skills",
+   "branch": "main",
+   "digest": "sha256:9678b14d5e7841d588b969f6a4696cd46bcc46c3e4ac1479edc7656a051aa5ff",
+   "checked_at": "2026-10-22T08:12:03+00:00"
+  },
   "hpabno0v7gly1ljlbled8-xye2yxofkgn2t_xz3seha": {
    "status": "pinned",
    "path": "extensions/feishu/skills/feishu-drive/SKILL.md",
@@ -22787,14 +22805,6 @@
    "repo": "vumichien/bi-agent",
    "branch": "main",
    "digest": "sha256:0e461c47e39acf9cd23599532c6073fa80a8b5cecb3de602be3a8a812c74a52f",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "hqsqcvueysb606tw5l2hibvuvxxvuam7yunqasfseue": {
-   "status": "ambiguous",
-   "archive_path": "other/emil-design-eng-laurentvv-agents-kit/SKILL.md",
-   "repo": "laurentvv/agents-kit",
-   "branch": "main",
-   "digest": "sha256:ffbe68e6007fb42cb8149f089b400a1ca007d59ba23e8948e2be4476f3175939",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "hqzpezvvwj9srtxqvcsdid85fhethpwyfdryp1hp5m8": {
@@ -22901,6 +22911,14 @@
    "digest": "sha256:2e0f301b298de0aab1851a35a1f0c913409386600d825b3c0990f7f68b6973f7",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "hsrtvbepln-au1pt5kru6fbe3yvppr_mc3nwkr75eua": {
+   "status": "bundled_files",
+   "archive_path": "bash/maps-ruwwww-agent-skills/SKILL.md",
+   "repo": "ruwwww/agent-skills",
+   "branch": "main",
+   "digest": "sha256:775ef9f79be9cd147bc81e0c4a4ef952230a04736a6082f44dbac78554ef89ab",
+   "checked_at": "2026-10-22T08:12:03+00:00"
+  },
   "hsw9xxrngn0s588xvkk5dxx7po6axgziaml6bkwsqrk": {
    "status": "ambiguous",
    "archive_path": "design/bmad-cis-design-thinking-alexoviedo999-my-personal-website/SKILL.md",
@@ -22924,18 +22942,6 @@
    "branch": "main",
    "digest": "sha256:1f8337300c150c9609a9f87d9b99e20f5b5aacd19e04593220507f9dd70846f7",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "htepzk8tjnqwhjnses2aenoz2ufygnx0d9eajjad1ui": {
-   "status": "pinned",
-   "path": "skills/creative/sketch/SKILL.md",
-   "archive_path": "design/sketch-pmb2-hermes-starter/SKILL.md",
-   "repo": "pmb2/hermes-starter",
-   "branch": "main",
-   "digest": "sha256:628c0179a3acba6117502baac70501d8221e7ce3a0b320cc4e4199b05eccabfc",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "259f2ac87f0d3807222b777a1807515b9b6e3618",
-   "name": "sketch",
-   "description": "Throwaway HTML mockups: 2-3 design variants to compare."
   },
   "httdj0zvx1f9xexnkvs1fkifjhxokbtzlpoi0g-kl60": {
    "status": "pinned",
@@ -24026,13 +24032,6 @@
    "digest": "sha256:1dd4bb1fc372bc5c4733e19b197ab1c2b90238b69e4830fb543f1a8641f59e31",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "ilaficzn0wz3hczkcxcsccriakvioi3agcxk3z9fnlk": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "data/moai-domain-uiux/SKILL.md",
-   "digest": "sha256:50f5e27f15573458e17ad5f3739fa216aa85410e9f4e0e5b609367b8e44f0760",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "ilekojm7shkbcwpjiblaroe0srho0o8e_mq3wetuxfa": {
    "status": "bundled_files",
    "archive_path": "other/testing-patterns-umairinayat-specter-ai/SKILL.md",
@@ -24597,13 +24596,17 @@
    "name": "wiki-qa",
    "description": "Answers questions about a code repository using source file analysis. Use when the user asks a question about how something works, wants to understand a component, or needs help navigating the codebase."
   },
-  "iwdo0mtwktbuzicml68gffudjuusrm-xhx2xgwkwbyo": {
-   "status": "bundled_files",
-   "archive_path": "documents/pdf-publieople-hermes-config-kit/SKILL.md",
-   "repo": "publieople/hermes-config-kit",
-   "branch": "master",
-   "digest": "sha256:c16b9c159a3a0b49353bfcd10c498b02aef3d319207b1019aa7dc8db129d06ab",
-   "checked_at": "2026-10-17T18:43:47+00:00"
+  "iwwadzviyabvmsfonvvlhcjzpuiuycqu7xecd07gfki": {
+   "status": "pinned",
+   "path": "hermes-skills/yuanbao/SKILL.md",
+   "archive_path": "communication/yuanbao-ruwwww-agent-skills/SKILL.md",
+   "repo": "ruwwww/agent-skills",
+   "branch": "main",
+   "digest": "sha256:239e4875f511124fab06e94ff21511fd8f857554c6ffd82dfb796ed275b4ff32",
+   "checked_at": "2026-10-22T08:12:03+00:00",
+   "commit": "4d537c5366139e4834e895a61326048cfc451a33",
+   "name": "yuanbao",
+   "description": "Yuanbao (元宝) groups: @mention users, query info/members."
   },
   "iwxkcsrim4m2-whsrigx4l4vg_syi4xasqejymnpmu8": {
    "status": "upstream_unavailable",
@@ -25830,14 +25833,6 @@
    "digest": "sha256:d37478268d979001cf3382ab3322c04ed329e47f4c06b8f2af16ece5b989f0be",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "jnp6c6fav2oogxzjb7leqfmoe77jw14ci5ypasyehyo": {
-   "status": "ambiguous",
-   "archive_path": "other/p5js-leejuan99-hermes-sync-2/SKILL.md",
-   "repo": "leejuan99/hermes-sync",
-   "branch": "main",
-   "digest": "sha256:3b39b75303e082af69b3f4e2deab7a55b27d60293eff6a561fb627188194a33e",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "jocr_wj55awlckaggwfbjt7g7kr55v_cnvz2qr_0meq": {
    "status": "upstream_changed",
    "archive_path": "documents/xlsx-iofficeai-aionui/SKILL.md",
@@ -25881,14 +25876,6 @@
    "branch": "main",
    "digest": "sha256:3ab000774a42c3852b8c30bfd48c49b82a9f5aece0cddd4f20bf1cc1150e86c2",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "jpjsiaegxu-7hl_yl-qkxrh3rurf_9aimcssy1oqche": {
-   "status": "ambiguous",
-   "archive_path": "development/local-f8a4b6e6cf297c9741b3ac6b/SKILL.md",
-   "repo": "gutsofpratik/OpenClaude-Skills",
-   "branch": "main",
-   "digest": "sha256:2befe7fc55bcadaa3d97dd9e8efeb633d2561c0ebe74c5a8b17c4d9e7e4520b3",
-   "checked_at": "2026-10-21T08:51:20+00:00"
   },
   "jptsy-y87sisyht4wo9gmn7ekdwdhx_x-y4-0pde284": {
    "status": "pinned",
@@ -26099,13 +26086,6 @@
    "repo": "wshobson/agents",
    "branch": "main",
    "digest": "sha256:d894345767739ee7aada07f560c83b68b536aa87d17402a6ceceff2c80592c0c",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "jtusqwi9ly9mok93ewyevlc15wlnfdcoru-hj_4x5qo": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "data/moai-workflow-testing/SKILL.md",
-   "digest": "sha256:46d49ef402de25445826999e3b7031b384196832c4edde5824965b867a33758f",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "jtxihdb4izdr_t9nqrovx9y9fr9r3ondht5zyt3t_9s": {
@@ -27385,6 +27365,18 @@
    "digest": "sha256:d8c7f176fa1ce09b8fc0adb6042a67b3ece1c5cfbcb3cec513f3becac31dee86",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "kncodcsvesy7kzwdishfzu0ewkd-cbgyyxaif8dlkd0": {
+   "status": "pinned",
+   "path": "hermes-skills/research/llm-wiki/SKILL.md",
+   "archive_path": "development/llm-wiki-ruwwww-agent-skills/SKILL.md",
+   "repo": "ruwwww/agent-skills",
+   "branch": "main",
+   "digest": "sha256:0229e37c1783fcac5b77cfb3242703666cf4aa472d2ae85b6bd5279756b515b6",
+   "checked_at": "2026-10-22T08:12:03+00:00",
+   "commit": "4d537c5366139e4834e895a61326048cfc451a33",
+   "name": "llm-wiki",
+   "description": "Karpathy's LLM Wiki: build/query interlinked markdown KB."
+  },
   "knob8oqcczfwsergzjtty1kdj8jut92omr8ql0yxpes": {
    "status": "bundled_files",
    "archive_path": "design/design-consultation-shhubbh-flowstate/SKILL.md",
@@ -27392,6 +27384,14 @@
    "branch": "main",
    "digest": "sha256:5b6fd67a6daa1ee82060234e6a47ccf0685a5c2c3f7f8a60f418ce51dbcc6643",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "ko4twbrirvd_6ddkpgwsjoe6n633binvb8cx-at_lig": {
+   "status": "bundled_files",
+   "archive_path": "other/arxiv-ruwwww-agent-skills/SKILL.md",
+   "repo": "ruwwww/agent-skills",
+   "branch": "main",
+   "digest": "sha256:9b41877bcb64166dc2355a43aedd3198c3e5214af67f09e1d1b717a989d92f72",
+   "checked_at": "2026-10-22T08:12:03+00:00"
   },
   "koj7pzjkrk4r5wblj9cybgn24ztbablxnbt5i9qkyj8": {
    "status": "upstream_changed",
@@ -28410,13 +28410,6 @@
    "name": "gtars",
    "description": "High-performance toolkit for genomic interval analysis in Rust with Python bindings. Use when working with genomic regions, BED files, coverage tracks, overlap detection, tokenization for ML models, or fragment analysis in computational genomics and machine learning applications."
   },
-  "lchutytao1-woa7m2wmjbkezjhgtxxb8jlgfmwfo1zi": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "data/moai-lang-cpp/SKILL.md",
-   "digest": "sha256:1329d3311c07feb075f80880e8176e647be4e78e57bf895e563d27e49d45b796",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "lci115hur_z_h5xbvqdujqdcehfzt1elcacncl0m9pe": {
    "status": "pinned",
    "path": "skills/common/documentation/SKILL.md",
@@ -28808,14 +28801,6 @@
    "repo": "Nguyenthang2292/Sovereign-IQ",
    "branch": "main",
    "digest": "sha256:ef8cab6e5509f3f346f7c9c4b0beb8ef67e7a48937f424cd70e7a455c6041545",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "lkkos08dp8qiajaz07bjaoi8_can-qoe38xrmzexzvk": {
-   "status": "ambiguous",
-   "archive_path": "other/review-levalencia-agent-god-mode/SKILL.md",
-   "repo": "levalencia/agent-god-mode",
-   "branch": "main",
-   "digest": "sha256:6129d6a5a03c05c5d913f58ea2d291c83fbb04dd00f3e66457c92bf8b335886e",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "lkoi0-e9nd-yw5miizrok_zhcweb6sgzsh1igg9qzng": {
@@ -29390,13 +29375,6 @@
    "digest": "sha256:caaf8b8de1684f96e26b28f3c29189db5c89cce4b73e1c93d86164f66ef88637",
    "checked_at": "2026-10-17T23:14:30+00:00"
   },
-  "lw6bvbxrzdrusbbrle5jk1pb9t2civa5yhrmvcxscbc": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "data/moai-foundation-claude/SKILL.md",
-   "digest": "sha256:9abe1718fbf34118496a3e855a1987e6e66acabfcb49051e4ecdd4ce0dfd1d9e",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "lwedlzvtcexkczbv0p38l42qslww526oan8dhiagm-y": {
    "status": "pinned",
    "path": ".claude/skills/ecc/fsharp-testing/SKILL.md",
@@ -29677,6 +29655,14 @@
    "digest": "sha256:e5643bc2bd48d722ad09fd91ca238ffb770c7e6b616d4fa347f05a6f66e04c70",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "m37zkyz7ofhx3jnvbprpfq1w0lupdlt-0hctsnsk698": {
+   "status": "tree_truncated",
+   "archive_path": "data/sra-data-peacezha-trace/SKILL.md",
+   "repo": "peacezha/TRACE",
+   "branch": "main",
+   "digest": "sha256:9264904f149b5add571b8249ae633167ccdba8b4bfd5a8e398b80d5de901268c",
+   "checked_at": "2026-10-22T08:12:03+00:00"
+  },
   "m3e1k2-ll7cxyfoxvdf42d_vojazw4iat_nh8o2mklm": {
    "status": "bundled_files",
    "archive_path": "other/detecting-rdp-brute-force-attacks-xtofuub-openrecon-ios/SKILL.md",
@@ -29792,6 +29778,14 @@
    "branch": "main",
    "digest": "sha256:5fa8f4845dd58f3ec51e0fafe11a8d5db00d6343a966d272aa0d1130f9e01695",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "m5zcuitc4hymukpfzt5q0m-zehgdp-g8iefwben3w3y": {
+   "status": "bundled_files",
+   "archive_path": "other/executing-plans-pedro-gilmora-source-crafter-xzor/SKILL.md",
+   "repo": "pedro-gilmora/source-crafter-xzor",
+   "branch": "main",
+   "digest": "sha256:f38e8f2ddcf079f65493adc713c1fed78421dfaf5f4dbf6b3a6b2b1d95466e71",
+   "checked_at": "2026-10-22T08:12:03+00:00"
   },
   "m6uk7wzk7dcb5lbq8kzg20mwexffvef_csd84zsrq_y": {
    "status": "pinned",
@@ -30607,14 +30601,6 @@
    "digest": "sha256:a4a5574d4389c3041306a82178a8109572fd3a9a8c28c66e0574c8cf4fd45219",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "mmivt3zgmnnojrmuw8c3b4qul_khrpdv87yakqunrdg": {
-   "status": "ambiguous",
-   "archive_path": "other/local-a7c2ca31e742d64da776713f/SKILL.md",
-   "repo": "gutsofpratik/OpenClaude-Skills",
-   "branch": "main",
-   "digest": "sha256:8cfb86f121269e8f7f12361e6795c4f6738828340e28964c9229d365666c9edd",
-   "checked_at": "2026-10-21T08:51:20+00:00"
-  },
   "mmqz2bafr-hjgvn8d5kg42iottjfuwabpl_skpzrnwo": {
    "status": "upstream_changed",
    "archive_path": "other/to-tickets-jonathoneco-dotfiles/SKILL.md",
@@ -30928,13 +30914,6 @@
    "repo": "ruvnet/ruflo",
    "branch": "main",
    "digest": "sha256:5337a5c98d88ca7b574d921f91807008cb93fb0a1e1e662dad70e2e58266b878",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "ms7puaaa0xoq53lovvcg2b3najdgreacavdfun5_gwe": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "data/moai-platform-supabase/SKILL.md",
-   "digest": "sha256:30c11eda4ef310ea902c2ec584622d8657e8b37c6b71ce26130554f5894b1b59",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "ms8re1ernom9f5i736fxw0rbrywdsdvjqxbaaagbk2s": {
@@ -31316,6 +31295,14 @@
    "digest": "sha256:6b6b9a1f3d5bc4a66119f78dbaf0a7df8ab65b6c903cc05e77aa083455ab3a2a",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "myja19gxkdsvw54uebks7bectquqhksapmesshouini": {
+   "status": "bundled_files",
+   "archive_path": "documents/pdf-ruwwww-agent-skills-2/SKILL.md",
+   "repo": "ruwwww/agent-skills",
+   "branch": "main",
+   "digest": "sha256:c16b9c159a3a0b49353bfcd10c498b02aef3d319207b1019aa7dc8db129d06ab",
+   "checked_at": "2026-10-22T08:12:03+00:00"
+  },
   "mykex25s3fbh7_gqszyhi8twugmtqjcv-y_ufwjdxlw": {
    "status": "upstream_changed",
    "archive_path": "data/apple-notes-clawdbot-clawdbot/SKILL.md",
@@ -31442,6 +31429,18 @@
    "branch": "main",
    "digest": "sha256:55afa206d2802222b92d4ac8313c2d9632bb96b44c9f05ae687e3b5a48e3db91",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "n19_foaukrwd2rdifuwtswrygmjjpdpx_osbpol1b5a": {
+   "status": "pinned",
+   "path": "hermes-skills/media/gif-search/SKILL.md",
+   "archive_path": "other/gif-search-ruwwww-agent-skills/SKILL.md",
+   "repo": "ruwwww/agent-skills",
+   "branch": "main",
+   "digest": "sha256:a8349043740a8805d4ebfeb3a21f67ec0e9a9733a84f96403ca142c88a312b5d",
+   "checked_at": "2026-10-22T08:12:03+00:00",
+   "commit": "4d537c5366139e4834e895a61326048cfc451a33",
+   "name": "gif-search",
+   "description": "Search/download GIFs from Tenor via curl + jq."
   },
   "n23bu5igzwugw9qqdmakojkr8d5gkb2m_8eb3vat4s8": {
    "status": "pinned",
@@ -31661,13 +31660,6 @@
    "commit": "cb64ad12e32737ae764becd6885462e9b4c7cb00",
    "name": "agentic-eval",
    "description": "Patterns and techniques for evaluating and improving AI agent outputs. Use this skill when:\n- Implementing self-critique and reflection loops\n- Building evaluator-optimizer pipelines for quality-critical generation\n- Creating test-driven code refinement workflows\n- Designing rubric-based or LLM-as-judge evaluation systems\n- Adding iterative improvement to agent outputs (code, reports, analysis)\n- Measuring and improving agent response quality"
-  },
-  "nazllunlsqn19pbmc4sli2xstfoziiueqlyifxgo4cg": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "data/moai-platform-clerk/SKILL.md",
-   "digest": "sha256:9e7546990ef811d1c284cd63797a6478cd62eb7e9ed0cc65cbe77b5bd2f59b3c",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "nbd_e8w2moa8lzqdgigfyabbflqqae-rymlp_ggebaa": {
    "status": "upstream_changed",
@@ -33599,6 +33591,18 @@
    "name": "cdk-patterns",
    "description": "Common AWS CDK patterns and constructs for building cloud infrastructure with TypeScript, Python, or Java. Use when designing reusable CDK stacks and L3 constructs."
   },
+  "oexqg_ulswq5curu4rctn4m4hiszgnuzhnmbwcgcsv8": {
+   "status": "pinned",
+   "path": "source/upstream/pstack/skills/arena/SKILL.md",
+   "archive_path": "other/arena-solimancifuentes-pstack-codex-3/SKILL.md",
+   "repo": "solimancifuentes/pstack-codex",
+   "branch": "main",
+   "digest": "sha256:ed72f6c132b1ce3974d949581d0adc5dade424fe20793ac3b4c4fae22ecb9354",
+   "checked_at": "2026-10-22T08:12:03+00:00",
+   "commit": "93bcde3b0287b629450f74037f1a68a06b0c702b",
+   "name": "arena",
+   "description": "Spawn N parallel candidates at the same task, pick a base, graft the strongest parts of the losers into it. Use for /arena, 'arena this', 'throw it in the arena', or when one attempt at a non-trivial artifact would lock in the wrong shape."
+  },
   "of67lhjhelov5qtwewxf_d_9gsixxnqdgv94m56ipe4": {
    "status": "bundled_files",
    "archive_path": "bash/vite-mattycraig-nuxt-theme-builder/SKILL.md",
@@ -33626,14 +33630,6 @@
    "commit": "2fca246d93eb2b643eb88fb2a91a1d3b0071ae02",
    "name": "clay-hello-world",
    "description": "Create a minimal working Clay example.\nUse when starting a new Clay integration, testing your setup,\nor learning basic Clay API patterns.\nTrigger with phrases like \"clay hello world\", \"clay example\",\n\"clay quick start\", \"simple clay code\"."
-  },
-  "oggj-7m1dq4lvkxxzx4qqrlpfelfmhx2xgrlruvcx6c": {
-   "status": "bundled_files",
-   "archive_path": "design/mobile-bottom-navbar-jicate-solutions-arts-tally-roja/SKILL.md",
-   "repo": "Jicate-Solutions/arts_tally_roja",
-   "branch": "main",
-   "digest": "sha256:caeeab50674ad3d13f88148d5b0095e4f4db4aa3cd593ac6f8bb8b981b7dc155",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "ogkttpjuqzzswh6hri2ppdkdmtcvfkiqegneluzew4s": {
    "status": "pinned",
@@ -33722,18 +33718,6 @@
    "branch": "main",
    "digest": "sha256:ff3324078bbeef3e214157391795360e148892e9c6735f1fc049f397aa939c80",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "oi46mzybclhvl17_bidaz-dil-7myo5g-npy_mpit9u": {
-   "status": "pinned",
-   "path": "plugins/pstack/skills/in-your-own-words/SKILL.md",
-   "archive_path": "other/in-your-own-words/SKILL.md",
-   "repo": "michael-denyer/pstack-claude",
-   "branch": "main",
-   "digest": "sha256:292b1f5b008a78be49830f02f8bc04be7bf0df50e66d0143138f244f2b47a38a",
-   "checked_at": "2026-10-20T09:04:56+00:00",
-   "commit": "49b68501b075ec1eb2755dd0d22fbf2492d67e97",
-   "name": "in-your-own-words",
-   "description": "Restate in your own words what you think the user's goals are and what problem they're trying to solve. Use for /in-your-own-words."
   },
   "oieoyu_6iwirxjrq1v6jz5-pyuxrvzdpxb1gqvxsgyg": {
    "status": "pinned",
@@ -34230,6 +34214,18 @@
    "name": "ai-avatar-video",
    "description": "Create AI avatar, talking-head, and lip-sync videos on RunComfy via the `runcomfy` CLI. Routes across ByteDance OmniHuman (audio-driven full-body avatar), Wan-AI Wan 2-7 (audio-driven mouth sync via `audio_url` on a portrait), HappyHorse 1.0 (Arena #1 t2v / i2v with in-pass audio), and Seedance v2 Pro (multi-modal cinematic with reference audio + reference subject). Picks the right model for the user's actual intent — UGC voiceover, virtual presenter, dubbed product demo, lip-synced character, dialog scene — and ships each model's documented prompting patterns plus the minimal `runcomfy run` invoke. Triggers on \"talking head\", \"lip sync\", \"avatar video\", \"make X speak\", \"audio to video\", \"audio driven avatar\", \"virtual presenter\", \"AI spokesperson\", \"dubbed video\", \"UGC avatar\", \"HeyGen alternative\", \"Synthesia alternative\", \"digital human\", \"make this portrait talk\", \"video from voiceover\", or any explicit ask to put words in a face."
   },
+  "osyyd0hzdn7kd4l8w4nvqti4kinrbepgx4nt7o8svty": {
+   "status": "pinned",
+   "path": "hermes-skills/creative/sketch/SKILL.md",
+   "archive_path": "design/sketch-ruwwww-agent-skills/SKILL.md",
+   "repo": "ruwwww/agent-skills",
+   "branch": "main",
+   "digest": "sha256:c643ff8657341b39284dbe1c70442b4ac746f5702d8457759376d4165d6879e5",
+   "checked_at": "2026-10-22T08:12:03+00:00",
+   "commit": "4d537c5366139e4834e895a61326048cfc451a33",
+   "name": "sketch",
+   "description": "Throwaway HTML mockups: 2-3 design variants to compare."
+  },
   "otbepl3s1-2hfhy69jmvpnlqj9fhennh6wdonriroo0": {
    "status": "ambiguous",
    "archive_path": "other/moatmri-sinhoneyy-master-skills/SKILL.md",
@@ -34331,6 +34327,14 @@
    "commit": "19300aeefedaad850b675155495a498ebeb617d1",
    "name": "gws-calendar",
    "description": "Google Calendar: Manage calendars and events."
+  },
+  "ovvfgbyz77rk27t-tlkslqdjjx28zbqkb1uscn1_xby": {
+   "status": "bundled_files",
+   "archive_path": "design/hyperframes-keyframes-pehan-jpg-botcircuits-motion-v/SKILL.md",
+   "repo": "pehan-jpg/botcircuits-motion-video",
+   "branch": "main",
+   "digest": "sha256:d6484e8367ed522f2a89af9ec30ae3cd86ae243b5a23c5ab00a7a682e3d1a791",
+   "checked_at": "2026-10-22T08:12:03+00:00"
   },
   "ovy7q7ymtojdo1_xwv3xavplio2mtt3m5vs86dldi_m": {
    "status": "bundled_files",
@@ -34467,6 +34471,14 @@
    "name": "aidlc-infrastructure-design",
    "description": "Run the AI-DLC `infrastructure-design` stage (construction phase) in isolation, without advancing the main workflow. Packages `/aidlc --stage infrastructure-design --single`: the engine emits one run-stage directive for infrastructure-design and its gate, the conductor runs it, then the single-stage run commits a synthetic-id pair and stops. The main workflow's Current Stage is never touched."
   },
+  "oxog0zyspfid9czry_1xs3xzvz59j44noic_wyk9ebe": {
+   "status": "tree_truncated",
+   "archive_path": "other/geo-data-peacezha-trace/SKILL.md",
+   "repo": "peacezha/TRACE",
+   "branch": "main",
+   "digest": "sha256:ad08b4ee41bc7ad15c605b2650e2fbe5615e9b5df2c8c2680c19a18efa09e9ad",
+   "checked_at": "2026-10-22T08:12:03+00:00"
+  },
   "oxpvsmvsy7e7fq8-e05fbbpkv8bmmxgz8wk3v2r2vyo": {
    "status": "ambiguous",
    "archive_path": "development/bmad-quick-dev-new-preview-bino1999-worl-sl-bmad/SKILL.md",
@@ -34482,6 +34494,18 @@
    "branch": "main",
    "digest": "sha256:a6add5b8a1a57f8682c78e23aea87be3335df3c2f25a5b00a543ba5f3175c5b0",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "oygafm9aqnw0hxo4xgor_yslrjjnbfi8qhu_daeeece": {
+   "status": "pinned",
+   "path": "media/spotify/SKILL.md",
+   "archive_path": "other/spotify-ayasakura-comp-hermes-skills/SKILL.md",
+   "repo": "AyaSakura-comp/hermes-skills",
+   "branch": "main",
+   "digest": "sha256:6461bec17bded75c6498f43d4cca0654ac411a93b702caab281f306b3490a602",
+   "checked_at": "2026-10-22T08:12:03+00:00",
+   "commit": "abb656d0a8f3ca5d546b01f1e04e65fe842c7e78",
+   "name": "spotify",
+   "description": "Control Spotify — play music, search the catalog, manage playlists and library, inspect devices and playback state. Loads when the user asks to play/pause/queue music, search tracks/albums/artists, manage playlists, or check what's playing. Assumes the Hermes Spotify toolset is enabled and `hermes auth spotify` has been run."
   },
   "oyv5eddv51t2wevoi39g031dei9mmulu6grrcjodank": {
    "status": "pinned",
@@ -34546,14 +34570,6 @@
    "digest": "sha256:639cda59993b8c11bb3d2364d1c6778446bdb6ab43e73258a03ba67094ce3025",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "p-0s3e07swji5jpdotnvlcm_nhrttbhh678caow7ixy": {
-   "status": "bundled_files",
-   "archive_path": "design/pretext-pmb2-hermes-starter/SKILL.md",
-   "repo": "pmb2/hermes-starter",
-   "branch": "main",
-   "digest": "sha256:983a39f19f6ee25f1c69710130a4cfe92cf2969f5dafc91a4d5394d79fdfdf5a",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "p-bdlsxqtgok0_cvo76_2zswqoaou__iu6emfcjtt0o": {
    "status": "upstream_changed",
    "archive_path": "development/convex-http-actions/SKILL.md",
@@ -34584,14 +34600,6 @@
    "repo": "yigityildiz0/universal-ai-skill-library",
    "branch": "main",
    "digest": "sha256:2b95562e6bc668b3a57c95cbfa95efd9e767c91b2190a12f0f21492f070194e5",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "p0pcu-uiljuogadw99voetejhme9xnos8btendao9_o": {
-   "status": "bundled_files",
-   "archive_path": "development/moai-lang-php-modu-ai-moai-rank/SKILL.md",
-   "repo": "modu-ai/moai-rank",
-   "branch": "main",
-   "digest": "sha256:0ac7aa7b42246fb45cb9be56a81a8ddd6cdb5b80e31ef9f71041a246427a5c8a",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "p1tijub7hepnov_2o2c8abgxohq2qaa9uwmycvhuxi0": {
@@ -34745,6 +34753,14 @@
    "commit": "aff97fefd2dcaf163e12f2c443a0744dbc977347",
    "name": "run",
    "description": "One-shot lifecycle command that chains init → baseline → spawn → eval → merge in a single invocation. Use when the user runs /hub:run or asks to execute a full AgentHub competition end-to-end."
+  },
+  "p4ura1cuk2t7gqd_qd3vtcoyd7exsvjoxdpchbh9ije": {
+   "status": "bundled_files",
+   "archive_path": "other/p5js-ruwwww-agent-skills/SKILL.md",
+   "repo": "ruwwww/agent-skills",
+   "branch": "main",
+   "digest": "sha256:3b39b75303e082af69b3f4e2deab7a55b27d60293eff6a561fb627188194a33e",
+   "checked_at": "2026-10-22T08:12:03+00:00"
   },
   "p4vylf8b3hgbpbs2urhse064gipcj3on3ej_n34yjag": {
    "status": "upstream_changed",
@@ -35785,20 +35801,24 @@
    "digest": "sha256:20c9b7ecf28651702674b989675622b8ad868495b1356544fbd9ff04d046bcf9",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "prx-2he3bj59hs9h32_-zhwbi4x9bjifzmjdepafnkk": {
+   "status": "pinned",
+   "path": ".github/skills/receiving-code-review/SKILL.md",
+   "archive_path": "other/receiving-code-review-pedro-gilmora-source-crafter-xzor/SKILL.md",
+   "repo": "pedro-gilmora/source-crafter-xzor",
+   "branch": "main",
+   "digest": "sha256:091df1629510af1b92fc4abd6f96732ebedb4cb2c0f3457e8f2740b0504a2438",
+   "checked_at": "2026-10-22T08:12:03+00:00",
+   "commit": "f89044691b83af42a5457f3e2fb124011c3b6964",
+   "name": "receiving-code-review",
+   "description": "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation"
+  },
   "ps4m0-di1dvumecdhuyxicn4wr7fdnjs0zkvbjj6xqw": {
    "status": "bundled_files",
    "archive_path": "other/bmad-party-mode-zerada-restaurantagentautom/SKILL.md",
    "repo": "zerAda/RestaurantAgentAutomation",
    "branch": "main",
    "digest": "sha256:558831b737cf3a6a5349b9f1338f2945da82ce2564893e642a2b49b7e62e8b3f",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "ps5xmg3vcswdqqxttsipyinqnua8il5xuopoqiycsck": {
-   "status": "bundled_files",
-   "archive_path": "documents/docx-publieople-hermes-config-kit/SKILL.md",
-   "repo": "publieople/hermes-config-kit",
-   "branch": "master",
-   "digest": "sha256:9678b14d5e7841d588b969f6a4696cd46bcc46c3e4ac1479edc7656a051aa5ff",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "psgcwidsnbj3jib_zhzv2xiauhlhwtbqu6wmcwg9rsq": {
@@ -36824,18 +36844,6 @@
    "digest": "sha256:ebc8e7ab299a6649f575e218f0c25f4d869017b8ad4b5f7725cedceaf82700e5",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "qfqt4nu7w9bjonki_uejdblljohzli4wr7kmr3xahmk": {
-   "status": "pinned",
-   "path": "skills/media/heartmula/SKILL.md",
-   "archive_path": "other/heartmula-pmb2-hermes-starter/SKILL.md",
-   "repo": "pmb2/hermes-starter",
-   "branch": "main",
-   "digest": "sha256:ba70e1b6277507823c491e97e475d2d564e604f0ef6b5db63c63ad5cce9bbcef",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "259f2ac87f0d3807222b777a1807515b9b6e3618",
-   "name": "heartmula",
-   "description": "HeartMuLa: Suno-like song generation from lyrics + tags."
-  },
   "qfv1oommmpqwr5k-gcbdsykhzuf1kihne4lrb3pi00s": {
    "status": "ambiguous",
    "archive_path": "analysis/content-trend-researcher/SKILL.md",
@@ -37162,6 +37170,14 @@
    "digest": "sha256:ef06a9a11d7ed106d5e04304758c58d859baac495f50499e3ae36a9cf3b07155",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "qlnn6yepi7pj7n22tu8n2adcqcfqpymkatmuy_bsj_g": {
+   "status": "bundled_files",
+   "archive_path": "design/design-md-ruwwww-agent-skills/SKILL.md",
+   "repo": "ruwwww/agent-skills",
+   "branch": "main",
+   "digest": "sha256:7ed56bba40ffc9573fa51b33b2424f37fb5f774e9ecb7e76e737797afd0b62ae",
+   "checked_at": "2026-10-22T08:12:03+00:00"
+  },
   "qls98ipup08hepmkscfccuesh3oxgxrkugemwtgy23y": {
    "status": "pinned",
    "path": "skills/apple/apple-reminders/SKILL.md",
@@ -37261,6 +37277,14 @@
    "branch": "main",
    "digest": "sha256:9e773dcb0945a308c161a308e1368715eda01b96b94262695b6c4c5ca2c90667",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "qnwlu-z__5_gm2swdnghs_qug6ch0igx-gxs7rah2qq": {
+   "status": "bundled_files",
+   "archive_path": "other/pretext-ruwwww-agent-skills/SKILL.md",
+   "repo": "ruwwww/agent-skills",
+   "branch": "main",
+   "digest": "sha256:532570c95d1a0bf671a5565fa3c2a6131d3579f4378dd852012b39335a7668e3",
+   "checked_at": "2026-10-22T08:12:03+00:00"
   },
   "qnymtewu3ylfsmfenqyqzoy-wj2cjotmutj19mlrhpq": {
    "status": "bundled_files",
@@ -37557,14 +37581,6 @@
    "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
    "archive_path": "data/gpui-focus-handle/SKILL.md",
    "digest": "sha256:3d46fa1301b8219bef983c4eb783898e84624d5a2232ae8ab0a41bf15e032aed",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "qvwmjvt3j8gjwzgpoie2ux-yh84an11y0fi6qgec1k0": {
-   "status": "upstream_changed",
-   "archive_path": "orchestration/moai-foundation-core-modu-ai-moai-rank/SKILL.md",
-   "repo": "modu-ai/moai-rank",
-   "branch": "main",
-   "digest": "sha256:0469fefe6446045b72d105dbb7981f1a1ef83be57e907f6fd58fc07d9aff1e73",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "qw88ciqqur0bw3fdfsp7no6zrnpjwxqftlg-t2xrlao": {
@@ -38048,18 +38064,6 @@
    "branch": "main",
    "digest": "sha256:0a5eecb00ecf7194aa350e9f7eb39bc03d6a03e84a8061136fd0953875fa3ad7",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "raex3t3ej-jepite2urmju8u3gvukpcsdl1hjjsgroe": {
-   "status": "pinned",
-   "path": "skills/devops/sdlc-review/SKILL.md",
-   "archive_path": "other/sdlc-review-publieople-hermes-config-kit/SKILL.md",
-   "repo": "publieople/hermes-config-kit",
-   "branch": "master",
-   "digest": "sha256:ce90e8a3e145cce69c62880dc85921700110879f9290952d6cec28218503155f",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "2cd115c9a59092e1d0cf18805c164d7a57a7f123",
-   "name": "sdlc-review",
-   "description": "Review Kanban handoffs and route verified outcomes."
   },
   "ravzl3cmv3bk7xqd0v_i5tumbob1v_eqfux5jtiz7sc": {
    "status": "bundled_files",
@@ -39325,6 +39329,14 @@
    "digest": "sha256:6a29f969543573de60cc569995b92e9875fa3586ba3e9fdc510e1345c29fe0df",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "rz2k_jton3yug2987n8e30dggxkunt94uixn87sorlm": {
+   "status": "bundled_files",
+   "archive_path": "development/how-solimancifuentes-pstack-codex-3/SKILL.md",
+   "repo": "solimancifuentes/pstack-codex",
+   "branch": "main",
+   "digest": "sha256:08a00079bb15b4258874ac3ff62d4ca7e94350ffedb521d0fd296dc9dd21904e",
+   "checked_at": "2026-10-22T08:12:03+00:00"
+  },
   "rza8nnt4e025iahzyncivpfcks2qhxv0gcokntc6nlu": {
    "status": "upstream_changed",
    "archive_path": "data/local-places-youjjwal-clawdbot/SKILL.md",
@@ -39866,6 +39878,14 @@
    "branch": "main",
    "digest": "sha256:68ba4e39c9a7380eefd67324b30603bfd47bdf840475d00db719df86ebc19d57",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "seabyvlvw_ss7-e49d5sx45g94k86xu2ogmrgxi0cl0": {
+   "status": "upstream_changed",
+   "archive_path": "other/ask-matt/SKILL.md",
+   "repo": "sickn33/antigravity-awesome-skills",
+   "branch": "main",
+   "digest": "sha256:bb7525453aad7d3c31728f4c274b7a2bd154f243c765cfaaf3891ffc5642923a",
+   "checked_at": "2026-10-22T08:12:03+00:00"
   },
   "seivvrzcj0gecn0kdlvcluz3a69s9nz9j-awv-ahwoe": {
    "status": "ambiguous",
@@ -40635,6 +40655,14 @@
    "name": "minimax-docx",
    "description": "Professional DOCX document creation and editing using OpenXML SDK. Useful for branded reports, polished proposals, and template-based authoring."
   },
+  "stqlpwqzrz_hojhdlox68mc1i0mee9dcfg7gghrdogi": {
+   "status": "bundled_files",
+   "archive_path": "documents/humanizer-ruwwww-agent-skills/SKILL.md",
+   "repo": "ruwwww/agent-skills",
+   "branch": "main",
+   "digest": "sha256:887d5e3467a682da9b166e5293007f8bbbc299f8a6718ae00f26161b7d062b04",
+   "checked_at": "2026-10-22T08:12:03+00:00"
+  },
   "stw6juhmylyxt5t47mzi1b2fej0xrnhfruaxduxy8iu": {
    "status": "upstream_changed",
    "archive_path": "development/go-concurrency-patterns/SKILL.md",
@@ -40671,6 +40699,18 @@
    "digest": "sha256:155b91da38bd52c62e6189a03468957dd8843bcb36ff9baff37e99cd5287f07c",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "surr4gllstziy121liu2-jfpnp1ouja4ormqhuadf-w": {
+   "status": "pinned",
+   "path": "hermes-skills/media/heartmula/SKILL.md",
+   "archive_path": "other/heartmula-ruwwww-agent-skills/SKILL.md",
+   "repo": "ruwwww/agent-skills",
+   "branch": "main",
+   "digest": "sha256:d6f8322ba9ab47564ff73dc0ee8d8158d78cea4de557e5b0abe5c6921a12fa57",
+   "checked_at": "2026-10-22T08:12:03+00:00",
+   "commit": "4d537c5366139e4834e895a61326048cfc451a33",
+   "name": "heartmula",
+   "description": "HeartMuLa: Suno-like song generation from lyrics + tags."
+  },
   "sve2-elphcwcz0crngv55a43prvxomm8cgt--jqippm": {
    "status": "pinned",
    "path": ".agents/skills/agent-swarm/SKILL.md",
@@ -40682,13 +40722,6 @@
    "commit": "961ab6c8795ab6e56851e77bcb423983bbac0258",
    "name": "agent-swarm",
    "description": "Agent skill for swarm - invoke with $agent-swarm"
-  },
-  "sveykeotfjrpzmhnhymw1l4xwr8g9jem5uzu_ozissc": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "data/moai-lang-python/SKILL.md",
-   "digest": "sha256:a8d7b583555ffe87967543198da116877b951769fe09651e5321e4e90f22fb6e",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "svmmfny5rspuropecphvmfqdbntu7n3nwdrzrx12hws": {
    "status": "upstream_changed",
@@ -42701,14 +42734,6 @@
    "digest": "sha256:3b6d4864bae49dd3d60e7f6218e0de0803633989d68bdcf093a3771307387ac2",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "u1hgvr3pxd-e8y1a7d7-q3b0jqfi-ywghrxpue0h-0u": {
-   "status": "ambiguous",
-   "archive_path": "bash/maps-leejuan99-hermes-sync-2/SKILL.md",
-   "repo": "leejuan99/hermes-sync",
-   "branch": "main",
-   "digest": "sha256:775ef9f79be9cd147bc81e0c4a4ef952230a04736a6082f44dbac78554ef89ab",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "u1toryh1ghcuxn1hx4r9y6qtld8uzupqrt8hwdkuqyi": {
    "status": "ambiguous",
    "archive_path": "testing/bmad-testarch-trace-alexoviedo999-my-personal-website/SKILL.md",
@@ -43137,14 +43162,6 @@
    "repo": "jeremylongshore/claude-code-plugins-plus-skills",
    "branch": "main",
    "digest": "sha256:933b02a245dc4be0651eb931247790d7cc84e31a90212be5fb74911c1449df95",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "ubqygj1fnlmihy1tmsxldnxggeoltdx-s3uua9i-5p8": {
-   "status": "bundled_files",
-   "archive_path": "development/moai-platform-chrome-extension/SKILL.md",
-   "repo": "modu-ai/moai-rank",
-   "branch": "main",
-   "digest": "sha256:8d7c1643ab2e87c69a6165526312672a6e8eed670bcbf8bb030b0a03d625783b",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "ubzhf73xdz_czs00bx-rl2pxss9jsrqhrshttloznru": {
@@ -46197,6 +46214,14 @@
    "digest": "sha256:216f86698185f9469843631bbd65a23295ed863048047646ca03125a3e1c6bf4",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "w12t4su4pmzcjfvbvrao-xqq7jdmrgwjbfxscunsjle": {
+   "status": "ambiguous",
+   "archive_path": "other/wiki-qa-sinhoneyy-master-skills/SKILL.md",
+   "repo": "sinhoneyy/master-skills",
+   "branch": "master",
+   "digest": "sha256:14f3fc8e958c5fb65540255eda49aa828c5ba8ef92f257389011e04a3cfcc1d9",
+   "checked_at": "2026-10-22T08:12:03+00:00"
+  },
   "w134yq1n2zh2yoctee-vu079otvj-uff60cul2aa9vw": {
    "status": "pinned",
    "path": "10-data-analytics/data-visualization/SKILL.md",
@@ -46480,6 +46505,18 @@
    "branch": "main",
    "digest": "sha256:da997ce6b1360afe25bc510a8763ebad8609ec313d5a1cd91d2110f9bee914e5",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "w_ae1p-7jdrtklasq08kywvl1q_codnkb37-tkjcbpe": {
+   "status": "pinned",
+   "path": ".github/skills/using-git-worktrees/SKILL.md",
+   "archive_path": "other/using-git-worktrees-pedro-gilmora-source-crafter-xzor/SKILL.md",
+   "repo": "pedro-gilmora/source-crafter-xzor",
+   "branch": "main",
+   "digest": "sha256:8cfb86f121269e8f7f12361e6795c4f6738828340e28964c9229d365666c9edd",
+   "checked_at": "2026-10-22T08:12:03+00:00",
+   "commit": "f89044691b83af42a5457f3e2fb124011c3b6964",
+   "name": "using-git-worktrees",
+   "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - ensures an isolated workspace exists via native tools or git worktree fallback"
   },
   "w_e7kvp3jrltvawki58gycijgjicpr159utvlcnvtys": {
    "status": "bundled_files",
@@ -46775,6 +46812,18 @@
    "digest": "sha256:36631f107eb7c3c61a943d05a73f68ea90fd8257d65831244693d49344d22e40",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "wgmk4dvmr0ssnd7ntne87_x4xnclnouk1m8efqj9mbe": {
+   "status": "pinned",
+   "path": ".github/skills/dispatching-parallel-agents/SKILL.md",
+   "archive_path": "other/dispatching-parallel-agents-pedro-gilmora-source-crafter-xzor/SKILL.md",
+   "repo": "pedro-gilmora/source-crafter-xzor",
+   "branch": "main",
+   "digest": "sha256:1968923066f3b707eb01d1992cdf4c42284c3855f70253b9cd5000ff45fca13c",
+   "checked_at": "2026-10-22T08:12:03+00:00",
+   "commit": "f89044691b83af42a5457f3e2fb124011c3b6964",
+   "name": "dispatching-parallel-agents",
+   "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies"
+  },
   "wgrp3xqwmui9tqu1n0s3sgxssssuyamzepdfdh4qyca": {
    "status": "bundled_files",
    "archive_path": "other/app-builder-umairinayat-specter-ai/SKILL.md",
@@ -46898,6 +46947,14 @@
    "branch": "main",
    "digest": "sha256:6da1f37f63864f3dd9b66a3a18eded793f1bae3689305afaeed9d6ead04473d6",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "wk0__mu4ukxjruy8ynrbien3grp6ocwy3xg8dndnf1m": {
+   "status": "bundled_files",
+   "archive_path": "other/bids-ruwwww-agent-skills/SKILL.md",
+   "repo": "ruwwww/agent-skills",
+   "branch": "main",
+   "digest": "sha256:b7fcb72c1c15fe226ac61d791e3a6e1c8698f81a2ac06dcda19729d2bc170933",
+   "checked_at": "2026-10-22T08:12:03+00:00"
   },
   "wk0njzioep5zr6lpaf6h1xd8vuatvsjbb9zlbhsvmzy": {
    "status": "tree_truncated",
@@ -47109,6 +47166,14 @@
    "branch": "main",
    "digest": "sha256:5ae16d7d3fe5f17a50538a4253ec4fb827de2267aaa34c6471ff82ba2528e22d",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "wooyvkaqczb2ca6tongksyrl-moocxmvrqltjdows7a": {
+   "status": "bundled_files",
+   "archive_path": "documents/docx-ruwwww-agent-skills/SKILL.md",
+   "repo": "ruwwww/agent-skills",
+   "branch": "main",
+   "digest": "sha256:5b9ba52c1172b3675e8139b9c0c9b1959d0ba85d60375b9ab9269b8e9e4ff67e",
+   "checked_at": "2026-10-22T08:12:03+00:00"
   },
   "woptsnmiguu05n6x7eocbowg3pvxmbjznax9_hlmydm": {
    "status": "bundled_files",
@@ -48078,13 +48143,6 @@
    "repo": "zzr2718281828/claude-physics",
    "branch": "main",
    "digest": "sha256:dcd4803e61e913e6fc27294184cd3a71f09f5e924ff20c8a9a20173e7b3c2bcf",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "xezpzurdi7cmqumezftoqhj5iwrfcjvhrxf3qry1f0m": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "data/moai-tool-ast-grep/SKILL.md",
-   "digest": "sha256:e83444e6354d5781fd9fe477f7126ad5c5d6d83ff8188c14bcbae9ef40a9fc1f",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "xfbvt792njwygsd7pki_o7x_juoj_cwwjpgpqkt4nvi": {
@@ -49585,12 +49643,13 @@
    "digest": "sha256:3810ce050288aa514ae60921f654c3cacb571722446e28e07aa308175b916308",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "yacgnul2d2tilfee3erqnix8e8t190ypwbx3kduqyne": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "data/moai-lang-ruby/SKILL.md",
-   "digest": "sha256:db9723cd90d8957bfafbae19d15710b3c6b56f09aebeef0c4534730bde6f4164",
-   "checked_at": "2026-10-17T18:43:47+00:00"
+  "yahziqbrscrfpf_u-kkekpchdf6kli59bvzeur7yzuc": {
+   "status": "bundled_files",
+   "archive_path": "other/onekgpd-ruwwww-agent-skills/SKILL.md",
+   "repo": "ruwwww/agent-skills",
+   "branch": "main",
+   "digest": "sha256:918797c80e98570537addc7d5c5a694f39e370592dc5d0b62092b8f421620444",
+   "checked_at": "2026-10-22T08:12:03+00:00"
   },
   "yajmtjljfr5nyj2shskvs6w3soccofrmx6cvsqh_q34": {
    "status": "pinned",
@@ -49666,6 +49725,14 @@
    "branch": "main",
    "digest": "sha256:7080b1f51c0f0a6c0c04293c6f5bf76d7da7206237ac4bb2689efb7132f9b104",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "ybdqpjldqz_fzxu_9i4i1hnfjcvytkl0id0yzdhvoru": {
+   "status": "upstream_changed",
+   "archive_path": "design/use-dom/SKILL.md",
+   "repo": "sickn33/antigravity-awesome-skills",
+   "branch": "main",
+   "digest": "sha256:a72961a5a2a1324a6fa4b056962b2d65a28b54668077d9426d080c75eb8c3d33",
+   "checked_at": "2026-10-22T08:12:03+00:00"
   },
   "ybfrqs_bmztc3vqlxpkvwahjbx258wa2xrm47cv1qmo": {
    "status": "bundled_files",
@@ -50215,6 +50282,14 @@
    "commit": "02145afd13ba0c20497f16c665345b4d35ce6510",
    "name": "medchem",
    "description": "Medicinal chemistry filters. Apply drug-likeness rules (Lipinski, Veber), PAINS filters, structural alerts, complexity metrics, for compound prioritization and library filtering."
+  },
+  "ynrxdp36yjc_1hgcf_wy8jomeytfxixlqcz-qrbyvbw": {
+   "status": "upstream_changed",
+   "archive_path": "productivity/handoff/SKILL.md",
+   "repo": "sickn33/antigravity-awesome-skills",
+   "branch": "main",
+   "digest": "sha256:411ca8bece5b958e1e43c159af75d6151dbf41d53eec7b89b3b302b3e4391bb8",
+   "checked_at": "2026-10-22T08:12:03+00:00"
   },
   "ynwfxitxrp_-bmox6hbnjnlzcskeq2x2vwzjmv6c2fi": {
    "status": "pinned",
@@ -51116,14 +51191,6 @@
    "digest": "sha256:e0edbdbc9008644263d5573fb59beac95794e188fd99c35012bfd79e9ae4beeb",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "z_hq2lwwnimsmb6ozjrsypl0y10q_iucx56q1rp0yai": {
-   "status": "upstream_changed",
-   "archive_path": "analysis/wiki-qa-sickn33-antigravity-awesome/SKILL.md",
-   "repo": "sickn33/antigravity-awesome-skills",
-   "branch": "main",
-   "digest": "sha256:14f3fc8e958c5fb65540255eda49aa828c5ba8ef92f257389011e04a3cfcc1d9",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "z_mmonu13h7l-cnrbjxl0lpvkzzmhevpksoghjy84yi": {
    "status": "upstream_changed",
    "archive_path": "platform/moai-platform-firestore-modu-ai-moai-rank/SKILL.md",
@@ -51735,6 +51802,18 @@
    "branch": "main",
    "digest": "sha256:65e10b038d56b1ef17f53de648956daacd754013afd87653b3ddd1e39ea52e3d",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "zlrq62h3uaajs8yjxpxslwhkstegjrcd-qmuguzc14c": {
+   "status": "pinned",
+   "path": "source/upstream/pstack/skills/automate-me/SKILL.md",
+   "archive_path": "other/automate-me-solimancifuentes-pstack-codex-3/SKILL.md",
+   "repo": "solimancifuentes/pstack-codex",
+   "branch": "main",
+   "digest": "sha256:30b35f3628c4fd8c11af0ada06d14cdc3b28901810caca2480f627d4d21acfbe",
+   "checked_at": "2026-10-22T08:12:03+00:00",
+   "commit": "93bcde3b0287b629450f74037f1a68a06b0c702b",
+   "name": "automate-me",
+   "description": "Use for \"automate me\", \"create/update/refresh my -mode skill\", \"turn/capture my preferences or working style into a skill\", or wanting agents to follow how the user works. Drafts or revises a personal -mode skill via create-skill + unslop, optionally pulling fresh evidence from recent transcripts."
   },
   "zlu1trqyuffphrkqycwekepibmghbavdojh1t_nr3uq": {
    "status": "upstream_changed",

@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "status": "passed",
-  "generated_at": "2026-10-22T08:26:25Z",
+  "generated_at": "2026-10-22T09:57:27Z",
   "core_repo": "majiayu000/claude-skill-registry-core",
-  "core_sha": "31a6cda37297cc308b84f10845f05b59e5ad40fc",
+  "core_sha": "56e00e6da587b9d72c15065c2a1dd594df7394c8",
   "data_repo": "majiayu000/claude-skill-registry-data",
   "data_sha": "1c6b26bd277769042616b149b2feec48ad3d6d01",
-  "github_run_id": "39738281114",
+  "github_run_id": "39746180050",
   "github_run_attempt": "1",
-  "github_run_url": "https://github.com/majiayu000/claude-skill-registry/actions/runs/39738281114",
+  "github_run_url": "https://github.com/majiayu000/claude-skill-registry/actions/runs/39746180050",
   "promotion_gate": {
     "mode": "pre-commit canary validation",
     "result": "allowed"
