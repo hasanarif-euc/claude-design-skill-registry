@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-21T15:54:47.402539Z",
+  "updated_at": "2026-10-22T08:14:29.230398Z",
   "count": 100,
   "skills": [
     {
@@ -2048,7 +2048,7 @@
       "trust_score": 100,
       "compatible_agents": [],
       "canonical_id": "ybfrqs_bmztc3vqlxpkvwahjbx258wa2xrm47cv1qmo",
-      "copies": 106,
+      "copies": 107,
       "is_canonical": false,
       "u": "skills/mcp-builder-db8848c33848/"
     },
@@ -2142,7 +2142,7 @@
       "trust_score": 100,
       "compatible_agents": [],
       "canonical_id": "tbg-jiygramwkry1ostzwjuecxrduzjxio13-fps1xs",
-      "copies": 109,
+      "copies": 110,
       "is_canonical": false,
       "u": "skills/webapp-testing-d77a2080404e/"
     },
