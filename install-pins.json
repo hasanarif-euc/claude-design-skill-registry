@@ -1117,6 +1117,14 @@
    "digest": "sha256:e60ca21ba240a53097b2225da192dd90bbe3571d0f0ae578288f7eae2f1a337b",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "0_3lxplv7u8ydxym8lbvelrq7-g6yjzxunikpzuoohu": {
+   "status": "bundled_files",
+   "archive_path": "agent/grilling-wso2-labs-agentic-enginee/SKILL.md",
+   "repo": "wso2/labs-agentic-engineer",
+   "branch": "main",
+   "digest": "sha256:10ff989e7498b23b5acb49d5048f11dcd906757d2f79c5cdf8a00001381296f2",
+   "checked_at": "2026-10-23T09:08:15+00:00"
+  },
   "0_qhxorijtghofco_mmiiccucl3egc1-kqwpm_ko59w": {
    "status": "bundled_files",
    "archive_path": "other/data-analysis-q2805187159-anvil/SKILL.md",
@@ -1185,6 +1193,14 @@
    "digest": "sha256:ab11125d495547fb65ed0422037521d03e256f6c7a81a0cfdce9b6c5a657c14c",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "0cwqyfiubb7hgunw3yfu86q8qrzejm-odel-prlvrzk": {
+   "status": "ambiguous",
+   "archive_path": "other/openspec-apply-change-sunyifeisb-art-legalwork/SKILL.md",
+   "repo": "sunyifeisb-art/legalwork",
+   "branch": "main",
+   "digest": "sha256:679533b52454c3ee7a105a542243f232ec9bc0c041814b67cc4c874f0776899a",
+   "checked_at": "2026-10-23T09:08:15+00:00"
+  },
   "0d6cmnulcdkwo5lui3zkwpvjbav6nodwxkeyh-sugeu": {
    "status": "bundled_files",
    "archive_path": "ai-ml/peft-zechenzhangagi-ai-research-skills-0887ca01/SKILL.md",
@@ -1252,6 +1268,14 @@
    "branch": "main",
    "digest": "sha256:4123b78d5a2d68ae912991a56f18a058806db68a01f42d0872b0188fc74dcdca",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "0enriegngv2im9-t5kmbqducp9glfoshsbqqf6bl49e": {
+   "status": "ambiguous",
+   "archive_path": "development/verification-before-completion-tesslio-tessl-eval-demo/SKILL.md",
+   "repo": "tesslio/tessl-eval-demo",
+   "branch": "master",
+   "digest": "sha256:8fc88b2b25351b673d559b2495c4e44644c7739407ee9ce76980fc622935b009",
+   "checked_at": "2026-10-23T09:08:15+00:00"
   },
   "0f9iyw1tdpsptcre_c9bv6pkb2stdypxftjbi4h4j8s": {
    "status": "bundled_files",
@@ -2146,14 +2170,6 @@
    "repo": "zxkane/aws-skills",
    "branch": "main",
    "digest": "sha256:a5aa7b6019fe8224e82b9ae94f0b384e541de48a116a2f524f5734844780c96c",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "1m19u0-ndnpp5sdl_mdmrebls5f1t3ijc_xbvco7pky": {
-   "status": "bundled_files",
-   "archive_path": "design/improve-codebase-architecture-nicanac-blanmont/SKILL.md",
-   "repo": "nicanac/blanmont",
-   "branch": "master",
-   "digest": "sha256:d1ac25511a936ff4250a48dbcefda363837d6bb9321b3cba73df99fa37270a75",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "1m2grjykba9ocextdxksl3_nfiqghsxlu9zu-4fmw-m": {
@@ -3095,6 +3111,14 @@
    "branch": "main",
    "digest": "sha256:1fddf1eb0c1e3c063e2f340fc908e1191470b315622732d070abf13e52af7ca9",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "2r7flstwj-br25wqdugzvasvi5nu8k6rrlb2prpkmm0": {
+   "status": "bundled_files",
+   "archive_path": "other/diagnosing-bugs-wso2-labs-agentic-enginee/SKILL.md",
+   "repo": "wso2/labs-agentic-engineer",
+   "branch": "main",
+   "digest": "sha256:77f3cf31bc99b2f49af943222526531fcc9fc41d047626d3640e875e85af3e84",
+   "checked_at": "2026-10-23T09:08:15+00:00"
   },
   "2rju8r0vtx7uibofnasbcmyjkjiuqacfuv6_j23lzpy": {
    "status": "upstream_changed",
@@ -4217,14 +4241,6 @@
    "digest": "sha256:c05f8e8d16bd8ae1c8d0b0abf6e8b9671051bde61653c4986304c2de3a1cf5d4",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "45xjv_gehb7dz02zuztvowx2vyqztmqk3uwidqjstle": {
-   "status": "bundled_files",
-   "archive_path": "development/moai-domain-frontend-modu-ai-moai-rank/SKILL.md",
-   "repo": "modu-ai/moai-rank",
-   "branch": "main",
-   "digest": "sha256:413aa08b7cd3ca75f2487a18a00299abf2e4b8c2e0a504b30fad8311c16b6574",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "46ofm-z03wsjujn1y6pgbu2hqlieuitx_gyy09npets": {
    "status": "bundled_files",
    "archive_path": "platform/login-flow/SKILL.md",
@@ -5343,14 +5359,6 @@
    "digest": "sha256:a56746224c3844429cbaa1766be90861977c60e7e090cd4fc86f0d36d551f6c8",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "5dtigpg6prtuncywlifax_spsi7r9wzh6rbogs7n7_q": {
-   "status": "bundled_files",
-   "archive_path": "agent/grilling-milamanzarek-baza-skills/SKILL.md",
-   "repo": "milamanzarek/baza-skills",
-   "branch": "master",
-   "digest": "sha256:10ff989e7498b23b5acb49d5048f11dcd906757d2f79c5cdf8a00001381296f2",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "5duhiwcslwjgmndwk5ycojjfyqyp2_i0gsg9hwfv08g": {
    "status": "ambiguous",
    "archive_path": "product/churn-prevention-cbbkrd-tech-jl-finishes/SKILL.md",
@@ -6050,6 +6058,14 @@
    "branch": "master",
    "digest": "sha256:0b3ae829eb42e98ead9814548574dee66c270b2c82920f128adec1fc5e16ac89",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "5ywuqn_k1if3onjdlm1tlnkpi60mmtw3wmj4lxpajny": {
+   "status": "bundled_files",
+   "archive_path": "other/codebase-design-wso2-labs-agentic-enginee/SKILL.md",
+   "repo": "wso2/labs-agentic-engineer",
+   "branch": "main",
+   "digest": "sha256:2c20617f87ec8af6a434859f381b2f061a69b530444e74eb39e78bb016a6d1e2",
+   "checked_at": "2026-10-23T09:08:15+00:00"
   },
   "5z6dsxyfwuwk0elr6ixhmxzz4smgxgvnamiwbbd1-ma": {
    "status": "upstream_changed",
@@ -7820,14 +7836,6 @@
    "digest": "sha256:0b1933f5532df4bcc750d8799b7b33037e66c5d41f87d2953065868d08981926",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "86f3-6n8hoilzxvcvtdzpv9dq4bmzyehefsnlchrly0": {
-   "status": "bundled_files",
-   "archive_path": "other/to-tickets-luciano-stefano-melo-platform-argentum/SKILL.md",
-   "repo": "luciano-stefano-meloclaps/platform-argentum",
-   "branch": "main",
-   "digest": "sha256:e17e97179f7b93e7d5fd3ceed8b67a155bf29a748d2a589a23e0c9a3c03bd728",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "86joidfndipqt7e4tqh1oiovovc6-kuoykzfmftcyxu": {
    "status": "bundled_files",
    "archive_path": "design/motion-ui-affaan-m-ecc/SKILL.md",
@@ -8219,14 +8227,6 @@
    "digest": "sha256:20ad72dc6ebf02bd08b27008feabf8e87a7eafa465e0095ff0237f9c22a9f22a",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "8lp1yjx5oitj9mktlxq9tuusnumo3hcvry-ljbq5q0k": {
-   "status": "upstream_changed",
-   "archive_path": "context-management/teach-tt-a1i-matt-skills-with-to-/SKILL.md",
-   "repo": "tt-a1i/matt-skills-with-to-goal",
-   "branch": "main",
-   "digest": "sha256:a32df9dcdfc0c4fdc1c98e1ed3940c5f56b84c1aa90ff60346f32b8b53915b43",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "8ls1uncx8rspnlmmhojbsziawemwafx9wytskbdu-ok": {
    "status": "pinned",
    "path": "skills/labclaw-bio-pydeseq2/SKILL.md",
@@ -8490,6 +8490,14 @@
    "digest": "sha256:0aedfc07dddacf1bae16629996e4cc63252f2aba3ca1b8e01ae6f485e865fb7c",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "8x9rs4j1sz7p8e2oevhkjkwf2jz5_u6u9lcsvpy0tr0": {
+   "status": "bundled_files",
+   "archive_path": "other/to-tickets-wso2-labs-agentic-enginee/SKILL.md",
+   "repo": "wso2/labs-agentic-engineer",
+   "branch": "main",
+   "digest": "sha256:5c9fba69845c2519b9b35b9af42ae5142c21f8ca15ac2123dc2722002c8058ae",
+   "checked_at": "2026-10-23T09:08:15+00:00"
+  },
   "8x_hjugfolrcil_pwujtv7rymnie_zvi1lhi-1mg_si": {
    "status": "pinned",
    "path": "skills/agentica-sdk/SKILL.md",
@@ -8549,6 +8557,14 @@
    "commit": "1e6c7e3218d4097fcb2cc86a34b2b2f4b0d3908b",
    "name": "c4-code",
    "description": "Expert C4 Code-level documentation specialist. Analyzes code directories to create comprehensive C4 code-level documentation including function signatures, arguments, dependencies, and code structure. Use when documenting code at the lowest C4 level for individual directories and code modules."
+  },
+  "8ys0g-yimds3_ghdsas5tcew3urp89tbfqeoc6qnq1o": {
+   "status": "bundled_files",
+   "archive_path": "context-management/teach-wso2-labs-agentic-enginee/SKILL.md",
+   "repo": "wso2/labs-agentic-engineer",
+   "branch": "main",
+   "digest": "sha256:a32df9dcdfc0c4fdc1c98e1ed3940c5f56b84c1aa90ff60346f32b8b53915b43",
+   "checked_at": "2026-10-23T09:08:15+00:00"
   },
   "8zgt9dmkod1qoflclpjr2yxoywfmveo1ab0x9ij_oz0": {
    "status": "upstream_changed",
@@ -10762,14 +10778,6 @@
    "digest": "sha256:29acca66ac99d4532e2a6f0370d8125d7cba1e87c9ac66573203c75189d3e6c7",
    "checked_at": "2026-10-19T07:52:32+00:00"
   },
-  "aeo5cupm6buahrrsgwwejy-hun_9bqkdhmskjfzkxlg": {
-   "status": "ambiguous",
-   "archive_path": "development/ask-matt-peterish8-prats-skill-atlas-3/SKILL.md",
-   "repo": "peterish8/prats-skill-atlas",
-   "branch": "main",
-   "digest": "sha256:b25d86fb36b1d294eeead5d7db529f86135f9671f2afcd607579a63bb2213769",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "af-gb_v-w9vbxqxvae9oetdioo7qm8qnq5of9vq0rmg": {
    "status": "bundled_files",
    "archive_path": "other/plotly-zoubaax-gemma-hackathon/SKILL.md",
@@ -11238,6 +11246,14 @@
    "commit": "94f319b5439d936e9a40d799992d5b8746ad22ef",
    "name": "object-modify",
    "description": "Modify a Unity `UnityEngine.Object`'s serializable fields/properties. Three modification surfaces are available (`objectDiff`, `pathPatches`, `jsonPatch`) — see the skill body. Use 'object-get-data' first to inspect the object structure."
+  },
+  "an5j62cnv16psa7od-r2mlnkfi0kxv2wnifn7exhvzw": {
+   "status": "bundled_files",
+   "archive_path": "other/tdd-wso2-labs-agentic-enginee/SKILL.md",
+   "repo": "wso2/labs-agentic-engineer",
+   "branch": "main",
+   "digest": "sha256:cb01f66bebfaa25fa1f88e6b7e769cd9fd9f35b1120b8563749820738814c927",
+   "checked_at": "2026-10-23T09:08:15+00:00"
   },
   "anh59evbd1yqaw5lvlcdj3zz2cdqm8m2hkr4ozmwlw4": {
    "status": "bundled_files",
@@ -13391,18 +13407,6 @@
    "name": "m12-lifecycle",
    "description": "Use when designing resource lifecycles. Keywords: RAII, Drop, resource lifecycle, connection pool, lazy initialization, connection pool design, resource cleanup patterns, cleanup, scope, OnceCell, Lazy, once_cell, OnceLock, transaction, session management, when is Drop called, cleanup on error, guard pattern, scope guard, 资源生命周期, 连接池, 惰性初始化, 资源清理, RAII 模式"
   },
-  "bz1datrmhjyvnveksbpnuuhryt-b3fbzh3wy1yihwky": {
-   "status": "pinned",
-   "path": "Skills/Skills/handoff/SKILL.md",
-   "archive_path": "other/handoff-satyasaibhushan-agents-config/SKILL.md",
-   "repo": "satyasaibhushan/Agents-config",
-   "branch": "main",
-   "digest": "sha256:7c62de979fdc7ac32fb5ddb2146156c917f80ee070d30fadc9d40343c4b6ed25",
-   "checked_at": "2026-10-17T23:14:30+00:00",
-   "commit": "8d28f7a639ea8da122044032b7a6222354fd9b25",
-   "name": "handoff",
-   "description": "Compact the current conversation into a handoff document for another agent to pick up."
-  },
   "bz6fudaklu38o2dnnjjjs0l_bpf_ysil6xb06-hmx9w": {
    "status": "upstream_changed",
    "archive_path": "security/auth-implementation-patterns/SKILL.md",
@@ -13771,6 +13775,14 @@
    "archive_path": "integration/guru-mcp/SKILL.md",
    "digest": "sha256:b83b9cbc93128b2783ae5a8f1820acd5612d0546b8dc21fcc929b980ef19448e",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "c_5mtmplp8givdroilesncmbi4c3bfyexpgx6gfc7ym": {
+   "status": "bundled_files",
+   "archive_path": "other/resolving-merge-conflicts-wso2-labs-agentic-enginee/SKILL.md",
+   "repo": "wso2/labs-agentic-engineer",
+   "branch": "main",
+   "digest": "sha256:9d8114f8ef0b31f535a265fc05c364bd8cf2e2895a830040e06c22acb11f54b0",
+   "checked_at": "2026-10-23T09:08:15+00:00"
   },
   "c_d83ge39e8gbgjat-dlg1aromtigi2vpt2srmalwhc": {
    "status": "bundled_files",
@@ -15679,18 +15691,6 @@
    "digest": "sha256:bcbb49e47b76620b6303f508c323bd12897a730b80a29f7a760bbaed9a6002f2",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "diz2r0uvjpx8t4ao8my9b_hpzftpj2zb_-ks80x_vko": {
-   "status": "pinned",
-   "path": ".github/skills/verification-before-completion/SKILL.md",
-   "archive_path": "development/verification-before-completion-pedro-gilmora-source-crafter-xzor/SKILL.md",
-   "repo": "pedro-gilmora/source-crafter-xzor",
-   "branch": "main",
-   "digest": "sha256:2befe7fc55bcadaa3d97dd9e8efeb633d2561c0ebe74c5a8b17c4d9e7e4520b3",
-   "checked_at": "2026-10-22T08:12:03+00:00",
-   "commit": "f89044691b83af42a5457f3e2fb124011c3b6964",
-   "name": "verification-before-completion",
-   "description": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always"
-  },
   "djg6lwuov7hyystvllg8f-8wmqwpr-jrlgypg9oooq4": {
    "status": "upstream_changed",
    "archive_path": "ai-llm/advanced-evaluation-guanyang-antigravity-skills/SKILL.md",
@@ -15874,14 +15874,6 @@
    "commit": "e309afecd889f2d79485b97fc24e83ad270111f5",
    "name": "assets-find-built-in",
    "description": "Search the built-in assets of the Unity Editor (located at Resources/unity_builtin_extra). Filters by name and/or type; built-in assets have no GUID so GUID-based lookups are not supported."
-  },
-  "dldkh9v-snudjn8ljbefyztsaa9xmdetzlv1ugjdhws": {
-   "status": "bundled_files",
-   "archive_path": "other/codebase-design-tuliopaim-dotfiles-linux/SKILL.md",
-   "repo": "tuliopaim/dotfiles-linux",
-   "branch": "main",
-   "digest": "sha256:2c20617f87ec8af6a434859f381b2f061a69b530444e74eb39e78bb016a6d1e2",
-   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "dlmhzn9avn5bbodmuwwcxv8vtgzke6hhnjyslit0fj4": {
    "status": "tree_truncated",
@@ -16541,14 +16533,6 @@
    "digest": "sha256:eead712be78fbd04db28c908c541252fe7227cc5ab6807559a1b6a58d29955a7",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "dxiygjkd9vdrnqbrmzyua1axh1lttb5mfsecdhk0nqw": {
-   "status": "upstream_changed",
-   "archive_path": "other/wait-what-tt-a1i-matt-skills-with-to-/SKILL.md",
-   "repo": "tt-a1i/matt-skills-with-to-goal",
-   "branch": "main",
-   "digest": "sha256:e3f44e3ccbc0e7b62f20ba70b295fc9c9f4aa3f96c77168faee1c71bacbf4215",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "dxjzhqjbm-omzeasdvz8jykkzgoilcd1a6oh4vcrwau": {
    "status": "ambiguous",
    "archive_path": "other/archive-dashboard/SKILL.md",
@@ -16688,18 +16672,6 @@
    "branch": "main",
    "digest": "sha256:9fcacf1c041d71ef1e61c7cac2bb7a2c42c3d19d6c2a0fc2e5f5a3c9641b7a3e",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "dza_82dcelz-g9byamlgqathtmk3i92j1cbwbp4vnaw": {
-   "status": "pinned",
-   "path": ".claude/skills/openspec-apply-change/SKILL.md",
-   "archive_path": "other/openspec-apply-change-simplito-deepfellow-infra/SKILL.md",
-   "repo": "simplito/deepfellow-infra",
-   "branch": "main",
-   "digest": "sha256:679533b52454c3ee7a105a542243f232ec9bc0c041814b67cc4c874f0776899a",
-   "checked_at": "2026-10-17T18:43:47+00:00",
-   "commit": "50be884922fca53fb5dbb30f8de70d2055a7d47a",
-   "name": "openspec-apply-change",
-   "description": "Implement tasks from an OpenSpec change. Use when the user wants to start implementing, continue implementation, or work through tasks."
   },
   "dziu08_n8j4fhdbc5c9phorehp9my19otdm9iniqou8": {
    "status": "bundled_files",
@@ -16866,6 +16838,14 @@
    "branch": "main",
    "digest": "sha256:8cc6c81ae166f512120d7944dc1fe3c16528a7755150a31b2f8216bfe6611a72",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "e33z1n6iqn4wy31kvlbccl3li-pltjp_1x8pxj97zic": {
+   "status": "bundled_files",
+   "archive_path": "design/improve-codebase-architecture-wso2-labs-agentic-enginee/SKILL.md",
+   "repo": "wso2/labs-agentic-engineer",
+   "branch": "main",
+   "digest": "sha256:d1ac25511a936ff4250a48dbcefda363837d6bb9321b3cba73df99fa37270a75",
+   "checked_at": "2026-10-23T09:08:15+00:00"
   },
   "e3szu7auads9-bq4p-hfym62ceosqg2xjpfcgqys4ga": {
    "status": "upstream_changed",
@@ -17698,14 +17678,6 @@
    "repo": "zechenzhangAGI/AI-research-SKILLs",
    "branch": "main",
    "digest": "sha256:ac7f1d1f87d08d7f8713f07c1f6522268b814acea850f97bc986e00f8b461bc3",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "enkwoqcq7djt1wupmzq99tb-ptlvxl4bsdj1ss323rc": {
-   "status": "upstream_changed",
-   "archive_path": "other/tdd-tt-a1i-matt-skills-with-to-/SKILL.md",
-   "repo": "tt-a1i/matt-skills-with-to-goal",
-   "branch": "main",
-   "digest": "sha256:cb01f66bebfaa25fa1f88e6b7e769cd9fd9f35b1120b8563749820738814c927",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "envxrykmi7rbxh74qd6e0xcjg3v97du6wtq3kyn2i7o": {
@@ -18745,6 +18717,14 @@
    "commit": "17bee03c2b2855921a62d22f798b0fbbd109c938",
    "name": "wiki-qa",
    "description": "Answer repository questions grounded entirely in source code evidence. Use when user asks a question about the codebase, user wants to understand a specific file, function, or component, or user asks \"how does X work\" or \"where is Y defined\"."
+  },
+  "fc5ieid46iamfawndpocafciwh3o18zsktrwtsxmtci": {
+   "status": "bundled_files",
+   "archive_path": "development/ask-matt-wso2-labs-agentic-enginee/SKILL.md",
+   "repo": "wso2/labs-agentic-engineer",
+   "branch": "main",
+   "digest": "sha256:b25d86fb36b1d294eeead5d7db529f86135f9671f2afcd607579a63bb2213769",
+   "checked_at": "2026-10-23T09:08:15+00:00"
   },
   "fcntbevqzydm40wvfvi4bkqvp2rstj0zhvqrddsxbpo": {
    "status": "pinned",
@@ -21329,6 +21309,14 @@
    "digest": "sha256:074dd2f94f0296f9bec1ab141f169a6aeb696ca166e6e2c1245815a35f3d083d",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "gq1smkbgayajfffutbs0duf0hrxwdukigogwouxsegi": {
+   "status": "bundled_files",
+   "archive_path": "other/wait-what-wso2-labs-agentic-enginee/SKILL.md",
+   "repo": "wso2/labs-agentic-engineer",
+   "branch": "main",
+   "digest": "sha256:e3f44e3ccbc0e7b62f20ba70b295fc9c9f4aa3f96c77168faee1c71bacbf4215",
+   "checked_at": "2026-10-23T09:08:15+00:00"
+  },
   "gqeaagxpn254y0oxbl7bcfq7rx7zlhn0ximhem5spbm": {
    "status": "bundled_files",
    "archive_path": "development/hook-development-davila7-claude-code-template/SKILL.md",
@@ -22166,6 +22154,14 @@
    "branch": "main",
    "digest": "sha256:616e4093572a2202d71a22259efce22273c639a54af5fa31098b39cd70324ccd",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "hdpfcvm3nxugzluv6kzvmakyr6ihehaoud-gxm9bvxi": {
+   "status": "bundled_files",
+   "archive_path": "other/wayfinder-wso2-labs-agentic-enginee/SKILL.md",
+   "repo": "wso2/labs-agentic-engineer",
+   "branch": "main",
+   "digest": "sha256:fee6e1d0c50f0e736b4ef8a599060c959afae904c9a97d82c97f049fcc3aa0f1",
+   "checked_at": "2026-10-23T09:08:15+00:00"
   },
   "hdujhmqwz4-cscbtahdfmu_4wossrkamzdbqgq-ojne": {
    "status": "bundled_files",
@@ -23894,13 +23890,6 @@
    "digest": "sha256:77a1839c78352c42ecb6a9dab916aff6efcf40e69ebe74836c4ca4c370b2a206",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "ij5ugzcyruwcaz55pp4n_edtnxsndir0cw6aassrjh4": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "data/moai-domain-frontend/SKILL.md",
-   "digest": "sha256:f7c1e545700c33b5f1b8aba58bd1bb5dec8155d4da38d38b05370bd4d6959cf5",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "ij9xdizroaisedx-jyd5gsmgambtxqoa6oy_e8gjfqc": {
    "status": "pinned",
    "path": "skills/fal-audio/SKILL.md",
@@ -24409,6 +24398,14 @@
    "commit": "02790cdbb6f586149395acb6b01ee96c8c3d5a42",
    "name": "coding-workflow",
    "description": "Use this skill for any coding task that involves working with repositories, writing code, creating branches, or opening pull requests. Covers the full development workflow from cloning to PR."
+  },
+  "isruf4up3glkxo6djd2e0x2_hk_f3b0olqh9-hxawb0": {
+   "status": "bundled_files",
+   "archive_path": "documents/research-wso2-labs-agentic-enginee/SKILL.md",
+   "repo": "wso2/labs-agentic-engineer",
+   "branch": "main",
+   "digest": "sha256:985569f15739c713d6784887c3d186d4ef9ac85bec5ad9c068d25bf0739928e4",
+   "checked_at": "2026-10-23T09:08:15+00:00"
   },
   "istfzgamfxjrfjptel4zddvnmevfq5munrzs1td547q": {
    "status": "upstream_changed",
@@ -27341,14 +27338,6 @@
    "name": "image-to-video",
    "description": "Animate any still image on RunComfy — this skill is a smart router that matches the user's intent to the right i2v model in the RunComfy catalog. Picks HappyHorse 1.0 I2V (Arena #1, native audio, identity preservation) for general animations, Wan 2.7 with `audio_url` for custom-voiceover lip-sync, or Seedance 2.0 Pro for multi-modal animation from image + reference video + reference audio. Bundles each model's documented prompting patterns so the caller gets sharper output without burning iterations on the wrong model. Calls `runcomfy run <vendor>/<model>/image-to-video` (or endpoint variant) through the local RunComfy CLI. Triggers on \"image to video\", \"image-to-video\", \"i2v\", \"animate image\", \"make this move\", or any explicit ask to turn a still into video."
   },
-  "km7vdctrqcfypmhl0ds6x4wfqs8541uosxwzkom4gpq": {
-   "status": "upstream_changed",
-   "archive_path": "development/domain-modeling-tt-a1i-matt-skills-with-to-/SKILL.md",
-   "repo": "tt-a1i/matt-skills-with-to-goal",
-   "branch": "main",
-   "digest": "sha256:327a2b50620e2fd70abc6893cd6965e76b20f8d0adb0dc2c8d5eb3845efb643e",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "kmjowulw0ylvlyj0qj2yxhxqzmpyul-chlpbk5ws9we": {
    "status": "tree_truncated",
    "archive_path": "productivity/cncf-bub-reviewer-domehahn-skrun/SKILL.md",
@@ -27539,6 +27528,14 @@
    "branch": "main",
    "digest": "sha256:54b5221cc23d752db3177ade3117114bb4c90747fbc69cb4131980f17a898d20",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "kre8zkizgkppn45f3u9lnrbbg1hthot5obujeomws8y": {
+   "status": "bundled_files",
+   "archive_path": "other/handoff-wso2-labs-agentic-enginee/SKILL.md",
+   "repo": "wso2/labs-agentic-engineer",
+   "branch": "main",
+   "digest": "sha256:7c62de979fdc7ac32fb5ddb2146156c917f80ee070d30fadc9d40343c4b6ed25",
+   "checked_at": "2026-10-23T09:08:15+00:00"
   },
   "krrryecfg40-jc2mwrdx-reppibv0rhekhsuczjyhm0": {
    "status": "upstream_changed",
@@ -28214,14 +28211,6 @@
    "branch": "main",
    "digest": "sha256:df1082e311e831ebf4ba31873eaa77f772f087c4ce1253ccaca6441e62a9edf5",
    "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "l7a_rbzzjbrcacpqenq0hvphn0j1wrpjiejsocypots": {
-   "status": "bundled_files",
-   "archive_path": "other/grill-with-docs-tuliopaim-dotfiles-linux/SKILL.md",
-   "repo": "tuliopaim/dotfiles-linux",
-   "branch": "main",
-   "digest": "sha256:7de372c13488f1ee96cc11cd8907b56b6809cc93eef776eeddd37de6b6cbe3fe",
-   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "l7coylyyeqszzs1c2hhzctbh7w9ebysqp-aixr93c_i": {
    "status": "upstream_changed",
@@ -29367,14 +29356,6 @@
    "digest": "sha256:842d9d3659ec3ddc8abbdc524708f8facf81f468ac25d0577f48c759c4fa31e6",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "lvw1wjpnjdog1oe-9y0fmmjxtgaldmtnaemtuetrdku": {
-   "status": "bundled_files",
-   "archive_path": "other/grill-me-tuliopaim-dotfiles-linux/SKILL.md",
-   "repo": "tuliopaim/dotfiles-linux",
-   "branch": "main",
-   "digest": "sha256:caaf8b8de1684f96e26b28f3c29189db5c89cce4b73e1c93d86164f66ef88637",
-   "checked_at": "2026-10-17T23:14:30+00:00"
-  },
   "lwedlzvtcexkczbv0p38l42qslww526oan8dhiagm-y": {
    "status": "pinned",
    "path": ".claude/skills/ecc/fsharp-testing/SKILL.md",
@@ -29562,6 +29543,14 @@
    "commit": "5d2f30596037a64ea454282fde17d00801372c6c",
    "name": "steve-jobs",
    "description": "Agente que simula Steve Jobs — cofundador da Apple, CEO da Pixar, fundador da NeXT, o maior designer de produtos tecnologicos da historia e o mais influente apresentador de produtos do mundo. Use..."
+  },
+  "lzzpbq2nlh5f0wpvsj_fq4bh3bd_t90adjexzodycbq": {
+   "status": "ambiguous",
+   "archive_path": "other/receiving-code-review-tesslio-tessl-eval-demo/SKILL.md",
+   "repo": "tesslio/tessl-eval-demo",
+   "branch": "master",
+   "digest": "sha256:ea431aba92e4bffeaab4908d8f83ce990ba543dff687e5442b211bea9be350bf",
+   "checked_at": "2026-10-23T09:08:15+00:00"
   },
   "m-ayoyyznp2n-miahpyrw6l1rudawwkufo9vw3l5skc": {
    "status": "bundled_files",
@@ -31937,14 +31926,6 @@
    "digest": "sha256:2c037962be0f28b9ceabceae3899bd2ce112cd9899def7ed10ddfc8777491972",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "nfoua8zmmx9wurqlj8rhjdv-jtiymxsojgkcmbol3i0": {
-   "status": "upstream_changed",
-   "archive_path": "documents/triage-stanfish06-skillquarium/SKILL.md",
-   "repo": "stanfish06/skillquarium",
-   "branch": "master",
-   "digest": "sha256:82916426b26d370aa1e894127ddda4cd51fecb889219608b33854fd5475b2cd0",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "ng9omfcl0ehbk5lheymymwpmwlwjmwfoicynglyrmze": {
    "status": "tree_truncated",
    "archive_path": "other/hooks-automation-ibragimov-oasis-vibe-coder/SKILL.md",
@@ -32633,6 +32614,14 @@
    "digest": "sha256:6661cd16c27d031746985f8053c5515d50820d665957bde8a0660f4e36eb9bc7",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "nssxkbrtvdxzfbytvduutt2jvvqycaepw_apmvyw3wm": {
+   "status": "bundled_files",
+   "archive_path": "other/grill-with-docs-wso2-labs-agentic-enginee/SKILL.md",
+   "repo": "wso2/labs-agentic-engineer",
+   "branch": "main",
+   "digest": "sha256:7de372c13488f1ee96cc11cd8907b56b6809cc93eef776eeddd37de6b6cbe3fe",
+   "checked_at": "2026-10-23T09:08:15+00:00"
+  },
   "nszlurcjjunmplw2hjdomwb7aqfrykac7qlquanrzdm": {
    "status": "upstream_changed",
    "archive_path": "design/frontend-design-hotriluan-alkana-kpi-2/SKILL.md",
@@ -32806,13 +32795,6 @@
    "error": "GitHub API 404: {\"message\":\"Branch not found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
    "archive_path": "integration/cloudflare-browser-rendering-huydepzai121-skill/SKILL.md",
    "digest": "sha256:8881e14064f3758ceaa91500a94ac6399b18db598986e453bcc7bb7e0b6c8be2",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "nx1rjzs79ftbr_2vjj7qrcz2ihoup1yb6mf_ujyyzhc": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "ai-ml/moai-domain-ml-jg-chalk-io-nora-livekit-2/SKILL.md",
-   "digest": "sha256:76f96847010384de5fb1938913d0a032388d0a237beb51f05d37129c92ca4a6b",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "nxbxmvfyfc8y8s6jkiwawselkpmxs_w1mhdjyd07ase": {
@@ -35801,18 +35783,6 @@
    "digest": "sha256:20c9b7ecf28651702674b989675622b8ad868495b1356544fbd9ff04d046bcf9",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "prx-2he3bj59hs9h32_-zhwbi4x9bjifzmjdepafnkk": {
-   "status": "pinned",
-   "path": ".github/skills/receiving-code-review/SKILL.md",
-   "archive_path": "other/receiving-code-review-pedro-gilmora-source-crafter-xzor/SKILL.md",
-   "repo": "pedro-gilmora/source-crafter-xzor",
-   "branch": "main",
-   "digest": "sha256:091df1629510af1b92fc4abd6f96732ebedb4cb2c0f3457e8f2740b0504a2438",
-   "checked_at": "2026-10-22T08:12:03+00:00",
-   "commit": "f89044691b83af42a5457f3e2fb124011c3b6964",
-   "name": "receiving-code-review",
-   "description": "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation"
-  },
   "ps4m0-di1dvumecdhuyxicn4wr7fdnjs0zkvbjj6xqw": {
    "status": "bundled_files",
    "archive_path": "other/bmad-party-mode-zerada-restaurantagentautom/SKILL.md",
@@ -36740,14 +36710,6 @@
    "repo": "sickn33/antigravity-awesome-skills",
    "branch": "main",
    "digest": "sha256:2ec2d57e7ee29bc7e134e07bf5c86051cb0674b0da5e2d51cb1cb12375d266cb",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "qdlv032ixlqc4gngnhpfvbzd6pfowvcwjofv7sfdety": {
-   "status": "upstream_changed",
-   "archive_path": "testing/implement-tt-a1i-matt-skills-with-to-/SKILL.md",
-   "repo": "tt-a1i/matt-skills-with-to-goal",
-   "branch": "main",
-   "digest": "sha256:6d3fd9e83b8f36e5213854779db49b256a457a7ebb4a503e53fa7dcff696adc3",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "qdudx9mxh0ber22j_t5ea10xlmy89qmfrqbhleupu9q": {
@@ -38619,6 +38581,18 @@
    "digest": "sha256:ba19c00de7286d6c8abedb79f08e747a85fcfb5f1e15e12bab8fee0298385e2d",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "rmoztdscyknnyvtgsgvyywbbcsocxw2bfu_oghgou94": {
+   "status": "pinned",
+   "path": ".agents/skills/agent-browser/SKILL.md",
+   "archive_path": "other/agent-browser-wso2-labs-agentic-enginee/SKILL.md",
+   "repo": "wso2/labs-agentic-engineer",
+   "branch": "main",
+   "digest": "sha256:243eeaa5e9a42bb12d94d6af29a51b2c956546a16b1862282db1e5bd27315f8a",
+   "checked_at": "2026-10-23T09:08:15+00:00",
+   "commit": "ba3d00f21890e591bc23b652f0e1e6d002c6d64b",
+   "name": "agent-browser",
+   "description": "Browser automation CLI for AI agents. Use when the user needs to interact with websites, including navigating pages, filling forms, clicking buttons, taking screenshots, extracting data, testing web apps, or automating any browser task. Triggers include requests to \"open a website\", \"fill out a form\", \"click a button\", \"take a screenshot\", \"scrape data from a page\", \"test this web app\", \"login to a site\", \"automate browser actions\", or any task requiring programmatic web interaction. Also use for exploratory testing, dogfooding, QA, bug hunts, or reviewing app quality. Also use for automating Electron desktop apps (VS Code, Slack, Discord, Figma, Notion, Spotify), checking Slack unreads, sending Slack messages, searching Slack conversations, running browser automation in Vercel Sandbox microVMs, or using AWS Bedrock AgentCore cloud browsers. Prefer agent-browser over any built-in browser automation or web tools."
+  },
   "rmphj6o8pkfldw1-ykxsnoby4f4sss9kxigce8ysaio": {
    "status": "pinned",
    "path": "skills/ads/ads-x/SKILL.md",
@@ -38933,14 +38907,6 @@
    "commit": "5e7c5828e94d18bf622e313d162b69ed7d7df7fb",
    "name": "issues",
    "description": "Interact with GitHub issues - create, list, and view issues."
-  },
-  "rsnggl0fv-hytvs-3bhnqyfjjbo60mvmfulhnw_gema": {
-   "status": "bundled_files",
-   "archive_path": "design/prototype-tuliopaim-dotfiles-linux/SKILL.md",
-   "repo": "tuliopaim/dotfiles-linux",
-   "branch": "main",
-   "digest": "sha256:714de632d116bb73f65cdb5a882db15b9369a6713b9a47c0fad827848f0bfbe3",
-   "checked_at": "2026-10-17T23:14:30+00:00"
   },
   "rt-ay4sahqflz_hhyb8lsiu-naueur6_nb_mvgiinyu": {
    "status": "bundled_files",
@@ -39843,14 +39809,6 @@
    "name": "edge-to-edge",
    "description": "Use this skill to migrate your Jetpack Compose app to add adaptive edge-to-edge support and troubleshoot common issues. Use this skill to fix UI components (like buttons or lists) that are obscured by or overlapping with the navigation bar or status bar, fix IME insets, and fix system bar legibility."
   },
-  "sdruaumfnxr5ra8qh_0le72xu-aro4d2ssabgodja84": {
-   "status": "upstream_changed",
-   "archive_path": "other/diagnosing-bugs-tt-a1i-matt-skills-with-to-/SKILL.md",
-   "repo": "tt-a1i/matt-skills-with-to-goal",
-   "branch": "main",
-   "digest": "sha256:77f3cf31bc99b2f49af943222526531fcc9fc41d047626d3640e875e85af3e84",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "se3q2finjgmjv_gp3m9r6u5mnepq2ghpkrsc_3qrnhg": {
    "status": "bundled_files",
    "archive_path": "other/ai-sdk-jsoyer-dotfiles/SKILL.md",
@@ -40225,6 +40183,14 @@
    "digest": "sha256:6d698094bc058125e63a6d6af5a70d8f505da05f77418947bedcbf8a0f14d72b",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "sldphy0scv1_jzfk9gjtvap_4gpu-m1zrudg2v0jc8q": {
+   "status": "bundled_files",
+   "archive_path": "other/grill-me-wso2-labs-agentic-enginee/SKILL.md",
+   "repo": "wso2/labs-agentic-engineer",
+   "branch": "main",
+   "digest": "sha256:caaf8b8de1684f96e26b28f3c29189db5c89cce4b73e1c93d86164f66ef88637",
+   "checked_at": "2026-10-23T09:08:15+00:00"
+  },
   "slk5dyu4dvmsfwyjw6po_sxrgpss3pt9fe0g3kukgs8": {
    "status": "upstream_unavailable",
    "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
@@ -40570,6 +40536,14 @@
    "branch": "main",
    "digest": "sha256:ce5c4e2a3316aedbda94c4552728a0aa51ef28281e403e817cb6792524cd589c",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "srn9lztr2liaydi0k6w1o7m89oosjm08h9-llrmfcto": {
+   "status": "bundled_files",
+   "archive_path": "design/prototype-wso2-labs-agentic-enginee/SKILL.md",
+   "repo": "wso2/labs-agentic-engineer",
+   "branch": "main",
+   "digest": "sha256:714de632d116bb73f65cdb5a882db15b9369a6713b9a47c0fad827848f0bfbe3",
+   "checked_at": "2026-10-23T09:08:15+00:00"
   },
   "srvsfyndojpy5frke9lokppsnb68tw0q5km1oju33hm": {
    "status": "bundled_files",
@@ -41211,14 +41185,6 @@
    "digest": "sha256:24deaee5ea952bb3d57fe7af692b0d4bbfd6d7c4f40a1f60a1f800bf99e01bca",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "t9zpnnvppezp9pjfbejjluueojuk0ylwos6rec_iyz0": {
-   "status": "upstream_changed",
-   "archive_path": "other/wayfinder-tt-a1i-matt-skills-with-to-/SKILL.md",
-   "repo": "tt-a1i/matt-skills-with-to-goal",
-   "branch": "main",
-   "digest": "sha256:fee6e1d0c50f0e736b4ef8a599060c959afae904c9a97d82c97f049fcc3aa0f1",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "t_hixitxaotsqbjxcpklfskt-1rao4tg9yixthd42xg": {
    "status": "pinned",
    "path": "templates/skills/prompt-engineer/SKILL.md",
@@ -41434,6 +41400,14 @@
    "branch": "main",
    "digest": "sha256:67fec9ca048af1c0780d7c816449b241faa4da68472f25837eb8c4eff51606f7",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "tdi4aewunyeqaetmotwm74rgnswwy7jjmlvbw5mz4bo": {
+   "status": "bundled_files",
+   "archive_path": "testing/implement-wso2-labs-agentic-enginee/SKILL.md",
+   "repo": "wso2/labs-agentic-engineer",
+   "branch": "main",
+   "digest": "sha256:6d3fd9e83b8f36e5213854779db49b256a457a7ebb4a503e53fa7dcff696adc3",
+   "checked_at": "2026-10-23T09:08:15+00:00"
   },
   "tdnst978vn5wyfjg4y_wbe_uen_31g7y9sx673b-v6o": {
    "status": "pinned",
@@ -44876,14 +44850,6 @@
    "digest": "sha256:70e10d74aa367ee63060b64edc397c5998c03da0fbdaf120f5aa8c94d373b77d",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "vbv8nmibko1ribnavqhzdzuhy5jmamvdc_areyqwfbc": {
-   "status": "bundled_files",
-   "archive_path": "documents/research-tuliopaim-dotfiles-linux/SKILL.md",
-   "repo": "tuliopaim/dotfiles-linux",
-   "branch": "main",
-   "digest": "sha256:985569f15739c713d6784887c3d186d4ef9ac85bec5ad9c068d25bf0739928e4",
-   "checked_at": "2026-10-17T23:14:30+00:00"
-  },
   "vbxz6ofaz2ixb2kna0xirpmuhtoq3epi8gc7io11kt8": {
    "status": "upstream_unavailable",
    "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
@@ -47327,6 +47293,14 @@
    "digest": "sha256:3a33b19fad7165376883592bee7c36f4b1a3e8d52048f091999843e1bb301fc8",
    "checked_at": "2026-10-18T11:51:37+00:00"
   },
+  "wrhp6roaddvcqo2tacoaa3lhbwishs1jl_kvirwwzz8": {
+   "status": "bundled_files",
+   "archive_path": "other/to-spec-wso2-labs-agentic-enginee/SKILL.md",
+   "repo": "wso2/labs-agentic-engineer",
+   "branch": "main",
+   "digest": "sha256:43ad9cf318e5e7d3d1fa360253a37021796dc87a0c2e595ad262661a10f85088",
+   "checked_at": "2026-10-23T09:08:15+00:00"
+  },
   "wrrmmgnedvfgr7j3zkynh4jetimf09bddh7s3yeutxy": {
    "status": "bundled_files",
    "archive_path": "devops/wizard-satyasaibhushan-agents-config/SKILL.md",
@@ -49750,6 +49724,14 @@
    "digest": "sha256:7d996cf09b1e30fd0901a29104f8b759da24321e37bbdd58bf6798ccd26295fa",
    "checked_at": "2026-10-17T23:14:30+00:00"
   },
+  "yc4uxd1bw8_lpzkmasbm5dxpvnirj05gj3wbnsmkkra": {
+   "status": "bundled_files",
+   "archive_path": "other/triage-wso2-labs-agentic-enginee/SKILL.md",
+   "repo": "wso2/labs-agentic-engineer",
+   "branch": "main",
+   "digest": "sha256:623a2ed692bdc77d2090e2a3dea3b627dd722ad3bbaca0be83aada75292c8fc4",
+   "checked_at": "2026-10-23T09:08:15+00:00"
+  },
   "ycdf4blmhgdye53zuwx9jnnzvkk2pea-9yeaicvanzo": {
    "status": "bundled_files",
    "archive_path": "other/bv/SKILL.md",
@@ -50920,6 +50902,14 @@
    "digest": "sha256:07079efd0dc76f05fade424e5dfb048dce1de2df7626e1a4f56292a4f3f92228",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "z-9shx1u3z5nuvimmwzrfsawv2bv6lbguxzenge9rke": {
+   "status": "bundled_files",
+   "archive_path": "development/domain-modeling-wso2-labs-agentic-enginee/SKILL.md",
+   "repo": "wso2/labs-agentic-engineer",
+   "branch": "main",
+   "digest": "sha256:327a2b50620e2fd70abc6893cd6965e76b20f8d0adb0dc2c8d5eb3845efb643e",
+   "checked_at": "2026-10-23T09:08:15+00:00"
+  },
   "z04-u1vtlmkxgptthhcbxxja7z4gk9jwc_kp2h1utlo": {
    "status": "bundled_files",
    "archive_path": "data/eks/SKILL.md",
@@ -51215,14 +51205,6 @@
    "digest": "sha256:1676c94122b69c2ff5363c071de5675b96e3baa643c2daca8ab0bee326e80d4b",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "za71jkv-zclrri2_scgnwz42zxnrjks9vzkrcb4mkpk": {
-   "status": "bundled_files",
-   "archive_path": "other/to-spec-tuliopaim-dotfiles-linux/SKILL.md",
-   "repo": "tuliopaim/dotfiles-linux",
-   "branch": "main",
-   "digest": "sha256:43ad9cf318e5e7d3d1fa360253a37021796dc87a0c2e595ad262661a10f85088",
-   "checked_at": "2026-10-17T23:14:30+00:00"
-  },
   "zagy2jcvhjyytrmxetv_jhltf4vv2i68tele72sifhi": {
    "status": "upstream_changed",
    "archive_path": "design/visual-design-foundations/SKILL.md",
@@ -51394,6 +51376,14 @@
    "branch": "main",
    "digest": "sha256:e61f3b6fe3e766cf8309c20ed14f25e56b24c7f3fdcde14292751d31066e8f73",
    "checked_at": "2026-10-17T18:43:47+00:00"
+  },
+  "ze4cpkhid9wnbbcz0rxvhycrsq-co_h9x6zxawibrsw": {
+   "status": "bundled_files",
+   "archive_path": "documents/setup-matt-pocock-skills-wso2-labs-agentic-enginee/SKILL.md",
+   "repo": "wso2/labs-agentic-engineer",
+   "branch": "main",
+   "digest": "sha256:2bcd89e97777cdb705914424e39c97d5db524c8eb4eafac8120778a07774f0ec",
+   "checked_at": "2026-10-23T09:08:15+00:00"
   },
   "ze_xwhh3k1vajphfunilazztk-7ib9ja1jr9vjycstk": {
    "status": "invalid_frontmatter",
