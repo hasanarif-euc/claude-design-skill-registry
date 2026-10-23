@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T13:54:34.012518Z",
-  "total_count": 1713,
+  "updated_at": "2026-10-23T14:14:07.853993Z",
+  "total_count": 1714,
   "entries": {
     "Xquik-dev/x-twitter-scraper": {
       "repo": "Xquik-dev/x-twitter-scraper",
@@ -10279,8 +10279,14 @@
       "repo": "cis2042/ux3-product-design-harness",
       "branch": "main",
       "relative_path": "skills/product-design-harness/SKILL.md",
-      "commit_sha": "48965c6b501f61ebbb8130c9c2e4f9af08922b9f",
       "updated_at": "2026-10-23T13:54:26.498092Z"
+    },
+    "yumaheymans/carejobs-mcp:skills/healthcare-job-search/SKILL.md": {
+      "repo": "yumaheymans/carejobs-mcp",
+      "branch": "main",
+      "relative_path": "skills/healthcare-job-search/SKILL.md",
+      "commit_sha": "93f8540333965bd8056d7db4918fd510d6c212c5",
+      "updated_at": "2026-10-23T14:13:56.436235Z"
     }
   }
 }

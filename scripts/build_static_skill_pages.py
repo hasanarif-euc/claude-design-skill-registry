@@ -23,6 +23,14 @@ REGISTRY_REPO_URL = "https://github.com/majiayu000/claude-skill-registry"
 STATIC_PAGE_LIMIT = 5800
 README_GUIDE_LIMIT = 40
 _DAY = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+# Keep dotted initialisms intact: a following capital can be a proper noun.
+# Ambiguous sentence-final initialisms fall through to a later stop or ellipsis.
+# Titles and legal citation markers also introduce following text.
+_NONTERMINAL_ABBREVIATION_END = re.compile(
+    r"\b(?:(?i:(?:[a-z]\.){2,})|(?:Mr|Mrs|Ms|Dr|Prof|Sr|Jr|St|Rev|Proc|Treas|Reg)\.)$"
+)
+# Other abbreviations can end a sentence; keep that boundary before a capital letter.
+_ABBREVIATION_END = re.compile(r"\b(?:vs|etc)\.$", re.IGNORECASE)
 FEATURED_START = "<!-- static-featured:start -->"
 FEATURED_END = "<!-- static-featured:end -->"
 GENERATED_MARKER = ".generated-static-skill-pages"
@@ -265,8 +273,21 @@ def _meta_description(record: dict[str, Any]) -> str:
         tail = " Install this Claude Code skill."
     room = 160 - len(tail)
     if len(body) > room:
-        first_sentence = re.search(r"[.!?](?=\s|$)", body)
-        if first_sentence and first_sentence.end() <= room:
+        first_sentence = None
+        for ending in re.finditer(r"[.!?](?=\s|$)", body):
+            if ending.end() > room:
+                break
+            if ending.group() == ".":
+                prefix = body[: ending.end()]
+                # _plain normalizes the separating whitespace to one space.
+                next_letter = body[ending.end() + 1 : ending.end() + 2]
+                if _NONTERMINAL_ABBREVIATION_END.search(prefix) or (
+                    _ABBREVIATION_END.search(prefix) and not next_letter.isupper()
+                ):
+                    continue
+            first_sentence = ending
+            break
+        if first_sentence:
             body = body[: first_sentence.end()]
         else:
             candidate = body[: room - 1]
