@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-22T12:48:47.536637Z",
+  "updated_at": "2026-10-23T08:58:49.147211Z",
   "count": 100,
   "skills": [
     {
@@ -2142,7 +2142,7 @@
       "trust_score": 100,
       "compatible_agents": [],
       "canonical_id": "tbg-jiygramwkry1ostzwjuecxrduzjxio13-fps1xs",
-      "copies": 110,
+      "copies": 111,
       "is_canonical": false,
       "u": "skills/webapp-testing-d77a2080404e/"
     },
