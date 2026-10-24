@@ -3620,13 +3620,6 @@
    "digest": "sha256:23214d62b9733238182099964411d2c67089c70885fbccfb0363a2377e8566e6",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "3e5fajxpej9n931pfdhhhsxf8cn0auih4ngq60ahyus": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "data/moai-domain-database/SKILL.md",
-   "digest": "sha256:2781f1d442a5d44930b641fe21ec2d1ac6869c62a71116a110ad0176269a329e",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "3e9u-mnoogkcwrjrhbrt2eae81pjlgtjfqukq9g5gxe": {
    "status": "pinned",
    "path": "05-sales/draft-outreach/SKILL.md",
@@ -12676,6 +12669,14 @@
    "digest": "sha256:572ceedc1bb18e23399f6f622f8189b70226ad7db43666bf53e7b04b9481a9e5",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "bkuk2i_3zl-mj8lqq9f1wbkhl_q7agx0fltuu31tlzs": {
+   "status": "bundled_files",
+   "archive_path": "other/form-cro-alirezarezvani-claude-skills/SKILL.md",
+   "repo": "alirezarezvani/claude-skills",
+   "branch": "main",
+   "digest": "sha256:613b78af57e61291c106c34115b6f0da1618a644c1918d158bc66320a90c62d4",
+   "checked_at": "2026-10-24T05:05:55+00:00"
+  },
   "bkyg7e_jepst339-nfajiyfavhl11p7yu3rlunzzsbc": {
    "status": "bundled_files",
    "archive_path": "development/create-verification-skill-bendsp-dotfiles/SKILL.md",
@@ -14082,13 +14083,6 @@
    "repo": "workonthestreets/wolo",
    "branch": "main",
    "digest": "sha256:370e2f53e2a3b3881226276929de5271237887a5dd9671233d6821b1c13007d0",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "cgp6tusdc-pnxxl9ywhb0ebzz7uglbch6eopkah6gxu": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "data/moai-domain-backend/SKILL.md",
-   "digest": "sha256:08b159a1dc64ea0cb639ab17ea8f313c04c45212d1085dde5ee6378150720e7b",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "ch1jqtz5cl22ndyem5cazital_htu_2ayr9yo4jdfis": {
@@ -19132,6 +19126,14 @@
    "digest": "sha256:e47e7c52683fd9afff0dc5884a9a7bd7173a0961cfe571db57fed7a664177881",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "fiwmqlglgc7t4rw_3d4q-kx8sqwoa_ukzbdj7ckhp4c": {
+   "status": "bundled_files",
+   "archive_path": "other/skill-tester-alirezarezvani-claude-skills/SKILL.md",
+   "repo": "alirezarezvani/claude-skills",
+   "branch": "main",
+   "digest": "sha256:a62efa4e6d596e442083543f86a6bfc5724b0d06a4921d9a31bbc1c5d12e23e0",
+   "checked_at": "2026-10-24T05:05:55+00:00"
+  },
   "fjckodblquycevdbbaqlsri3uxgl3b7uc8ggpk8qzzc": {
    "status": "bundled_files",
    "archive_path": "other/huggingface-gradio-marysatasselshaped66-skills-collection-1/SKILL.md",
@@ -20766,6 +20768,14 @@
    "digest": "sha256:763aa7e3f64ae1ed775d1a755344a51f6dbdda7122b6ce691d2088f2ec0aa0cc",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "gfg-ponpjfr-rdgztdppw7dkix0pxe-zax5ypzyx8ps": {
+   "status": "bundled_files",
+   "archive_path": "other/tc-tracker-alirezarezvani-claude-skills/SKILL.md",
+   "repo": "alirezarezvani/claude-skills",
+   "branch": "main",
+   "digest": "sha256:988e40e73758bbaed5dc553dc80656448fd32ba9715c016ef414d67f7912b047",
+   "checked_at": "2026-10-24T05:05:55+00:00"
+  },
   "gfqljlmwpzsmtup_vuw3erk_ji0fdih8lox8bbvzybm": {
    "status": "pinned",
    "path": "skills/research/blogwatcher/SKILL.md",
@@ -20808,14 +20818,6 @@
    "repo": "simplerick0/com.ackhax.configs",
    "branch": "master",
    "digest": "sha256:3e35025119ba03efe7983dfdec3c8b96918142e3978512f3c2bf66d428310c7e",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "ggwfl6yr7kyqcrdbwllbqgzumrdmjdhx7zgjommfprm": {
-   "status": "ambiguous",
-   "archive_path": "other/aeo-ziyabicilecommerce-h-ai-cash-machine-2/SKILL.md",
-   "repo": "ziyabicilecommerce-hub/ai-cash-machine",
-   "branch": "main",
-   "digest": "sha256:c2b1fe51416b7e4e951ce55072d937c4c5783b92573c88714c58e27cefa862fe",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "gh6hizrhvrkj4iea3wfsc0jnztaqhte3eovrg6hxery": {
@@ -22546,6 +22548,14 @@
    "digest": "sha256:235342d54e68fbcc3b0e63e15aacdb0e7e4d4927b912c10b660dedb44af8b85b",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "hl3oxmsd9wcwt5exiujuisos3nsugbradmwt0ocan94": {
+   "status": "bundled_files",
+   "archive_path": "other/rfp-responder-alirezarezvani-claude-skills/SKILL.md",
+   "repo": "alirezarezvani/claude-skills",
+   "branch": "main",
+   "digest": "sha256:c27d3249c7251bbfd8d2dc624b2c3b31120ffdc173fc937c12373ce8caad86dd",
+   "checked_at": "2026-10-24T05:05:55+00:00"
+  },
   "hl551eenjgmvsd5nj3ljufjhc6pqqhthwv2tkjafdwc": {
    "status": "upstream_changed",
    "archive_path": "development/php-pro/SKILL.md",
@@ -24137,6 +24147,14 @@
    "digest": "sha256:1283c0dd62a8104d9edda4583569b5d8510b4ddaa45120687c999250fd96bad2",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "ina8jfmfn41ujahpuwcdlyprlx8vgcsgyyljxmtshpm": {
+   "status": "bundled_files",
+   "archive_path": "security/red-team-alirezarezvani-claude-skills-2/SKILL.md",
+   "repo": "alirezarezvani/claude-skills",
+   "branch": "main",
+   "digest": "sha256:86c488d786387de64bb99036ba6091a1179c73258997093e2fede45abd5bb292",
+   "checked_at": "2026-10-24T05:05:55+00:00"
+  },
   "ins9_hyptoqrcv0ya2a8-dapztq8-zardpgbxeab3yc": {
    "status": "ambiguous",
    "archive_path": "other/configure-ecc-smartrickpicks-substrate-bk-airlock/SKILL.md",
@@ -25181,6 +25199,14 @@
    "commit": "6626a706d9d413029d6e30cb3a3d6a7f9d0feeac",
    "name": "json-canvas",
    "description": "Create and edit JSON Canvas files (.canvas) with nodes, edges, groups, and connections. Use when working with .canvas files, creating visual canvases, mind maps, flowcharts, or when the user mentions Canvas files in Obsidian."
+  },
+  "jboekl_zzgcmmzbzadtmc46ia67zk62b_ovm1meay48": {
+   "status": "bundled_files",
+   "archive_path": "devops/ship-gate-alirezarezvani-claude-skills/SKILL.md",
+   "repo": "alirezarezvani/claude-skills",
+   "branch": "main",
+   "digest": "sha256:05f7eee0d78735f3076fc02c732e4c660f55e2f058922e1ef46280a414294fa5",
+   "checked_at": "2026-10-24T05:05:55+00:00"
   },
   "jc5jofnk7wu04gjcu6clpqebhiseoig32lyniostfw4": {
    "status": "upstream_changed",
@@ -28776,6 +28802,14 @@
    "digest": "sha256:18fb4f217063f57ac1a9b989b1c359fb877d9e908c1dc61530c83350ced69719",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
+  "ljvxiqdxvx-4yzniykacw9neldizkogwlcmkw8-_-tc": {
+   "status": "bundled_files",
+   "archive_path": "other/aeo-alirezarezvani-claude-skills/SKILL.md",
+   "repo": "alirezarezvani/claude-skills",
+   "branch": "main",
+   "digest": "sha256:c2b1fe51416b7e4e951ce55072d937c4c5783b92573c88714c58e27cefa862fe",
+   "checked_at": "2026-10-24T05:05:55+00:00"
+  },
   "lk1w5jazklcp-rndvcxzaegio2msxkwqvtbcrfxi9o8": {
    "status": "bundled_files",
    "archive_path": "other/pdf-stanfish06-skillquarium/SKILL.md",
@@ -31375,13 +31409,6 @@
    "commit": "1e6c7e3218d4097fcb2cc86a34b2b2f4b0d3908b",
    "name": "memory-forensics",
    "description": "Master memory forensics techniques including memory acquisition, process analysis, and artifact extraction using Volatility and related tools. Use when analyzing memory dumps, investigating incidents, or performing malware analysis from RAM captures."
-  },
-  "mzcxw0jdodkad0y6hnl2hbwtwwrgwu89okgerqtj9do": {
-   "status": "upstream_unavailable",
-   "error": "GitHub API 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/branches/branches#get-a-branch\",\"status\":\"404\"}",
-   "archive_path": "context-management/moai-cc-memory-jg-chalk-io-nora-livekit-3/SKILL.md",
-   "digest": "sha256:043ce4c4a4d084cb5ea063fb28236b655f4653a6d18042779484069f71ae0915",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "mzp36rjvy6bu73um2csunytew5lwxilhmsburonyvqi": {
    "status": "upstream_changed",
@@ -35692,14 +35719,6 @@
    "name": "rust-trait-explorer",
    "description": "Explore Rust trait implementations using LSP. Triggers on: /trait-impl, find implementations, who implements, trait 实现, 谁实现了, 实现了哪些trait"
   },
-  "pqqja3vpys5l5klwhhuvrumkuleqgggrqtwa4-f2zps": {
-   "status": "bundled_files",
-   "archive_path": "other/form-cro-bughunt8-skills/SKILL.md",
-   "repo": "bughunt8/skills",
-   "branch": "main",
-   "digest": "sha256:613b78af57e61291c106c34115b6f0da1618a644c1918d158bc66320a90c62d4",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "pqwjniteuaj5uvcygd9g8ssnymv9pufaqgeb2fqu5vu": {
    "status": "tree_truncated",
    "archive_path": "development/security-analyzer-aiskillstore-marketplace/SKILL.md",
@@ -36265,14 +36284,6 @@
    "commit": "1e6c7e3218d4097fcb2cc86a34b2b2f4b0d3908b",
    "name": "tdd-orchestrator",
    "description": "Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices. Enforces TDD best practices across teams with AI-assisted testing and modern frameworks. Use PROACTIVELY for TDD implementation and governance."
-  },
-  "q0iqwuttebjlxdwctz8x7zf-x1y1anahu0pyke9m8ys": {
-   "status": "bundled_files",
-   "archive_path": "devops/ship-gate-vikasvardhanv-jerry-skills/SKILL.md",
-   "repo": "vikasvardhanv/jerry_skills",
-   "branch": "main",
-   "digest": "sha256:05f7eee0d78735f3076fc02c732e4c660f55e2f058922e1ef46280a414294fa5",
-   "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "q0j2-6p46l5uiaocxbgtggav6sv7sf6xs2sywacd608": {
    "status": "upstream_changed",
@@ -44492,6 +44503,14 @@
    "name": "agent-browser",
    "description": "Automates browser interactions for web testing, form filling, screenshots, and data extraction. Use when the user needs to navigate websites, interact with web pages, fill forms, take screenshots, test web applications, or extract information from web pages."
   },
+  "v2tyof5wgndzoy8ivphvb-inlbsc-kl0sc05zqay0i8": {
+   "status": "bundled_files",
+   "archive_path": "other/capa-officer-alirezarezvani-claude-skills/SKILL.md",
+   "repo": "alirezarezvani/claude-skills",
+   "branch": "main",
+   "digest": "sha256:3a3577e78544216783cd5aadf0cfa8c5b0c7539934d139d87dc964bb8a076a95",
+   "checked_at": "2026-10-24T05:05:55+00:00"
+  },
   "v3q1kal87c3do1nl4ock0m_nuzttxyeg4rutqji0tla": {
    "status": "ambiguous",
    "archive_path": "design/brainstorming-pd-phuc-laravel-template-2/SKILL.md",
@@ -49533,14 +49552,6 @@
    "digest": "sha256:9d172dc91680b889047d882535ee9e447c51bb443a4116b7f062fe5334e2e654",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
-  "y9ihpxl0jqafon4tasrqove4je4s8ooj2hkvackeaze": {
-   "status": "bundled_files",
-   "archive_path": "other/tc-tracker-vikasvardhanv-jerry-skills/SKILL.md",
-   "repo": "vikasvardhanv/jerry_skills",
-   "branch": "main",
-   "digest": "sha256:988e40e73758bbaed5dc553dc80656448fd32ba9715c016ef414d67f7912b047",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
   "y9plsoxyp3c1pctmwhgyvhasble_6d40rduermbqi40": {
    "status": "pinned",
    "path": ".claude/skills/developer-growth-analysis/SKILL.md",
@@ -51679,14 +51690,6 @@
    "repo": "haidonglethqb/CloudSchool",
    "branch": "main",
    "digest": "sha256:f15553dcaede9a295941d76cdc2decdfa47208a7c14d7c056ccf30c93f4e24e2",
-   "checked_at": "2026-10-17T18:43:47+00:00"
-  },
-  "zivfnjnunewv7gx9gdnm2fzldd5z7j3v6ddaqr4b1kw": {
-   "status": "bundled_files",
-   "archive_path": "security/red-team-vikasvardhanv-jerry-skills/SKILL.md",
-   "repo": "vikasvardhanv/jerry_skills",
-   "branch": "main",
-   "digest": "sha256:86c488d786387de64bb99036ba6091a1179c73258997093e2fede45abd5bb292",
    "checked_at": "2026-10-17T18:43:47+00:00"
   },
   "zjjd2j18ixzel_xvjnkognjcpyopchoutt12frh_hjo": {
