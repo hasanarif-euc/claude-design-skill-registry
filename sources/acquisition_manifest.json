@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T14:14:07.853993Z",
-  "total_count": 1714,
+  "updated_at": "2026-10-24T04:23:42.687913Z",
+  "total_count": 1716,
   "entries": {
     "Xquik-dev/x-twitter-scraper": {
       "repo": "Xquik-dev/x-twitter-scraper",
@@ -10285,8 +10285,21 @@
       "repo": "yumaheymans/carejobs-mcp",
       "branch": "main",
       "relative_path": "skills/healthcare-job-search/SKILL.md",
-      "commit_sha": "93f8540333965bd8056d7db4918fd510d6c212c5",
       "updated_at": "2026-10-23T14:13:56.436235Z"
+    },
+    "aeonfun/aeon:name:aeon": {
+      "repo": "aeonfun/aeon",
+      "branch": "main",
+      "relative_path": ".claude/skills/aeon/SKILL.md",
+      "commit_sha": "b2f58a34a724d5bbcd53c4b696be5664370ec2b2",
+      "updated_at": "2026-10-24T04:23:27.661309Z"
+    },
+    "nikhils4/ui-beats:skills/ui-beats": {
+      "repo": "nikhils4/ui-beats",
+      "branch": "main",
+      "relative_path": "skills/ui-beats/SKILL.md",
+      "commit_sha": "e1c367ac0a62f179f881fcdeab1ff1449bb792eb",
+      "updated_at": "2026-10-24T04:23:32.706620Z"
     }
   }
 }
