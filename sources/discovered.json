@@ -1,7 +1,7 @@
 {
-  "discovered_at": "2026-10-24T04:22:44.744515Z",
+  "discovered_at": "2026-10-25T04:03:32.361931Z",
   "total_repos": 300,
-  "total_skills": 106,
+  "total_skills": 20,
   "scanned_repos": 300,
   "limits": {
     "max_repos": 300,
@@ -36,6 +36,7 @@
     "Hainrixz/skill-vault",
     "J-nowcow/awesome-korean-agent-skills",
     "Jakeschincariol/arena-skill",
+    "Jakeschincariol/day-trader-skill",
     "Jakeschincariol/founder-skill",
     "Jakeschincariol/linkedin-agent-skill",
     "Jakeschincariol/replica-skill",
@@ -53,7 +54,6 @@
     "KadenMc/work-buddy",
     "Kaelio/ktx",
     "Klotzkette/claude-fuer-deutsches-recht",
-    "LLMQuant/awesome-trading-agents",
     "LukasNiessen/terrashark",
     "MIKOTOKAWAII25/local-ai-code-assistant",
     "Mahanaicoach/google-maps-scraper-kit",
@@ -248,7 +248,6 @@
     "pedrohcgs/claude-code-my-workflow",
     "plugin87/ux-ui-agent-skills",
     "prekuter/dryforge",
-    "proyecto26/slides-ai-plugin",
     "radekamirko/C.R.I.S.P",
     "rampstackco/claude-skills",
     "rebelytics/one-skill-to-rule-them-all",
@@ -274,6 +273,7 @@
     "sickn33/agentic-awesome-skills",
     "skyf0xx/hedgehog",
     "slimeglitch/gryffin-calorai-ventus",
+    "sno-ai/sno-station",
     "sno-ai/sno-station-skills",
     "specstoryai/getspecstory",
     "suboss87/FDEOps",
@@ -314,428 +314,84 @@
   ],
   "skills": [
     {
-      "repo": "MetcalfSolutions/Satori",
-      "path": "compact/SKILL.md"
+      "repo": "Jakeschincariol/day-trader-skill",
+      "path": "trader-news/SKILL.md"
     },
     {
-      "repo": "MetcalfSolutions/Satori",
-      "path": ".agents/skills/satori/SKILL.md"
+      "repo": "Jakeschincariol/day-trader-skill",
+      "path": "trader-exit/SKILL.md"
     },
     {
-      "repo": "MetcalfSolutions/Satori",
-      "path": ".hermes/skills/satori/SKILL.md"
+      "repo": "Jakeschincariol/day-trader-skill",
+      "path": "trader-risk/SKILL.md"
     },
     {
-      "repo": "MetcalfSolutions/Satori",
-      "path": ".cursor/skills/satori/SKILL.md"
+      "repo": "Jakeschincariol/day-trader-skill",
+      "path": "trader-entry/SKILL.md"
     },
     {
-      "repo": "MetcalfSolutions/Satori",
-      "path": ".opencode/skills/satori/SKILL.md"
+      "repo": "Jakeschincariol/day-trader-skill",
+      "path": "trader-pelosi/SKILL.md"
     },
     {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/14-sqli/SKILL.md"
+      "repo": "Jakeschincariol/day-trader-skill",
+      "path": "trader-alerts/SKILL.md"
     },
     {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/15-ssrf/SKILL.md"
+      "repo": "Jakeschincariol/day-trader-skill",
+      "path": "trader-broker/SKILL.md"
     },
     {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/18-graphql/SKILL.md"
+      "repo": "Jakeschincariol/day-trader-skill",
+      "path": "trader-budget/SKILL.md"
     },
     {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/20-oauth-oidc/SKILL.md"
+      "repo": "Jakeschincariol/day-trader-skill",
+      "path": "trader-scanner/SKILL.md"
     },
     {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/12-ato-chains/SKILL.md"
+      "repo": "Jakeschincariol/day-trader-skill",
+      "path": "trader-analyst/SKILL.md"
     },
     {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/11-auth-bypass/SKILL.md"
+      "repo": "Jakeschincariol/day-trader-skill",
+      "path": "trader-timemachine/SKILL.md"
     },
     {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/07-js-analysis/SKILL.md"
+      "repo": "JasonColapietro/suede-creator-skills",
+      "path": "skills/suede-influencer-outreach/SKILL.md"
     },
     {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/10-idor-hunting/SKILL.md"
-    },
-    {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/02-scope-analysis/SKILL.md"
-    },
-    {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/04-subdomain-enum/SKILL.md"
-    },
-    {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/06-fingerprinting/SKILL.md"
-    },
-    {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/21-business-logic/SKILL.md"
-    },
-    {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/24-http-smuggling/SKILL.md"
-    },
-    {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/23-cache-poisoning/SKILL.md"
-    },
-    {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/27-cloud-misconfig/SKILL.md"
-    },
-    {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/05-asset-discovery/SKILL.md"
-    },
-    {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/25-llm-ai-security/SKILL.md"
-    },
-    {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/01-program-selection/SKILL.md"
-    },
-    {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/28-triage-validation/SKILL.md"
-    },
-    {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/08-content-discovery/SKILL.md"
-    },
-    {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/22-subdomain-takeover/SKILL.md"
-    },
-    {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/30-bugcrowd-reporting/SKILL.md"
-    },
-    {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/29-hackerone-reporting/SKILL.md"
-    },
-    {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/26-mobile-recon-android/SKILL.md"
-    },
-    {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/09-continuous-monitoring/SKILL.md"
-    },
-    {
-      "repo": "SubhiSec/claude-ai-cyber-security-skills",
-      "path": "skills/03-threat-modeling-mindmap/SKILL.md"
-    },
-    {
-      "repo": "actionow-ai/c2c_img",
-      "path": "skills/c2c-img/SKILL.md"
-    },
-    {
-      "repo": "alchaincyf/huashu-design",
-      "path": "SKILL.md"
-    },
-    {
-      "repo": "alexgreensh/attention-span",
-      "path": "plugins/attention-span/skills/tldr/SKILL.md"
-    },
-    {
-      "repo": "alexgreensh/attention-span",
-      "path": "plugins/attention-span/skills/rundown/SKILL.md"
-    },
-    {
-      "repo": "alexgreensh/attention-span",
-      "path": "plugins/attention-span/skills/spartan/SKILL.md"
-    },
-    {
-      "repo": "alexgreensh/attention-span",
-      "path": "plugins/attention-span/skills/attention-kind/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "marketing-skill/skills/aeo/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "engineering/boost-asio-pro/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "productivity/swedish-mentor/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "commercial/skills/deal-desk/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "c-level-agents/skills/brief/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "research/pulse/skills/pulse/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "c-level-agents/skills/freeze/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "engineering/skills/ship-gate/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "c-level-agents/skills/decide/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "finance/skills/finance-skills/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "agent-launcher/skills/wrap-up/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "research/patent/skills/patent/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "research/grants/skills/grants/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "c-level-agents/skills/onboard/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "c-level-agents/skills/execute/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "engineering/skills/tc-tracker/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "finance/skills/stock-analysis/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "ra-qm-team/skills/capa-officer/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "finance/skills/month-end-close/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "markdown-html/skills/md-review/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "markdown-html/skills/md-slides/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "engineering/skills/focused-fix/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "ra-qm-team/skills/ra-qm-skills/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "compliance-os/skills/aims-audit/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "engineering/skills/skill-tester/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "productivity/roast/skills/roast/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "marketing-skill/skills/page-cro/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "marketing-skill/skills/form-cro/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "research/dossier/skills/dossier/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "marketing-skill/skills/paid-ads/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "c-level-agents/skills/boardroom/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "commercial/skills/rfp-responder/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "agent-launcher/skills/interview/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "c-level-agents/skills/gc-review/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "engineering-team/skills/red-team/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "c-level-agents/skills/cdo-review/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "marketing/landing/skills/landing/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "c-level-agents/skills/cro-review/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "markdown-html/skills/md-document/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "c-level-agents/skills/cfo-review/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "product-team/skills/spec-to-repo/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "c-level-agents/skills/cmo-review/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "marketing-skill/skills/seo-audit/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "c-level-agents/skills/cpo-review/SKILL.md"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "path": "c-level-agents/skills/cross-eval/SKILL.md"
-    },
-    {
-      "repo": "anbeime/skill",
-      "path": "skills/kb-to-mpt/SKILL.md"
-    },
-    {
-      "repo": "anbeime/skill",
-      "path": "skills/email-concierge/SKILL.md"
-    },
-    {
-      "repo": "anbeime/skill",
-      "path": "skills/ip-as-logo/ip-as-logo/SKILL.md"
-    },
-    {
-      "repo": "anbeime/skill",
-      "path": "skills/img2threejs/img2threejs/SKILL.md"
-    },
-    {
-      "repo": "anbeime/skill",
-      "path": "skills/srt-whiteboard-animation/SKILL.md"
-    },
-    {
-      "repo": "anbeime/skill",
-      "path": "skills/diagram-design/skills/diagram-design/SKILL.md"
-    },
-    {
-      "repo": "anbeime/skill",
-      "path": "skills/photo-abstract-editorial/photo-abstract-editorial/SKILL.md"
-    },
-    {
-      "repo": "anbeime/skill",
-      "path": "skills/voltagent-awesome-design-md/voltagent-awesome-design-md/SKILL.md"
-    },
-    {
-      "repo": "anbeime/skill",
-      "path": "skills/convert-documents-to-markdown/convert-documents-to-markdown/SKILL.md"
-    },
-    {
-      "repo": "claude-world/claude-skill-antivirus",
-      "path": "examples/hidden-code-skill/SKILL.md"
-    },
-    {
-      "repo": "davepoon/buildwithclaude",
-      "path": "plugins/all-skills/skills/bro/SKILL.md"
-    },
-    {
-      "repo": "georgeguimaraes/elixir-agent-tools",
-      "path": "plugins/elixir-dev/skills/otp/SKILL.md"
-    },
-    {
-      "repo": "georgeguimaraes/elixir-agent-tools",
-      "path": "plugins/elixir-dev/skills/ecto/SKILL.md"
-    },
-    {
-      "repo": "georgeguimaraes/elixir-agent-tools",
-      "path": "plugins/elixir-dev/skills/oban/SKILL.md"
-    },
-    {
-      "repo": "georgeguimaraes/elixir-agent-tools",
-      "path": "plugins/elixir-dev/skills/elixir/SKILL.md"
-    },
-    {
-      "repo": "georgeguimaraes/elixir-agent-tools",
-      "path": "plugins/elixir-dev/skills/phoenix/SKILL.md"
-    },
-    {
-      "repo": "majiayu000/spellbook",
-      "path": "skills/skill-checkup/SKILL.md"
+      "repo": "arbiterForge/codeArbiter",
+      "path": "plugins/ca-pi/skills/ca-threat-model/SKILL.md"
     },
     {
       "repo": "microsoft/power-platform-skills",
-      "path": "plugins/power-pages/skills/analyze-performance/SKILL.md"
+      "path": "plugins/power-pages/skills/edit-site/SKILL.md"
     },
     {
       "repo": "sickn33/agentic-awesome-skills",
-      "path": "skills/a4a/SKILL.md"
+      "path": "skills/perq/SKILL.md"
     },
     {
       "repo": "sickn33/agentic-awesome-skills",
-      "path": "skills/hf-cli/SKILL.md"
+      "path": "skills/post/SKILL.md"
     },
     {
       "repo": "sickn33/agentic-awesome-skills",
-      "path": "skills/lognorm/SKILL.md"
+      "path": "skills/webly/SKILL.md"
     },
     {
       "repo": "sickn33/agentic-awesome-skills",
-      "path": "skills/gcp-gke/SKILL.md"
+      "path": "skills/renhua/SKILL.md"
     },
     {
-      "repo": "thedotmack/claude-mem",
-      "path": "plugin/skills/owner-goals/SKILL.md"
+      "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+      "path": "skills/keenable-search/SKILL.md"
     },
     {
-      "repo": "thedotmack/claude-mem",
-      "path": "plugin/skills/request-progress/SKILL.md"
+      "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+      "path": "skills/firecrawl-search/SKILL.md"
     }
   ]
 }
