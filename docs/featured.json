@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-25T06:34:54.969627Z",
+  "updated_at": "2026-10-25T12:12:10.219362Z",
   "count": 100,
   "skills": [
     {
@@ -552,7 +552,7 @@
         "Codex CLI"
       ],
       "canonical_id": "57ceqyyguhctukilt98y_8jugd8ou1kzhj6sodbnzue",
-      "copies": 51,
+      "copies": 52,
       "is_canonical": false,
       "u": "skills/skill-creator-efe5cd29f4b3/"
     },
